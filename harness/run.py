@@ -78,6 +78,15 @@ def build_workspace(pack: Path, cfg: dict, variant: str, run_dir: Path) -> list[
 
 # ---------- adapters ----------
 
+def claude_bin() -> str:
+    """The Claude Code binary: CLAUDE_BIN if set, else the desktop app's bundled CLI (CLAUDE_CODE_EXECPATH, newer than the
+    winget install), else whatever `claude` is on the path. The model names the harness uses need CLI 2.1.280 or newer."""
+    for var in ("CLAUDE_BIN", "CLAUDE_CODE_EXECPATH"):
+        if os.environ.get(var) and Path(os.environ[var]).is_file():
+            return os.environ[var]
+    return "claude"
+
+
 class ClaudeCode:
     name = "claude-code"
 
@@ -86,7 +95,7 @@ class ClaudeCode:
         self.sessions: dict[str, str] = {}
 
     def ask(self, track: str, prompt: str, workdir: Path, files: list[str]) -> dict:
-        cmd = ["claude", "-p", "--output-format", "json", "--dangerously-skip-permissions",
+        cmd = [claude_bin(), "-p", "--output-format", "json", "--dangerously-skip-permissions",
                "--tools", "Read,Bash,Write,Glob,Grep", "--disallowedTools", "WebFetch,WebSearch,Agent",
                "--append-system-prompt", SYSTEM_NOTE.format(files=", ".join(files))]
         if self.model:
@@ -225,7 +234,9 @@ def main():
     ap.add_argument("--company"); ap.add_argument("--prompts", default="current")
     ap.add_argument("--adapter", default="claude-code", choices=["claude-code", "manual"])
     ap.add_argument("--files", default="default", help="attach set from config.json: default, full or chat")
-    ap.add_argument("--repeat", type=int, default=1); ap.add_argument("--model"); ap.add_argument("--max-budget", type=float)
+    ap.add_argument("--repeat", type=int, default=1)
+    ap.add_argument("--model", default="claude-opus-5-5", help="model id passed to the CLI; the CLI's own default can be an older model")
+    ap.add_argument("--max-budget", type=float)
     ap.add_argument("--dry-run", action="store_true", help="build the workspace and the prompts, call no model")
     ap.add_argument("--check", help="run the checker over the replies in an existing run folder")
     a = ap.parse_args()

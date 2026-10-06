@@ -1,0 +1,560 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\home-depot-fy2025\\v2.22\\claude-code\\001\\report-5.md",
+  "pack": "home-depot-fy2025",
+  "words": 1228,
+  "pages_est": 2.7,
+  "quotes": {
+   "total": 17,
+   "exact_on_page": 13,
+   "exact_page_differs": 0,
+   "exact_no_page": 4,
+   "other_document": 0,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 20,
+   "computed_percent": 8,
+   "computed_table": 0,
+   "not_found": 13
+  },
+  "arithmetic": {
+   "pre_tax_income": 18602.0,
+   "checked": 0,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "Other",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      2,
+      11,
+      23,
+      34,
+      43,
+      45,
+      46,
+      47,
+      48,
+      55,
+      56,
+      57,
+      60,
+      62,
+      65,
+      66,
+      67,
+      69,
+      74,
+      75,
+      78
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      2,
+      12,
+      24,
+      32,
+      34,
+      43,
+      45,
+      46,
+      47,
+      48,
+      54,
+      55,
+      56,
+      57,
+      60,
+      62,
+      65,
+      66,
+      69,
+      74,
+      76,
+      77,
+      79
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      6,
+      7
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      6,
+      7
+     ]
+    ]
+   ],
+   "context": " earns 2.5%"
+  },
+  {
+   "quote": "a non-recurring legal-related benefit recognized during fiscal 2024",
+   "cited_pages": [
+    34
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": "FY2025 10-K p. 34"
+  },
+  {
+   "quote": "lower legal-related benefits",
+   "cited_pages": [
+    34
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": "FY2024 10-K p. 34"
+  },
+  {
+   "quote": "higher average inventory levels",
+   "cited_pages": [
+    32
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      32
+     ]
+    ]
+   ],
+   "context": "p. 32"
+  },
+  {
+   "quote": "primarily based on recent shrink results",
+   "cited_pages": [
+    39
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      39,
+      42,
+      49
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      39,
+      49
+     ]
+    ]
+   ],
+   "context": "p. 39 both"
+  },
+  {
+   "quote": "Estimation of store shrink",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": " as a critical audit matter (FY2024 10-K p. 42)"
+  },
+  {
+   "quote": "lower shrink",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      34
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": " credited for gross margin"
+  },
+  {
+   "quote": "Other",
+   "cited_pages": [
+    60
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      2,
+      11,
+      23,
+      34,
+      43,
+      45,
+      46,
+      47,
+      48,
+      55,
+      56,
+      57,
+      60,
+      62,
+      65,
+      66,
+      67,
+      69,
+      74,
+      75,
+      78
+     ]
+    ]
+   ],
+   "context": ")** - **Shown:** The SRS units moved from a qualitative test (FY2024 10-K p. 60) to their first quantitative test"
+  },
+  {
+   "quote": "exceeded",
+   "cited_pages": [
+    60
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      60
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      60
+     ]
+    ]
+   ],
+   "context": " carrying amount, with no headroom given, while the Primary segment's wording keeps \"substantially exceeded\" (FY2025 10-"
+  },
+  {
+   "quote": "substantially exceeded",
+   "cited_pages": [
+    60
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      60
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      60
+     ]
+    ]
+   ],
+   "context": "FY2025 10-K p. 60"
+  },
+  {
+   "quote": "Other",
+   "cited_pages": [
+    55
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      2,
+      11,
+      23,
+      34,
+      43,
+      45,
+      46,
+      47,
+      48,
+      55,
+      56,
+      57,
+      60,
+      62,
+      65,
+      66,
+      67,
+      69,
+      74,
+      75,
+      78
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      2,
+      12,
+      24,
+      32,
+      34,
+      43,
+      45,
+      46,
+      47,
+      48,
+      54,
+      55,
+      56,
+      57,
+      60,
+      62,
+      65,
+      66,
+      69,
+      74,
+      76,
+      77,
+      79
+     ]
+    ]
+   ],
+   "context": " earned $316m of operating income (p. 55), roughly 3% before amortization on the about $23.5bn paid for SRS and GMS"
+  },
+  {
+   "quote": "substantially",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      50,
+      60,
+      66,
+      67
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      50,
+      60,
+      66,
+      67
+     ]
+    ]
+   ],
+   "context": " possibly means narrow headroom"
+  },
+  {
+   "quote": "the timing of vendor payments",
+   "cited_pages": [
+    37
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      38
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      37
+     ]
+    ]
+   ],
+   "context": "FY2025 10-K p. 37"
+  },
+  {
+   "quote": "primarily use trade credit",
+   "cited_pages": [
+    23
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      23
+     ]
+    ]
+   ],
+   "context": " to customers who \"increasingly use trade credit\" (FY2024 10-K p. 23"
+  },
+  {
+   "quote": "increasingly use trade credit",
+   "cited_pages": [
+    23,
+    24
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      24
+     ]
+    ]
+   ],
+   "context": "FY2024 10-K p. 23; FY2025 10-K p. 24"
+  },
+  {
+   "quote": "not material",
+   "cited_pages": [
+    48
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75,
+      76,
+      77
+     ]
+    ]
+   ],
+   "context": ", with no amount (p. 48 both)"
+  },
+  {
+   "quote": "approximately 3%",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      77,
+      78
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      2
+     ]
+    ]
+   ],
+   "context": " of assets can't be tested as stated"
+  }
+ ],
+ "figures": {
+  "found": [
+   "2.5%",
+   "7.2%",
+   "$152.0 bn",
+   "0.3%",
+   "0.4%",
+   "0.9%",
+   "5.9%",
+   "1.0%",
+   "$23.5 bn",
+   "$13.8 bn",
+   "9.4%",
+   "38.1",
+   "7.7",
+   "12.4",
+   "$2,588 m",
+   "2.4%",
+   "3.3%",
+   "3.0%",
+   "$6.3 bn",
+   "1.2%"
+  ],
+  "computed_percent": [
+   "13.49%",
+   "12.68%",
+   "14.21%",
+   "13.92%",
+   "13.54%",
+   "6.98%",
+   "21.4%",
+   "36.5%"
+  ],
+  "computed_table": [],
+  "not_found": [
+   "0.81",
+   "0.39",
+   "0.42",
+   "$1,334 m",
+   "$153.1 bn",
+   "81.9",
+   "85.6",
+   "86.2",
+   "91.3",
+   "$1,102 m",
+   "41.7",
+   "$3,989 m",
+   "$1,090 m"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 18602.0,
+  "source": "workbook",
+  "note": "",
+  "checks": []
+ },
+ "post_cutoff": []
+}

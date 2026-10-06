@@ -1,0 +1,34 @@
+## Full write-ups (the three explanations that hold least well)
+
+**Payables: 2.4 points of sales below the industry, and down $447m in FY2025 while cost of sales rose 3.4%**
+- **The company says:** cash flow fell partly because of "the timing of vendor payments" (FY2025 10-K, p. 37). Last year the same words had the opposite effect: "partially offset by the timing of vendor payments" (FY2024 10-K, p. 38). Neither report says anything about why payables sit below the industry level. The only nearby figure is supplier terms that "generally range from 30 to 60 days" (FY2025 10-K, p. 51).
+- **Test:** The claim is that vendor-payment timing lowered FY2025 working capital for the whole company. GMS brought $380m of payables with it, so without that payables fell $827m, which is −6.9% of the FY2024 balance. Days payable went from 41.7 to 38.1, or 36.8 without the GMS balance. Supplier-finance obligations fell $184m, from $598m to $414m. That is 41% of the net change in payables but only 3.6% of the payables balance. The 38-day level sits inside the stated 30–60-day terms. "Timing" is never given an amount, so the explanation **partly holds**: it names a direction, not a size.
+- **Reading:** Most likely ordinary. It looks like a reversal: the FY2024 timing benefit unwound, and FY2024's year end (a 14-week fourth quarter) made the payables base unusually high. Days payable that fall again in FY2026, or supplier-finance balances that keep shrinking, would point instead to suppliers being paid sooner, a weakening.
+- **Read next:** fiscal 2026 10-Q balance sheets and the supplier-finance roll-forward; any disclosure of payment terms by segment, since SRS and GMS terms are not given.
+
+**Inventory: days inventory rose from 81.9 to 85.6 (FY2025) and from 86.2 to 91.3 (Q4)**
+- **The company says:** turnover fell because of "higher average inventory levels during fiscal 2025" (FY2025 10-K, p. 32). That restates the measure without giving a cause. Cash flow also cites "increased inventories" (p. 37), again without a reason. Last year the explanation was different: turnover rose on "lower average inventory levels within our Primary segment" (FY2024 10-K, p. 32).
+- **Test:** GMS inventory at acquisition was $568m (p. 75). That covers 24% of the $2,366m rise across the whole company, and 2.2% of the year-end balance. It also covers 52% of the $1,102m excess over FY2024's days. Without GMS, days inventory would still be 83.7 against 81.9. Cost of sales cannot be split by GMS, so that figure only removes the balance. The company's own turnover figure is consistent with this: 4.46× calculated against 4.4× stated. The tariff section says only that "we experienced increased costs as a result of tariffs" (p. 32) and gives no inventory figure. The explanation therefore **partly holds**: the acquisition accounts for about half of the excess, and the rest has no explanation.
+- **Reading:** I can't tell from these documents whether this was deliberate stocking, perhaps ahead of tariffs, or slower sell-through. Comparable transactions fell 1.0% (p. 34), which would fit slower sell-through. A falling shrink reserve or markdown disclosures in the next filing would point to a weakening.
+- **Read next:** fiscal 2026 10-Q inventory by segment; MD&A on inventory build; the Critical Accounting Estimates section on the lower-of-cost reserve.
+
+**Operating margin: fell from 13.49% to 12.68% (FY2025); third straight year of decline**
+- **The company says:** gross margin reflects "the inclusion of SRS and GMS", and SG&A reflects "higher payroll and related costs … along with the impact of a non-recurring legal-related benefit recognized during fiscal 2024" (FY2025 10-K, p. 34). Last year the wording was similar: "higher payroll costs … and lower legal-related benefits" (FY2024 10-K, p. 34).
+- **Test:** I split the 0.81-point fall at the whole-company level using the segment table (p. 55):
+  - Shift toward lower-margin SRS/GMS: 0.39 points. "Other" earns 2.5%, against 13.5% for Primary.
+  - Primary segment's own margin, which went 14.21% → 13.92% → 13.54%: 0.42 points.
+  
+  The legal benefit is never quantified, so the Primary part **cannot be tested as stated**. The higher amortization accounts for only 0.10 points ($168m). Overall the explanation **partly holds**.
+- **Reading:** Possibly some weakening in the core business. Primary sales fell from $153.1bn to $152.0bn and comparable sales grew only 0.3%. If the FY2024 legal benefit turned out to be roughly 0.4% of Primary sales, the decline would instead be most likely ordinary, a one-off comparison.
+- **Read next:** the legal and contingencies note, for the size of the FY2024 and FY2023 benefits, and the Primary segment SG&A detail.
+
+## Other flags
+- **Free cash flow below net income ($1,510m):** the company points to vendor-payment timing, inventories and "the deferral of our fourth quarter fiscal 2024 estimated federal tax payment" (FY2025 10-K, p. 37). Those three cash-flow lines swung a combined $3,838m, more than the $3,485m fall in operating cash flow. The tax amount itself is not stated. The closest figure is the $1,507m swing in income taxes payable, which covers more than the claim. The explanation holds. Most likely a timing reversal of FY2024's benefit, which is ordinary.
+- **Receivables (days sales outstanding 11.4 → 12.4):** FY2024 said "primarily as a result of the SRS acquisition" (FY2024 10-K, p. 48). FY2025 gives no explanation. But GMS brought $899m of receivables (p. 75), 130% of the $694m rise and 16% of the balance. Without that balance and GMS's $2.0bn of sales, days sales outstanding would be 10.5. The acquisition explanation holds. Most likely ordinary. The allowance is still undisclosed ("not material", p. 48).
+
+## Adjusted earnings
+- Adjusted EPS exceeds reported EPS by $0.14 (FY2023), $0.33 (FY2024) and $0.46 (FY2025): 0.9%, 2.2% and 3.2% of reported EPS. Q4: $0.11, then $0.14. The only adjustment is acquired intangible amortization, which appears every year (release, p. 8 in both). Nothing is labelled non-recurring in either release.
+- The 10-K uses "non-recurring" for the FY2024 legal-related benefit. That is the item the FY2024 10-K had already described as smaller than in FY2023, so legal benefits show up in at least FY2023 and FY2024. No amount is given.
+
+## Changes in estimate that lifted income
+None disclosed. The shrink sensitivity dropped from $95m to $79m (p. 39 in both 10-Ks), and the company cites "lower shrink" in gross margin, but it does not present this as a change in estimate. The SRS purchase-price allocation was finalized with immaterial changes: goodwill went from $11,006m to $11,003m. No revision moved income or equity, so the figures in my last reply are the same on the revised basis.

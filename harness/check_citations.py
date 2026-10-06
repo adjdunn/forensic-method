@@ -144,14 +144,18 @@ def doc_hint(ctx: str, pack: dict) -> list[dict]:
 
 
 SENTENCE_END = re.compile(r"(?<!\bp)(?<!\bpp)(?<!\bNo)(?<!\bvs)[.;]\s")
+# the prompts' own labels, which replies put in quotation marks
+LABELS = {"continue", "most likely", "possibly", "leans aggressive", "leans conservative", "typical", "can't tell",
+          "ordinary", "the business weakening", "the reporting stretched", "not quantified", "mixed basis", "pre-tax",
+          "also noted", "checked and explained", "not examined", "shown", "reading", "next", "read next"}
 
 
 def check_quotes(reply: str, pack: dict) -> list[dict]:
     text = norm(reply)
     out = []
     for m in re.finditer(r'"([^"]{2,400})"', text):
-        q = m.group(1).strip()
-        if q.startswith("[") or q.lower() in {"continue", "most likely", "possibly"} or re.fullmatch(r"(?:FY)?\d{4} (?:report|10-K|release)", q):
+        q = re.sub(r"\s*\[[^\]]{1,40}\]\s*", " ", m.group(1)).strip()  # drop the reply's own bracketed insertions
+        if q.startswith("[") or q.lower() in LABELS or re.fullmatch(r"(?:FY)?\d{4} (?:report|10-K|release)", q):
             continue
         after = text[m.end(): m.end() + 320]
         if re.match(r"\s*(?:is|means|refers to)\s", after):  # the reply defining its own label
@@ -223,13 +227,21 @@ def check_figures(reply: str, pack: dict, pack_dir: Path) -> dict:
     scan = re.sub(r"\b(?:19|20)\d{2}\b", " ", scan)
     wb = load_workbook_values(pack_dir)
     all_text = " ".join(d["text"] for d in pack["docs"])
-    seen, results = set(), {"found": [], "computed_percent": [], "not_found": []}
+    # values inside the reply's own tables with no currency sign are measures the model computed (days, ratios, scores)
+    table_vals = set()
+    for line in text.split("\n") if "\n" in text else re.split(r"(?=\| )", text):
+        if line.lstrip().startswith("|"):
+            table_vals |= {m.group(2) for m in NUM.finditer(line) if not m.group(1) and not m.group(3)}
+    seen, results = set(), {"found": [], "computed_percent": [], "computed_table": [], "not_found": []}
     for m in NUM.finditer(scan):
         raw, unit = m.group(2), (m.group(3) or "")
         key = raw + unit
         if key in seen:
             continue
         seen.add(key)
+        if not m.group(1) and not unit and raw in table_vals and "," not in raw:
+            results["computed_table"].append(raw)
+            continue
         if unit == "%":
             if raw in all_text:
                 results["found"].append(raw + "%")
@@ -309,7 +321,9 @@ def check_arithmetic(reply: str, pack_dir: Path) -> dict:
         for m in PAIR_PCT_AMT.finditer(sent):
             inner = AMOUNT.search(m.group(2)) or re.search(r"(?<![\d.,])(\d{1,3}(?:,\d{3})+(?:\.\d+)?|\d+\.\d+)\s*(bn|m|M|million)?(?![\d.,%])", m.group(2))
             if inner:
-                add(to_millions(inner.group(1), inner.group(2) or ""), float(m.group(1)), sent)
+                amt = to_millions(inner.group(1), inner.group(2) or "")
+                if abs(amt - pti) / pti > 0.001:  # "(… $18,602m)" names the base itself, not the item
+                    add(amt, float(m.group(1)), sent)
     return {"pre_tax_income": pti, "source": "reply" if pti_stated else "workbook", "note": note, "checks": checks}
 
 
@@ -366,7 +380,7 @@ def main():
              f"{summary['quotes']['exact_page_differs']} exact with a different page; {summary['quotes']['exact_no_page']} exact, no page cited; "
              f"{summary['quotes']['other_document']} found in another document; {summary['quotes']['not_found']} not found |",
              f"| Figures | {summary['figures']['found']} printed in the pack or workbook; {summary['figures']['not_found']} not printed (derived or to check); "
-             f"{summary['figures']['computed_percent']} percentages not printed (computed) |",
+             f"{summary['figures']['computed_percent']} percentages and {summary['figures'].get('computed_table', 0)} table measures not printed (computed) |",
              f"| Arithmetic | pre-tax income {arith['pre_tax_income']} ({arith.get('source', 'none')}); {summary['arithmetic']['checked']} shares recomputed, {summary['arithmetic']['mismatches']} mismatches{'; ' + arith['note'] if arith.get('note') else ''} |",
              f"| Banned words | {banned['words'] or 'none'}; em-dashes {banned['em_dashes']} |",
              f"| Post-cutoff years | {len(post)} mentions after {pack['cutoff'] or 'no cutoff in config'} |", ""]

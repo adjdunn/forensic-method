@@ -1,0 +1,427 @@
+{
+ "company": "home-depot-fy2025",
+ "prompts_version": "v2.22",
+ "prompt_hashes": {
+  "1-scan-the-numbers.md": "c46678aeb3d0",
+  "2-follow-the-flags.md": "e301fb450127",
+  "3-read-the-footnotes.md": "ef726cc82e6e",
+  "4-compare-the-footnotes.md": "7a3c2acc59e5",
+  "5-report.md": "5d9001d845d2"
+ },
+ "repo_commit": "96cfa79",
+ "adapter": "claude-code",
+ "model_requested": "claude-opus-5-5",
+ "file_set": "default",
+ "files": [
+  "statements.xlsx",
+  "annual-report-FY2025-02-02-key-sections.txt",
+  "annual-report-FY2026-02-01-key-sections.txt",
+  "earnings-release-Q4-FY2025-02-02.txt",
+  "earnings-release-Q4-FY2026-02-01.txt"
+ ],
+ "cutoff": "2026-09-26",
+ "started": "2026-10-06T13:26:06",
+ "dry_run": false,
+ "steps": [
+  {
+   "prompt": 1,
+   "file": "1-scan-the-numbers.md",
+   "track": "numbers",
+   "reply_file": "numbers-1.md",
+   "error": null,
+   "session_id": "6d5b6c31-0764-43d5-83d0-6f07225a6da2",
+   "cost_usd": 0.9764001999999999,
+   "usage": {
+    "input_tokens": 24,
+    "cache_creation_input_tokens": 74881,
+    "cache_read_input_tokens": 593381,
+    "output_tokens": 12929,
+    "output_tokens_details": {
+     "thinking_tokens": 3924
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 74881,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "not_available",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 2419,
+      "cache_read_input_tokens": 72232,
+      "cache_creation_input_tokens": 2649,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 2649
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "num_turns": 12,
+   "seconds": 143.9,
+   "status": "checked",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\home-depot-fy2025\\v2.22\\claude-code\\001\\numbers-1.md",
+    "pack": "home-depot-fy2025",
+    "words": 941,
+    "pages_est": 2.1,
+    "quotes": {
+     "total": 3,
+     "exact_on_page": 0,
+     "exact_page_differs": 0,
+     "exact_no_page": 3,
+     "other_document": 0,
+     "not_found": 0
+    },
+    "figures": {
+     "found": 27,
+     "computed_percent": 7,
+     "computed_table": 82,
+     "not_found": 12
+    },
+    "arithmetic": {
+     "pre_tax_income": 18602.0,
+     "checked": 0,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
+  },
+  {
+   "prompt": 2,
+   "file": "2-follow-the-flags.md",
+   "track": "numbers",
+   "reply_file": "numbers-2.md",
+   "error": null,
+   "session_id": "6d5b6c31-0764-43d5-83d0-6f07225a6da2",
+   "cost_usd": 1.6893322,
+   "usage": {
+    "input_tokens": 24,
+    "cache_creation_input_tokens": 31958,
+    "cache_read_input_tokens": 1085660,
+    "output_tokens": 12002,
+    "output_tokens_details": {
+     "thinking_tokens": 4251
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 31958,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "not_available",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 4295,
+      "cache_read_input_tokens": 103978,
+      "cache_creation_input_tokens": 2861,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 2861
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "num_turns": 12,
+   "seconds": 147.1,
+   "status": "checked",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\home-depot-fy2025\\v2.22\\claude-code\\001\\numbers-2.md",
+    "pack": "home-depot-fy2025",
+    "words": 1088,
+    "pages_est": 2.4,
+    "quotes": {
+     "total": 16,
+     "exact_on_page": 12,
+     "exact_page_differs": 0,
+     "exact_no_page": 3,
+     "other_document": 1,
+     "not_found": 0
+    },
+    "figures": {
+     "found": 25,
+     "computed_percent": 5,
+     "computed_table": 0,
+     "not_found": 19
+    },
+    "arithmetic": {
+     "pre_tax_income": 18602.0,
+     "checked": 0,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
+  },
+  {
+   "prompt": 3,
+   "file": "3-read-the-footnotes.md",
+   "track": "text",
+   "reply_file": "text-3.md",
+   "error": null,
+   "session_id": "685e8b8e-c04c-4888-aaff-dcd5709e4673",
+   "cost_usd": 1.1706409999999998,
+   "usage": {
+    "input_tokens": 30,
+    "cache_creation_input_tokens": 83156,
+    "cache_read_input_tokens": 859565,
+    "output_tokens": 16668,
+    "output_tokens_details": {
+     "thinking_tokens": 10091
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 83156,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "not_available",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 4200,
+      "cache_read_input_tokens": 99453,
+      "cache_creation_input_tokens": 5495,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 5495
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "num_turns": 16,
+   "seconds": 209.5,
+   "status": "checked",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\home-depot-fy2025\\v2.22\\claude-code\\001\\text-3.md",
+    "pack": "home-depot-fy2025",
+    "words": 1220,
+    "pages_est": 2.7,
+    "quotes": {
+     "total": 24,
+     "exact_on_page": 17,
+     "exact_page_differs": 2,
+     "exact_no_page": 5,
+     "other_document": 0,
+     "not_found": 0
+    },
+    "figures": {
+     "found": 23,
+     "computed_percent": 2,
+     "computed_table": 1,
+     "not_found": 2
+    },
+    "arithmetic": {
+     "pre_tax_income": 18602.0,
+     "checked": 2,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 1
+    },
+    "post_cutoff": 0
+   }
+  },
+  {
+   "prompt": 4,
+   "file": "4-compare-the-footnotes.md",
+   "track": "text",
+   "reply_file": "text-4.md",
+   "error": null,
+   "session_id": "685e8b8e-c04c-4888-aaff-dcd5709e4673",
+   "cost_usd": 3.0227484000000002,
+   "usage": {
+    "input_tokens": 48,
+    "cache_creation_input_tokens": 87389,
+    "cache_read_input_tokens": 3499817,
+    "output_tokens": 22642,
+    "output_tokens_details": {
+     "thinking_tokens": 10184
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 87389,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "not_available",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 3285,
+      "cache_read_input_tokens": 188936,
+      "cache_creation_input_tokens": 3401,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 3401
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "num_turns": 25,
+   "seconds": 426.1,
+   "status": "checked",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\home-depot-fy2025\\v2.22\\claude-code\\001\\text-4.md",
+    "pack": "home-depot-fy2025",
+    "words": 1396,
+    "pages_est": 3.1,
+    "quotes": {
+     "total": 39,
+     "exact_on_page": 29,
+     "exact_page_differs": 1,
+     "exact_no_page": 9,
+     "other_document": 0,
+     "not_found": 0
+    },
+    "figures": {
+     "found": 21,
+     "computed_percent": 5,
+     "computed_table": 0,
+     "not_found": 2
+    },
+    "arithmetic": {
+     "pre_tax_income": 18602.0,
+     "checked": 0,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
+  },
+  {
+   "prompt": 5,
+   "file": "5-report.md",
+   "track": "text",
+   "reply_file": "report-5.md",
+   "error": null,
+   "session_id": "685e8b8e-c04c-4888-aaff-dcd5709e4673",
+   "cost_usd": 3.2649238,
+   "usage": {
+    "input_tokens": 2,
+    "cache_creation_input_tokens": 9650,
+    "cache_read_input_tokens": 192337,
+    "output_tokens": 6325,
+    "output_tokens_details": {
+     "thinking_tokens": 3422
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 9650,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "not_available",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 6325,
+      "cache_read_input_tokens": 192337,
+      "cache_creation_input_tokens": 9650,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 9650
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "num_turns": 1,
+   "seconds": 61.6,
+   "status": "checked",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\home-depot-fy2025\\v2.22\\claude-code\\001\\report-5.md",
+    "pack": "home-depot-fy2025",
+    "words": 1228,
+    "pages_est": 2.7,
+    "quotes": {
+     "total": 17,
+     "exact_on_page": 13,
+     "exact_page_differs": 0,
+     "exact_no_page": 4,
+     "other_document": 0,
+     "not_found": 0
+    },
+    "figures": {
+     "found": 20,
+     "computed_percent": 8,
+     "computed_table": 0,
+     "not_found": 13
+    },
+    "arithmetic": {
+     "pre_tax_income": 18602.0,
+     "checked": 0,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
+  }
+ ],
+ "finished": "2026-10-06T13:42:36",
+ "cost_usd": 10.124,
+ "models": [
+  "claude-opus-5-5"
+ ]
+}
