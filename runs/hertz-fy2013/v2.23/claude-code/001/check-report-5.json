@@ -1,0 +1,855 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.23\\claude-code\\001\\report-5.md",
+  "pack": "hertz-fy2013",
+  "words": 1264,
+  "pages_est": 2.8,
+  "quotes": {
+   "total": 25,
+   "exact_on_page": 11,
+   "exact_page_differs": 2,
+   "exact_no_page": 11,
+   "other_document": 1,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 47,
+   "computed_percent": 0,
+   "computed_table": 0,
+   "not_found": 1
+  },
+  "arithmetic": {
+   "pre_tax_income": 663.1,
+   "checked": 0,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "net decreases of $44.2 million",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": ") were \"indicative of the residual values experienced\""
+  },
+  {
+   "quote": "indicative of the residual values experienced",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "from falling demand for used vehicles",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": "Note 8, p.126"
+  },
+  {
+   "quote": "deterioration in the used vehicle residual values",
+   "cited_pages": [
+    54
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      54
+     ]
+    ]
+   ],
+   "context": "p.54"
+  },
+  {
+   "quote": "strong",
+   "cited_pages": [
+    113
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      10,
+      21,
+      42,
+      43,
+      51,
+      54,
+      55,
+      56,
+      59,
+      113
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      3,
+      4,
+      5
+     ]
+    ]
+   ],
+   "context": " was dropped from the FY2012 version of that sentence (FY2012, p.113)"
+  },
+  {
+   "quote": "optimization of fleet holding periods",
+   "cited_pages": [
+    81,
+    91
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": " was added as a reason for the cuts"
+  },
+  {
+   "quote": "longer holding periods",
+   "cited_pages": [
+    53
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      61
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      53,
+      66
+     ]
+    ]
+   ],
+   "context": "p.53"
+  },
+  {
+   "quote": "one-time",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      118
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      131
+     ]
+    ]
+   ],
+   "context": "** - **Shown:** Adjusted pre-tax income adds back \"certain one-time charges\" (MD&A, p.50"
+  },
+  {
+   "quote": "certain one-time charges",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      118
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      131
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      19
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": "MD&A, p.50; release definitions"
+  },
+  {
+   "quote": "Other",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      4,
+      15,
+      18,
+      19,
+      31,
+      34,
+      39,
+      41,
+      46,
+      48,
+      50,
+      51,
+      52,
+      53,
+      54,
+      56,
+      57,
+      59,
+      62,
+      63,
+      66,
+      67,
+      68,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      80,
+      81,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      91,
+      92,
+      98
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      4,
+      5,
+      13,
+      16,
+      19,
+      39,
+      42,
+      43,
+      46,
+      48,
+      49,
+      50,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      66,
+      68,
+      70,
+      72,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      83,
+      84,
+      85,
+      86,
+      87,
+      89,
+      90
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      2,
+      4,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2,
+      3,
+      5,
+      9
+     ]
+    ]
+   ],
+   "context": " in both 2012 and 2013"
+  },
+  {
+   "quote": "Non-cash debt charges",
+   "cited_pages": [],
+   "status": "found in another document",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      120
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      2,
+      4,
+      13,
+      14
+     ]
+    ]
+   ],
+   "context": " was renamed \"debt-related charges\", and the normalized tax rate went from 34% to 35%"
+  },
+  {
+   "quote": "debt-related charges",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      56,
+      57,
+      62,
+      63,
+      131,
+      134
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3,
+      9
+     ]
+    ]
+   ],
+   "context": ", and the normalized tax rate went from 34% to 35%"
+  },
+  {
+   "quote": "restructuring related",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      53,
+      54,
+      55,
+      57,
+      59
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      56,
+      57,
+      61,
+      62,
+      63
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      10
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      9
+     ]
+    ]
+   ],
+   "context": " and \"Other\""
+  },
+  {
+   "quote": "Other",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      4,
+      15,
+      18,
+      19,
+      31,
+      34,
+      39,
+      41,
+      46,
+      48,
+      50,
+      51,
+      52,
+      53,
+      54,
+      56,
+      57,
+      59,
+      62,
+      63,
+      66,
+      67,
+      68,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      80,
+      81,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      91,
+      92,
+      98
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      4,
+      5,
+      13,
+      16,
+      19,
+      39,
+      42,
+      43,
+      46,
+      48,
+      49,
+      50,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      66,
+      68,
+      70,
+      72,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      83,
+      84,
+      85,
+      86,
+      87,
+      89,
+      90
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      2,
+      4,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2,
+      3,
+      5,
+      9
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "due to the timing of our payments",
+   "cited_pages": [
+    60,
+    64
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      60
+     ]
+    ]
+   ],
+   "context": "p.64, the same wording as FY2012 p.60"
+  },
+  {
+   "quote": "accounts payable",
+   "cited_pages": [
+    159
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      81,
+      145,
+      159
+     ]
+    ]
+   ],
+   "context": " modules went live in Q3 2013 (p.159)"
+  },
+  {
+   "quote": "lower than expected pricing and higher expenses related to carrying extra fleet",
+   "cited_pages": [
+    2
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2
+     ]
+    ]
+   ],
+   "context": "FY2013 release, p.2"
+  },
+  {
+   "quote": "out of period errors totaling $46.3 million",
+   "cited_pages": [
+    83
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      83
+     ]
+    ]
+   ],
+   "context": "p.83"
+  },
+  {
+   "quote": "effective",
+   "cited_pages": [
+    159
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      9,
+      12,
+      17,
+      23,
+      24,
+      26,
+      28,
+      30,
+      43,
+      46,
+      55,
+      59,
+      63,
+      66,
+      68,
+      71,
+      77,
+      82,
+      84,
+      88,
+      90,
+      96,
+      100,
+      102,
+      108,
+      109,
+      115,
+      116,
+      138,
+      141,
+      146,
+      154
+     ]
+    ]
+   ],
+   "context": "p.159"
+  },
+  {
+   "quote": "other immaterial errors",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      83
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      9
+     ]
+    ]
+   ],
+   "context": ", and the 2014 quarterly reports"
+  },
+  {
+   "quote": "could potentially exceed $40.0 million",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      137
+     ]
+    ]
+   ],
+   "context": " with no accrual stated (exposure, 6.0%), and a new securities class action has no amount"
+  },
+  {
+   "quote": "3 to 10 years",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      91
+     ]
+    ]
+   ],
+   "context": " for other intangibles, but Donlen intangibles are still 16 and 20 years"
+  },
+  {
+   "quote": "Total RPD",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      43,
+      49,
+      50,
+      52,
+      58
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3,
+      9
+     ]
+    ]
+   ],
+   "context": " redefined"
+  },
+  {
+   "quote": "continue to decrease",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      22,
+      41
+     ]
+    ]
+   ],
+   "context": " dropped from the program-car outlook"
+  },
+  {
+   "quote": "unknowingly not being met",
+   "cited_pages": [
+    150
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      150
+     ]
+    ]
+   ],
+   "context": "p.150"
+  }
+ ],
+ "figures": {
+  "found": [
+   "$663.1 M",
+   "$44.2 million",
+   "$100.6 M",
+   "$48.2 M",
+   "29.9",
+   "25.9",
+   "16.2%",
+   "15.3%",
+   "14.3%",
+   "10.7%",
+   "6.7%",
+   "7.3%",
+   "$645.4 M",
+   "$490.1 M",
+   "14.9%",
+   "18.2%",
+   "52.7",
+   "42.7",
+   "50.9",
+   "$79.1 M",
+   "$289.1 M",
+   "22.1%",
+   "18.5%",
+   "23.2%",
+   "1.4%",
+   "79.8%",
+   "75.7%",
+   "$46.3 million",
+   "5.8%",
+   "2.0%",
+   "7.0%",
+   "1.7%",
+   "76.5",
+   "51.3",
+   "$40.0 million",
+   "6.0%",
+   "$1,347.5 M",
+   "$3,330.0 M",
+   "1.00",
+   "0.76",
+   "$41.9 M",
+   "$45.9 M",
+   "$40.0 M",
+   "$44.0 M",
+   "6.2%",
+   "5.9%",
+   "1.1%"
+  ],
+  "computed_percent": [],
+  "computed_table": [],
+  "not_found": [
+   "42.8"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 663.1,
+  "source": "reply",
+  "note": "",
+  "checks": []
+ },
+ "post_cutoff": []
+}

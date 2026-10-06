@@ -1,0 +1,436 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\home-depot-fy2025\\v2.23\\claude-code\\001\\numbers-2.md",
+  "pack": "home-depot-fy2025",
+  "words": 1059,
+  "pages_est": 2.4,
+  "quotes": {
+   "total": 18,
+   "exact_on_page": 14,
+   "exact_page_differs": 0,
+   "exact_no_page": 1,
+   "other_document": 3,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 27,
+   "computed_percent": 6,
+   "computed_table": 0,
+   "not_found": 19
+  },
+  "arithmetic": {
+   "pre_tax_income": 18602.0,
+   "checked": 0,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "primarily driven by higher average inventory levels",
+   "cited_pages": [
+    32
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      32
+     ]
+    ]
+   ],
+   "context": "FY25 10-K, p. 32"
+  },
+  {
+   "quote": "increased inventories",
+   "cited_pages": [
+    37
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      37
+     ]
+    ]
+   ],
+   "context": "p. 37"
+  },
+  {
+   "quote": "lower average inventory",
+   "cited_pages": [
+    32,
+    38
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      32
+     ]
+    ]
+   ],
+   "context": " and \"more normalized inventory levels\" (FY24 10-K, pp. 32, 38)"
+  },
+  {
+   "quote": "more normalized inventory levels",
+   "cited_pages": [
+    32,
+    38
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      38
+     ]
+    ]
+   ],
+   "context": "FY24 10-K, pp. 32, 38"
+  },
+  {
+   "quote": "the inclusion of SRS and GMS",
+   "cited_pages": [
+    34
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": "p. 34"
+  },
+  {
+   "quote": "higher payroll and related costs",
+   "cited_pages": [
+    34
+   ],
+   "status": "found in another document",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": " plus the \"impact of a non-recurring legal-related benefit recognized during fiscal 2024\" (p. 34)"
+  },
+  {
+   "quote": "impact of a non-recurring legal-related benefit recognized during fiscal 2024",
+   "cited_pages": [
+    34
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": "p. 34"
+  },
+  {
+   "quote": "increased intangible asset amortization... SRS and GMS",
+   "cited_pages": [
+    34
+   ],
+   "status": "found in another document",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": "p. 34"
+  },
+  {
+   "quote": "higher payroll costs... lower legal-related benefits",
+   "cited_pages": [
+    34
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": " and SRS (FY24 10-K, p. 34)"
+  },
+  {
+   "quote": "the timing of vendor payments",
+   "cited_pages": [
+    37
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      38
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      37
+     ]
+    ]
+   ],
+   "context": "p. 37"
+  },
+  {
+   "quote": "timing of vendor payments",
+   "cited_pages": [
+    38
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      38
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      37
+     ]
+    ]
+   ],
+   "context": " helped FY24 cash flow (FY24 10-K, p. 38)"
+  },
+  {
+   "quote": "timing of vendor payments and increased inventories",
+   "cited_pages": [
+    37
+   ],
+   "status": "found in another document",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      37
+     ]
+    ]
+   ],
+   "context": " and \"the deferral of our fourth quarter fiscal 2024 estimated federal tax payment\" (p. 37)"
+  },
+  {
+   "quote": "the deferral of our fourth quarter fiscal 2024 estimated federal tax payment",
+   "cited_pages": [
+    37
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      38
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      37
+     ]
+    ]
+   ],
+   "context": "p. 37"
+  },
+  {
+   "quote": "primarily as a result of the SRS acquisition",
+   "cited_pages": [
+    48
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      48
+     ]
+    ]
+   ],
+   "context": "FY24 10-K, p. 48"
+  },
+  {
+   "quote": "not material",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75,
+      76,
+      77
+     ]
+    ]
+   ],
+   "context": " and no amount is given"
+  },
+  {
+   "quote": "legal-related benefit",
+   "cited_pages": [
+    34
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      34
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": " sits inside reported SG&A in both FY23 and FY24 (FY24 10-K p. 34: \"lower legal-related benefits\"), and the FY25 10-K ca"
+  },
+  {
+   "quote": "lower legal-related benefits",
+   "cited_pages": [
+    34
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": "), and the FY25 10-K calls the FY24 one \"non-recurring\" (p. 34)"
+  },
+  {
+   "quote": "non-recurring",
+   "cited_pages": [
+    34
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": "p. 34"
+  }
+ ],
+ "figures": {
+  "found": [
+   "2.2%",
+   "$25,817 m",
+   "$1,498 m",
+   "1.5%",
+   "15.3%",
+   "12.7%",
+   "11.3%",
+   "10.1%",
+   "2.5%",
+   "13.5%",
+   "0.10",
+   "14.2%",
+   "33.4%",
+   "17.4%",
+   "38.1",
+   "1.6%",
+   "$11,491 m",
+   "$3,485 m",
+   "7.9",
+   "12.4",
+   "$1,831 m",
+   "$0.14",
+   "$0.33",
+   "0.9%",
+   "3.2%",
+   "2.0%",
+   "2.9%"
+  ],
+  "computed_percent": [
+   "13.9%",
+   "33.9%",
+   "34.4%",
+   "19.0%",
+   "7.44%",
+   "7.38%"
+  ],
+  "computed_table": [],
+  "not_found": [
+   "81.9",
+   "85.6",
+   "86.2",
+   "91.3",
+   "$2,366 m",
+   "0.81",
+   "41.7",
+   "43.9",
+   "40.6",
+   "$1,576 m",
+   "$1,090 m",
+   "35.9",
+   "$1,510 m",
+   "$3,838 m",
+   "$28,971 m",
+   "$28,962 m",
+   "1.00",
+   "$1,575 m",
+   "$0.46"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 18602.0,
+  "source": "workbook",
+  "note": "",
+  "checks": []
+ },
+ "post_cutoff": []
+}

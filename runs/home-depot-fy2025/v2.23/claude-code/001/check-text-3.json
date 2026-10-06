@@ -1,0 +1,363 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\home-depot-fy2025\\v2.23\\claude-code\\001\\text-3.md",
+  "pack": "home-depot-fy2025",
+  "words": 1106,
+  "pages_est": 2.5,
+  "quotes": {
+   "total": 15,
+   "exact_on_page": 8,
+   "exact_page_differs": 0,
+   "exact_no_page": 3,
+   "other_document": 0,
+   "not_found": 4
+  },
+  "figures": {
+   "found": 36,
+   "computed_percent": 2,
+   "computed_table": 3,
+   "not_found": 0
+  },
+  "arithmetic": {
+   "pre_tax_income": 18602.0,
+   "checked": 0,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "Size",
+   "cited_pages": [
+    44
+   ],
+   "status": "not found",
+   "found": [],
+   "context": " figure below is measured against it"
+  },
+  {
+   "quote": "complete vs over time",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": " gap is small | Not quantified | | Reserves and allowances | Self-insurance is recorded at \"expected ultimate cost.."
+  },
+  {
+   "quote": "expected ultimate cost... (undiscounted)",
+   "cited_pages": [
+    52
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      52
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      52
+     ]
+    ]
+   ],
+   "context": " and is $1.6B (p.52)"
+  },
+  {
+   "quote": "not material",
+   "cited_pages": [
+    48
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75,
+      76,
+      77
+     ]
+    ]
+   ],
+   "context": "p.48"
+  },
+  {
+   "quote": "substantially exceeded",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      60
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      60
+     ]
+    ]
+   ],
+   "context": " carrying value"
+  },
+  {
+   "quote": "exceeded its respective carrying amount",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      60
+     ]
+    ]
+   ],
+   "context": ", with no margin given"
+  },
+  {
+   "quote": "no events or circumstances",
+   "cited_pages": [
+    60
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      60
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      60
+     ]
+    ]
+   ],
+   "context": ", because the test came soon after the deal (p.60) | Can't tell: not enough disclosed | No headroom figure for SRS"
+  },
+  {
+   "quote": "No material off-balance sheet arrangements",
+   "cited_pages": [
+    37
+   ],
+   "status": "not found",
+   "found": [],
+   "context": "p.37"
+  },
+  {
+   "quote": "not expected to have a material adverse effect",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      73
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      73
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "~1%",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": " of sales"
+  },
+  {
+   "quote": "We do not adjust for the revenue that is generated in part from the use of our acquired intangible assets",
+   "cited_pages": [
+    8
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      8
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      8
+     ]
+    ]
+   ],
+   "context": "release p.8"
+  },
+  {
+   "quote": "excludes the impact of amortization expense from acquired intangible assets",
+   "cited_pages": [
+    8
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      8
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      8
+     ]
+    ]
+   ],
+   "context": " and \"We do not adjust for the revenue that is generated in part from the use of our acquired intangible assets\" (earnin"
+  },
+  {
+   "quote": "We do not adjust for the revenue that is generated in part from the use of our acquired intangible assets",
+   "cited_pages": [
+    8
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      8
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      8
+     ]
+    ]
+   ],
+   "context": "earnings release, Non-GAAP Financial Measures, p.8"
+  },
+  {
+   "quote": "approximately $5.5 billion",
+   "cited_pages": [
+    32
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      32
+     ]
+    ]
+   ],
+   "context": "p.32"
+  },
+  {
+   "quote": "up to approximately 20 years",
+   "cited_pages": [
+    51
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      51
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      51
+     ]
+    ]
+   ],
+   "context": " policy (p.51)"
+  }
+ ],
+ "figures": {
+  "found": [
+   "$18,602 M",
+   "0.07%",
+   "$1.6",
+   "$2,588 M",
+   "8.6%",
+   "$3,452 M",
+   "$12.7",
+   "2.5%",
+   "$13.8",
+   "$1.9",
+   "$11,638 M",
+   "$3,591 M",
+   "$15.9",
+   "$1.7 M",
+   "$2.0",
+   "1.2%",
+   "$164.7",
+   "3.3%",
+   "$6.3",
+   "25.7%",
+   "$14.69",
+   "$0.61",
+   "23.9%",
+   "$0.15",
+   "$14.23",
+   "$9.7",
+   "3.7%",
+   "$3,514 M",
+   "$5.5 billion",
+   "$4,257 M",
+   "$5,435 M",
+   "10.1%",
+   "3.2%",
+   "7.7%",
+   "0.4%",
+   "0.5%"
+  ],
+  "computed_percent": [
+   "36.5%",
+   "24.7%"
+  ],
+  "computed_table": [
+   "13.5",
+   "4.4",
+   "4.5"
+  ],
+  "not_found": []
+ },
+ "arithmetic": {
+  "pre_tax_income": 18602.0,
+  "source": "reply",
+  "note": "",
+  "checks": []
+ },
+ "post_cutoff": []
+}

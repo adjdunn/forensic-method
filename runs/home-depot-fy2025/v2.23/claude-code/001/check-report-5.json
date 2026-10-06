@@ -1,0 +1,462 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\home-depot-fy2025\\v2.23\\claude-code\\001\\report-5.md",
+  "pack": "home-depot-fy2025",
+  "words": 1230,
+  "pages_est": 2.7,
+  "quotes": {
+   "total": 14,
+   "exact_on_page": 9,
+   "exact_page_differs": 0,
+   "exact_no_page": 5,
+   "other_document": 0,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 36,
+   "computed_percent": 5,
+   "computed_table": 0,
+   "not_found": 10
+  },
+  "arithmetic": {
+   "pre_tax_income": 18602.0,
+   "checked": 3,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 2
+ },
+ "quotes": [
+  {
+   "quote": "non-recurring",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": "** - **Shown:** - Operating margin fell from 15.3% in FY22 to 12.7% in FY25, and from 11.3% to 10.1% in Q4"
+  },
+  {
+   "quote": "Other",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      2,
+      11,
+      23,
+      34,
+      43,
+      45,
+      46,
+      47,
+      48,
+      55,
+      56,
+      57,
+      60,
+      62,
+      65,
+      66,
+      67,
+      69,
+      74,
+      75,
+      78
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      2,
+      12,
+      24,
+      32,
+      34,
+      43,
+      45,
+      46,
+      47,
+      48,
+      54,
+      55,
+      56,
+      57,
+      60,
+      62,
+      65,
+      66,
+      69,
+      74,
+      76,
+      77,
+      79
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      6,
+      7
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      6,
+      7
+     ]
+    ]
+   ],
+   "context": " segment) earns a 2.5% margin"
+  },
+  {
+   "quote": "lower legal-related benefits",
+   "cited_pages": [
+    34
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": " than FY23 (FY24 p.34)"
+  },
+  {
+   "quote": "a non-recurring legal-related benefit",
+   "cited_pages": [
+    34
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": "FY25 p.34"
+  },
+  {
+   "quote": "higher average inventory levels",
+   "cited_pages": [
+    32
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      32
+     ]
+    ]
+   ],
+   "context": "p.32"
+  },
+  {
+   "quote": "Estimation of store shrink",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": " critical audit matter (FY24 p.42)"
+  },
+  {
+   "quote": "lower shrink",
+   "cited_pages": [
+    34
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      34
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": " for gross margin (p.34)"
+  },
+  {
+   "quote": "general liquidity, including the repayment of senior note maturities",
+   "cited_pages": [
+    36
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      36
+     ]
+    ]
+   ],
+   "context": "p.36"
+  },
+  {
+   "quote": "not material",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75,
+      76,
+      77
+     ]
+    ]
+   ],
+   "context": "** - **Shown:** - Days sales outstanding rose from 7.7 to 12.4 (FY22-FY25), against an industry level of 10.2"
+  },
+  {
+   "quote": "primarily use trade credit",
+   "cited_pages": [
+    23,
+    24
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      23
+     ]
+    ]
+   ],
+   "context": " to \"increasingly use trade credit\" (FY24 p.23 \u2192 FY25 p.24)"
+  },
+  {
+   "quote": "increasingly use trade credit",
+   "cited_pages": [
+    23,
+    24
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      24
+     ]
+    ]
+   ],
+   "context": "FY24 p.23 \u2192 FY25 p.24"
+  },
+  {
+   "quote": "not material",
+   "cited_pages": [
+    48
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75,
+      76,
+      77
+     ]
+    ]
+   ],
+   "context": " with no figure given (p.48)"
+  },
+  {
+   "quote": "moving average cost",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      38,
+      41,
+      49
+     ]
+    ]
+   ],
+   "context": " was added to the inventory cost method"
+  },
+  {
+   "quote": "approximately $5.5 billion",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      32
+     ]
+    ]
+   ],
+   "context": " in the MD&A against $5,435M in the note"
+  }
+ ],
+ "figures": {
+  "found": [
+   "$18,602 M",
+   "15.3%",
+   "12.7%",
+   "11.3%",
+   "10.1%",
+   "2.5%",
+   "14.2%",
+   "13.5%",
+   "17.4%",
+   "7.2%",
+   "3.1%",
+   "3.2%",
+   "4.4",
+   "0.9%",
+   "5.9%",
+   "$4,464 M",
+   "25.7%",
+   "$4.5",
+   "3.7%",
+   "7.7",
+   "12.4",
+   "10.2",
+   "$1,896 M",
+   "$2,588 M",
+   "2.4%",
+   "$1,831 M",
+   "$0.40",
+   "3.3%",
+   "$13.8",
+   "$5.1",
+   "$5.5 billion",
+   "$5,435 M",
+   "38.1",
+   "$6.3",
+   "1.2%",
+   "$15.9"
+  ],
+  "computed_percent": [
+   "19.0%",
+   "24.7%",
+   "36.5%",
+   "7.44%",
+   "7.38%"
+  ],
+  "computed_table": [],
+  "not_found": [
+   "$1,334 M",
+   "75.1",
+   "85.6",
+   "86.2",
+   "91.3",
+   "$2,366 M",
+   "$1,102 M",
+   "$0.46",
+   "41.7",
+   "1.00"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 18602.0,
+  "source": "workbook",
+  "note": "",
+  "checks": [
+   {
+    "amount": 1334.0,
+    "stated": 7.2,
+    "recomputed": 7.2,
+    "ok": true,
+    "sentence": "Size, as an income effect: the margin shortfall is 7.2% of pre-tax ($1,334M); the Primary segment's own part is 3.1% ($580M)."
+   },
+   {
+    "amount": 160.0,
+    "stated": 0.9,
+    "recomputed": 0.9,
+    "ok": true,
+    "sentence": "Size: the shrink estimate's income effect is about 0.9% of pre-tax ($160M, rough)."
+   },
+   {
+    "amount": 607.0,
+    "stated": 3.3,
+    "recomputed": 3.3,
+    "ok": true,
+    "sentence": "Size: income effect of 3.3% of pre-tax ($607M)."
+   }
+  ]
+ },
+ "post_cutoff": [
+  {
+   "year": 2055,
+   "context": "ng term stayed at 12 years while the latest lease end date moved from 2055 to 2075; this does not fit, roughly tested (p.59,"
+  },
+  {
+   "year": 2075,
+   "context": "stayed at 12 years while the latest lease end date moved from 2055 to 2075; this does not fit, roughly tested (p.59, p.62). "
+  }
+ ]
+}

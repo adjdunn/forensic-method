@@ -1,0 +1,447 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.23\\claude-code\\001\\numbers-2.md",
+  "pack": "hertz-fy2013",
+  "words": 1041,
+  "pages_est": 2.3,
+  "quotes": {
+   "total": 12,
+   "exact_on_page": 8,
+   "exact_page_differs": 1,
+   "exact_no_page": 2,
+   "other_document": 1,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 65,
+   "computed_percent": 0,
+   "computed_table": 0,
+   "not_found": 2
+  },
+  "arithmetic": {
+   "pre_tax_income": 663.1,
+   "checked": 0,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "adjusted pre-tax margin",
+   "cited_pages": [
+    1
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3,
+      4,
+      6
+     ]
+    ]
+   ],
+   "context": "FY2013 release, p. 1"
+  },
+  {
+   "quote": "$9,805.6",
+   "cited_pages": [
+    103
+   ],
+   "status": "found in another document",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": "60%; FY2013 annual report, p. 103"
+  },
+  {
+   "quote": "Sales of revenue earning equipment included in receivables",
+   "cited_pages": [
+    81
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      78
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      81
+     ]
+    ]
+   ],
+   "context": " fell from $618.6m to $357.3m (p. 81)"
+  },
+  {
+   "quote": "due to the timing of our payments",
+   "cited_pages": [
+    64
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      64
+     ]
+    ]
+   ],
+   "context": "FY2013 annual report, p. 64"
+  },
+  {
+   "quote": "accounts payable",
+   "cited_pages": [
+    159
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      81,
+      145,
+      159
+     ]
+    ]
+   ],
+   "context": " modules went in during Q3 2013 (p. 159)"
+  },
+  {
+   "quote": "net decreases of $44.2 million",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": "p. 126"
+  },
+  {
+   "quote": "strong residual values",
+   "cited_pages": [
+    113
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      113
+     ]
+    ]
+   ],
+   "context": "FY2012 annual report, p. 113"
+  },
+  {
+   "quote": "deterioration in the used vehicle residual values",
+   "cited_pages": [
+    54
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      54
+     ]
+    ]
+   ],
+   "context": "p. 54"
+  },
+  {
+   "quote": "lower than expected pricing and higher expenses related to carrying extra fleet",
+   "cited_pages": [
+    2
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2
+     ]
+    ]
+   ],
+   "context": "FY2013 release, p. 2"
+  },
+  {
+   "quote": "improving pricing",
+   "cited_pages": [
+    2
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      2
+     ]
+    ]
+   ],
+   "context": "FY2012 release, p. 2"
+  },
+  {
+   "quote": "certain one-time charges",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      118
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      131
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      19
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": "definitions page, unnumbered"
+  },
+  {
+   "quote": "Other",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      4,
+      15,
+      18,
+      19,
+      31,
+      34,
+      39,
+      41,
+      46,
+      48,
+      50,
+      51,
+      52,
+      53,
+      54,
+      56,
+      57,
+      59,
+      62,
+      63,
+      66,
+      67,
+      68,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      80,
+      81,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      91,
+      92,
+      98
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      4,
+      5,
+      13,
+      16,
+      19,
+      39,
+      42,
+      43,
+      46,
+      48,
+      49,
+      50,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      66,
+      68,
+      70,
+      72,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      83,
+      84,
+      85,
+      86,
+      87,
+      89,
+      90
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      2,
+      4,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2,
+      3,
+      5,
+      9
+     ]
+    ]
+   ],
+   "context": " in both 2012 and 2013 ($14.0m, $5.7m)"
+  }
+ ],
+ "figures": {
+  "found": [
+   "13.7%",
+   "5.9%",
+   "6.5%",
+   "6.2%",
+   "$9,805.6",
+   "$16,309.4 m",
+   "76.2",
+   "51.3",
+   "76.5",
+   "$618.6 m",
+   "$357.3 m",
+   "13.9%",
+   "$1,879.7 m",
+   "69.3",
+   "$121.5 m",
+   "$34.7 m",
+   "$45.9 m",
+   "$11.2 m",
+   "$40.3 m",
+   "52.9",
+   "42.7",
+   "52.7",
+   "$69.2 m",
+   "$28.9 m",
+   "4.6%",
+   "$879.9 m",
+   "$34.0 m",
+   "$23.2 m",
+   "$35.3 m",
+   "3.5%",
+   "$20.6 m",
+   "$79.1 m",
+   "$289.1 m",
+   "15.2%",
+   "14.3%",
+   "15.3%",
+   "$44.2 million",
+   "$39.6 m",
+   "$100.6 m",
+   "$48.2 m",
+   "22.1%",
+   "18.5%",
+   "1.4%",
+   "79.8%",
+   "75.7%",
+   "10.7%",
+   "$490.1 m",
+   "$450.9 m",
+   "$356.2 m",
+   "$66.2 m",
+   "$49.1 m",
+   "$98.8 m",
+   "$18.8 m",
+   "$163.7 m",
+   "$18.5 m",
+   "$14.0 m",
+   "$5.7 m",
+   "$26.7 m",
+   "$139.4 m",
+   "$44.2 m",
+   "8.7%",
+   "31.6%",
+   "6.7%",
+   "$5.0 m",
+   "$12.9 m"
+  ],
+  "computed_percent": [],
+  "computed_table": [],
+  "not_found": [
+   "$367.1 m",
+   "$261.3 m"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 663.1,
+  "source": "workbook",
+  "note": "",
+  "checks": []
+ },
+ "post_cutoff": []
+}
