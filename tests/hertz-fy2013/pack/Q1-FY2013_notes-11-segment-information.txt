@@ -1,0 +1,48 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q1 2013 (three months ended 31 Mar 2013), filed 2013-05-02. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 11: Segment Information. https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm
+
+[p. 20]
+
+Note 11—Segment Information
+
+Our operating segments are aggregated into reportable business segments based primarily upon similar economic characteristics, products, services, customers, and delivery methods. We have identified two reportable segments: rental and leasing of cars, crossovers and light trucks, or "car rental," and rental of industrial, construction, material handling and other equipment, or "equipment rental." Other reconciling items include general corporate assets and expenses, certain interest expense (including net interest on corporate debt), as well as other business activities. Donlen is included in the car rental reportable segment.
+
+Adjusted pre-tax income is calculated as income (loss) before income taxes plus non-cash purchase accounting charges, non-cash debt charges relating to the amortization and write-off of debt financing costs and debt discounts and certain one-time charges and non-operational items. Adjusted pre-tax income is important to management because it allows management to assess operational performance of our business, exclusive of the items mentioned above. It also allows management to assess the performance of the entire business on the same basis as the segment measure of profitability. Management believes that it is important to investors for the same reasons it is important to management and because it allows them to assess our operational performance on the same basis that management uses internally. The contribution of our reportable segments to revenues and adjusted pre-tax income (loss) and the reconciliation to consolidated amounts are summarized below (in millions of dollars).
+
+Three Months Ended March 31,
+Revenues | Adjusted Pre-Tax Income (Loss)
+2013 | 2012 | 2013 | 2012
+Car rental | $2,084.8 | $1,658.2 | $208.4 | $91.6
+Equipment rental | 351.0 | 302.1 | 45.8 | 25.9
+Total reportable segments | 2,435.8 | 1,960.3 | 254.2 | 117.5
+Other | 0.7 | 0.6
+Total | $2,436.5 | $1,960.9
+Adjustments:
+Other reconciling items(1) | (109.7) | (88.1)
+Purchase accounting(2) | (33.7) | (24.1)
+Non-cash debt charges(3) | (17.3) | (25.2)
+Restructuring charges | (3.7) | (6.7)
+Restructuring related charges(4) | (4.2) | (3.3)
+Integration expenses(5) | (10.8) | —
+Acquisition related costs | (2.6) | (6.9)
+Income (loss) before income taxes | $72.2 | $(36.8)
+
+_______________________________________________________________________________
+
+(1) | Represents general corporate expenses, certain interest expense (including net interest on corporate debt), as well as other business activities.
+
+(2) | Represents the purchase accounting effects of the Acquisition on our results of operations relating to increased depreciation and amortization of tangible and intangible assets and accretion of revalued workers' compensation and public liability and property damage liabilities. Also represents the purchase accounting effects of certain subsequent acquisitions on our results of operations relating to increased depreciation and amortization of tangible and intangible assets.
+
+(3) | Represents non-cash debt charges relating to the amortization and write-off of deferred debt financing costs and debt discounts.
+
+(4) | Represents incremental costs incurred directly supporting our business transformation initiatives. Such costs include transition costs incurred in connection with our business process outsourcing arrangements and incremental costs incurred to facilitate business process re-engineering initiatives that involve significant organization redesign and extensive operational process changes.
+
+(5) | Primarily represents Dollar Thrifty related expenses and adjustments.
+
+Total assets increased $790.2 million from December 31, 2012 to March 31, 2013. The increase was primarily related to an increase in our car rental and equipment rental segments' revenue earning equipment, driven by increased volumes, partly offset by a decrease in fleet receivables within our car rental segment, primarily related to the timing of purchases and sales of revenue earning equipment.
+
+[p. 21]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited

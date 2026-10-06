@@ -1,0 +1,166 @@
+=== page 1 ===
+Page 1
+The Home Depot, Inc.: what changed between the two annual
+reports
+Form 10-K for fiscal 2025 (year ended February 1, 2026) against fiscal 2024 (year ended February 2, 2025), with the two
+fourth-quarter results releases.
+1. Full write-ups
+Critical accounting estimates and auditor's report: the shrink estimate fell, and the audit matter on
+it was dropped
+
+Before: a 10% higher shrink rate “would have increased cost of sales by approximately $95 million” (FY2024 10-K, p.
+39); the auditor listed “Estimation of store shrink” as a critical audit matter (p. 42).
+
+After: “approximately $79 million” (FY2025 10-K, p. 39); the shrink audit matter is dropped (pp. 41–42).
+
+Why it matters: the sensitivity fell 17% while Primary segment cost of sales fell 1.5%. This implies a shrink estimate
+roughly $160m lower, and the gross margin discussion credits “lower shrink” (p. 34). Size: about 0.9% of pre-tax
+income. This is rough, because the sensitivity is the only figure given.
+
+Reading: most likely ordinary, since the risk factor moved from “have seen heightened shrink” (p. 19) to “saw” (p.
+19) and the estimate follows “recent shrink results”. Later counts showing higher losses, or the sensitivity rising
+again, would point to an estimate set too low.
+Debt note and adjusted measures: average commercial paper no longer disclosed
+
+Before: a table gave “Average daily short-term borrowings” of $1,343m and a maximum of $15,317m (FY2024 10-K,
+p. 61).
+
+After: table dropped; only “the maximum amount outstanding during that period was $5.8 billion” (FY2025 10-K, p.
+61).
+
+Why it matters: this is the figure needed to adjust the return on invested capital written up in the earlier
+assessment, in the year commercial paper rose from $316m to $4,464m. With last year's daily average, fiscal 2024
+ROIC would be 30.5% against the 31.3% reported. For fiscal 2025 only the begin-and-end average can be used
+(24.7% against 25.7%). Size: no income effect; $4,464m is a balance.
+
+Reading: most likely ordinary pruning, as the table mainly described the SRS bridge financing. It does remove a
+figure just as it became relevant, and the ROIC explanation now leads with “higher average equity due to our
+ongoing pause in share repurchases” (p. 32) instead of debt (p. 32 last year). Quarterly filings that give the average
+would settle it.
+Auditor's report: a new critical audit matter on inventory evidence
+
+Before: two matters, “Fair values of customer relationships intangible assets” and “Estimation of store shrink”
+(FY2024 10-K, pp. 41–42).
+
+After: one matter, “Sufficiency of audit evidence over certain merchandise inventories”, citing the “highly
+automated nature of the process” across “multiple information technology (IT) systems” (FY2025 10-K, pp. 41–42).
+
+Why it matters: it covers the retail-method majority of $25.8bn of inventory, and the controls section in both years
+says finance systems are being migrated (p. 76; p. 77). No matter was raised on the $1.5bn of GMS customer
+relationships. Size: not quantified; inventory is a balance equal to 139% of pre-tax income.
+
+Reading: most likely ordinary, an auditor flagging reliance on systems during a migration, with clean opinions on the
+statements and on controls. A control deficiency disclosed in a later filing would point the other way.
+2. Other changes
+
+Sales per retail square foot (“$599.92”, FY2024 pp. 32–33) is dropped from the FY2025 summary and table (pp.
+32–33). A rough rebuild gives about $594 for fiscal 2025, down 1.0%, though last year had a 53rd week.
+
+Inventory cost method: “primarily the first-in, first-out method” (FY2024 p. 49) became “primarily the moving
+average cost and first-in, first-out methods” (FY2025 p. 49). It is not listed as an accounting change and no effect is
+given.
+
+Goodwill: the SRS units were tested “using a qualitative approach” (FY2024 p. 60) and are now tested “using a
+quantitative approach”, with fair value that “exceeded” carrying amount (FY2025 p. 60). The Primary units still read
+“substantially exceeded”.
+
+=== page 2 ===
+Page 2
+
+Overhead in fiscal 2024: described then as “lower legal-related benefits” (FY2024 p. 34), now as “a non-recurring
+legal-related benefit recognized during fiscal 2024” (FY2025 p. 34). Neither report gives an amount.
+
+Risk factors: trade customers “primarily use trade credit” (FY2024 p. 23) became “increasingly use” (FY2025 p. 24);
+the sentence on supplier “PFAS” litigation (FY2024 p. 22) is dropped.
+3. What stayed the same
+Statement
+Pages (last
+year, this
+year)
+The number (last year, this year)
+Still fits?
+ROIC uses “long-term debt (including
+current installments) and equity”
+p. 35, p. 35
+Year-end commercial paper left out:
+$316m, $4,464m
+Less well: the gap it opens grew
+from about 0.1 to 1.0 point
+Receivables allowance “was not
+material”
+p. 48, p. 48
+Customer receivables: $1,896m,
+$2,588m (up 36%)
+Can't tell: no allowance figure in
+either year
+Retail-method inventory “approximates
+the lower of cost or market”
+p. 49, p. 49
+Inventory days: 82, 86; turnover 4.7x,
+4.4x
+Can't tell: slower turn, no
+markdown figure given
+Straight-line “approximates the pattern
+of expected economic benefit”
+p. 51, p. 51
+Customer-relationship charge on
+average cost: 5.9% (rough, part-year
+SRS), 5.2%
+Can't tell: attrition not disclosed, as
+noted in the earlier assessment
+“most recent quantitative analysis in
+fiscal 2023… substantially exceeded”
+p. 60, p. 60
+Primary operating income since fiscal
+2023: down 1.7%, down 5.1%
+Probably, but the test is now two
+years old
+Statements that still fit and are left out of the table:
+
+Property lives (5–45 and 2–20 years): implied average life 13.4 then 13.5 years.
+
+Finance lease amortization: 8.1% then 7.9% of cost.
+
+Supplier payment terms (“30 to 60 days”): 41 then 40 days on confirmed invoices.
+
+Stores (“approximately 104,000 square feet”): 103.7 thousand in both years.
+
+Self-insurance (“undiscounted”): $1.5bn then $1.6bn.
+4. Disclosed changes in estimates or policies
+Neither report discloses a change in estimate or policy with a stated effect on income.
+Change
+Year
+Stated effect on income
+Page
+Product categories realigned; fiscal 2024 Décor restated up $735m,
+Hardlines down $841m, Building Materials up $106m
+FY2025
+“no impact on consolidated net
+sales”
+p. 56
+Intangible assets and their amortization shown as separate lines; prior
+periods reclassified
+FY2024
+None stated
+p. 48
+Income tax disclosure standard (ASU 2023-09) adopted
+retrospectively
+FY2025
+“no impact”
+p. 54
+Segment and supplier-finance disclosure standards adopted
+FY2024
+“did not have an impact”
+p. 54
+SRS purchase price allocation finalized
+FY2025
+Adjustments “immaterial”
+p. 75
+Stock option expected term moved from 6 to 7 years
+FY2025
+None stated
+p. 70
+5. Not in the documents
+Related-party detail is incorporated from the proxy statement in both years (p. 80; p. 81), and both reports omit all
+schedules, so reserve movements can't be compared.
+Pages are the [p. N] markers in the files; the reports' own footer numbers run four lower.

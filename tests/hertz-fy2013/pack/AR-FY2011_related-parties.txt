@@ -1,0 +1,61 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-K for the fiscal year ended December 31, 2011, filed 2012-02-27. Item 13. Certain Relationships and Related Transactions, and Director Independence, with the related-party note. https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm
+
+[p. 156]
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+
+Information relating to this item is set forth under the captions "Certain Relationships and Related Party Transactions" and "Corporate Governance and General Information Concerning the Board of Directors and its Committees" of our 2012 Proxy Statement. Such information is incorporated herein by reference.
+
+--- Note 14 to the consolidated financial statements (Related Party Transactions) follows (also its own notes file). ---
+
+[p. 143]
+
+Note 14—Related Party Transactions
+
+Relationship with Hertz Investors, Inc. and the Sponsors
+
+Stockholders Agreement
+
+In connection with the Acquisition, we entered into a stockholders agreement (as amended, the "Stockholders Agreement") with investment funds associated with or designated by the Sponsors. The Stockholders Agreement contains agreements that entitle investment funds associated with or designated by the Sponsors to nominate two nominees of an investment fund associated with CD&R (one of whom shall serve as the chairman or, if the chief executive officer is the chairman, the lead director), one nominee of investment funds associated with Carlyle, and one nominee of an investment fund associated with BAMLCP. The Stockholders Agreement also provides that our chief executive officer shall be designated as a director, unless otherwise approved by a majority of the Sponsor Designees. In addition, the Stockholders Agreement provides that one of the nominees of an investment fund associated with CD&R shall serve as the chairman of the executive and governance committee and, unless otherwise agreed by this fund, as Chairman of our Board of Directors or lead director. In order to
+
+[p. 144]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+comply with New York Stock Exchange rules, we will be required to have a majority of independent directors on our Board of Directors by no later than March 31, 2012 and we believe that we will fulfill this requirement prior to such deadline.
+
+The Stockholders Agreement grants to the investment funds associated with CD&R or to the board, with the approval of the majority of the Sponsor Designees, the right to remove our chief executive officer. Any replacement chief executive officer requires the consent of the investment funds associated with CD&R as well as investment funds associated with at least one other Sponsor. It also contains restrictions on the transfer of our shares, and provides for tag-along and drag-along rights, in certain circumstances. The rights described above apply only for so long as the investment funds associated with the applicable Sponsor maintain certain specified minimum levels of shareholdings in us.
+
+The Stockholders Agreement limits the rights of the investment funds associated with or designated by the Sponsors that have invested in our common stock and our affiliates, subject to several exceptions, to own, manage, operate or control any of our "competitors" (as defined in the Stockholders Agreement). The Stockholders Agreement may be amended from time to time in the future to eliminate or modify these restrictions without our consent.
+
+Registration Rights Agreement
+
+On December 21, 2005, we entered into a registration rights agreement (as amended, the "Registration Rights Agreement") with investment funds associated with or designated by the Sponsors. The Registration Rights Agreement grants to certain of these investment funds the right, to cause us, at our own expense, to use our best efforts to register such securities held by the investment funds for public resale, subject to certain limitations. The exercise of this right is limited to three requests by the group of investment funds associated with each Sponsor, except for registrations effected pursuant to Form S-3, which are unlimited, subject to certain limitations, if we are eligible to use Form S-3. The secondary offering of our common stock in June 2007 was effected pursuant to this Registration Rights Agreement. In the event we register any of our common stock, these investment funds have the right to require us to use our best efforts to include shares of our common stock held by them, subject to certain limitations, including as determined by the underwriters. The Registration Rights Agreement provides for us to indemnify the investment funds party to that agreement and their affiliates in connection with the registration of our securities.
+
+Director Compensation Policy
+
+In November 2011, our Board of Directors amended and restated our Director Compensation Policy. Pursuant to the policy prior to November 2011 our directors who are not also our employees each received a $170,000 annual retainer fee, of which $70,000 was payable in cash and $100,000 was payable in the form of shares of our common stock. Starting in November 2011, the policy now provides that our directors who are not also our employees each receive a $210,000 annual retainer fee, of which $85,000 is payable in cash and $125,000 is payable in the form of shares of our common stock.
+
+The chairperson of our Audit Committee is paid an additional annual cash fee of $25,000 and each other member of our Audit Committee is paid an additional annual cash fee of $10,000. The chairperson of our Compensation Committee is paid an additional annual cash fee of $15,000 and each other member of our Compensation Committee receives an additional annual cash fee of $10,000.
+
+[p. 145]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Financing Arrangements with Related Parties
+
+Affiliates of BAMLCP (which is one of the Sponsors), including Merrill Lynch & Co., Inc., Bank of America, N.A. and certain of their affiliates (which are stockholders of Hertz Holdings), have provided various investment and commercial banking and financial advisory services to us for which they have received customary fees and commissions. In addition, these parties have acted as agents, lenders, purchasers and/or underwriters to us under our respective financing arrangements, for which they have received customary fees, commissions, expenses and/or other compensation. More specifically, these parties have acted in the following capacities, or similar capacities, with respect to our financing arrangements: lenders and/or agents under the Senior Credit Facilities, the U.S. Fleet Financing Facility and certain of the U.S. Fleet Variable Funding Notes; purchasers and/or underwriters under the Senior Notes, the Senior Subordinated Notes and certain of the U.S. Fleet Medium Term Notes; and structuring advisors and/or agents under the ABS Program.
+
+As of December 31, 2011 and December 31, 2010, approximately $174 million and $255 million, respectively, of our outstanding debt was with related parties.
+
+See Note 4—Debt.
+
+Other Sponsor Relationships
+
+In May and June 2009, Merrill Lynch & Co., Inc., or "ML," an affiliate of one of our Sponsors, BAMLCP, acted as an underwriter in the common stock follow-on public offering and in the public offering of the Convertible Senior Notes, for which they received customary fees and expenses.
+
+In May 2009 we entered into subscription agreements with investment funds affiliated with CD&R and Carlyle to purchase an additional 32,101,182 shares of our common stock at a price of $6.23 per share (the same price per share paid to us by the underwriters in the common stock public offering) with proceeds to us of approximately $200.0 million. This closed on July 7, 2009 and the 32,101,182 shares of our common stock were issued to CD&R and Carlyle affiliated investment funds on the same date. In March 2011, the Sponsors sold 50,000,000 shares of their Hertz Holdings common stock to Goldman, Sachs & Co. as the sole underwriter in the registered public offering of those shares. Giving effect to these offerings, the Sponsors' ownership percentage in us is approximately 38%.
+
+To date, Bank of America Corporation, and certain of its affiliates, collectively, "B of A," (which are affiliates of BAMLCP and are stockholders of Hertz Holdings) has paid to us approximately $5.0 million for "short-swing" profit liability resulting from principal trading activity in our common stock, which is subject to recovery by us under Section 16 of the Securities Exchange Act of 1934, as amended. In the event that B of A continues principal trading activity in our common stock, this amount may change.

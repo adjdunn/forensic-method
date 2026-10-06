@@ -1,0 +1,63 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q1 2012 (three months ended 31 Mar 2012), filed 2012-05-04. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 12: Restructuring. https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm
+
+[p. 21]
+
+Note 12—Restructuring
+
+As part of our ongoing effort to implement our strategy of reducing operating costs, we have evaluated our workforce and operations and made adjustments, including headcount reductions and business process reengineering resulting in optimized work flow at rental locations and maintenance facilities as well as streamlined our back-office operations and evaluated potential outsourcing opportunities. When we made adjustments to our workforce and operations, we incurred incremental expenses that delay the benefit of a more efficient workforce and operating structure, but we believe that increased operating efficiency and reduced costs associated with the operation of our business are important to our long-term competitiveness.
+
+During 2007 through 2011, we announced several initiatives to improve our competitiveness and industry leadership through targeted job reductions. These initiatives included, but were not limited to, job reductions at our corporate headquarters and back-office operations in the U.S. and Europe. As part of our re-engineering optimization we outsourced selected functions globally. In addition, we streamlined operations and reduced costs by initiating the closure of targeted car rental locations and equipment rental branches throughout the world. The largest of these closures occurred in 2008 which resulted in closures of approximately 250 off-airport locations and 22 branches in our U.S. equipment rental business. These initiatives impacted approximately 8,960 employees.
+
+During the first quarter of 2012, we continued to streamline operations and reduce costs with the closure of several car rental and equipment rental locations globally as well as a reduction in our workforce by approximately 65 employees.
+
+From January 1, 2007 through March 31, 2012, we incurred $539.9 million ($261.5 million for our car rental segment, $225.7 million for our equipment rental segment and $52.7 million of other) of restructuring charges.
+
+Additional efficiency and cost saving initiatives are being developed, however, we presently do not have firm plans or estimates of any related expenses.
+
+Restructuring charges in our consolidated statement of operations can be summarized as follows (in millions of dollars):
+
+Three Months Ended March 31,
+2012 | 2011
+By Type:
+Involuntary termination benefits | $2.7 | $1.0
+Consultant costs | 0.2 | 0.1
+Asset writedowns | 2.7 | 0.7
+Facility closure and lease obligation costs | 3.8 | 3.1
+Total | $9.4 | $4.9
+
+[p. 22]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Three Months Ended March 31,
+2012 | 2011
+By Caption:
+Direct operating | $7.6 | $4.3
+Selling, general and administrative | 1.8 | 0.6
+Total | $9.4 | $4.9
+
+Three Months Ended March 31,
+2012 | 2011
+By Segment:
+Car rental | $5.2 | $1.0
+Equipment rental | 4.2 | 3.9
+Other reconciling items | — | —
+Total | $9.4 | $4.9
+
+During the three months ended March 31, 2012 and 2011, the after-tax effect of the restructuring charges increased the loss per share by $0.02 and $0.01, respectively.
+
+The following table sets forth the activity affecting the restructuring accrual during the three months ended March 31, 2012 (in millions of dollars). We expect to pay the remaining restructuring obligations relating to involuntary termination benefits over the next twelve months. The remainder of the restructuring accrual relates to future lease obligations which will be paid over the remaining term of the applicable leases.
+
+Involuntary Termination Benefits | Pension and Post Retirement Expense | Consultant Costs | Other | Total
+Balance as of January 1, 2012 | $9.1 | $0.2 | $0.6 | $11.7 | $21.6
+Charges incurred | 2.7 | — | 0.2 | 6.5 | 9.4
+Cash payments | (2.1) | — | (0.1) | (0.8) | (3.0)
+Other(1) | 0.3 | — | (0.1) | (6.0) | (5.8)
+Balance as of March 31, 2012 | $10.0 | $0.2 | $0.6 | $11.4 | $22.2
+
+(1)
+
+Consists of decreases of $3.4 million for facility closures and $2.7 million for asset writedowns, partly offset by an increase of $0.3 million due to foreign currency translation.

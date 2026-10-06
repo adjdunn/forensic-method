@@ -1,0 +1,364 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-K for the fiscal year ended December 31, 2013, filed 2014-03-19. Item 8, Notes to Consolidated Financial Statements, Note 2: Summary of Significant Accounting Policies. https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm
+
+[p. 83]
+
+Note 2—Summary of Significant Accounting Policies
+
+Principles of Consolidation
+
+The consolidated financial statements include the accounts of Hertz Holdings and our wholly owned and majority owned domestic and international subsidiaries. In the event that Hertz Holdings is a primary beneficiary of a variable interest entity, the assets, liabilities, and results of operations of the variable interest entity will be included in our consolidated financial statements. All significant intercompany transactions have been eliminated in consolidation.
+
+Use of Estimates and Assumptions
+
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America, or “GAAP,” requires management to make estimates and assumptions that affect the amounts reported in the financial statements and footnotes. Actual results could differ materially from those estimates.
+
+Significant estimates inherent in the preparation of the consolidated financial statements include depreciation of revenue earning equipment, reserves for litigation and other contingencies, accounting for income taxes and related uncertain tax positions, pension and postretirement benefit costs, the fair value of assets and liabilities acquired in business combinations, the recoverability of long-lived assets, useful lives and impairment of long-lived tangible and intangible assets including goodwill, valuation of stock based compensation, public liability and property damage reserves, reserves for restructuring, allowance for doubtful accounts, and fair value of derivatives, among others.
+
+Reclassifications
+
+Certain prior period amounts have been reclassified to conform with current year presentation.
+
+In the third quarter of 2013 we changed the composition of our reportable segments upon further consideration of the guidance provided in the Financial Accounting Standards Board, or “FASB,” Accounting Standards Codification, or “ASC,” Topic 280, Segment Reporting. We historically aggregated our U.S., Europe, Other International and Donlen car rental operating segments together to produce a worldwide car rental reportable segment. We now present our operations as four reportable segments (U.S. car rental, international car rental, worldwide equipment rental and all other operations). We have revised our segment results presented herein to reflect this new segment structure, including for prior periods. Such revisions have no impact on our consolidated financial condition, results of operations or cash flows for the periods presented. See Note 11—Segment Information.
+
+Correction of Errors
+
+We have revised our consolidated statement of cash flows for the years ended December 31, 2012 and 2011 to correctly present borrowings and repayments related to its revolving lines of credits on a gross basis. These amounts had previously been presented on a net basis within the financing section. This revision had no impact on the Company's total operating, investing or financing cash flows.
+
+During the fourth quarter of 2013, we identified certain out of period errors totaling $46.3 million, of which $34.7 million ($21.0 million, net of tax) related to our previously issued consolidated financial statements for the years ended December 31, 2012, 2011 and prior. While these errors did not, individually or in the aggregate, result in a material misstatement of our previously issued consolidated financial statements, correcting these errors in the fourth quarter would have been material to the fourth quarter ended December 31, 2013. Accordingly, management has revised in this filing and will revise in subsequent quarterly filings on Form 10-Q its previously reported consolidated balance sheets and statements of operations as noted below. These recorded pre-tax adjustments relate to vendor incentives (reduced pre-tax income by $12.9 million in 2011 and $2.4 million in 2012) which had been accounted for as a reduction of marketing expenses instead of reducing the cost of revenue earning equipment, charges related to certain assets and allowances for doubtful accounts in Brazil (reduced pre-tax income by $4.4 million in 2010, $6.2 million in 2011 and $3.6 million in 2012), as well as other immaterial errors (decreased pre-tax income by $2.4 million in 2010 and $3.2 million in 2012, and increased pre-tax income by $0.4 million in 2011).
+
+[p. 84]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+We are recording the cumulative effect of these adjustments of $4.5 million for periods prior to 2011 as an increase of the previously reported December 31, 2010 accumulated deficit of $1,123.2 million resulting in a revised December 31, 2010 accumulated deficit of $1,127.7 million. These adjustments also cumulatively impacted the following consolidated balance sheet line items as of December 31, 2012:
+
+• | Cash and cash equivalents (increased $12.3 million)
+
+• | Restricted cash and cash equivalents (decreased $20.0 million)
+
+• | Receivables (decreased $7.0 million)
+
+• | Prepaid expenses and other assets (increased $19.2 million)
+
+• | Revenue earning equipment, at cost (decreased $42.3 million)
+
+• | Accumulated depreciation (decreased $30.5 million)
+
+• | Other intangible assets (decreased $1.9 million)
+
+• | Goodwill (decreased $12.5 million)
+
+• | Accounts payable (increased $4.1 million)
+
+• | Accrued liabilities (decreased $17.4 million)
+
+• | Accrued taxes (increased $25.9 million)
+
+• | Deferred taxes on income (decreased $13.3 million)
+
+Total assets were revised from $23,286.0 million to $23,264.3 million, total liabilities from $20,778.7 million to $20,778.1 million, and total equity from $2,507.3 million to $2,486.2 million. For the year ended December 31, 2012, the corrections impact the classification of cash flows from operating activities (decreased $8.1 million), financing activities ($0.0 million) and investing activities (increased $20.4 million), resulting in an increase of $12.3 million in cash and cash equivalents. For the year ended December 31, 2011, the corrections impact the classification of cash flows from operating activities (decreased $22.4 million), financing activities ($0.0 million) and investing activities (increased $22.4 million), resulting in no change in cash and cash equivalents. The corrections have an immaterial impact on the cash flows from operating, investing or financing activities in our Statements of Cash Flows for the years ended December 31, 2012 and 2011. Further, the consolidated Statements of Comprehensive Income (Loss) for the years ended December 31, 2012 and 2011 were only impacted by the changes in net income (loss) resulting from the corrections.
+
+The following tables present the effect of this correction on our Consolidated Statements of Operations (in millions, except per share data):
+
+Year ended December 31, 2012 | Year ended December 31, 2011
+As Previously Reported | Adjustment | As Revised | As Previously Reported | Adjustment | As Revised
+Total revenues | $9,020.8 | $4.1 | $9,024.9 | $8,298.4 | $0.9 | $8,299.3
+Direct operating | 4,795.8 | (a) | 10.2 | 4,806.0 | 4,566.4 | (d) | 6.7 | 4,573.1
+Depreciation of revenue earning equipment and lease charges | 2,148.2 | (b) | (19.3) | 2,128.9 | 1,905.7 | (e) | (9.5) | 1,896.2
+Selling, general and administrative | 945.7 | (c) | 22.4 | 968.1 | 745.3 | (f) | 22.4 | 767.7
+Income before income taxes | 450.6 | (9.2) | 441.4 | 324.3 | (18.7) | 305.6
+(Provision) benefit for taxes on income | (207.5) | 4.7 | (202.8) | (128.5) | 6.7 | (121.8)
+Net income | 243.1 | (4.5) | 238.6 | 195.8 | (12.0) | 183.8
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | 243.1 | (4.5) | 238.6 | 176.2 | (12.0) | 164.2
+Earnings per share:
+Basic | $0.58 | $0.57 | $0.42 | $0.39
+Diluted | $0.54 | $0.53 | $0.40 | $0.37
+
+[p. 85]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+(a) | Primarily consists of $3.6 million adjustments related to Brazil and certain reclassifications of $3.5 million to conform to the current presentation.
+
+(b) | Primarily consists of $23.6 million adjustment related to vendor incentives.
+
+(c) | Primarily consists of $25.9 million adjustment related to vendor incentives, offset by certain reclassifications of $3.5 million to conform to the current presentation.
+
+(d) | Primarily consists of $6.2 million adjustment related to Brazil.
+
+(e) | Primarily consists of $9.5 million adjustment related to vendor incentives.
+
+(f) | Primarily consists of $22.4 million adjustment related to vendor incentives.
+
+(Unaudited) | (Unaudited)
+Three Months Ended March 31, 2013 | Three Months Ended June 30, 2013
+As Previously Reported | Adjustment ** | As Revised | As Previously Reported | Adjustment ** | As Revised
+Total revenues | $2,436.5 | $0.4 | $2,436.9 | $2,714.6 | $(5.4) | $2,709.2
+Direct operating | 1,351.2 | 7.7 | 1,358.9 | 1,405.9 | 8.3 | 1,414.2
+Depreciation of revenue earning equipment and lease charges | 587.0 | (6.9) | 580.1 | 641.1 | (13.6) | 627.5
+Selling, general and administrative | 251.7 | (4.1) | 247.6 | 275.0 | 5.9 | 280.9
+Other (income) expense, net | (0.6) | 2.3 | 1.7 | (1.1) | — | (1.1)
+Income before income taxes | 72.3 | 1.4 | 73.7 | 211.9 | (6.0) | 205.9
+(Provision) benefit for taxes on income | (54.3) | (3.6) | (57.9) | (90.5) | 5.4 | (85.1)
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | 18.0 | (2.2) | 15.8 | 121.4 | (0.6) | 120.8
+Earnings per share:
+Basic | $0.04 | $0.04 | $0.30 | $0.30
+Diluted | $0.04 | $0.04 | $0.27 | $0.27
+
+[p. 86]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+(Unaudited)
+Six Months Ended June 30, 2013
+As Previously Reported | Adjustment ** | As Revised
+Total revenues | $5,151.2 | $(5.0) | $5,146.2
+Direct operating | 2,757.1 | 16.0 | 2,773.1
+Depreciation of revenue earning equipment and lease charges | 1,228.1 | (20.5) | 1,207.6
+Selling, general and administrative | 526.7 | 1.8 | 528.5
+Other (income) expense, net | (1.7) | 2.3 | 0.6
+Income before income taxes | 284.2 | (4.6) | 279.6
+(Provision) benefit for taxes on income | (144.8) | 1.8 | (143.0)
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | 139.4 | (2.8) | 136.6
+Earnings per share:
+Basic | $0.34 | $0.33
+Diluted | $0.31 | $0.31
+
+** Refer to explanations (g) through (i) mentioned below for the nine months ended September 30, 2013.
+
+[p. 87]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+(Unaudited) | (Unaudited)
+Three Months Ended September 30, 2013 | Nine Months Ended September 30, 2013
+As Previously Reported | Adjustment ** | As Revised | As Previously Reported | Adjustment | As Revised
+Total revenues | $3,069.4 | $— | $3,069.4 | $8,220.6 | $(5.0) | $8,215.6
+Direct operating | 1,525.4 | 14.1 | 1,539.5 | 4,282.6 | (g) | 30.1 | 4,312.7
+Depreciation of revenue earning equipment and lease charges | 676.7 | (1.8) | 674.9 | 1,904.8 | (h) | (22.3) | 1,882.5
+Selling, general and administrative | 276.8 | (5.3) | 271.5 | 803.5 | (i) | (3.5) | 800.0
+Other (income) expense, net | 83.4 | — | 83.4 | 81.7 | 2.3 | 84.0
+Income before income taxes | 328.3 | (7.0) | 321.3 | 612.4 | (11.6) | 600.8
+(Provision) benefit for taxes on income | (113.6) | 2.5 | (111.1) | (258.3) | 4.3 | (254.0)
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | 214.7 | (4.5) | 210.2 | 354.1 | (7.3) | 346.8
+Earnings per share:
+Basic | $0.51 | $0.49 | $0.86 | $0.84
+Diluted | $0.47 | $0.46 | $0.78 | $0.76
+
+_______________________________________________________________________________
+
+(g) | Primarily consists of $3.1 million adjustments related to under accruals and certain reclassifications of $23.1 million to conform to the current presentation.
+
+(h) | Primarily consists of $22.1 million adjustment related to vendor incentives.
+
+(i) | Primarily consists of $21.2 million adjustment related to vendor incentives, offset by certain reclassifications of $23.1 million to conform to the current presentation.
+
+[p. 88]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+(Unaudited) | (Unaudited)
+Three Months Ended March 31, 2012 | Three Months Ended June 30, 2012
+As Previously Reported | Adjustment * | As Revised | As Previously Reported | Adjustment * | As Revised
+Total revenues | $1,960.9 | $0.8 | $1,961.7 | $2,225.1 | $1.1 | $2,226.2
+Direct operating | 1,114.1 | 0.9 | 1,115.0 | 1,188.9 | 5.3 | 1,194.2
+Depreciation of revenue earning equipment and lease charges | 515.1 | (6.4) | 508.7 | 519.8 | (5.3) | 514.5
+Selling, general and administrative | 207.8 | 6.2 | 214.0 | 206.6 | 11.8 | 218.4
+(Loss) income before income taxes | (36.8) | 0.1 | (36.7) | 158.7 | (10.7) | 148.0
+(Provision) benefit for taxes on income | (19.5) | (0.1) | (19.6) | (65.8) | 5.7 | (60.1)
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | (56.3) | — | (56.3) | 92.9 | (5.0) | 87.9
+Earnings (loss) per share:
+Basic | $(0.13) | $(0.13) | $0.22 | $0.21
+Diluted | $(0.13) | $(0.13) | $0.21 | $0.20
+
+(Unaudited)
+Six Months Ended June 30, 2012
+As Previously Reported | Adjustment * | As Revised
+Total revenues | $4,186.1 | $1.9 | $4,188.0
+Direct operating | 2,303.1 | 6.2 | 2,309.3
+Depreciation of revenue earning equipment and lease charges | 1,034.9 | (11.7) | 1,023.2
+Selling, general and administrative | 414.3 | 18.0 | 432.3
+Income before income taxes | 121.9 | (10.6) | 111.3
+(Provision) benefit for taxes on income | (85.3) | 5.6 | (79.7)
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | 36.6 | (5.0) | 31.6
+Earnings per share:
+Basic | $0.09 | $0.08
+Diluted | $0.08 | $0.07
+
+[p. 89]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+(Unaudited) | (Unaudited)
+Three Months Ended September 30, 2012 | Nine Months Ended September 30, 2012
+As Previously Reported | Adjustment * | As Revised | As Previously Reported | Adjustment * | As Revised
+Total revenues | $2,516.2 | $1.0 | $2,517.2 | $6,702.3 | $2.9 | $6,705.2
+Direct operating | 1,241.1 | (3.1) | 1,238.0 | 3,544.2 | 3.1 | 3,547.3
+Depreciation of revenue earning equipment and lease charges | 560.5 | (3.8) | 556.7 | 1,595.4 | (15.5) | 1,579.9
+Selling, general and administrative | 201.0 | 3.7 | 204.7 | 615.3 | 21.7 | 637.0
+Other (income) expense, net
+Income before income taxes | 368.9 | 4.2 | 373.1 | 490.8 | (6.4) | 484.4
+(Provision) benefit for taxes on income | (126.0) | (3.3) | (129.3) | (211.3) | 2.3 | (209.0)
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | 242.9 | 0.9 | 243.8 | 279.5 | (4.1) | 275.4
+Earnings per share:
+Basic | $0.58 | $0.58 | $0.67 | $0.66
+Diluted | $0.55 | $0.55 | $0.63 | $0.62
+
+(Unaudited)
+Three Months Ended December 31, 2012
+As Previously Reported | Adjustment * | As Revised
+Total revenues | $2,318.5 | $1.2 | $2,319.7
+Direct operating | 1,250.6 | 7.1 | 1,257.7
+Depreciation of revenue earning equipment and lease charges | 553.8 | (3.8) | 550.0
+Selling, general and administrative | 330.4 | 0.7 | 331.1
+Loss before income taxes | (40.3) | (2.8) | (43.1)
+(Provision) benefit for taxes on income | 3.9 | 2.4 | 6.3
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | (36.4) | (0.4) | (36.8)
+Earnings (loss) per share:
+Basic | $(0.09) | $(0.09)
+Diluted | $(0.09) | $(0.09)
+
+_______________________________________________________________________________
+
+* Refer to explanations (a) through (c) mentioned above for the year ended December 31, 2012.
+
+[p. 90]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Acquisition Accounting
+
+We account for business combinations using the acquisition method, which requires an allocation of the purchase price of an acquired entity to the assets acquired and liabilities assumed based on their estimated fair values at the date of acquisition. Goodwill represents the excess of the purchase price over the net tangible and intangible assets acquired.
+
+Revenue Recognition
+
+Rental and rental related revenue (including cost reimbursements from customers where we consider ourselves to be the principal versus an agent) are recognized over the period the revenue earning equipment is rented or leased based on the terms of the rental or leasing contract. Maintenance management administrative fees are recognized monthly and maintenance management service revenue is recognized when services are performed. Revenue related to new equipment sales and consumables is recognized at the time of delivery to, or pick-up by, the customer and when collectability is reasonably assured. Fees from our franchisees are recognized over the period the underlying franchisees' revenue is earned (over the period the franchisees' revenue earning equipment is rented). Certain truck and equipment leases are originated with the intention of syndicating to banks, and upon the sale of rights to these direct financing leases, the net gain is recorded in revenue.
+
+Sales tax amounts collected from customers have been recorded on a net basis.
+
+Cash and Cash Equivalents and Other
+
+We consider all highly liquid debt instruments purchased with an original maturity of three months or less to be cash equivalents.
+
+Restricted Cash and Cash Equivalents
+
+Restricted cash and cash equivalents includes cash and cash equivalents that are not readily available for our normal disbursements. Restricted cash and cash equivalents are restricted for the purchase of revenue earning vehicles and other specified uses under our Fleet Debt facilities, for our Like-Kind Exchange Program, or “LKE Program,” and to satisfy certain of our self-insurance regulatory reserve requirements.  These funds are primarily held in highly rated money market funds with investments primarily in government and corporate obligations. Restricted cash and cash equivalents are excluded from cash and cash equivalents.
+
+Concentration of Credit Risk
+
+Our cash and cash equivalents are invested in various investment grade institutional money market accounts and bank term deposits. Deposits held at banks may exceed the amount of insurance provided on such deposits. Generally, these deposits may be redeemed upon demand and are maintained with financial institutions with reputable credit and therefore bear minimal credit risk. We seek to mitigate such risks by spreading the risk across multiple counterparties and monitoring the risk profiles of these counterparties. In addition, we have credit risk from derivative financial instruments used in hedging activities. We limit our exposure relating to derivative financial instruments by diversifying the financial instruments among various counterparties, which consist of major financial institutions.
+
+Receivables
+
+Receivables are stated net of allowances for doubtful accounts and represent credit extended to manufacturers and customers that satisfy defined credit criteria. The estimate of the allowance for doubtful accounts is based on our historical experience and our judgment as to the likelihood of ultimate payment. Actual receivables are written-off against the allowance for doubtful accounts when we determine the balance will not be collected. Bad debt expense is reflected as a component of "Selling, general and administrative" in our consolidated statements of operations.
+
+Property and Equipment
+
+Property and equipment are stated at cost and are depreciated utilizing the straight-line method over the estimated useful lives of the related assets. Leasehold improvements are amortized over the estimated useful lives of the related assets or leases, whichever is shorter. Useful lives are as follows:
+
+[p. 91]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Buildings | 5 to 50 years
+Furniture and fixtures | 1 to 15 years
+Capitalized internal use software | 1 to 10 years
+Service cars and service equipment | 1 to 13 years
+Other intangible assets | 3 to 10 years
+Leasehold improvements | The shorter of their economic lives or the lease term
+
+We follow the practice of charging maintenance and repairs, including the cost of minor replacements, to maintenance expense accounts. Costs of major replacements of units of property are capitalized to property and equipment accounts and depreciated on the basis indicated above. Gains and losses on dispositions of property and equipment are included in income as realized. During the years ended December 31, 2013 and 2012, gains from the dispositions of property and equipment of $3.9 million and $8.3 million, respectively, were included in our consolidated statements of operations.
+
+Revenue Earning Equipment
+
+Revenue earning equipment is stated at cost, net of related discounts. Holding periods are as follows:
+
+Cars | 4 to 36 months
+Other equipment | 24 to 108 months
+
+Generally, when revenue earning equipment is acquired, we estimate the period that we will hold the asset, primarily based on historical measures of the amount of rental activity (e.g., automobile mileage and equipment usage) and the targeted age of equipment at the time of disposal. We also estimate the residual value of the applicable revenue earning equipment at the expected time of disposal. The residual values for rental vehicles are affected by many factors, including make, model and options, age, physical condition, mileage, sale location, time of the year and channel of disposition (e.g., auction, retail, dealer direct). The residual value for rental equipment is affected by factors which include equipment age and amount of usage. Depreciation is recorded on a straight-line basis over the estimated holding period. Depreciation rates are reviewed on a quarterly basis based on management's ongoing assessment of present and estimated future market conditions, their effect on residual values at the time of disposal and the estimated holding periods. Market conditions for used vehicle and equipment sales can also be affected by external factors such as the economy, natural disasters, fuel prices and incentives offered by manufacturers of new cars. These key factors are considered when estimating future residual values and assessing depreciation rates. As a result of this ongoing assessment, we make periodic adjustments to depreciation rates of revenue earning equipment in response to changing market conditions. Upon disposal of revenue earning equipment, depreciation expense is adjusted for the difference between the net proceeds received and the remaining net book value.
+
+Within Donlen, revenue earning equipment is under longer term lease agreements with our customers. These leases contain provisions whereby we have a contracted residual value guaranteed to us by the lessee, such that we do not experience any gains or losses on the disposal of these vehicles. Therefore depreciation rates on these vehicles are not adjusted at any point in time per the associated lease contract.
+
+Environmental Liabilities
+
+The use of automobiles and other vehicles is subject to various governmental controls designed to limit environmental damage, including that caused by emissions and noise. Generally, these controls are met by the manufacturer, except in the case of occasional equipment failure requiring repair by us. To comply with environmental regulations, measures are taken at certain locations to reduce the loss of vapor during the fueling process and to maintain, upgrade and replace underground fuel storage tanks. We also incur and provide for expenses for the cleanup of petroleum discharges and other alleged violations of environmental laws arising from the disposition of waste products. We do not believe that we will be required to make any material capital expenditures for environmental control facilities or to make any other material expenditures to meet the requirements of governmental authorities in this area. Liabilities for these expenditures are recorded at undiscounted amounts when it is probable that obligations have been incurred and the amounts can be reasonably estimated.
+
+Public Liability and Property Damage
+
+The obligation for public liability and property damage on self-insured U.S. and international vehicles and equipment represents an estimate for both reported accident claims not yet paid, and claims incurred but not yet reported. The
+
+[p. 92]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+related liabilities are recorded on a non-discounted basis. Reserve requirements are based on actuarial evaluations of historical accident claim experience and trends, as well as future projections of ultimate losses, expenses, premiums and administrative costs. The adequacy of the liability is regularly monitored based on evolving accident claim history and insurance-related state legislation changes. If our estimates change or if actual results differ from these assumptions, the amount of the recorded liability is adjusted to reflect these results.
+
+Pension Benefit Obligations
+
+Our employee pension costs and obligations are developed from actuarial valuations. Inherent in these valuations are key assumptions, including discount rates, salary growth, long-term return on plan assets, retirement rates, mortality rates and other factors. Actual results that differ from our assumptions are accumulated and amortized over future periods and, therefore, generally affect our recognized expense in such future periods. While we believe that the assumptions used are appropriate, significant differences in actual experience or significant changes in assumptions would affect our pension costs and obligations.
+
+Foreign Currency Translation and Transactions
+
+Assets and liabilities of international subsidiaries are translated at the rate of exchange in effect on the balance sheet date; income and expenses are translated at the average rate of exchange prevailing during the year. The related translation adjustments are reflected in “Accumulated other comprehensive loss” in the equity section of our consolidated balance sheets. As of December 31, 2013 and 2012, the accumulated foreign currency translation gain was $54.8 million and $102.3 million, respectively. Foreign currency gains and losses resulting from transactions are included in earnings.
+
+Derivative Instruments
+
+We are exposed to a variety of market risks, including the effects of changes in interest rates, gasoline and diesel fuel prices and foreign currency exchange rates. We manage our exposure to these market risks through our regular operating and financing activities and, when deemed appropriate, through the use of derivative financial instruments. Derivative financial instruments are viewed as risk management tools and have not been used for speculative or trading purposes. In addition, derivative financial instruments are entered into with a diversified group of major financial institutions in order to manage our exposure to counterparty nonperformance on such instruments. We account for all derivatives in accordance with GAAP, which requires that all derivatives be recorded on the balance sheet as either assets or liabilities measured at their fair value. For derivative instruments that are designated and qualify as hedging instruments, we designate the hedging instrument, based upon the exposure being hedged, as either a fair value hedge or a cash flow hedge. As of December 31, 2013, we did not have any outstanding derivative instruments designated as fair value or cash flow hedges. The effective portion of changes in fair value of derivatives designated as cash flow hedging instruments is recorded as a component of other comprehensive income (loss). Amounts included in accumulated other comprehensive income (loss) for cash flow hedges are reclassified into earnings in the same period that the hedged item is recognized in earnings. The ineffective portion of changes in the fair value of derivatives designated as cash flow hedges is recognized currently in earnings within the same line item as the hedged item, based upon the nature of the hedged item. For derivative instruments that are not part of a qualified hedging relationship, the changes in their fair value are recognized currently in earnings. See Note 15—Financial Instruments and Fair Value Measurements.
+
+Income Taxes
+
+Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect of a change in tax rates is recognized in the statement of operations in the period that includes the enactment date. Valuation allowances are recorded to reduce deferred tax assets when it is more likely than not that a tax benefit will not be realized. Subsequent changes to enacted tax rates and changes to the global mix of earnings will result in changes to the tax rates used to calculate deferred taxes and any related valuation allowances. Provisions are not made for income taxes on undistributed earnings of international subsidiaries that are intended to be indefinitely reinvested outside of the United States or are expected to be remitted free of taxes. Future distributions, if any, from these international subsidiaries to the United States or changes in U.S. tax rules may require a change to reflect tax on these amounts. See Note 9—Taxes on Income.
+
+[p. 93]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Advertising
+
+Advertising and sales promotion costs are expensed the first time the advertising or sales promotion takes place. Advertising costs are reflected as a component of “Selling, general and administrative” in our consolidated statements of operations and for the years ended December 31, 2013, 2012 and 2011 were $213.1 million, $183.9 million and $168.2 million, respectively.
+
+Goodwill
+
+Goodwill is not amortized but is subject to periodic testing for impairment in accordance with FASB ASC Topic 350, “Intangibles—Goodwill and Other,” or “ASC 350,” at the reporting unit level which is one level below our operating segments. The assessment of goodwill impairment is conducted by estimating and comparing the fair value of our reporting units, as defined in ASC 350, to their carrying value as of that date. The fair value is estimated using an income approach whereby the fair value of the reporting unit is based on the future cash flows that each reporting unit's assets can be expected to generate. Future cash flows are based on forward-looking information regarding market share and costs for each reporting unit and are discounted using an appropriate discount rate. Future discounted cash flows can be affected by changes in industry or market conditions or the rate and extent to which anticipated synergies or cost savings are realized with newly acquired entities. The test for impairment is conducted annually each October 1st, and more frequently if events occur or circumstances change that indicate that the fair value of a reporting unit may be below its carrying amount.
+
+Intangible and Long-lived Assets
+
+Intangible assets include concession agreements, technology, customer relationships, trademarks and trade-names and other intangibles. Intangible assets with finite lives are amortized using the straight-line method over the estimated economic lives of the assets, which range from two to fifteen years. Long-lived assets, including intangible assets with finite lives, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of such assets may not be recoverable in accordance with FASB ASC Topic 360, “Property, Plant, and Equipment,” or “ASC 360.” Determination of recoverability is based on an estimate of undiscounted future cash flows resulting from the use of the asset and its eventual disposition. Measurement of an impairment loss for long-lived assets that management expects to hold and use is based on the estimated fair value of the asset. Long-lived assets to be disposed of are reported at the lower of carrying amount or estimated fair value less costs to sell. Intangible assets determined to have indefinite useful lives are not amortized but are tested for impairment annually each October 1st and more frequently if events occur or circumstances change that indicate an asset may be impaired.
+
+Stock-Based Compensation
+
+We measure the cost of employee services received in exchange for an award of equity instruments based on the grant date fair value of the award. That cost is to be recognized over the period during which the employee is required to provide service in exchange for the award. We have estimated the fair value of options issued at the date of grant using a Black-Scholes option-pricing model, which includes assumptions related to volatility, expected life, dividend yield and risk-free interest rate. See Note 7—Stock-Based Compensation.
+
+We are using equity accounting for restricted stock unit and performance stock unit awards. For restricted stock units the expense is based on the grant-date fair value of the stock and the number of shares that vest, recognized over the service period. For performance stock units the expense is based on the grant-date fair value of the stock, recognized over a two to four year service period depending upon a performance condition. For performance stock units, we re-assess the probability of achieving the applicable performance condition each reporting period and adjust the recognition of expense accordingly. The performance condition is not considered in determining the grant date fair value.
+
+Franchise Revenues and Transactions
+
+“Franchise revenues” includes franchise fees for use of our brands and services. Generally franchise fees from franchised locations are based on a percentage of net sales of the franchised business and are recognized as earned and when collectability is reasonably assured.
+
+Initial franchise fees are recorded as deferred income when received and are recognized as revenue when all material services and conditions related to the franchise fee have been substantially performed.
+
+Renewal franchise fees are recognized as revenue when the license agreements are effective and collectability is reasonably assured.
+
+[p. 94]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Other (income) expense, net includes the gains or losses from the sales of our operations or assets to new and existing franchisees. Such gains or losses are included in operating income because they are expected to be a recurring part of our business.
+
+Recently Issued Accounting Pronouncements
+
+In March 2013, the FASB issued Accounting Standards Update, or "ASU," No. 2013-05, “Foreign Currency Matters (Topic 830): Parent's Accounting for the Cumulative Translation Adjustment upon Derecognition of Certain Subsidiaries or Groups of Assets within a Foreign Entity or of an Investment in a Foreign Entity,” or “ASU 2013-05”, which permits an entity to release cumulative translation adjustments into net income when a reporting entity (parent) ceases to have a controlling financial interest in a subsidiary or group of assets that is a business within a foreign entity. Accordingly, the cumulative translation adjustment should be released into net income only if the sale or transfer results in the complete or substantially complete liquidation of the foreign entity in which the subsidiary or group of assets had resided, or, if a controlling financial interest is no longer held. The revised standard is effective for reporting periods beginning after December 15, 2013. The amendments should be applied prospectively to derecognition events occurring after the effective date. Prior periods should not be adjusted. Early adoption is permitted. This accounting guidance is not expected to have a material impact on our consolidated financial statements or financial statement disclosures.
+
+In July 2013, the FASB issued ASU No. 2013-11, "Presentation of an Unrecognized Tax Benefit When a Net Operating Loss Carryforward, a Similar Tax Loss, or a Tax Credit Carryforward Exists," an amendment to FASB ASC Topic 740, Income Taxes, or "FASB ASC Topic 740." This update clarifies that an unrecognized tax benefit, or a portion of an unrecognized tax benefit, should be presented in the financial statements as a reduction to a deferred tax asset for a net operating loss carryforward, a similar tax loss, or a tax credit carryforward if such settlement is required or expected in the event the uncertain tax position is disallowed. In situations where a net operating loss carryforward, a similar tax loss, or a tax credit carryforward is not available at the reporting date under the tax law of the applicable jurisdiction or the tax law of the jurisdiction does not require, and the entity does not intend to use, the deferred tax asset for such purpose, the unrecognized tax benefit should be presented in the financial statements as a liability and should not be combined with deferred tax assets. This ASU is effective prospectively for fiscal years, and interim periods within those years, beginning after December 15, 2013. Early adoption and retrospective application are permitted. This accounting guidance is not expected to have a material impact on our consolidated financial statements or financial statement disclosures.

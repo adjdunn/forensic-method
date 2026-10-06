@@ -1,0 +1,29 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-K for the fiscal year ended December 31, 2011, filed 2012-02-27. Item 8, Notes to Consolidated Financial Statements, Note 15: Earnings (Loss) Per Share. https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm
+
+[p. 145]
+
+Note 15—Earnings (Loss) Per Share
+
+Basic earnings (loss) per share has been computed based upon the weighted average number of common shares outstanding. Diluted earnings (loss) per share has been computed based upon the weighted average number of common shares outstanding plus the effect of all potentially dilutive common stock equivalents, except when the effect would be anti-dilutive.
+
+[p. 146]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+The following table sets forth the computation of basic and diluted earnings (loss) per share (in millions of dollars, except per share amounts):
+
+Years ended December 31,
+2011 | 2010 | 2009
+Basic and diluted earnings (loss) per share:
+Numerator:
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | $176.2 | $(48.7) | $(129.5)
+Denominator:
+Weighted average shares used in basic computation | 415.9 | 411.9 | 371.5
+Add: Stock options, RSUs and PSUs | 7.5 | — | —
+Add: Potential issuance of common stock upon conversion of Convertible Senior Notes | 21.4 | — | —
+Weighted average shares used in diluted computation | 444.8 | 411.9 | 371.5
+Earning (loss) per share attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders, basic | $0.42 | $(0.12) | $(0.35)
+Earnings (loss) per share attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders, diluted | $0.40 | $(0.12) | $(0.35)
+
+Diluted earnings (loss) per share computations for the years ended December 31, 2011, 2010 and 2009 excluded the weighted-average impact of the assumed exercise of approximately 8.7 million, 22.6 million and 21.7 million shares, respectively, of stock options, RSUs and PSUs because such impact would be antidilutive. Additionally, for the years ended December 31, 2010 and 2009, there was no impact to the diluted loss per share computations associated with the Convertible Senior Notes, because such impact would be antidilutive.

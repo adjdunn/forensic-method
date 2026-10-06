@@ -1,0 +1,26 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q1 2011 (three months ended 31 Mar 2011), filed 2011-05-06. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 9: Stock-Based Compensation. https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm
+
+[p. 17]
+
+Note 9—Stock-Based Compensation
+
+In March 2011, we granted 371,505 Restricted Stock Units, or "RSUs," to certain executives and employees at fair values ranging from $14.60 to $15.02 and 693,313 Performance Stock Units, or "PSUs," at a fair value of $14.60 under the Hertz Global Holdings, Inc. 2008 Omnibus Incentive Plan, or the "Omnibus Plan." For the PSUs, 499,515 have a performance condition under which the number of units that will ultimately be awarded will vary from 0% to 150% of the original grant, based on the sum of 2011 and 2012 Corporate EBITDA results. The remaining 193,798 PSUs granted contain a market condition whereby the 20 day average trailing stock price must equal or exceed a certain price target at any time during the five year performance period.
+
+In March 2011, we granted options to acquire 2,108,944 shares of our common stock to certain executives and employees at exercise prices ranging from $14.60 to $15.02 under the Omnibus Plan.
+
+A summary of the total compensation expense and associated income tax benefits recognized under our Hertz Global Holdings, Inc. Stock Incentive Plan and Hertz Global Holdings, Inc. Director Stock Incentive Plan, or the "Prior Plans," and the Omnibus Plan, including the cost of stock options, RSUs, and PSUs, is as follows (in millions of dollars):
+
+Three Months Ended March 31,
+2011 | 2010
+Compensation Expense | $9.1 | $9.0
+Income Tax Benefit | (3.5) | (3.5)
+Total | $5.6 | $5.5
+
+As of March 31, 2011, there was approximately $48.0 million of total unrecognized compensation cost related to non-vested stock options, RSUs and PSUs granted by Hertz Holdings under the Prior Plans and the Omnibus Plan, including costs related to modifying the exercise prices of certain option grants in order to preserve the intrinsic value of the options, consistent with applicable tax law, to reflect special cash dividends of $4.32 per share paid on June 30, 2006 and $1.12 per share paid on November 21, 2006. The total unrecognized compensation cost is expected to be recognized over the remaining 1.7 years, on a weighted average basis, of the requisite service period that began on the grant dates.
+
+[p. 18]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited

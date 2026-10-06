@@ -1,0 +1,34 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q3 2013 (three and nine months ended 30 Sep 2013), filed 2013-11-07. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 2: Basis of Presentation and Recently Issued Accounting Pronouncements. https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm
+
+[p. 8]
+
+Note 2—Basis of Presentation and Recently Issued Accounting Pronouncements
+
+Basis of Presentation
+
+The significant accounting policies summarized in Note 2 to our audited consolidated financial statements contained in our Annual Report on Form 10-K for the fiscal year ended December 31, 2012, filed with the United States Securities and Exchange Commission, or "SEC," on March 4, 2013, or the "Form 10-K," have been followed in preparing the accompanying condensed consolidated financial statements.
+
+The December 31, 2012 condensed consolidated balance sheet data was derived from our audited financial statements, but does not include all disclosures required by accounting principles generally accepted in the United States of America, or "GAAP."
+
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the amounts reported in the financial statements and footnotes. Actual results could differ materially from those estimates.
+
+In our opinion, all adjustments necessary for a fair presentation of the results of operations for the interim periods have been made. Results for interim periods are not necessarily indicative of results for a full year.
+
+Certain prior period amounts have been reclassified to conform with current period presentation.
+
+The Company has revised its consolidated statement of cash flows to correctly present borrowings and repayments related to its revolving lines of credits on a gross basis. These amounts had previously been presented on a net basis within the financing section. This revision had no impact on the Company's total operating, investing or financing cash flows.
+
+In the third quarter of 2013 we changed the composition of our reportable segments upon further consideration of the guidance provided in the Financial Accounting Standards Board, or “FASB,” Accounting Standards Codification, or “ASC,” Topic 280, Segment Reporting. We historically aggregated our U.S., Europe, Other International and Donlen car rental operating segments together to produce a worldwide car rental reportable segment. We now present our operations as four reportable segments (U.S. car rental, international car rental, worldwide equipment rental and all other operations). We have revised our segment results presented herein to reflect this new segment structure, including for prior periods. Such revisions have no impact on our consolidated financial condition, results of operations or cash flows for the periods presented. See Note 11—Segment Information.
+
+[p. 9]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Recently Issued Accounting Pronouncements
+
+In March 2013, the Financial Accounting Standards Board, or "FASB," issued Accounting Standards Update, or "ASU," No. 2013-05, “Foreign Currency Matters (Topic 830): Parent's Accounting for the Cumulative Translation Adjustment upon Derecognition of Certain Subsidiaries or Groups of Assets within a Foreign Entity or of an Investment in a Foreign Entity,” or “ASU 2013-05”, which permits an entity to release cumulative translation adjustments into net income when a reporting entity (parent) ceases to have a controlling financial interest in a subsidiary or group of assets that is a business within a foreign entity. Accordingly, the cumulative translation adjustment should be released into net income only if the sale or transfer results in the complete or substantially complete liquidation of the foreign entity in which the subsidiary or group of assets had resided, or, if a controlling financial interest is no longer held. The revised standard is effective for reporting periods beginning after December 15, 2013. The amendments should be applied prospectively to derecognition events occurring after the effective date. Prior periods should not be adjusted. Early adoption is permitted. This accounting guidance is not expected to have a material impact on our consolidated financial statements or financial statement disclosures.
+
+In July 2013, the FASB issued ASU No. 2013-11, "Presentation of an Unrecognized Tax Benefit When a Net Operating Loss Carryforward, a Similar Tax Loss, or a Tax Credit Carryforward Exists," an amendment to FASB Accounting Standards Codification, or "ASC" Topic 740, Income Taxes, or "FASB ASC Topic 740." This update clarifies that an unrecognized tax benefit, or a portion of an unrecognized tax benefit, should be presented in the financial statements as a reduction to a deferred tax asset for a net operating loss carryforward, a similar tax loss, or a tax credit carryforward if such settlement is required or expected in the event the uncertain tax position is disallowed. In situations where a net operating loss carryforward, a similar tax loss, or a tax credit carryforward is not available at the reporting date under the tax law of the applicable jurisdiction or the tax law of the jurisdiction does not require, and the entity does not intend to use, the deferred tax asset for such purpose, the unrecognized tax benefit should be presented in the financial statements as a liability and should not be combined with deferred tax assets. This ASU is effective prospectively for fiscal years, and interim periods within those years, beginning after December 15, 2013. Early adoption and retrospective application are permitted. This accounting guidance is not expected to have a material impact on our consolidated financial statements or financial statement disclosures.

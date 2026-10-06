@@ -1,0 +1,18 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-K for the fiscal year ended December 31, 2013, filed 2014-03-19. Item 8, Notes to Consolidated Financial Statements, Note 8: Depreciation of Revenue Earning Equipment and Lease Charges. https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm
+
+[p. 126]
+
+Note 8—Depreciation of Revenue Earning Equipment and Lease Charges
+
+Depreciation of revenue earning equipment and lease charges includes the following (in millions of dollars):
+
+Years Ended December 31,
+2013 | 2012 | 2011
+Depreciation of revenue earning equipment | $2,407.8 | $2,145.9 | $1,912.3
+Adjustment of depreciation upon disposal of revenue earning equipment | 37.2 | (96.8) | (112.2)
+Rents paid for vehicles leased | 80.5 | 79.8 | 96.1
+Total | $2,525.5 | $2,128.9 | $1,896.2
+
+The adjustment of depreciation upon disposal of revenue earning equipment for the years ended December 31, 2013, 2012 and 2011, included net losses of $48.2 million, and net gains of $100.6 million and $114.9 million, respectively, on the disposal of vehicles used in our U.S. car rental operations, net losses of $15.2 million, $17.3 million and $16.0 million, respectively, on the disposal of vehicles used in our international car rental operations and net gains of $26.2 million, $13.5 million and $13.3 million, respectively, on the disposal of industrial and construction equipment used in our worldwide equipment rental operations. The loss on vehicle sales in our car rental operations was primarily due to a combination of declining residual values from falling demand for used vehicles and timing of sales of revenue earning equipment in our car rental operations.
+
+Depreciation rates are reviewed on a quarterly basis based on management's routine review of present and estimated future market conditions and their effect on residual values at the time of disposal. During the year ended December 31, 2013, depreciation rates being used to compute the provision for depreciation of revenue earning equipment were adjusted on certain vehicles in our car rental operations to reflect changes in the estimated residual values to be realized when revenue earning equipment is sold. These depreciation rate changes in our U.S. car rental operations from previous quarters resulted in net decreases of $44.2 million, $139.4 million and $26.7 million in depreciation expense for the years ended December 31, 2013, 2012 and 2011, respectively. The favorable adjustments reflect changes from the impact of car sales channel diversification, acceleration of our retail sales expansion and the optimization of fleet holding periods related to the integration of Dollar Thrifty. The cumulative effect of the reduction in rates was also indicative of the residual values experienced in the U.S. for the years ended December 31, 2013, 2012 and 2011. These depreciation rate changes in our international operations resulted in net increases of $5.0 million, $8.8 million and $12.9 million in depreciation expense for the years ended December 31, 2013, 2012 and 2011. In 2013, 2012 and 2011, the depreciation rate changes in certain of our worldwide equipment rental operations resulted in a decrease of $0.4 million, an increase of $0.5 million, and a decrease of $4.4 million in depreciation expense, respectively.

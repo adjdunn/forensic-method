@@ -1,0 +1,20 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-K for the fiscal year ended December 31, 2011, filed 2012-02-27. Item 8, Notes to Consolidated Financial Statements, Note 7: Depreciation of Revenue Earning Equipment and Lease Charges. https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm
+
+[p. 125]
+
+Note 7—Depreciation of Revenue Earning Equipment and Lease Charges
+
+Depreciation of revenue earning equipment and lease charges includes the following (in millions of dollars):
+
+Years ended December 31,
+2011 | 2010 | 2009
+Depreciation of revenue earning equipment | $1,921.8 | $1,747.0 | $1,780.1
+Adjustment of depreciation upon disposal of the equipment | (112.2) | 42.9 | 72.0
+Rents paid for vehicles leased | 96.1 | 78.2 | 81.7
+Total | $1,905.7 | $1,868.1 | $1,933.8
+
+The adjustment of depreciation upon disposal of revenue earning equipment for the years ended December 31, 2011, 2010 and 2009 included (in millions of dollars) net gain of $13.3 million, net losses of $10.0 and $40.7, respectively, on the disposal of industrial and construction equipment used in our equipment rental operations, and net gain of $98.9 million, net losses of $32.9 and $31.3, respectively, on the disposal of vehicles used in our car rental operations.
+
+Depreciation rates are reviewed on a quarterly basis based on management's routine review of present and estimated future market conditions and their effect on residual values at the time of disposal. During 2011, 2010 and 2009, depreciation rates being used to compute the provision for depreciation of revenue earning equipment were adjusted on certain vehicles in our car rental operations to reflect changes in the estimated residual values to be realized when revenue earning equipment is sold. These depreciation rate changes resulted in a net decrease of $13.8 million and increases of $19.1 million and $13.2 million in depreciation expense for the years ended December 31, 2011, 2010 and 2009, respectively. Depreciation rate changes in certain of our equipment rental operations resulted in a decrease of $4.4 million and increases of $3.6 million and $6.1 million in depreciation expense for the years ended December 31, 2011, 2010 and 2009, respectively.
+
+For the years ended December 31, 2011, 2010 and 2009, our worldwide car rental operations sold approximately 164,100, 159,000 and 153,300 non-program cars, respectively, a 3.2% increase in 2011 versus 2010 primarily due to a higher average fleet size.

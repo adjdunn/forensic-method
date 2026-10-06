@@ -1,0 +1,88 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q3 2012 (three and nine months ended 30 Sep 2012), filed 2012-11-02. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 13: Financial Instruments. https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm
+
+[p. 25]
+
+Note 13—Financial Instruments
+
+Cash and Cash Equivalents and Restricted Cash and Cash Equivalents
+
+Fair value approximates the amount indicated on the balance sheet at September 30, 2012 and December 31, 2011 because of the short-term maturity of these instruments. Money market accounts, whose fair value at September 30, 2012, is measured using Level 1 inputs, totaling $65.4 million and $300.4 million are included in "Cash and cash equivalents" and "Restricted cash and cash equivalents," respectively. Money market accounts, whose fair value at December 31, 2011, is measured using Level 1 inputs, totaling $566.0 million and $142.9 million are included in "Cash and cash equivalents" and "Restricted cash and cash equivalents," respectively.
+
+Marketable Securities
+
+Marketable securities held by us consist of equity securities classified as available-for-sale, which are carried at fair value and are included within "Prepaid expenses and other assets." Unrealized gains and losses, net of related income taxes, are included in "Accumulated other comprehensive loss." As of September 30, 2012 and December 31, 2011, the fair value of marketable securities was $41.1 million and $33.2 million, respectively. For the three and nine months ended September 30, 2012, unrealized gains of $2.8 million and $7.9 million, respectively, were recorded in "Accumulated other comprehensive loss." For the three and nine months ended September 30, 2011, unrealized gains of $8.2 million and $6.3 million, respectively, were recorded in "Accumulated other comprehensive loss." Fair values for marketable securities are based on Level 1 inputs consisting of quoted market prices.
+
+Debt
+
+For borrowings with an initial maturity of 93 days or less, fair value approximates carrying value because of the short-term nature of these instruments. For all other debt, fair value is estimated based on quoted market rates as well as borrowing rates currently available to us for loans with similar terms and average maturities (Level 2 inputs). The aggregate fair value of all debt at September 30, 2012 was $13,465.8 million, compared to its aggregate unpaid principal balance of $12,771.6 million. The aggregate fair value of all debt at December 31, 2011 was $11,832.5 million, compared to its aggregate unpaid principal balance of $11,400.3 million.
+
+[p. 26]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Derivative Instruments and Hedging Activities
+
+The following table summarizes our financial assets and liabilities measured at fair value on a recurring basis (in millions of dollars):
+
+Fair Value of Derivative Instruments(1)
+Asset Derivatives(2) | Liability Derivatives(2)
+September 30, 2012 | December 31, 2011 | September 30, 2012 | December 31, 2011
+Derivatives not designated as hedging
+instruments under ASC 815:
+Gasoline swaps | $0.3 | $— | $— | $0.4
+Interest rate caps | — | 0.5 | — | 0.4
+Foreign exchange forward contracts | 4.2 | 4.4 | 3.3 | 1.9
+Interest rate swaps | — | — | — | 0.2
+Foreign exchange options | 0.1 | 0.1 | — | —
+Total derivatives not designated as hedging
+instruments under ASC 815 | $4.6 | $5.0 | $3.3 | $2.9
+
+_______________________________________________________________________________
+
+(1) | All fair value measurements were primarily based upon significant observable (Level 2) inputs.
+
+(2) | All asset derivatives are recorded in "Prepaid expenses and other assets" and all liability derivatives are recorded in "Accrued liabilities" on our condensed consolidated balance sheets.
+
+Location of Gain or (Loss) Recognized on Derivatives | Amount of Gain or (Loss) Recognized in Income on Derivatives
+Three Months Ended September 30,
+2012 | 2011
+Derivatives not designated as hedging
+instruments under ASC 815:
+Gasoline swaps | Direct operating | $2.1 | $(1.9)
+Interest rate caps | Selling, general and administrative | — | 0.1
+Foreign exchange forward contracts | Selling, general and administrative | (6.2) | 11.3
+Foreign exchange options | Selling, general and administrative | — | (0.1)
+Total | $(4.1) | $9.4
+
+Location of Gain or (Loss) Recognized on Derivatives | Amount of Gain or (Loss) Recognized in Income on Derivatives
+Nine Months Ended September 30,
+2012 | 2011
+Derivatives not designated as hedging
+instruments under ASC 815:
+Gasoline swaps | Direct operating | $0.6 | $1.0
+Interest rate caps | Selling, general and administrative | (0.1) | 0.1
+Foreign exchange forward contracts | Selling, general and administrative | (11.8) | 3.4
+Foreign exchange options | Selling, general and administrative | 0.1 | (0.1)
+Total | $(11.2) | $4.4
+
+In conjunction with the refinanced Series 2009-1 and the Series 2010-2, HVF purchased an interest rate cap for $6.7 million, with a maximum notional amount equal to the refinanced Series 2009-1 and the Series 2010-2 with a combined
+
+[p. 27]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+maximum principal amount of $2.1 billion, a strike rate of 5% and expected maturity date of March 25, 2013. Additionally, Hertz sold a 5% interest rate cap for $6.2 million, with a matching notional amount and term to the HVF interest rate cap. In March 2012, an additional $250 million of the Series 2009-1 notes was issued, for which HVF and Hertz amended their interest rate cap agreements to increase the maximum notional amounts by $250 million. Also, in December 2010, the Australian Securitization was completed and our Australian operating subsidiary purchased an interest rate cap for $0.5 million, with a maximum notional amount equal to the Australian Securitization maximum principal amount of A$250 million, a strike rate of 7% and expected maturity date of December 2012. Additionally, Hertz sold a 7% interest rate cap for $0.4 million with a matching notional amount and term to the Australian operating subsidiary's interest rate cap. The fair values of all interest rate caps were calculated using a discounted cash flow method and applying observable market data (i.e. the 1-month LIBOR yield curve and credit default swap spreads). Gains and losses resulting from changes in the fair value of these interest rate caps are included in our results of operations in the periods incurred.
+
+In connection with our acquisition of Donlen, we acquired interest rate swaps associated with floating rate debt. As of September 30, 2012, these interest rate swaps have expired. These interest rate swaps are used to effectively convert an amount of floating rate debt into fixed rate debt. The fair values of these interest rate swaps were calculated using a discounted cash flow method and applying observable market data (i.e. the 1-month LIBOR yield curve). Gains and losses resulting from changes in the fair value of these interest rate swaps are included in our results of operations in the periods incurred (in Selling, general and administrative).
+
+We purchase unleaded gasoline and diesel fuel at prevailing market rates and maintain a program to manage our exposure to changes in fuel prices through the use of derivative commodity instruments. We currently have in place swaps to cover a portion of our fuel price exposure through November 2013. We presently hedge a portion of our overall unleaded gasoline and diesel fuel purchases with commodity swaps and have contracts in place that settle on a monthly basis. As of September 30, 2012, our outstanding commodity instruments for unleaded gasoline and diesel fuel totaled approximately 7.8 million gallons and 1.5 million gallons, respectively. The fair value of these commodity instruments was calculated using a discounted cash flow method and applying observable market data (including NYMEX RBOB Gasoline and U.S. Department of Energy surveys). Gains and losses resulting from changes in the fair value of these commodity instruments are included in our results of operations in the periods incurred.
+
+We manage our foreign currency risk primarily by incurring, to the extent practicable, operating and financing expenses in the local currency in the countries in which we operate, including making fleet and equipment purchases and borrowing locally. Also, we have purchased foreign exchange options to manage exposure to fluctuations in foreign exchange rates for selected marketing programs. The effect of exchange rate changes on these financial instruments would not materially affect our consolidated financial position, results of operations or cash flows. Our risks with respect to foreign exchange options are limited to the premium paid for the right to exercise the option and the future performance of the option's counterparty. Premiums paid for options outstanding as of September 30, 2012, were approximately $0.2 million. We limit counterparties to the transactions to financial institutions that have strong credit ratings. As of September 30, 2012 and December 31, 2011, the total notional amount of these foreign exchange options was $45.0 million and $9.1 million, respectively. As of September 30, 2012, these foreign exchange options mature through January 2014. The fair value of the foreign exchange options was calculated using a discounted cash flow method and applying observable market data (i.e. foreign currency exchange rates). Gains and losses resulting from changes in the fair value of these options are included in our results of operations in the periods incurred.
+
+We also manage exposure to fluctuations in currency risk on intercompany loans we make to certain of our subsidiaries by entering into foreign currency forward contracts at the time of the loans which are intended to offset the impact of foreign currency movements on the underlying intercompany loan obligations. As of September 30, 2012, the total notional amount of these forward contracts was $986.9 million, maturing within four months. The fair value of these foreign currency forward contracts was calculated based on foreign currency forward exchange rates.

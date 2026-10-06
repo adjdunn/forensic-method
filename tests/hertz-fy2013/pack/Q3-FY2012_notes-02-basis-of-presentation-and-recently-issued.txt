@@ -1,0 +1,42 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q3 2012 (three and nine months ended 30 Sep 2012), filed 2012-11-02. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 2: Basis of Presentation and Recently Issued Accounting Pronouncements. https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm
+
+[p. 8]
+
+Note 2—Basis of Presentation and Recently Issued Accounting Pronouncements
+
+Basis of Presentation
+
+The significant accounting policies summarized in Note 2 to our audited consolidated financial statements contained in our Annual Report on Form 10-K for the fiscal year ended December 31, 2011, filed with the United States Securities and Exchange Commission, or "SEC," on February 27, 2012, or the "Form 10-K," have been followed in preparing the accompanying condensed consolidated financial statements.
+
+Franchise revenues and transactions
+
+“Franchise revenues” includes franchise fees for use of our brands and services. Generally franchise fees from franchised locations are based on a percentage of net sales of the franchised business and are recognized as earned and when collectability is reasonably assured.
+
+Initial franchise fees are recorded as deferred income when received and are recognized as revenue when all material services and conditions related to the franchise fee have been substantially performed.
+
+Renewal franchise fees are recognized as revenue when the license agreements are effective and collectability is reasonably assured.
+
+Other (income) and expenses, net includes the gains or losses from the sales of our operations or assets to new and existing franchisees. Such gains or losses are included in operating income because they are expected to be a recurring part of our business.
+
+The December 31, 2011 condensed consolidated balance sheet data was derived from our audited financial statements, but does not include all disclosures required by accounting principles generally accepted in the United States of America, or "GAAP."
+
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the amounts reported in the financial statements and footnotes. Actual results could differ materially from those estimates.
+
+In our opinion, all adjustments necessary for a fair presentation of the results of operations for the interim periods have been made. Results for interim periods are not necessarily indicative of results for a full year.
+
+Certain prior period amounts have been reclassified to conform with current period presentation.
+
+Recently Issued Accounting Pronouncements
+
+In June 2011, the Financial Accounting Standards Board, or "FASB," issued Accounting Standards Update No. 2011-05, "Presentation of Comprehensive Income," requiring companies to present items of net income and other comprehensive income either in one continuous statement, referred to as the statement of comprehensive income, or in two separate, but consecutive statements of net income and other comprehensive income. The amendments in this update do not change the items that must be reported in other comprehensive income or when an item of other comprehensive income must be reclassified to net income. These provisions became effective for us beginning with the quarterly report for the period ended March 31, 2012. In December 2011, the FASB issued Accounting Standards Update No. 2011-12, "Deferral of the Effective Date for Amendments to the Presentation of Reclassifications of Items Out of Accumulated Other Comprehensive Income in Accounting Standards Update No. 2011-05," which defers the timing of implementing only those changes in Update 2011-05 that relate to the presentation of reclassification adjustments.
+
+In July 2012, the FASB issued Accounting Standards Update No. 2012-02, "Intangibles--Goodwill and Other (Topic 350): Testing Indefinite-Lived Intangible Assets for Impairment", which states that that an entity has the option first to assess qualitative factors to determine whether the existence of events and circumstances indicates that it is more likely than not that the indefinite-lived intangible asset is impaired. If, after assessing the totality of events and circumstances, an entity concludes that it is not more likely than not that the indefinite-lived intangible asset is impaired, then the entity is not required to take further action. However, if an entity concludes otherwise, then it is required to determine the fair value of the indefinite-lived intangible asset and perform the quantitative impairment test by comparing the fair value with the carrying amount.
+
+[p. 9]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+This provision is effective for annual and interim impairment tests performed for fiscal years beginning after September 15, 2012. The Company is presently assessing whether to adopt in relation to its annual impairment test scheduled for the fourth quarter.

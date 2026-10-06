@@ -1,0 +1,41 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q1 2013 (three months ended 31 Mar 2013), filed 2013-05-02. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 17: Earnings (Loss) Per Share. https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm
+
+[p. 29]
+
+Note 17—Earnings (Loss) Per Share
+
+Basic earnings (loss) per share has been computed based upon the weighted average number of common shares outstanding. Diluted earnings (loss) per share has been computed based upon the weighted average number of common shares outstanding plus the effect of all potentially dilutive common stock equivalents, except when the effect would be anti-dilutive.
+
+[p. 30]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+The following table sets forth the computation of basic and diluted earnings (loss) per share (in millions, except per share amounts):
+
+Three Months Ended March 31,
+2013 | 2012
+Basic and diluted earnings (loss) per share:
+Numerator:
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders, basic | $18.0 | $(56.3)
+Interest on Convertible Senior Notes, net of tax | 1.0 | —
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders, diluted | $19.0 | $(56.3)
+Denominator:
+Weighted average shares used in basic computation | 415.8 | 418.1
+Add: Stock options, RSUs and PSUs | 6.6 | —
+Add: Potential issuance of common stock upon conversion of Convertible Senior Notes | 38.4 | —
+Weighted average shares used in diluted computation | 460.9 | 418.1
+Earnings (loss) per share attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders, basic | $0.04 | $(0.13)
+Earnings (loss) per share attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders, diluted | $0.04 | $(0.13)
+
+Diluted earnings (loss) per share computations for the three months ended March 31, 2012 excluded the weighted-average impact of the assumed exercise of approximately 19.4 million shares of stock options, RSUs and PSUs, because such impact would be antidilutive.
+
+In March 2013, the Sponsors sold 60,050,777 shares of their Hertz Holdings common stock to Citigroup Global Markets Inc. and Barclays Capital Inc. as the underwriters in the registered public offering of those shares. In connection with the offering, Hertz Holdings repurchased from the underwriters 23,200,000 of the 60,050,777 shares of common stock sold by the Sponsors.
+
+We have calculated our weighted average shares outstanding in accordance with the applicable accounting guidance which provides that the number of shares is determined by relating the portion of time within a reporting period that common shares have been outstanding to the total time in that period.
+
+Prior to this repurchase transaction, we had a policy of settling the conversion of our 5.25% Convertible Senior Notes due June 2014, or the "Convertible Notes," using a combination of cash and shares of our common stock. Upon completion of the share repurchase from the underwriters, we announced a change to our former settlement policy and stated our intention to settle the Convertible Notes in 100% shares of our common stock. We believe the repurchase of shares from the underwriters in the offering and the subsequent use of shares to settle the Convertible Notes will prevent any further dilutive impact to our weighted average fully diluted shares outstanding.
+
+In addition to the impact the repurchased shares had on our weighted shares outstanding for the period, the announcement of the policy change resulted in an adjustment to the numerator (net income) of our earnings per share computation. The numerator was adjusted to add back the after-tax amount of interest recognized in the period associated with the Convertible Senior Notes on the same pro rata basis.

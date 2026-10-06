@@ -1,0 +1,77 @@
+EVENTS: Hertz Global Holdings, Inc. (SEC CIK 1364479)
+Current reports on Form 8-K (and 8-K/A) filed 1 January 2011 to 31 March 2014 under Items 2.01, 4.01, 4.02 and 5.02.
+Source: EDGAR submissions index for CIK 1364479. Descriptions are taken from each report's own text.
+
+Item 4.01 (change in certifying accountant): no report filed in this window.
+Item 4.02 (non-reliance on previously issued financial statements): no report filed in this window.
+
+2011-01-25 | Form 8-K | Items 2.02,5.02,7.01,9.01 | accession 0001104659-11-002763
+  Item 5.02(b): retirement of Gerald A. Plescia as President of Hertz Equipment Rental Corporation (HERC), effective January 25, 2011.
+  https://www.sec.gov/Archives/edgar/data/1364479/000110465911002763/a11-4542_18k.htm
+
+2011-03-04 | Form 8-K | Items 5.02,9.01 | accession 0001104659-11-012462
+  Item 5.02(e): Separation Agreement and General Release entered into on February 28, 2011 with Gerald Plescia in connection with his retirement as President of HERC.
+  https://www.sec.gov/Archives/edgar/data/1364479/000110465911012462/a11-7276_18k.htm
+
+2011-07-08 | Form 8-K | Items 5.02,9.01 | accession 0001104659-11-038414
+  Item 5.02(e): agreement of July 7, 2011 between Hertz Europe Limited and Michel Taride regarding living accommodations beyond June 2011.
+  https://www.sec.gov/Archives/edgar/data/1364479/000110465911038414/a11-17196_18k.htm
+
+2011-08-15 | Form 8-K | Items 5.02 | accession 0001104659-11-047033
+  Item 5.02(b): Gregory S. Ledford, Nathan K. Sleeper and Robert F. End (Sponsor nominees) resigned from the boards of Hertz Holdings and The Hertz Corporation, effective August 12, 2011.
+  https://www.sec.gov/Archives/edgar/data/1364479/000110465911047033/a11-24444_18k.htm
+
+2011-09-08 | Form 8-K | Items 2.01,9.01 | accession 0001104659-11-050850
+  Item 2.01: on September 1, 2011 The Hertz Corporation acquired the entire equity interest in Donlen Corporation and certain of its affiliates.
+  https://www.sec.gov/Archives/edgar/data/1364479/000110465911050850/a11-26122_18k.htm
+
+2011-10-31 | Form 8-K/A | Items 2.01,9.01 | accession 0001104659-11-059209
+  Amendment to the September 8, 2011 Form 8-K (Donlen acquisition), filed to provide financial statements of the business acquired and pro forma financial information under Item 9.01.
+  https://www.sec.gov/Archives/edgar/data/1364479/000110465911059209/a11-28810_18ka.htm
+
+2012-03-07 | Form 8-K | Items 5.02,5.03,9.01 | accession 0001104659-12-016281
+  Item 5.02(d): Michael F. Koehler and Linda Fayne Levinson elected directors, effective March 7, 2012 (the filing also reports Item 5.03).
+  https://www.sec.gov/Archives/edgar/data/1364479/000110465912016281/a12-6682_18k.htm
+
+2012-11-20 | Form 8-K | Items 2.01,7.01,8.01,9.01 | accession 0000950157-12-000499
+  Item 2.01: on November 19, 2012 Hertz completed the acquisition of Dollar Thrifty Automotive Group, Inc. The Item 2.01 text is reproduced verbatim below.
+  https://www.sec.gov/Archives/edgar/data/1364479/000095015712000499/form8-k.htm
+
+  Item 2.01 text, verbatim:
+
+  As previously disclosed, Hertz Global Holdings, Inc., a Delaware corporation (“Hertz”), entered into an Agreement and Plan of Merger, dated as of August 26, 2012 (the “Merger Agreement”), with Dollar Thrifty Automotive Group, Inc., a Delaware corporation (the “Company”), and HDTMS, Inc., a Delaware corporation (“Purchaser”) and a wholly owned subsidiary of Hertz. In accordance with the terms of the Merger Agreement, Purchaser commenced a tender offer to purchase all outstanding shares of the Company’s common stock, par value $0.01 per share (each, a “Share”), at a purchase price of $87.50 per Share, net to the seller in cash, without interest and less any required withholding taxes (the “Offer Price”), on the terms and subject to the conditions provided for in the Offer to Purchase, dated September 10, 2012 (as amended and supplemented, the “Offer to Purchase”) and the related Letter of Transmittal (the “Letter of Transmittal” and, together with the Offer to Purchase, the “Offer”).
+
+  Computershare Trust Company, N.A., the depositary for the Offer has indicated that a total of 27,956,234 Shares were validly tendered and not properly withdrawn pursuant to the Offer (which includes shares subject to guaranteed delivery procedures), representing approximately 99.6% of the Shares outstanding. All Shares that were validly tendered and not withdrawn pursuant to the Offer have been accepted for payment.
+
+  On November 19, 2012, Hertz completed the acquisition of Dollar Thrifty pursuant to the terms of the Merger Agreement. Purchaser merged with and into the Company, with the Company continuing as the surviving corporation as a wholly owned subsidiary of Hertz (the “Merger”). In order to accomplish the Merger as a short-form merger, Purchaser exercised its “top-up” option pursuant to the Merger Agreement, which permitted Purchaser to purchase additional Shares directly from the Company. Pursuant to the Merger Agreement, at the effective time of the Merger (the “Effective Time”), each Share issued and outstanding immediately prior to the Effective Time was converted into the right to receive $87.50 in cash, without any interest and less any required withholding taxes (which is the same amount per Share that will be paid in the Offer) except for (1) Shares owned by the Company or any of its subsidiaries (or held in the Company’s treasury) or owned by Hertz or Purchaser or any of their respective subsidiaries, which were canceled and cease to exist, and (2) Shares owned by the Company’s stockholders who perfected their appraisal rights under the General Corporation Law of the State of Delaware.
+
+  The description of the Merger and the Merger Agreement contained in this Item 2.01 does not purport to be complete and is subject to and qualified in its entirety by reference to the Merger Agreement, which was filed as Exhibit 2.1 to the Current Report on Form 8-K filed by Hertz with the Securities and Exchange Commission (the “SEC”) on August 27, 2012, and is incorporated herein by reference as Exhibit 2.1.
+
+
+2013-01-31 | Form 8-K/A | Items 2.01,9.01 | accession 0001104659-13-006116
+  Amendment to the November 20, 2012 Form 8-K (Dollar Thrifty acquisition), filed to provide financial statements of the business acquired and pro forma financial information under Item 9.01.
+  https://www.sec.gov/Archives/edgar/data/1364479/000110465913006116/a13-3496_18ka.htm
+
+2013-05-17 | Form 8-K | Items 5.02,5.03,5.07,9.01 | accession 0001104659-13-042914
+  Item 5.02(b) and (d): Angel L. Morales resigned as a director; Carolyn Everson and Debra J. Kelly-Ennis elected directors on May 15, 2013 (the filing also reports Items 5.03 and 5.07).
+  https://www.sec.gov/Archives/edgar/data/1364479/000110465913042914/a13-12776_18k.htm
+
+2013-08-16 | Form 8-K | Items 5.02 | accession 0001104659-13-064568
+  Item 5.02: David Wasserman (a CD&R nominee) and Brian Bernasek (a Carlyle nominee) resigned as directors on August 15, 2013, following termination of the Stockholders Agreement on May 9, 2013.
+  https://www.sec.gov/Archives/edgar/data/1364479/000110465913064568/a13-18790_18k.htm
+
+2013-09-27 | Form 8-K | Items 5.02,9.01 | accession 0001104659-13-072719
+  Item 5.02(b) and (c): Elyse Douglas resigned as Senior Executive Vice President and Chief Financial Officer effective October 1, 2013; David J. Rosenberg to succeed her as Chief Financial Officer on an interim basis.
+  https://www.sec.gov/Archives/edgar/data/1364479/000110465913072719/a13-21336_18k.htm
+
+2013-11-04 | Form 8-K | Items 5.02 | accession 0001104659-13-080596
+  Item 5.02(d): Philippe P. Laffont elected a director, effective October 31, 2013.
+  https://www.sec.gov/Archives/edgar/data/1364479/000110465913080596/a13-23533_18k.htm
+
+2013-11-20 | Form 8-K/A | Items 5.02 | accession 0001104659-13-086067
+  Amendment to the November 4, 2013 Form 8-K: on November 14, 2013 Mr. Laffont was elected to the Executive and Finance Committee.
+  https://www.sec.gov/Archives/edgar/data/1364479/000110465913086067/a13-24793_18ka.htm
+
+2013-12-02 | Form 8-K | Items 5.02,9.01 | accession 0001104659-13-087902
+  Item 5.02: appointment of Thomas C. Kennedy as Senior Executive Vice President and Chief Financial Officer, effective December 9, 2013, succeeding interim CFO David J. Rosenberg.
+  https://www.sec.gov/Archives/edgar/data/1364479/000110465913087902/a13-25510_18k.htm

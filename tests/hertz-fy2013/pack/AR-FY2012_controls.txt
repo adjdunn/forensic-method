@@ -1,0 +1,23 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-K for the fiscal year ended December 31, 2012, filed 2013-03-04. Item 9A. Controls and Procedures. https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm
+
+[p. 141]
+
+ITEM 9A. Controls and Procedures
+
+Evaluation of Disclosure Controls and Procedures
+
+Disclosure controls and procedures are controls and other procedures that are designed to ensure that information required to be disclosed in company reports filed or submitted under the Securities Exchange Act of 1934, or the "Exchange Act," is recorded, processed, summarized and reported within the time periods specified in the SEC's rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed in company reports filed under the Exchange Act is accumulated and communicated to management, including our Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+
+An evaluation of the effectiveness of our disclosure controls and procedures was performed under the supervision of, and with the participation of, management, including our Chief Executive Officer and Chief Financial Officer, as of the end of the period covered by this Annual Report. Based upon this evaluation, our Chief Executive Officer and Chief Financial Officer, concluded that our disclosure controls and procedures are effective.
+
+Management's Report on Internal Control Over Financial Reporting
+
+Our management is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in Rule 13a-15(f) under the Exchange Act, as amended. Our internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles.
+
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+Under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, we conducted an assessment of the effectiveness of our internal control over financial reporting as of December 31, 2012. The assessment was based on criteria established in the framework Internal Control—Integrated Framework, issued by the Committee of Sponsoring Organizations of the Treadway Commission. We have excluded from our evaluation the internal controls over financial reporting of Dollar Thrifty Automotive Group, Inc., or "Dollar Thrifty," which was acquired on November 19, 2012. The total assets and total revenues of the excluded business represented 21% and 2%, respectively, of the related consolidated financial statement amounts as of and for the year ended December 31, 2012. Based on this assessment, management concluded that our internal control over financial reporting was effective as of December 31, 2012. PricewaterhouseCoopers LLP, our independent registered public accounting firm, has issued an attestation report on our internal control over financial reporting. Their report is included in this Annual Report under the caption "Item 8—Financial Statements and Supplementary Data."
+
+Changes in Internal Control Over Financial Reporting
+
+No changes in our internal control over financial reporting occurred during the fiscal quarter ended December 31, 2012 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.

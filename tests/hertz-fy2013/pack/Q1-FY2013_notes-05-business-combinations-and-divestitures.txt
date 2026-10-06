@@ -1,0 +1,54 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q1 2013 (three months ended 31 Mar 2013), filed 2013-05-02. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 5: Business Combinations and Divestitures. https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm
+
+[p. 11]
+
+Note 5—Business Combinations and Divestitures
+
+Dollar Thrifty Acquisition
+
+On November 19, 2012, Hertz Holdings completed the Dollar Thrifty acquisition pursuant to the terms of the Merger Agreement with Dollar Thrifty and a wholly owned Hertz subsidiary, or "Merger Sub." In accordance with the terms of the Merger Agreement, Merger Sub completed a tender offer in which it purchased a majority of the shares of Dollar Thrifty common stock then outstanding at a price equal to $87.50 per share in cash. Merger Sub subsequently acquired the remaining shares of Dollar Thrifty common stock by means of a short-form merger in which such shares were converted into the right to receive the same $87.50 per share in cash paid in the tender offer. The total purchase price was approximately $2,592.0 million, which comprised of $2,551.0 million of cash, including our use of approximately $404.0 million of cash and cash equivalents available from Dollar Thrifty, and the fair value of our previously held equity
+
+[p. 12]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+interest in Dollar Thrifty of $41.0 million. As a condition of the Merger Agreement, and pursuant to a divestiture agreement reached with the Federal Trade Commission, or "FTC," Hertz divested its Simply Wheelz subsidiary, which owned and operated the Advantage brand, and secured for the buyer of Advantage certain Dollar Thrifty on-airport car rental concessions. Dollar Thrifty is now a wholly-owned subsidiary of Hertz.
+
+The purchase price of Dollar Thrifty was funded with (i) cash proceeds of $1,950.0 million received by Hertz from its issuance of $1,950.0 million in aggregate principal amount of Senior Notes and Term Loans, (ii) approximately $404.0 million of acquired cash and cash equivalents from Dollar Thrifty, and (iii) the balance funded by Hertz's existing cash.
+
+The purchase price was allocated to the estimated fair values of the assets acquired and liabilities assumed on the closing date of November 19, 2012. For the preliminary purchase price allocation refer to Note 4 of the Notes to our audited annual consolidated financial statements included in our Form 10-K under the caption "Item 8—Financial Statements and Supplementary Data."
+
+Adjustments to the preliminary purchase price allocation have been made to reflect revised estimates of the fair value of the assets acquired and liabilities assumed at November 19, 2012. The revisions primarily related to valuation of certain contracts and accrued liabilities, and the resulting changes to goodwill. Providing for these adjustments in previous periods would not have a material impact on the reported operating results for the three month period ended December 31, 2012 and therefore such amounts have been recorded in the quarter ended March 31, 2013.
+
+Unaudited pro forma financial information
+
+The following table presents unaudited pro forma financial information as if the acquisition of Dollar Thrifty had occurred on January 1, 2012 for the period presented below (in millions of dollars).
+
+Revenue | Loss
+2012 supplemental pro forma from 1/1/12 - 3/31/12 (combined entity) | $2,257.4 | $(41.1)
+
+The unaudited pro forma consolidated results do not purport to project the future results of operations of the combined entity nor do they reflect the expected realization of any cost savings associated with the acquisition. The unaudited pro forma consolidated results reflect the historical financial information of Hertz Holdings and Dollar Thrifty, adjusted for increases in amortization expense related to intangible assets acquired, additional interest expense associated with the financing relating to the acquisition, elimination of the results of operations of the Advantage business and locations to be divested where Dollar Thrifty operated at least one of its brands prior to the consummation of the Dollar Thrifty acquisition, and including an estimated amount of leasing revenue to be earned by Hertz from leasing vehicles to the buyer of Advantage.
+
+Other Acquisitions
+
+During the three months ended March 31, 2013, we re-acquired five domestic car rental locations from our former licensees. These acquisitions are not material to the consolidated amounts presented within our statement of operations for the three months ended March 31, 2013.
+
+Divestitures
+
+Potential Divestiture of Selected Dollar Thrifty Airport Locations
+
+In order to obtain regulatory approval and clearance for the Dollar Thrifty acquisition, Hertz agreed to dispose of Advantage, to secure for the buyer of Advantage certain on-airport car rental concessions and related assets at 13 locations where Dollar Thrifty operated at least one of its brands prior to the consummation of the Dollar Thrifty acquisition, or the “Initial airport locations.” Additionally, Hertz agreed to secure for the buyer of Advantage or, in certain cases, one or more other FTC-approved buyers, on-airport car rental concessions at 13 additional locations where Dollar Thrifty operated prior to the consummation of the Dollar Thrifty acquisition, or the “Secondary airport locations.” The buyer of Advantage agreed to assume all of the Secondary airport locations. As of March 31, 2013, Hertz completed the sale of several locations among the Initial airport locations and the Secondary airport locations, and had a remaining loss reserve, including estimated support payments of $22.6 million.
+
+[p. 13]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Advantage Divestiture
+
+On December 12, 2012, Hertz completed the sale of Simply Wheelz LLC, or the “Advantage divestiture,” a wholly owned subsidiary of Hertz that operated our Advantage Rent A Car business, or “Advantage.” As part of the sale agreement, Hertz agreed to sublease vehicles to the buyer of Advantage for use in continuing the operations of Advantage, for a period no longer than two years from the closing date. As such, Hertz will have significant continuing involvement in the operations of the disposed Advantage business. Therefore, the operating results associated with the Advantage business will continue to be classified as part of our continuing operations in the consolidated statements of operations for all periods presented.

@@ -1,0 +1,21 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q1 2011 (three months ended 31 Mar 2011), filed 2011-05-06. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 16: Earnings (Loss) Per Share. https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm
+
+[p. 28]
+
+Note 16—Earnings (Loss) Per Share
+
+Basic earnings (loss) per share has been computed based upon the weighted average number of common shares outstanding. Diluted earnings (loss) per share has been computed based upon the weighted average number of common shares outstanding plus the effect of all potentially dilutive common stock equivalents, except when the effect would be anti-dilutive.
+
+The following table sets forth the computation of basic and diluted loss per share (in millions of dollars, except per share amounts):
+
+Three Months Ended March 31,
+2011 | 2010
+Basic and diluted loss per share:
+Numerator:
+Net loss attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | $(132.6) | $(150.4)
+Denominator:
+Weighted average shares used in basic and diluted computation | 414.1 | 410.7
+Loss per share attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders, basic | $(0.32) | $(0.37)
+Loss per share attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders, diluted | $(0.32) | $(0.37)
+
+Diluted loss per share computations for the three months ended March 31, 2011 and 2010 excluded the weighted-average impact of the assumed exercise of approximately 21.6 million and 21.8 million stock options, RSUs and PSUs, respectively, because such impact would be antidilutive. Additionally, for the three months ended March 31, 2011 and 2010, there was no impact to the diluted loss per share computations associated with the outstanding Convertible Senior Notes, because such impact would be anti-dilutive.

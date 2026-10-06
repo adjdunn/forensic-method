@@ -1,0 +1,102 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q3 2011 (three and nine months ended 30 Sep 2011), filed 2011-11-07. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 10: Segment Information. https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm
+
+[p. 23]
+
+Note 10—Segment Information
+
+Our operating segments are aggregated into reportable business segments based primarily upon similar economic characteristics, products, services, customers, and delivery methods. We have identified two reportable segments: rental and leasing of cars, crossovers and light trucks, or "car rental," and rental of industrial, construction and material handling equipment, or "equipment rental." Other reconciling items include general corporate assets and expenses, certain interest expense (including net interest on corporate debt), as well as other business activities, such as our third party claim management services. Donlen is included in the car rental reportable segment.
+
+Adjusted pre-tax income (loss) is the measure utilized by management in making decisions about allocating resources to segments and measuring their performance. We believe this measure best reflects the financial results from ongoing operations. Adjusted pre-tax income (loss) is calculated as income (loss) before income taxes plus other reconciling items, non-cash purchase accounting charges, non-cash debt charges and certain one-time charges and non-operational items. The
+
+[p. 24]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+contribution of our reportable segments to revenues and adjusted pre-tax income (loss) and the reconciliation to consolidated amounts are summarized below (in millions of dollars).
+
+Three Months Ended September 30,
+Revenues | Adjusted Pre-Tax Income (Loss)
+2011 | 2010 | 2011 | 2010
+Car rental | $2,109.1 | $1,903.5 | $375.3 | $307.1
+Equipment rental | 321.7 | 281.2 | 55.9 | 33.7
+Total reportable segments | 2,430.8 | 2,184.7 | 431.2 | 340.8
+Other | 1.5 | 1.6
+Total | $2,432.3 | $2,186.3
+Adjustments:
+Other reconciling items(1) | (84.3) | (89.4)
+Purchase accounting(2) | (19.1) | (23.8)
+Non-cash debt charges(3) | (21.0) | (46.4)
+Restructuring charges | (1.9) | (14.6)
+Restructuring related charges(4) | (3.2) | (0.6)
+Derivative gains (losses)(5) | 0.1 | (0.2)
+Management transition costs | (1.5) | —
+Acquisition related costs | (4.6) | (9.7)
+Income before income taxes | $295.7 | $156.1
+
+[p. 25]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Nine Months Ended September 30,
+Revenues | Adjusted Pre-Tax Income (Loss)
+2011 | 2010 | 2011 | 2010
+Car rental | $5,388.3 | $4,938.2 | $678.8 | $509.9
+Equipment rental | 891.6 | 784.1 | 99.5 | 43.0
+Total reportable segments | 6,279.9 | 5,722.3 | 778.3 | 552.9
+Other | 4.7 | 4.5
+Total | $6,284.6 | $5,726.8
+Adjustments:
+Other reconciling items(1) | (263.0) | (275.6)
+Purchase accounting(2) | (62.2) | (68.4)
+Non-cash debt charges(3) | (108.0) | (144.9)
+Restructuring charges | (40.4) | (45.5)
+Restructuring related charges(4) | (6.4) | (7.9)
+Derivative gains (losses)(5) | 0.1 | (2.5)
+Acquisition related costs | (13.6) | (16.7)
+Management transition costs | (4.0) | —
+Pension adjustment(6) | 13.1 | —
+Premiums paid on debt(7) | (62.4) | —
+Income (loss) before income taxes | $231.5 | $(8.6)
+
+(1)
+
+Represents general corporate expenses, certain interest expense (including net interest on corporate debt), as well as other business activities such as our third-party claim management services.
+
+(2)
+
+Represents the purchase accounting effects of the Acquisition on our results of operations relating to increased depreciation and amortization of tangible and intangible assets and accretion of revalued workers' compensation and public liability and property damage liabilities. Also represents the purchase accounting effects of subsequent acquisitions on our results of operations relating to increased amortization of intangible assets.
+
+(3)
+
+Represents non-cash debt charges relating to the amortization and write-off of deferred debt financing costs and debt discounts. For the three and nine months ended September 30, 2010, also includes $18.0 million and $56.9 million, respectively, associated with the amortization of amounts pertaining to the de-designation of the Hertz Vehicle Financing LLC, or "HVF," interest rate swaps as effective hedging instruments.
+
+(4)
+
+Represents incremental costs incurred directly supporting our business transformation initiatives. Such costs include transition costs incurred in connection with our business process outsourcing arrangements and incremental costs incurred to facilitate business process re-engineering initiatives that involve significant organization redesign and extensive operational process changes.
+
+(5)
+
+Represents the mark-to-market adjustment on our interest rate cap.
+
+(6)
+
+Represents a gain for the U.K. pension plan relating to unamortized prior service cost from a 2010 amendment that eliminated discretionary pension increases related to pre-1997 service primarily pertaining to inactive employees.
+
+(7)
+
+Represents premiums paid to redeem our 10.5% Senior Subordinated Notes and a portion of our 8.875% Senior Notes.
+
+Total assets increased $1,745.0 million from December 31, 2010 to September 30, 2011. The increase was primarily related to an increase in our car rental segment's revenue earning equipment and receivables, partly offset by a decrease in other cash and cash equivalents primarily relating to the redemption of our 10.5% Senior Subordinated Notes and a portion of our 8.875% Senior Notes.
+
+[p. 26]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited

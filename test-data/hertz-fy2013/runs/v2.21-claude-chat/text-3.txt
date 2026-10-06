@@ -1,0 +1,174 @@
+=== page 1 ===
+Hertz Global Holdings, Inc.: accounting assessment, FY2013
+Page 1
+Hertz Global Holdings, Inc.: accounting assessment, FY2013
+Based on the Form 10-K for the year ended December 31, 2013, read as it stands. Pages refer to that report unless stated.
+"Pre-tax" is FY2013 income before income taxes of $663.1M.
+1. Policy profile
+Area
+What the report says
+Where it sits
+Why, in a few words
+Size
+Revenue
+recognition
+Rental revenue recognised over the rental
+period; reimbursements gross where principal
+(p. 90)
+Typical
+Standard for rental; little rests
+on estimates
+Not quantified
+Reserves and
+allowances
+Self-insurance: "relatively minor adjustments"
+(p. 45), with no movement table; doubtful
+accounts in Schedule II (p. 158)
+Can't tell: not
+enough
+disclosed
+Largest reserve has no
+charges or payments shown;
+allowance is 2.0% of gross
+receivables, and write-offs of
+$40.3M exceed it
+Not quantified;
+balances $347.7M and
+$30.8M
+Capitalized costs
+and useful lives
+U.S. car depreciation rates cut, "net
+decreases of $44.2 million", beside "net
+losses of $48.2 million" on U.S. disposals (p.
+126)
+Leans
+aggressive
+Rates lowered in a year the
+cars sold below book
+6.7% of pre-tax (rate
+cut)
+Impairment and
+goodwill
+"no impairment existed" (p. 94); no headroom,
+discount rate or growth rate given
+Can't tell: not
+enough
+disclosed
+Method described, room not
+shown
+Not quantified; balance
+$4,697.6M (goodwill
+plus indefinite-lived
+intangibles), 19.1% of
+assets
+Off the balance
+sheet
+Operating leases and concessions, fleet
+purchase commitments, indemnities;
+financing entities consolidated (pp. 69–71,
+129–130)
+Typical
+Amounts and maturities given
+Not quantified;
+commitments
+$2,727.7M and
+$4,757.6M
+Related parties
+Director fees, sponsor debt now nil, $3.1M
+executive relocation home purchases (pp.
+147–148)
+Typical
+Small and disclosed
+Not quantified
+Contingencies
+and legal
+Nevada fee case: judgment "could potentially
+exceed $40.0 million", yet outcome "will not
+be material"; "none of those reserves are
+material" (pp. 137–138)
+Leans
+aggressive
+Court granted restitution in
+part; accrual amount not
+given
+Exposure of $40.0M or
+more, 6.0% of pre-tax
+Auditor's report
+and controls
+Unqualified; controls "effective" (pp. 74, 159),
+beside "out of period errors totaling $46.3
+million" (p. 83)
+Leans
+aggressive
+Errors over several years,
+called material to the quarter;
+rests partly on general
+practice
+5.2% of pre-tax
+($34.7M pushed back
+to prior years)
+Adjusted
+(non-GAAP)
+measures
+Adjusted pre-tax income excludes "certain
+one-time charges" (p. 50)
+Leans
+aggressive
+Restructuring excluded every
+year shown
+14.9% of pre-tax
+(restructuring and
+related); all exclusions
+73.9%
+
+=== page 2 ===
+Hertz Global Holdings, Inc.: accounting assessment, FY2013
+Page 2
+2. Full write-ups
+Capitalized costs and useful lives: U.S. car depreciation rates cut while cars sold at a loss
+ The report says: "The cumulative effect of the reduction in rates was also indicative of the residual values experienced in
+the U.S. for the years ended December 31, 2013, 2012 and 2011" (Note 8, p. 126).
+ Test: The claim is that U.S. car resale values in 2013 supported lower depreciation rates. The matching number is the
+2013 result on U.S. car disposals in the same note: a net loss of $48.2M, against gains of $100.6M and $114.9M in 2012
+and 2011. The claim holds for 2012 and 2011 but not for 2013. The note itself cites "declining residual values", and the
+management discussion blames "a deterioration in the used vehicle residual values" (p. 54) after saying per-vehicle
+depreciation fell on "improved procurement and remarketing efforts" (p. 42). That per-vehicle claim can't be tested as
+stated, because the measure is not defined. Size: the rate cut is 6.7% of pre-tax and the disposal loss 7.3%.
+ Reading: Most likely the reporting is stretched on top of a weakening used-car market, because rates were lowered by
+$44.2M in the year disposals swung $148.8M from gain to loss. A different reading would follow if the cut came from longer
+holding periods after the Dollar Thrifty integration and the losses from one-off sales timing, which the note also cites.
+ Read next: The quarterly split of rate changes and disposal results in the 2013 10-Qs, and first-quarter 2014 U.S.
+depreciation per vehicle.
+Adjusted measures: restructuring treated as one-time
+ The report says: Adjusted pre-tax income adds back "certain one-time charges and nonoperational items" (management
+discussion, p. 50).
+ Test: The claim is that the excluded charges, company-wide, do not recur. Restructuring charges were $77.0M, $38.0M
+and $56.4M in 2013, 2012 and 2011, and $645.4M over 2007–2013 (p. 140), about $92M a year. The report also says "we
+expect to incur further expenses" (p. 24). The claim does not hold for restructuring. Size: restructuring plus
+restructuring-related charges are $98.8M, 14.9% of pre-tax. All exclusions are $490.1M, 73.9% of pre-tax.
+ Reading: Most likely the measure is stretched rather than the business weakening, because a cost charged seven years
+running is an operating cost. The reading would shift toward ordinary if 2013's charge proved mostly the headquarters
+move ($21.9M) and Dollar Thrifty integration, and the charges then stopped.
+ Read next: Adjusted pre-tax income with restructuring left in ($1,054.4M against $1,153.2M), tracked across years in the
+next step.
+Controls: effective, alongside errors in several years
+ The report says: The errors "did not, individually or in the aggregate, result in a material misstatement" but "would have
+been material to the fourth quarter" (Note 2, p. 83); controls were "effective" (Item 9A, p. 159).
+ Test: The stated corrections cut 2012 pre-tax income by $9.2M (2.0%) and 2011 by $18.7M (5.8%; diluted earnings per
+share from $0.40 to $0.37). Whether that is material is a judgment, so the claim can't be tested as a fact. The listed errors
+do sum to $34.7M. Size: $34.7M moved to prior years is 5.2% of pre-tax; the $46.3M total is 7.0%, of which $11.6M (1.7%)
+fell in 2013's first nine months.
+ Reading: Possibly the control conclusion is generous, because the errors span vendor incentives, Brazil and
+under-accruals, and a debt requirement was "unknowingly not being met" (p. 150). An ordinary reading would follow if the
+errors came from one isolated process that had already been fixed.
+ Read next: 2014 quarterly filings for further revisions or a changed control conclusion.
+3. Also noted
+ The provision for doubtful accounts is $45.9M in the cash flow statement (p. 80) but $41.9M in Schedule II (p. 158), a
+$4.0M tie-out gap.
+ The Simply Wheelz "impairment charges and other" is $44.0M in the adjusted-income table (p. 50) but $40.0M in the cash
+flow statement (p. 80). About 9,000 vehicles were still with that lessee at February 1, 2014 (p. 24).
+ The out-of-period errors total $46.3M in the annual report (p. 83) but $47.9M in the Q4 results release (unnumbered page).
+ The text says selling, general and administrative expense rose $52.6M (p. 55); the table shows $54.1M (p. 52).
+4. Not in the documents
+Critical audit matters, a self-insurance movement table, goodwill headroom, amounts earned but not yet billed, a
+loyalty-programme policy and any receivables sold or factored are not disclosed.

@@ -1,0 +1,59 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-K for the fiscal year ended December 31, 2011, filed 2012-02-27. Item 7A. Quantitative and Qualitative Disclosures About Market Risk, with the Item 7 Market Risks subsection. https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm
+
+[p. 83]
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+See "Item 7—Management's Discussion and Analysis of Financial Condition and Results of Operations—Market Risks" included elsewhere in this Annual Report.
+
+--- Item 7A refers to the "Market Risks" discussion in Item 7. That subsection follows, from the heading "Market Risks" to the heading "Income Taxes" (also contained in the mdna file). ---
+
+[p. 80]
+
+Market Risks
+
+We are exposed to a variety of market risks, including the effects of changes in interest rates (including credit spreads), foreign currency exchange rates and fluctuations in gasoline prices. We manage our exposure to these market risks through our regular operating and financing activities and, when deemed appropriate, through the use of derivative financial instruments. Derivative financial instruments are viewed as risk management tools and have not been used for speculative or trading purposes. In addition, derivative financial instruments are entered into with a diversified group of major financial institutions in order to manage our exposure to counterparty nonperformance on such instruments. For more information on these exposures, see Note 13 to the Notes to our consolidated financial statements included in this Annual Report under the caption "Item 8—Financial Statements and Supplementary Data."
+
+Interest Rate Risk
+
+From time to time, we may enter into interest rate swap agreements and/or interest rate cap agreements to manage interest rate risk. See Notes 4 and 13 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption "Item 8—Financial Statements and Supplementary Data."
+
+We have a significant amount of debt with variable rates of interest based generally on LIBOR, Euro inter-bank offered rate, or "EURIBOR," or their equivalents for local currencies or bank conduit commercial paper rates plus an applicable margin. Increases in interest rates could therefore significantly increase the associated interest payments that we are required to make on this debt. See Note 4 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption "Item 8—Financial Statements and Supplementary Data."
+
+[p. 81]
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS (Continued)
+
+We have assessed our exposure to changes in interest rates by analyzing the sensitivity to our earnings assuming various changes in market interest rates. Assuming a hypothetical increase of one percentage point in interest rates on our debt portfolio as of December 31, 2011, our net income would decrease by an estimated $24.0 million over a twelve-month period.
+
+Consistent with the terms of the agreements governing the respective debt obligations, we may hedge a portion of the floating rate interest exposure under the various debt facilities to provide protection in respect of such exposure.
+
+Foreign Currency Risk
+
+We have foreign currency exposure to exchange rate fluctuations worldwide and primarily with respect to the Euro, Canadian dollar, Australian dollar and British pound.
+
+We manage our foreign currency risk primarily by incurring, to the extent practicable, operating and financing expenses in the local currency in the countries in which we operate, including making fleet and equipment purchases and borrowing locally. Also, we have purchased foreign exchange options to manage exposure to fluctuations in foreign exchange rates for selected marketing programs. The effect of exchange rate changes on these financial instruments would not materially affect our consolidated financial position, results of operations or cash flows. Our risks with respect to foreign exchange options are limited to the premium paid for the right to exercise the option and the future performance of the option's counterparty.
+
+We also manage exposure to fluctuations in currency risk on intercompany loans we make to certain of our subsidiaries by entering into foreign currency forward contracts at the time of the loans which are intended to offset the impact of foreign currency movements on the underlying intercompany loan obligations.
+
+On October 1, 2006, we designated our 7.875% Senior Notes due 2014 as an effective net investment hedge of our Euro-denominated net investment in our international operations. Effective November 1, 2011, we de-designated the net investment hedge.
+
+For the year ended December 31, 2011, our consolidated statement of operations contained realized and unrealized losses relating to the effects of foreign currency of $6.7 million.
+
+See Note 13 to the Notes to our consolidated financial statements included in this Annual Report under the caption "Item 8—Financial Statements and Supplementary Data."
+
+Other Risks
+
+We purchase unleaded gasoline and diesel fuel at prevailing market rates. In January 2009, we began a program to manage our exposure to changes in fuel prices through the use of derivative commodity instruments. For the year ended December 31, 2011, we recognized a gain of $2.6 million in "Direct operating" on our consolidated statement of operations relating to our gasoline swaps. See Note 13 to the Notes to our consolidated financial statements included in this Annual Report under the caption "Item 8—Financial Statements and Supplementary Data."
+
+Inflation
+
+The increased cost of vehicles is the primary inflationary factor affecting us. Many of our other operating expenses are also expected to increase with inflation, including health care costs and gasoline.
+
+[p. 82]
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS (Continued)
+
+Management does not expect that the effect of inflation on our overall operating costs will be greater for us than for our competitors.

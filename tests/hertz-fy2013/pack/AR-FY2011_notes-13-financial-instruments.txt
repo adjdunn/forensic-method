@@ -1,0 +1,102 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-K for the fiscal year ended December 31, 2011, filed 2012-02-27. Item 8, Notes to Consolidated Financial Statements, Note 13: Financial Instruments. https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm
+
+[p. 139]
+
+Note 13—Financial Instruments
+
+Financial instruments, which potentially subject us to concentrations of credit risk, consist principally of cash equivalents, short-term investments and trade receivables. We place our cash equivalents and short-term investments with a number of financial institutions and investment funds to limit the amount of credit exposure to any one financial institution. Concentrations of credit risk with respect to trade receivables are limited due to the large number of customers comprising our customer base, and their dispersion across different businesses and geographic areas. As of December 31, 2011, we had no significant concentration of credit risk.
+
+GAAP establishes a three-tier value hierarchy, which prioritizes the inputs used in measuring fair value as follows: (Level 1) observable inputs such as quoted prices in active markets; (Level 2) inputs other than
+
+[p. 140]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+the quoted prices in active markets that are observable either directly or indirectly; and (Level 3) unobservable inputs in which there is little or no market data, which require the reporting entity to develop its own assumptions.
+
+Cash and Cash Equivalents and Restricted Cash and Cash Equivalents
+
+Fair value approximates the amount indicated on the balance sheet at December 31, 2011 and December 31, 2010 because of the short-term maturity of these instruments. Money market accounts, whose fair value at December 31, 2011, is measured using Level 1 inputs, totaling $566.0 million and $142.9 million are included in "Cash and cash equivalents" and "Restricted cash and cash equivalents," respectively. Money market accounts, whose fair value at December 31, 2010, is measured using Level 1 inputs, totaling $1,747.9 million and $24.1 million are included in "Cash and cash equivalents" and "Restricted cash and cash equivalents," respectively.
+
+Marketable Securities
+
+Marketable securities held by us consist of equity securities classified as available-for-sale, which are carried at fair value and are included within "Prepaid expenses and other assets." Unrealized gains and losses, net of related income taxes, are included in "Accumulated other comprehensive income." As of December 31, 2011 and December 31, 2010, the fair value of marketable securities was $33.2 million and $0.0 million, respectively. For the year ended December 31, 2011, unrealized gains of $0.3 million were recorded in "Accumulated other comprehensive income (loss)." Fair values for marketable securities are based on Level 1 inputs consisting of quoted market prices.
+
+Debt
+
+For borrowings with an initial maturity of 93 days or less, fair value approximates carrying value because of the short-term nature of these instruments. For all other debt, fair value is estimated based on quoted market rates as well as borrowing rates currently available to us for loans with similar terms and average maturities (Level 2 inputs). The aggregate fair value of all debt at December 31, 2011 was $11,832.5 million, compared to its aggregate unpaid principal balance of $11,400.3 million. The aggregate fair value of all debt at December 31, 2010 was $12,063.5 million, compared to its aggregate unpaid principal balance of $11,429.6 million.
+
+[p. 141]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Derivative Instruments and Hedging Activities
+
+The following table summarizes our financial assets and liabilities measured at fair value on a recurring basis (in millions of dollars):
+
+Fair Value of Derivative Instruments(1)
+Asset Derivatives(2) | Liability Derivatives(2)
+December 31, 2011 | December 31, 2010 | December 31, 2011 | December 31, 2010
+Derivatives not designated as hedging instruments under ASC 815:
+Gasoline swaps | — | 3.1 | 0.4 | —
+Interest rate caps | 0.5 | 7.2 | 0.4 | 7.2
+Foreign exchange forward contracts | 4.4 | 2.6 | 1.9 | 11.1
+Interest rate swaps | — | — | 0.2 | —
+Foreign exchange options | 0.1 | 0.1 | — | —
+Total derivatives not designated as hedging instruments under ASC 815 | $5.0 | $13.0 | $2.9 | $18.3
+
+(1)
+
+All fair value measurements were primarily based upon significant observable (Level 2) inputs.
+
+(2)
+
+All asset derivatives are recorded in "Prepaid expenses and other assets" and all liability derivatives are recorded in "Other accrued liabilities" on our consolidated balance sheets.
+
+Amount of Gain or (Loss) Recognized in Other Comprehensive Income on Derivative (Effective Portion) | Amount of Gain or (Loss) Reclassified from Accumulated Other Comprehensive Income into Income (Effective Portion) | Amount of Gain or (Loss) Recognized in Income on Derivative (Ineffective Portion)
+Years ended December 31,
+2011 | 2010 | 2011 | 2010 | 2011 | 2010
+Derivatives in ASC 815 Cash Flow Hedging Relationship:
+HVF interest rate swaps | $— | $12.8 | $— | $(85.1) | (1) | $— | $—
+
+Note:
+
+As of December 31, 2010, the HVF interest rate swaps and associated debt matured. The location of the effective portion reclassified from "Accumulated other comprehensive income" into income is in "Interest expense" on our consolidated statement of operations. No amount of gain or loss was recognized in income (ineffective portion) during the years ended December 31, 2011 and 2010.
+
+[p. 142]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+(1)
+
+Includes the amortization of amounts in "Accumulated other comprehensive income" associated with the de-designation of a previous cash flow hedging relationship.
+
+Location of Gain or (Loss) Recognized on Derivative | Amount of Gain or (Loss) Recognized in Income on Derivative
+Years ended December 31,
+2011 | 2010
+Derivatives Not Designated as Hedging Instruments under ASC 815:
+Gasoline swaps | Direct operating | $2.6 | $2.8
+Interest rate caps | Selling, general and administrative | — | (3.1)
+Foreign exchange forward contracts | Selling, general and administrative | (11.0) | (19.5)
+Foreign exchange options | Selling, general and administrative | (0.2) | (0.2)
+Total | $(8.6) | $(20.0)
+
+In conjunction with the refinanced Series 2009-1 and the Series 2010-2, HVF purchased an interest rate cap for $6.7 million, with a maximum notional amount equal to the refinanced Series 2009-1 and the Series 2010-2 with a combined maximum principal amount of $2.1 billion, a strike rate of 5% and expected maturity date of March 25, 2013. Additionally, Hertz sold a 5% interest rate cap for $6.2 million, with a matching notional amount and term to the HVF interest rate cap. Also in December 2010, the Australian Securitization was completed and our Australian operating subsidiary purchased an interest rate cap for $0.5 million, with a maximum notional amount equal to the Australian Securitization maximum principal amount of A$250 million, a strike rate of 7% and expected maturity date of December 2012. Additionally, Hertz sold a 7% interest rate cap, for $0.4 million with a matching notional amount and term to the Australian operating subsidiary's interest rate cap. The fair values of all interest rate caps were calculated using a discounted cash flow method and applying observable market data (i.e. the 1-month LIBOR yield curve and credit default swap spreads). Gains and losses resulting from changes in the fair value of these interest rate caps are included in our results of operations in the periods incurred.
+
+In connection with our acquisition of Donlen, we acquired interest rate swaps with a total notional amount of $28.0 million at December 31, 2011, associated with floating rate debt. These interest rate swaps are used to effectively convert an amount of floating rate debt into fixed rate debt. The fair values of these interest rate swaps were calculated using a discounted cash flow method and applying observable market data (i.e. the 1-month LIBOR yield curve). Gains and losses resulting from changes in the fair value of these interest rate swaps are included in our results of operations in the periods incurred (in Selling, general and administrative).
+
+We purchase unleaded gasoline and diesel fuel at prevailing market rates and maintain a program to manage our exposure to changes in fuel prices through the use of derivative commodity instruments. We currently have in place swaps to cover a portion of our fuel price exposure through November 2012. We presently hedge a portion of our overall unleaded gasoline and diesel fuel purchases with commodity swaps and have contracts in place that settle on a monthly basis. As of December 31, 2011, our outstanding commodity instruments for unleaded gasoline and diesel fuel totaled approximately 5.0 million gallons and 0.9 million gallons, respectively. The fair value of these commodity instruments was calculated using a discounted cash flow method and applying observable market data (i.e., NYMEX RBOB Gasoline and U.S. Department of Energy surveys, etc.). Gains and losses resulting from changes in the fair value of these commodity instruments are included in our results of operations in the periods incurred.
+
+[p. 143]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+We manage our foreign currency risk primarily by incurring, to the extent practicable, operating and financing expenses in the local currency in the countries in which we operate, including making fleet and equipment purchases and borrowing locally. Also, we have purchased foreign exchange options to manage exposure to fluctuations in foreign exchange rates for selected marketing programs. The effect of exchange rate changes on these financial instruments would not materially affect our consolidated financial position, results of operations or cash flows. Our risks with respect to foreign exchange options are limited to the premium paid for the right to exercise the option and the future performance of the option's counterparty. Premiums paid for options outstanding as of December 31, 2011, were approximately $0.3 million. We limit counterparties to the transactions to financial institutions that have strong credit ratings. As of December 31, 2011 and 2010, the total notional amount of these foreign exchange options was $9.1 million and $3.5 million, respectively. As of December 31, 2011, these foreign exchange options mature through April 2013. The fair value of the foreign exchange options was calculated using a discounted cash flow method and applying observable market data (i.e. foreign currency exchange rates). Gains and losses resulting from changes in the fair value of these options are included in our results of operations in the periods incurred.
+
+We also manage exposure to fluctuations in currency risk on intercompany loans we make to certain of our subsidiaries by entering into foreign currency forward contracts at the time of the loans which are intended to offset the impact of foreign currency movements on the underlying intercompany loan obligations. As of December 31, 2011, the total notional amount of these forward contracts was $743.9 million, maturing within four months. The fair value of these foreign currency forward contracts was calculated based on foreign currency forward exchange rates.
+
+On October 1, 2006, we designated our 7.875% Senior Notes due 2014 as an effective net investment hedge of our Euro-denominated net investment in our international operations. Effective November 1, 2011, we dedesignated the net investment hedge, and as such, incurred unrealized gains of $26.6 million for the year ended December 31, 2011, resulting from the translation of these Euro-denominated notes into the U.S. dollar. As a result of the previous net investment hedge designation, as of December 31, 2011 and 2010, losses of $19.4 million (net of tax of $13.2 million) and $6.8 million (net of tax of $5.1 million), respectively, attributable to the translation of our 7.875% Senior Notes due 2014 into the U.S. dollar are recorded in our consolidated balance sheet in "Accumulated other comprehensive income (loss)."

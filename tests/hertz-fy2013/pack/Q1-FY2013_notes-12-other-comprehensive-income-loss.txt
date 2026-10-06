@@ -1,0 +1,30 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q1 2013 (three months ended 31 Mar 2013), filed 2013-05-02. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 12: Other Comprehensive Income (Loss). https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm
+
+[p. 21]
+
+Note 12—Other Comprehensive Income (Loss)
+
+Changes in the accumulated other comprehensive income (loss) balance by component (net of tax) were as follows (in millions of dollars):
+
+Pension and Other Post-Employment Benefits | Foreign Currency Items | Unrealized Losses on Terminated Net Investment Hedges | Other | Accumulated Other Comprehensive Loss
+Balance at January 1, 2013 | $(109.8) | $102.7 | $(19.4) | $(0.4) | $(26.9)
+Other comprehensive income (loss) before reclassification | 0.5 | (27.4) | — | (0.1) | (26.9)
+Amounts reclassified from accumulated other comprehensive loss | 2.6 | — | — | — | 2.6
+Net current period other comprehensive income (loss) | 3.2 | (27.4) | — | (0.1) | (24.3)
+Balance at March 31, 2013 | $(106.6) | $75.3 | $(19.4) | $(0.5) | $(51.2)
+
+Pension and Other Post-Employment Benefits | Foreign Currency Items | Unrealized Losses on Terminated Net Investment Hedges | Unrealized Gains on Available for Sale Securities | Other | Accumulated Other Comprehensive Income (Loss)
+Balance at January 1, 2012 | $(99.6) | $91.3 | $(19.4) | $0.3 | $(1.0) | $(28.4)
+Other comprehensive income (loss) before reclassification | — | 29.6 | — | 3.1 | (0.2) | 32.5
+Amounts reclassified from accumulated other comprehensive income (loss) | (0.2) | — | — | — | — | (0.2)
+Net current period Other comprehensive income (loss) | (0.2) | 29.6 | — | 3.1 | (0.2) | 32.3
+Balance at March 31, 2012 | $(99.8) | $120.9 | $(19.4) | $3.4 | $(1.2) | $3.9
+
+Amounts reclassified from accumulated other comprehensive income (loss) to earnings during the three months ended March 31, 2013 and 2012 were as follows (in millions of dollars):
+
+Three months ended March 31, | Statement of Operations Captions
+2013 | 2012
+Pension and other postretirement benefit plans
+Amortization of actuarial losses | $4.3 | $(0.2) | Selling, general and administrative
+Tax provision | 1.7 | —
+Net of tax | $2.6 | $(0.2)

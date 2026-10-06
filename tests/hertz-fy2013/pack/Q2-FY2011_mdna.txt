@@ -1,0 +1,1168 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q2 2011 (three and six months ended 30 Jun 2011), filed 2011-08-05. Part I, Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations. https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm
+
+[p. 34]
+
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations
+
+The following discussion and analysis provides information that we believe to be relevant to an understanding of our consolidated financial condition and results of operations. Unless the context otherwise requires, in this Report on Form 10-Q, (i) "Hertz Holdings" means Hertz Global Holdings, Inc., our top-level holding company, (ii) "Hertz" means The Hertz Corporation, our primary operating company and a direct wholly-owned subsidiary of Hertz Investors, Inc., which is wholly-owned by Hertz Holdings, (iii) "we," "us" and "our" mean Hertz Holdings and its consolidated subsidiaries, including Hertz, (iv) "HERC" means Hertz Equipment Rental Corporation, Hertz's wholly-owned equipment rental subsidiary, together with our various other wholly-owned international subsidiaries that conduct our industrial, construction and material handling equipment rental business, (v) "cars" means cars, crossovers and light trucks (including sport utility vehicles and, outside North America, light commercial vehicles), (vi) "program cars" means cars purchased by car rental companies under repurchase or guaranteed depreciation programs with car manufacturers, (vii) "non-program cars" mean cars not purchased under repurchase or guaranteed depreciation programs for which the car rental company is exposed to residual risk and (viii) "equipment" means industrial, construction and material handling equipment.
+
+You should read the following discussion and analysis together with the section below entitled "Cautionary Note Regarding Forward-Looking Statements," with the financial statements and the related notes thereto contained elsewhere in this Form 10-Q, or this "Report."
+
+Cautionary Note Regarding Forward-Looking Statements
+
+Certain statements contained or incorporated by reference in this Report and in reports we subsequently file with the United States Securities and Exchange Commission, or the "SEC," on Forms 10-K, 10-Q and file or furnish on Form 8-K, and in related comments by our management, include "forward-looking statements." Forward-looking statements include information concerning our liquidity and our possible or assumed future results of operations, including descriptions of our business strategies. These statements often include words such as "believe," "expect," "project," "anticipate," "intend," "plan," "estimate," "seek," "will," "may," "would," "should," "could," "forecasts" or similar expressions. These statements are based on certain assumptions that we have made in light of our experience in the industry as well as our perceptions of historical trends, current conditions, expected future developments and other factors we believe are appropriate in these circumstances. We believe these judgments are reasonable, but you should understand that these statements are not guarantees of performance or results, and our actual results could differ materially from those expressed in the forward-looking statements due to a variety of important factors, both positive and negative, that may be revised or supplemented in subsequent reports on SEC Forms 10-K, 10-Q and 8-K.
+
+Some important factors that could affect our actual results include, among others, those that may be disclosed from time to time in subsequent reports filed with the SEC, those described under "Item 1A—Risk Factors" included in Hertz Holdings' Annual Report on Form 10-K and for the fiscal year ended December 31, 2010, filed with the SEC, on February 25, 2011, or our "Form 10-K," and in Part II, "Item 1A—Risk Factors" included in this Form 10-Q and the following, which were derived in part from the risks set forth in the Form 10-K:
+
+•
+
+our ability to consummate our contemplated acquisition of Dollar Thrifty Automotive Group, or "Dollar Thrifty," within the timeframe and upon the terms contemplated by our management;
+
+•
+
+the risk that expected synergies, operational efficiencies and cost savings from the Dollar Thrifty acquisition may not be fully realized or realized within the expected time frame;
+
+[p. 35]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+•
+
+the operational and profitability impact of divestitures that may be required to be undertaken to secure regulatory approval of the Dollar Thrifty acquisition;
+
+•
+
+levels of travel demand, particularly with respect to airline passenger traffic in the United States and in global markets;
+
+•
+
+significant changes in the competitive environment, including as a result of industry consolidation, and the effect of competition in our markets, including on our pricing policies or use of incentives;
+
+•
+
+occurrences that disrupt rental activity during our peak periods;
+
+•
+
+our ability to achieve cost savings and efficiencies and realize opportunities to increase productivity and profitability;
+
+•
+
+an increase in our fleet costs as a result of an increase in the cost of new vehicles and/or a decrease in the price at which we dispose of used vehicles either in the used vehicle market or under repurchase or guaranteed depreciation programs;
+
+•
+
+our ability to accurately estimate future levels of rental activity and adjust the size of our fleet accordingly;
+
+•
+
+our ability to maintain sufficient liquidity and the availability to us of additional or continued sources of financing for our revenue earning equipment and to refinance our existing indebtedness;
+
+•
+
+safety recalls by the manufacturers of our vehicles and equipment;
+
+•
+
+a major disruption in our communication or centralized information networks;
+
+•
+
+financial instability of the manufacturers of our vehicles and equipment;
+
+•
+
+any impact on us from the actions of our licensees, franchisees, dealers and independent contractors;
+
+•
+
+our ability to maintain profitability during adverse economic cycles and unfavorable external events (including war, terrorist acts, natural disasters and epidemic disease);
+
+•
+
+shortages of fuel and increases or volatility in fuel costs;
+
+•
+
+our ability to successfully integrate future acquisitions and complete future dispositions;
+
+•
+
+our ability to maintain favorable brand recognition;
+
+•
+
+costs and risks associated with litigation;
+
+•
+
+risks related to our indebtedness, including our substantial amount of debt, our ability to incur substantially more debt and increases in interest rates or in our borrowing margins;
+
+•
+
+our ability to meet the financial and other covenants contained in our Senior Credit Facilities, our outstanding unsecured Senior Notes and certain asset-backed and asset-based arrangements;
+
+•
+
+changes in accounting principles, or their application or interpretation, and our ability to make accurate estimates and the assumptions underlying the estimates, which could have an effect on earnings;
+
+•
+
+changes in the existing, or the adoption of new laws, regulations, policies or other activities of governments, agencies and similar organizations where such actions may affect our operations, the cost thereof or applicable tax rates;
+
+[p. 36]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+•
+
+changes to our senior management team;
+
+•
+
+the effect of tangible and intangible asset impairment charges;
+
+•
+
+the impact of our derivative instruments, which can be affected by fluctuations in interest rates and commodity prices;
+
+•
+
+our exposure to fluctuations in foreign exchange rates; and
+
+•
+
+other risks described from time to time in periodic and current reports that we file with the SEC.
+
+You should not place undue reliance on forward-looking statements. All forward-looking statements attributable to us or persons acting on our behalf are expressly qualified in their entirety by the foregoing cautionary statements. All such statements speak only as of the date made, and we undertake no obligation to update or revise publicly any forward-looking statements, whether as a result of new information, future events or otherwise.
+
+Corporate History
+
+Hertz Holdings was incorporated in Delaware in 2005 to serve as the top-level holding company for the consolidated Hertz business. Hertz was incorporated in Delaware in 1967. Hertz is a successor to corporations that have been engaged in the car and truck rental and leasing business since 1918 and the equipment rental business since 1965. Ford Motor Company, "Ford," acquired an ownership interest in Hertz in 1987. Prior to this, Hertz was a subsidiary of United Continental Holdings, Inc. (formerly Allegis Corporation), which acquired Hertz's outstanding capital stock from RCA Corporation in 1985.
+
+On December 21, 2005, investment funds associated with or designated by:
+
+•
+
+Clayton, Dubilier & Rice, Inc., or "CD&R,"
+
+•
+
+The Carlyle Group, or "Carlyle," and
+
+•
+
+BAML Capital Partners, or "BAMLCP" (formerly known as Merrill Lynch Global Private Equity),
+
+or collectively the "Sponsors," acquired all of Hertz's common stock from Ford Holdings LLC. We refer to the acquisition of all of Hertz's common stock by the Sponsors as the "Acquisition."
+
+In March 2011, the Sponsors sold 50,000,000 shares of their Hertz Holdings common stock to Goldman, Sachs & Co. as the sole underwriter in the registered public offering of those shares.
+
+As a result of our initial public offering in November 2006 and subsequent offerings in June 2007, May 2009, June 2009 and March 2011, the Sponsors reduced their holdings to approximately 39% of the outstanding shares of common stock of Hertz Holdings.
+
+In January 2009, Bank of America Corporation, or "Bank of America," acquired Merrill Lynch & Co., Inc., the parent company of BAMLCP. Accordingly, Bank of America is now an indirect beneficial owner of our common stock held by BAMLCP and certain of its affiliates.
+
+Overview of Our Business
+
+We are engaged principally in the business of renting cars and renting equipment.
+
+[p. 37]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Our revenues primarily are derived from rental and related charges and consist of:
+
+•
+
+Car rental revenues (revenues from all company-operated car rental operations, including charges to customers for the reimbursement of costs incurred relating to airport concession fees and vehicle license fees, the fueling of vehicles and the sale of loss or collision damage waivers, liability insurance coverage and other products);
+
+•
+
+Equipment rental revenues (revenues from all company-operated equipment rental operations, including amounts charged to customers for the fueling and delivery of equipment and sale of loss damage waivers, as well as revenues from the sale of new equipment and consumables); and
+
+•
+
+Other revenues (fees and certain cost reimbursements from our licensees and revenues from our car leasing operations and our third-party claim management services).
+
+Our expenses primarily consist of:
+
+•
+
+Direct operating expenses (primarily wages and related benefits; commissions and concession fees paid to airport authorities, travel agents and others; facility, self-insurance and reservation costs; the cost of new equipment and consumables purchased for resale; and other costs relating to the operation and rental of revenue earning equipment, such as damage, maintenance and fuel costs);
+
+•
+
+Depreciation expense and lease charges relating to revenue earning equipment (including net gains or losses on the disposal of such equipment). Revenue earning equipment includes cars and rental equipment;
+
+•
+
+Selling, general and administrative expenses (including advertising); and
+
+•
+
+Interest expense.
+
+Our profitability is primarily a function of the volume, mix and pricing of rental transactions and the utilization of cars and equipment. Significant changes in the purchase price or residual values of cars and equipment or interest rates can have a significant effect on our profitability depending on our ability to adjust pricing for these changes. We continue to balance our mix of non-program and program vehicles based on market conditions. Our business requires significant expenditures for cars and equipment, and consequently we require substantial liquidity to finance such expenditures. See "Liquidity and Capital Resources" below.
+
+On July 12, 2011, Hertz entered into a definitive merger agreement under which it will acquire a fleet leasing and management services company, Donlen Corporation, or "Donlen," for an aggregate purchase price of $250 million, subject to adjustment either upward or downward based on the net assets of Donlen at closing. In addition, Hertz will assume or refinance approximately $680 million of Donlen's outstanding fleet debt. The transaction is subject to customary closing conditions and regulatory approvals and has been approved by the board of directors and stockholders of Donlen.
+
+Car Rental
+
+In the U.S., as of June 30, 2011, the percentage of non-program cars was 68% as compared to 61% as of June 30, 2010. Internationally, as of June 30, 2011, the percentage of non-program cars was 58% as compared to 48% as of June 30, 2010. In the U.S., as of December 31, 2010, the percentage of non-program cars was 72% as compared to 67% as of December 31, 2009. Internationally, as of
+
+[p. 38]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+December 31, 2010, the percentage of non-program cars was 70%, compared to 71% as of December 31, 2009.
+
+In recent periods we have decreased the percentage of program cars in our car rental fleet. Non-program cars typically have lower acquisition costs and lower depreciation rates than comparable program cars. As a result of decreasing our reliance on program cars, we reduce our risk related to the creditworthiness of the vehicle manufacturers. With fewer program cars in our fleet, we have an increased risk that the market value of a car at the time of its disposition will be less than its estimated residual value. Program cars generally provide us with flexibility to reduce the size of our fleet by returning cars sooner than originally expected without risk of loss in the event of an economic downturn or to respond to changes in rental demand. This flexibility will be reduced as the percentage of non-program cars in our car rental fleet increases. Furthermore, it is expected that the average age of our fleet will increase since the average holding period for non-program vehicles is longer than program vehicles. However, the longer holding period does not necessarily equate to higher costs due to the stringent turnback requirements imposed by vehicle manufacturers for program cars.
+
+In the six months ended June 30, 2011, our vehicle depreciation costs decreased as compared to the prior year period due to improved residual values, a continued move towards a greater proportion of non-program vehicles, mix optimization and improved procurement and remarketing efforts. We believe the increase in residual values is partially due to the recent events in Japan and we are unsure if they will remain this high as these events work their way through the vehicle and equipment supply chain.
+
+For the six months ended June 30, 2011, we experienced a 6.5% increase in transaction days versus the prior period in the United States, while rental rate revenue per transaction day, or "RPD," declined by 3.0%. During the six months ended June 30, 2011, in our European operations, we experienced a 6.9% improvement in transaction days while RPD declined by 2.5% compared to the six months ended June 30, 2010.
+
+Our U.S. off-airport operations represented $550.3 million and $496.0 million of our total car rental revenues in the six months ended June 30, 2011 and 2010, respectively. As of June 30, 2011, we have approximately 2,030 off-airport locations. Our strategy includes selected openings of new off-airport locations, the disciplined evaluation of existing locations and the pursuit of same-store sales growth. Our strategy also includes increasing penetration in the off-airport market and growing the online leisure market, particularly in the longer length weekly sector, which is characterized by lower vehicle costs and lower transaction costs at a lower RPD. Increasing our penetration in these sectors is consistent with our long-term strategy to generate profitable growth. When we open a new off-airport location, we incur a number of costs, including those relating to site selection, lease negotiation, recruitment of employees, selection and development of managers, initial sales activities and integration of our systems with those of the companies who will reimburse the location's replacement renters for their rentals. A new off-airport location, once opened, takes time to generate its full potential revenues and, as a result, revenues at new locations do not initially cover their start-up costs and often do not, for some time, cover the costs of their ongoing operations.
+
+Equipment Rental
+
+HERC experienced higher rental volumes and pricing worldwide for the six months ended June 30, 2011 compared to the prior year period as the industry begins to recover and fleet levels begin to align with demand in the industry. Specifically, we saw increases in HERC specialty services as well as government work.
+
+[p. 39]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+HERC locations:
+
+Total | U.S. | Canada | France | Spain | Italy | China | Saudi Arabia
+December 31, 2010 | 322 | 210 | 38 | 65 | 4 | 1 | 4 | —
+Net increase (decrease) | (8) | (9) | — | — | — | — | — | 1
+Additions relating to acquisitions | 1 | 1 | — | — | — | — | — | —
+June 30, 2011 | 315 | 202 | 38 | 65 | 4 | 1 | 4 | 1
+
+Seasonality
+
+Our car rental and equipment rental operations are seasonal businesses, with decreased levels of business in the winter months and heightened activity during the spring and summer. We have the ability to dynamically manage fleet capacity, the most significant portion of our cost structure, to meet market demand. For instance, to accommodate increased demand, we increase our available fleet and staff during the second and third quarters of the year. As business demand declines, fleet and staff are decreased accordingly. A number of our other major operating costs, including airport concession fees, commissions and vehicle liability expenses, are directly related to revenues or transaction volumes. In addition, our management expects to utilize enhanced process improvements, including efficiency initiatives and the use of our information technology systems, to help manage our variable costs. Approximately two-thirds of our typical annual operating costs represent variable costs, while the remaining one-third is fixed or semi-fixed. We also maintain a flexible workforce, with a significant number of part time and seasonal workers. However, certain operating expenses, including rent, insurance, and administrative overhead, remain fixed and cannot be adjusted for seasonal demand.
+
+Restructuring
+
+During the first quarter of 2011, we continued to streamline operations and reduce costs with the closure of several car rental and equipment rental locations globally as well as a reduction in our workforce by approximately 100 employees.
+
+During the second quarter of 2011, we continued to streamline operations and reduce costs with the closure of twelve equipment rental locations in the U.S., consolidation of our European headquarters and the reduction in our global workforce by approximately 50 employees.
+
+For the three and six months ended June 30, 2011, our consolidated statement of operations includes restructuring charges of $33.7 million and $38.4 million, respectively. For the three and six months ended June 30, 2010, our consolidated statement of operations includes restructuring charges relating to the initiatives discussed above of $20.3 million and $31.0 million, respectively.
+
+Additional efficiency and cost saving initiatives are being developed during 2011. However, we presently do not have firm plans or estimates of any related expenses. See Note 12 to the Notes to our condensed consolidated financial statements included in this Report.
+
+[p. 40]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+RESULTS OF OPERATIONS
+
+Three Months Ended June 30, 2011 Compared with Three Months Ended June 30, 2010
+
+Summary
+
+The following table sets forth the percentage of total revenues represented by the various line items in our consolidated statements of operations for the three months ended June 30, 2011 and 2010 (in millions of dollars):
+
+Percentage of Revenues
+Three Months Ended June 30, | Three Months Ended June 30,
+2011 | 2010 | 2011 | 2010
+Revenues:
+Car rental | $1,731.2 | $1,583.0 | 83.5% | 84.2%
+Equipment rental | 301.6 | 265.7 | 14.6 | 14.1
+Other | 39.5 | 30.9 | 1.9 | 1.7
+Total revenues | 2,072.3 | 1,879.6 | 100.0 | 100.0
+Expenses:
+Direct operating | 1,187.3 | 1,075.0 | 57.3 | 57.2
+Depreciation of revenue earning equipment and lease charges | 419.7 | 456.7 | 20.3 | 24.3
+Selling, general and administrative | 195.6 | 172.0 | 9.4 | 9.2
+Interest expense | 165.8 | 188.9 | 8.0 | 10.0
+Interest income | (1.5) | (6.8) | (0.1) | (0.4)
+Other (income) expense, net | 10.8 | — | 0.5 | —
+Total expenses | 1,977.7 | 1,885.8 | 95.4 | 100.3
+Income (loss) before income taxes | 94.6 | (6.2) | 4.6 | (0.3)
+Provision for taxes on income | (34.5) | (14.2) | (1.7) | (0.8)
+Net income (loss) | 60.1 | (20.4) | 2.9 | (1.1)
+Less: Net income attributable to noncontrolling interest | (5.1) | (4.7) | (0.2) | (0.2)
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | $55.0 | $(25.1) | 2.7% | (1.3)%
+
+[p. 41]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+The following table sets forth certain of our selected car rental, equipment rental and other operating data for the three months ended or as of June 30, 2011 and 2010:
+
+Three Months Ended or as of June 30,
+2011 | 2010
+Selected Car Rental Operating Data:
+Worldwide number of transactions (in thousands) | 7,146 | 6,821
+Domestic | 5,255 | 5,021
+International | 1,891 | 1,800
+Worldwide transaction days (in thousands)(a) | 34,826 | 32,194
+Domestic | 23,889 | 22,061
+International | 10,937 | 10,133
+Worldwide rental rate revenue per transaction day(b) | $41.16 | $42.83
+Domestic | $39.32 | $41.07
+International | $45.17 | $46.66
+Worldwide average number of company-operated cars during the period | 487,600 | 448,400
+Domestic | 328,200 | 300,000
+International | 159,400 | 148,400
+Adjusted pre-tax income (in millions of dollars)(c) | $242.2 | $174.9
+Worldwide revenue earning equipment, net (in millions of dollars) | $9,522.7 | $8,762.1
+Selected Worldwide Equipment Rental Operating Data:
+Rental and rental related revenue (in millions of dollars)(d) | $267.8 | $239.6
+Same store revenue growth (decline), including growth initiatives(e) | 10.4% | (5.0)%
+Average acquisition cost of rental equipment operated during the period (in millions of dollars) | $2,778.8 | $2,704.4
+Adjusted pre-tax income (in millions of dollars)(c) | $33.4 | $14.4
+Revenue earning equipment, net (in millions of dollars) | $1,702.7 | $1,649.1
+
+(a)
+
+Transaction days represents the total number of days that vehicles were on rent in a given period.
+
+(b)
+
+Car rental rate revenue consists of all revenue, net of discounts, associated with the rental of cars including charges for optional insurance products, but excluding revenue derived from fueling and concession and other expense pass-throughs, NeverLost units in the U.S. and certain ancillary revenue. Rental rate revenue per transaction day is calculated as total rental rate revenue, divided by the total number of transaction days, with all periods adjusted to eliminate the effect of fluctuations in foreign currency. Our management believes eliminating the effect of fluctuations in foreign currency is appropriate so as not to affect the comparability of underlying trends. This statistic is important to our management as it represents the best measurement of the changes in underlying pricing in the car rental business and encompasses the elements in car rental pricing that management has the ability to control. The optional insurance products are packaged within certain negotiated corporate, government and membership programs and within certain retail rates being charged. Based upon these existing programs and rate packages, management believes that these optional insurance products should be consistently included in the daily pricing of car rental transactions. On the other hand, non-rental rate revenue items such as refueling and concession pass-through expense items are driven by factors beyond the control of management (i.e. the price of fuel and the concession fees charged by airports). Additionally, NeverLost units are an optional revenue product which management does not consider to be part of their daily pricing of car rental transactions. The following table reconciles our car rental
+
+[p. 42]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+segment revenues to our rental rate revenue and rental rate revenue per transaction day (based on December 31, 2010 foreign exchange rates) for the three months ended June 30, 2011 and 2010 (in millions of dollars, except as noted):
+
+Three Months Ended June 30,
+2011 | 2010
+Car rental segment revenues | $1,768.8 | $1,611.4
+Non-rental rate revenue | (292.4) | (261.4)
+Foreign currency adjustment | (43.1) | 29.0
+Rental rate revenue | $1,433.3 | $1,379.0
+Transaction days (in thousands) | 34,826 | 32,194
+Rental rate revenue per transaction day (in whole dollars) | $41.16 | $42.83
+
+(c)
+
+Adjusted pre-tax income is calculated as income (loss) before income taxes plus non-cash purchase accounting charges, non-cash debt charges and certain one-time charges and non-operational items. Adjusted pre-tax income is the measure utilized by management in making decisions about allocating resources to segments and measuring their performance. Management believes this measure best reflects the financial results from ongoing operations. The contribution of our reportable segments to adjusted pre-tax income and reconciliation to consolidated amounts are presented below (in millions of dollars):
+
+Three Months Ended June 30,
+2011 | 2010
+Adjusted pre-tax income:
+Car rental | $242.2 | $174.9
+Equipment rental | 33.4 | 14.4
+Total reportable segments | 275.6 | 189.3
+Adjustments:
+Other reconciling items(1) | (91.2) | (93.5)
+Purchase accounting(2) | (22.5) | (22.5)
+Non-cash debt charges(3) | (27.1) | (49.6)
+Restructuring charges | (33.7) | (20.3)
+Restructuring related charges(4) | (2.8) | (2.0)
+Derivative losses(5) | — | (0.6)
+Acquisition related costs | (6.1) | (7.0)
+Pension adjustment(6) | 13.1 | —
+Premiums paid on debt(7) | (10.7) | —
+Income (loss) before income taxes | $94.6 | $(6.2)
+
+(1)
+
+Represents general corporate expenses, certain interest expense (including net interest on corporate debt), as well as other business activities such as our third-party claim management services.
+
+(2)
+
+Represents the purchase accounting effects of the Acquisition on our results of operations relating to increased depreciation and amortization of tangible and intangible assets and accretion of revalued workers' compensation and public liability and property damage liabilities. Also represents the purchase accounting effects of subsequent acquisitions on our results of operations relating to increased amortization of intangible assets.
+
+(3)
+
+Represents non-cash debt charges relating to the amortization and write-off of deferred debt financing costs and debt discounts. For the three months ended June 30, 2010, also includes $18.0 million associated with the amortization of amounts pertaining to the de-designation of the Hertz Vehicle Financing LLC, or "HVF," interest rate swaps as effective hedging instruments.
+
+(4)
+
+Represents incremental costs incurred directly supporting our business transformation initiatives. Such costs include transition costs incurred in connection with our business process outsourcing arrangements and incremental costs incurred to facilitate business process re-engineering initiatives that involve significant organization redesign and extensive operational process changes.
+
+[p. 43]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+(5)
+
+Represents the mark-to-market adjustment on our interest rate cap.
+
+(6)
+
+Represents a gain for the U.K. pension plan relating to unamortized prior service cost from a 2010 amendment that eliminated discretionary pension increases related to pre-1997 service primarily pertaining to inactive employees.
+
+(7)
+
+Represents premiums paid to redeem our 10.5% Senior Subordinated Notes and a portion of our 8.875% Senior Notes.
+
+(d)
+
+Equipment rental and rental related revenue consists of all revenue, net of discounts, associated with the rental of equipment including charges for delivery, loss damage waivers and fueling, but excluding revenue arising from the sale of equipment, parts and supplies and certain other ancillary revenue. Rental and rental related revenue is adjusted in all periods to eliminate the effect of fluctuations in foreign currency. Our management believes eliminating the effect of fluctuations in foreign currency is appropriate so as not to affect the comparability of underlying trends. This statistic is important to our management as it is utilized in the measurement of rental revenue generated per dollar invested in fleet on an annualized basis and is comparable with the reporting of other industry participants. The following table reconciles our equipment rental segment revenues to our equipment rental and rental related revenue (based on December 31, 2010 foreign exchange rates) for the three months ended June 30, 2011 and 2010 (in millions of dollars):
+
+Three Months Ended June 30,
+2011 | 2010
+Equipment rental segment revenues | $301.7 | $265.8
+Equipment sales and other revenue | (29.4) | (28.7)
+Foreign currency adjustment | (4.5) | 2.5
+Rental and rental related revenue | $267.8 | $239.6
+
+(e)
+
+Same store revenue growth or decline is calculated as the year over year change in revenue for locations that are open at the end of the period reported and have been operating under our direction for more than twelve months. The same store revenue amounts are adjusted in all periods to eliminate the effect of fluctuations in foreign currency. Our management believes eliminating the effect of fluctuations in foreign currency is appropriate so as not to affect the comparability of underlying trends.
+
+REVENUES
+
+Three Months Ended June 30,
+(in millions of dollars) | 2011 | 2010 | $ Change | % Change
+Revenues by Segment
+Car rental | $1,768.8 | $1,611.4 | $157.4 | 9.8%
+Equipment rental | 301.7 | 265.8 | 35.9 | 13.5%
+Other reconciling items | 1.8 | 2.4 | (0.6) | (25.0)%
+Total revenues | $2,072.3 | $1,879.6 | $192.7 | 10.3%
+
+Car Rental Segment
+
+Revenues from our car rental segment increased 9.8%, primarily as a result of increases in car rental transaction days worldwide of 8.2%, refueling fees of $15.2 million and airport concession recovery fees of $9.8 million as well as the effects of foreign currency translation of approximately $74.1 million, partly offset by a decrease in worldwide RPD.
+
+RPD for worldwide car rental for the three months ended June 30, 2011 decreased 3.9% from 2010, due to decreases in U.S. and International RPD of 4.3% and 3.2%, respectively. U.S. off-airport RPD declined by 1.8% and U.S. airport RPD decreased 5.1%. U.S. airport RPD decreased due to the lower RPD that our Advantage brand generates, as well as the competitive pricing environment. International RPD decreased primarily due to a decrease in Europe's airport RPD.
+
+[p. 44]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Equipment Rental Segment
+
+Revenues from our equipment rental segment increased 13.5%, primarily due to increases of 11.3% and 2.2% in equipment rental volumes and pricing, respectively, as well as the effects of foreign currency translation of approximately $8.1 million. The increase in volume was primarily due to strong industrial performance.
+
+Other
+
+Revenues from all other sources decreased $0.6 million.
+
+EXPENSES
+
+Three Months Ended June 30,
+(in millions of dollars) | 2011 | 2010 | $ Change | % Change
+Expenses:
+Fleet related expenses | $287.0 | $248.8 | $38.2 | 15.4%
+Personnel related expenses | 373.5 | 354.7 | 18.8 | 5.3%
+Other direct operating expenses | 526.8 | 471.5 | 55.3 | 11.7%
+Direct operating | 1,187.3 | 1,075.0 | 112.3 | 10.4%
+Depreciation of revenue earning equipment and lease charges | 419.7 | 456.7 | (37.0) | (8.1)%
+Selling, general and administrative | 195.6 | 172.0 | 23.6 | 13.7%
+Interest expense | 165.8 | 188.9 | (23.1) | (12.2)%
+Interest income | (1.5) | (6.8) | 5.3 | (77.2)%
+Other (income) expense, net | 10.8 | — | 10.8 | 100.0%
+Total expenses | $1,977.7 | $1,885.8 | $91.9 | 4.9%
+
+Total expenses increased 4.9%, but total expenses as a percentage of revenues decreased from 100.3% for the three months ended June 30, 2010 to 95.4% for the three months ended June 30, 2011.
+
+Direct Operating Expenses
+
+Car Rental Segment
+
+Direct operating expenses for our car rental segment of $977.9 million for the three months ended June 30, 2011 increased 9.7% from $891.5 million for the three months ended June 30, 2010 as a result of increases in other direct operating expenses, fleet related expenses and personnel related expenses.
+
+Other direct operating expenses for our car rental segment of $434.7 million for the three months ended June 30, 2011 increased $40.7 million, or 10.3%, from the three months ended June 30, 2010. The increase was primarily related to increases in concession fees of $7.8 million, a value added tax reclaim of approximately $4.0 million received in the three months ended June 30, 2010, field administrative expenses of $2.8 million, commissions of $2.1 million and charge card fees of $1.7 million, as well as the effects of foreign currency translation of approximately $18.4 million. These increases were primarily a result of improved worldwide rental volume demand. The increases in other direct operating expenses were partly offset by decreases in field systems of $3.7 million and restructuring and restructuring related charges of $2.8 million.
+
+[p. 45]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Fleet related expenses for our car rental segment of $236.6 million for the three months ended June 30, 2011 increased $34.1 million, or 16.9%, from the three months ended June 30, 2010. The increase was primarily related to worldwide rental volume demand which resulted in increases in gasoline costs of $17.4 million and self insurance expenses of $6.8 million, as well as the effects of foreign currency translation of approximately $10.4 million. The increase in gasoline costs also related to higher gasoline prices.
+
+Personnel related expenses for our car rental segment of $306.6 million for the three months ended June 30, 2011 increased $11.6 million, or 3.9%, from the three months ended June 30, 2010. The increase was primarily related to the effects of foreign currency translation of approximately $10.6 million, as well as an increase in salaries of $7.4 million, partly offset by a decrease in benefits of $9.2 million. The increase in salaries was primarily related to improved volume, as well as additional U.S. off-airport locations in 2011. The decrease in benefits primarily related to the U.K. pension curtailment gain.
+
+Equipment Rental Segment
+
+Direct operating expenses for our equipment rental segment of $208.7 million for the three months ended June 30, 2011 increased 15.7% from $180.5 million for the three months ended June 30, 2010 as a result of increases in other direct operating expenses, fleet related expenses and personnel related expenses.
+
+Other direct operating expenses for our equipment rental segment of $101.4 million for the three months ended June 30, 2011 increased $18.2 million, or 21.8% from the three months ended June 30, 2010. The increase was primarily related to increases in restructuring charges of $13.7 million and legal expenses of $2.0 million, as well as the effects of foreign currency translation of approximately $2.1 million.
+
+Fleet related expenses for our equipment rental segment of $50.4 million for the three months ended June 30, 2011 increased $5.1 million, or 11.2% from the three months ended June 30, 2010. The increase was primarily related to increased worldwide rental volume resulting in increased freight and delivery costs of $2.6 million and continued aging of the fleet which resulted in an increase in maintenance costs of $1.6 million, as well as the effects of foreign currency translation of approximately $1.3 million.
+
+Personnel related expenses for our equipment rental segment of $56.9 million for the three months ended June 30, 2011 increased $5.0 million, or 9.6%, from the three months ended June 30, 2010. The increase was related to wages and benefits of $1.4 million and incentives of $1.7 million primarily related to improved results, as well as the effects of foreign currency translation of approximately $1.5 million.
+
+Depreciation of Revenue Earning Equipment and Lease Charges
+
+Car Rental Segment
+
+Depreciation of revenue earning equipment and lease charges for our car rental segment of $355.1 million for the three months ended June 30, 2011 decreased 8.9% from $389.7 million for the three months ended June 30, 2010. The decrease was primarily due to an improvement in certain vehicle residual values and a higher mix of non-program cars, partly offset by the effects of foreign currency translation of approximately $16.8 million.
+
+[p. 46]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Equipment Rental Segment
+
+Depreciation of revenue earning equipment and lease charges in our equipment rental segment of $64.6 million for the three months ended June 30, 2011 decreased 3.6% from $67.0 million for the three months ended June 30, 2010. The decrease was primarily due to higher residual values on the disposal of used equipment, partly offset by a 2.8% increase in the average acquisition cost of rental equipment operated during the period and the effects of foreign currency translation of approximately $1.5 million.
+
+Selling, General and Administrative Expenses
+
+Selling, general and administrative expenses increased 13.7%, due to increases in administrative expenses, advertising expenses and sales promotion expenses.
+
+Administrative expenses increased $12.1 million, or 11.3%, primarily due to increases in salaries and related expenses of $5.0 million, restructuring and restructuring related charges of $2.8 million and consultant fees of $1.7 million, as well as the effects of foreign currency translation of approximately $4.4 million. These increases were partly offset by a decrease in stock option expense of $2.8 million.
+
+Advertising expenses increased $6.8 million, or 20.6%, primarily due to increased media and production related to the new campaign ("Gas and Brake"), as well as the effects of foreign currency translation of approximately $2.3 million.
+
+Sales promotion expenses increased $4.7 million, or 14.7%, primarily related to increases in sales salaries and commissions due to improved results, as well as the effects of foreign currency translation of approximately $1.4 million.
+
+Interest Expense
+
+Car Rental Segment
+
+Interest expense for our car rental segment of $79.0 million for the three months ended June 30, 2011 decreased 18.5% from $96.9 million for the three months ended June 30, 2010. The decrease was primarily due to a decrease in interest rates, as well as a decrease in the weighted average debt outstanding.
+
+Equipment Rental Segment
+
+Interest expense for our equipment rental segment of $12.2 million for the three months ended June 30, 2011 increased 19.6% from $10.2 million for the three months ended June 30, 2010. The increase was primarily due to an increase in Senior Term Facility and Senior ABL Facility interest rates in 2011.
+
+Other
+
+Other interest expense relating to interest on corporate debt of $74.6 million for the three months ended June 30, 2011 decreased 8.8% from $81.8 million for the three months ended June 30, 2010. The decrease was primarily due to lower interest rates in 2011, partly offset by the write-off of unamortized debt costs in connection with the redemption of a portion of our 8.875% Senior Notes in 2011.
+
+[p. 47]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Interest Income
+
+Interest income decreased $5.3 million primarily due to a value added tax reclaim received in the three months ended June 30, 2010.
+
+Other (Income) Expense, Net
+
+Other (income) expense, net increased $10.8 million primarily due to premiums paid in connection with the redemption of portions of our 8.875% Senior Notes during 2011.
+
+ADJUSTED PRE-TAX INCOME (LOSS)
+
+Car Rental Segment
+
+Adjusted pre-tax income for our car rental segment of $242.2 million increased $67.3 million from $174.9 million for the three months ended June 30, 2010. The increase was primarily due to stronger volumes, improved residual values and disciplined cost management, partly offset by decreased pricing. Adjustments to our car rental segment income before income taxes for the three months ended June 30, 2011 totaled $10.1 million (which consists of non-cash debt charges of $10.6 million, purchase accounting of $8.5 million, restructuring and related charges of $4.0 million, pension adjustment of $(13.1) million and loss on derivatives of $0.1 million). Adjustments to our car rental segment income before income taxes for the three months ended June 30, 2010 totaled $53.5 million (which consists of non-cash debt charges of $37.7 million, purchase accounting of $9.7 million and restructuring and related charges of $6.1 million). See footnote (c) to the table under "Results of Operations" for a summary and description of these adjustments.
+
+Equipment Rental Segment
+
+Adjusted pre-tax income for our equipment rental segment of $33.4 million increased $19.0 million from $14.4 million for the three months ended June 30, 2010. The increase was primarily due to stronger volumes and pricing, strong cost management performance and higher residual values on the disposal of used equipment. Adjustments to our equipment rental segment loss before income taxes for the three months ended June 30, 2011 totaled $46.7 million (which consists of restructuring and related charges of $32.1 million, purchase accounting of $13.1 million and non-cash debt charges of $1.5 million). Adjustments to our equipment rental loss before income taxes for the three months ended June 30, 2010 totaled $30.2 million (which consists of restructuring charges of $16.0 million, purchase accounting of $12.0 million and non-cash debt charges of $2.2 million). See footnote (c) to the table under "Results of Operations" for a summary and description of these adjustments.
+
+[p. 48]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+PROVISION FOR TAXES ON INCOME, NET INCOME ATTRIBUTABLE TO NONCONTROLLING INTEREST AND NET (INCOME) LOSS ATTRIBUTABLE TO HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES' COMMON STOCKHOLDERS
+
+Three Months Ended June 30,
+(in millions of dollars) | 2011 | 2010 | $ Change | % Change
+Income (loss) before income taxes | $94.6 | $(6.2) | $100.8 | 1,617.2%
+Provision for taxes on income | (34.5) | (14.2) | (20.3) | 143.2%
+Net income (loss) | 60.1 | (20.4) | 80.5 | 393.8%
+Less: Net income attributable to noncontrolling interest | (5.1) | (4.7) | (0.4) | 8.9%
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | $55.0 | $(25.1) | $80.1 | 318.9%
+
+Provision for Taxes on Income
+
+The effective tax rate for the three months ended June 30, 2011 was 36.5% as compared to (227.8)% in the three months ended June 30, 2010. The provision for taxes on income increased $20.3 million, primarily due to higher income before income taxes, changes in geographic earnings mix and changes in losses in certain non-U.S. jurisdictions for which tax benefits cannot be realized.
+
+Net Income Attributable to Noncontrolling Interest
+
+Net income attributable to noncontrolling interest increased $0.4 million due to an increase in our majority-owned subsidiary Navigation Solutions, L.L.C.'s net income for the three months ended June 30, 2011 as compared to the three months ended June 30, 2010.
+
+Net Income (Loss) Attributable to Hertz Global Holdings, Inc. and Subsidiaries' Common Stockholders
+
+The net income attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders increased $80.1 million primarily due to higher rental volumes in our worldwide car and equipment rental operations, improved residual values on the disposal of certain vehicles and used equipment and disciplined cost management, partly offset by lower pricing in our worldwide car rental operations. The impact of changes in exchange rates on net loss was mitigated by the fact that not only revenues but also most expenses outside of the United States were incurred in local currencies.
+
+[p. 49]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Six Months Ended June 30, 2011 Compared with Six Months Ended June 30, 2010
+
+Summary
+
+The following table sets forth the percentage of total revenues represented by the various line items in our consolidated statements of operations for the six months ended June 30, 2011 and 2010 (in millions of dollars):
+
+Percentage of Revenues
+Six Months Ended June 30, | Six Months Ended June 30,
+2011 | 2010 | 2011 | 2010
+Revenues:
+Car rental | $3,210.1 | $2,979.6 | 83.3% | 84.2%
+Equipment rental | 569.7 | 502.7 | 14.8 | 14.2
+Other | 72.5 | 58.2 | 1.9 | 1.6
+Total revenues | 3,852.3 | 3,540.5 | 100.0 | 100.0
+Expenses:
+Direct operating | 2,261.0 | 2,088.0 | 58.7 | 59.0
+Depreciation of revenue earning equipment and lease charges | 855.7 | 915.9 | 22.2 | 25.9
+Selling, general and administrative | 377.8 | 339.8 | 9.8 | 9.6
+Interest expense | 362.7 | 370.0 | 9.4 | 10.4
+Interest income | (3.4) | (9.1) | — | (0.3)
+Other (income) expense, net | 62.7 | — | 1.6 | —
+Total expenses | 3,916.5 | 3,704.6 | 101.7 | 104.6
+Loss before income taxes | (64.2) | (164.1) | (1.7) | (4.6)
+Provision for taxes on income | (4.6) | (3.2) | (0.1) | (0.1)
+Net loss | (68.8) | (167.3) | (1.8) | (4.7)
+Less: Net income attributable to noncontrolling interest | (8.8) | (8.2) | (0.2) | (0.3)
+Net loss attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | $(77.6) | $(175.5) | (2.0)% | (5.0)%
+
+[p. 50]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+The following table sets forth certain of our selected car rental, equipment rental and other operating data for the six months ended or as of June 30, 2011 and 2010:
+
+Six Months Ended or as of June 30,
+2011 | 2010
+Selected Car Rental Operating Data:
+Worldwide number of transactions (in thousands) | 13,174 | 12,678
+Domestic | 9,733 | 9,418
+International | 3,441 | 3,260
+Worldwide transaction days (in thousands)(a) | 64,476 | 60,310
+Domestic | 44,710 | 42,001
+International | 19,766 | 18,309
+Worldwide rental rate revenue per transaction day(a)(b) | $41.66 | $42.77
+Domestic | $40.26 | $41.49
+International | $44.83 | $45.69
+Worldwide average number of company-operated cars during the period | 457,500 | 433,100
+Domestic | 311,900 | 296,900
+International | 145,600 | 136,200
+Adjusted pre-tax income (in millions of dollars)(a)(c) | $303.5 | $202.0
+Worldwide revenue earning equipment, net (in millions of dollars) | $9,522.7 | $8,762.1
+Selected Worldwide Equipment Rental Operating Data:
+Rental and rental related revenue (in millions of dollars)(a)(d) | $511.0 | $455.2
+Same store revenue growth (decline), including growth initiatives(a) | 9.9% | (11.3)%
+Average acquisition cost of rental equipment operated during the period (in millions of dollars) | $2,769.2 | $2,741.7
+Adjusted pre-tax income (in millions of dollars)(a)(c) | $43.6 | $9.4
+Revenue earning equipment, net (in millions of dollars) | $1,702.7 | $1,649.1
+
+(a)
+
+For further details relating to car rental transaction days, car rental rate revenue per transaction day, adjusted pre-tax income, equipment rental and rental related revenue and equipment rental same store revenue growth (decline) including growth initiatives, see "Three Months Ended June 30, 2011 Compared with Three Months Ended June 30, 2010—Summary."
+
+(b)
+
+The following table reconciles our car rental segment revenues to our rental rate revenue and rental rate revenue per transaction day (based on December 31, 2010 foreign exchange rates) for the six months ended June 30, 2011 and 2010 (in millions of dollars, except as noted):
+
+Six Months Ended June 30,
+2011 | 2010
+Car rental segment revenues | $3,279.1 | $3,033.1
+Non-rental rate revenue | (540.4) | (484.3)
+Foreign currency adjustment | (52.6) | 30.5
+Rental rate revenue | $2,686.1 | $2,579.3
+Transaction days (in thousands) | 64,476 | 60,310
+Rental rate revenue per transaction day (in whole dollars) | $41.66 | $42.77
+
+[p. 51]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+(c)
+
+The contribution of our reportable segments to adjusted pre-tax income (loss) and reconciliation to consolidated amounts are presented below (in millions of dollars):
+
+Six Months Ended June 30,
+2011 | 2010
+Adjusted pre-tax income:
+Car rental | $303.5 | $202.0
+Equipment rental | 43.6 | 9.4
+Total reportable segments | 347.1 | 211.4
+Adjustments:
+Other reconciling items(1) | (178.7) | (184.9)
+Purchase accounting(2) | (43.1) | (44.6)
+Non-cash debt charges(3) | (87.0) | (98.4)
+Restructuring charges | (38.4) | (31.0)
+Restructuring related charges(4) | (3.3) | (7.3)
+Derivative losses(5) | — | (2.3)
+Acquisition related costs | (9.0) | (7.0)
+Management transition costs | (2.5) | —
+Pension adjustment(6) | 13.1 | —
+Premiums paid on debt(7) | (62.4) | —
+Loss before income taxes | $(64.2) | $(164.1)
+
+(1)
+
+Represents general corporate expenses, certain interest expense (including net interest on corporate debt), as well as other business activities such as our third-party claim management services.
+
+(2)
+
+Represents the purchase accounting effects of the Acquisition on our results of operations relating to increased depreciation and amortization of tangible and intangible assets and accretion of revalued workers' compensation and public liability and property damage liabilities. Also represents the purchase accounting effects of subsequent acquisitions on our results of operations relating to increased amortization of intangible assets.
+
+(3)
+
+Represents non-cash debt charges relating to the amortization and write-off of deferred debt financing costs and debt discounts. For the six months ended June 30, 2010, also includes $38.9 million associated with the amortization of amounts pertaining to the de-designation of the HVF interest rate swaps as effective hedging instruments.
+
+(4)
+
+Represents incremental costs incurred directly supporting our business transformation initiatives. Such costs include transition costs incurred in connection with our business process outsourcing arrangements and incremental costs incurred to facilitate business process re-engineering initiatives that involve significant organization redesign and extensive operational process changes.
+
+(5)
+
+Represents the mark-to-market adjustment on our interest rate cap.
+
+(6)
+
+Represents a gain for the U.K. pension plan relating to unamortized prior service cost from a 2010 amendment that eliminated discretionary pension increases related to pre-1997 service primarily pertaining to inactive employees.
+
+(7)
+
+Represents premiums paid to redeem our 10.5% Senior Subordinated Notes and a portion of our 8.875% Senior Notes.
+
+[p. 52]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+(d)
+
+The following table reconciles our equipment rental segment revenues to our equipment rental and rental related revenue (based on December 31, 2010 foreign exchange rates) for the six months ended June 30, 2011 and 2010 (in millions of dollars):
+
+Six Months Ended June 30,
+2011 | 2010
+Equipment rental segment revenues | $569.9 | $502.8
+Equipment sales and other revenue | (52.8) | (50.8)
+Foreign currency adjustment | (6.1) | 3.2
+Rental and rental related revenue | $511.0 | $455.2
+
+REVENUES
+
+Six Months Ended June 30,
+(in millions of dollars) | 2011 | 2010 | $ Change | % Change
+Revenues by Segment
+Car rental | $3,279.1 | $3,033.1 | $246.0 | 8.1%
+Equipment rental | 569.9 | 502.8 | 67.1 | 13.3%
+Other reconciling items | 3.3 | 4.6 | (1.3) | (28.3)%
+Total revenues | $3,852.3 | $3,540.5 | $311.8 | 8.8%
+
+Car Rental Segment
+
+Revenues from our car rental segment increased 8.1%, primarily as a result of increases in car rental transaction days worldwide of 6.9%, refueling fees of $23.5 million and airport concession recovery fees of $18.0 million as well as the effects of foreign currency translation of approximately $88.6 million, partly offset by a decrease in worldwide RPD.
+
+RPD for worldwide car rental for the six months ended June 30, 2011 decreased 2.6% from 2010, due to decreases in U.S. and International RPD of 3.0% and 1.9%, respectively. U.S. off-airport RPD declined by 0.7% and U.S. airport RPD decreased 3.4%. U.S. airport RPD decreased due to the lower RPD that our Advantage brand generates, as well as the competitive pricing environment. International RPD decreased primarily due to a decrease in Europe's airport RPD.
+
+Equipment Rental Segment
+
+Revenues from our equipment rental segment increased 13.3%, primarily due to increases of 12.7% and 1.1% in equipment rental volumes and pricing, respectively, as well as the effects of foreign currency translation of approximately $11.0 million. The increase in volume was primarily due to strong industrial performance.
+
+Other
+
+Revenues from all other sources decreased $1.3 million, primarily due to a decrease in revenues from our third-party claim management services.
+
+[p. 53]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+EXPENSES
+
+Six Months Ended June 30,
+(in millions of dollars) | 2011 | 2010 | $ Change | % Change
+Expenses:
+Fleet related expenses | $536.9 | $477.8 | $59.1 | 12.4%
+Personnel related expenses | 739.5 | 701.1 | 38.4 | 5.5%
+Other direct operating expenses | 984.6 | 909.1 | 75.5 | 8.3%
+Direct operating | 2,261.0 | 2,088.0 | 173.0 | 8.3%
+Depreciation of revenue earning equipment and lease charges | 855.7 | 915.9 | (60.2) | (6.6)%
+Selling, general and administrative | 377.8 | 339.8 | 38.0 | 11.2%
+Interest expense | 362.7 | 370.0 | (7.3) | (2.0)%
+Interest income | (3.4) | (9.1) | 5.7 | (62.5)%
+Other (income) expense, net | 62.7 | — | 62.7 | 100.0%
+Total expenses | $3,916.5 | $3,704.6 | $211.9 | 5.7%
+
+Total expenses increased 5.7%, but total expenses as a percentage of revenues decreased from 104.6% for the six months ended June 30, 2010 to 101.7% for the six months ended June 30, 2011.
+
+Direct Operating Expenses
+
+Car Rental Segment
+
+Direct operating expenses for our car rental segment of $1,881.7 million for the six months ended June 30, 2011 increased $135.5 million, or 7.8%, from the six months ended June 30, 2010 as a result of increases in other direct operating expenses, fleet related expenses and personnel related expenses.
+
+Other direct operating expenses for our car rental segment of $833.5 million for the six months ended June 30, 2011 increased $59.3 million or 7.7% from the six months ended June 30, 2010. The increase was primarily related to increases in field administrative expenses of $16.8 million, concession fees of $9.1 million, third-party claim management expenses of $6.9 million, charge card fees of $3.1 million and reservation costs of $2.1 million, as well as the effects of foreign currency translation of approximately $21.1 million. The increases were primarily a result of improved worldwide rental volume demand. The increase in field administrative expenses also related to a reimbursement received from a manufacturer in the six months ended June 30, 2010. The increases in other direct operating expenses were partly offset by a decrease in restructuring and restructuring related charges of $8.5 million.
+
+Fleet related expenses for our car rental segment of $441.5 million for the six months ended June 30, 2011 increased $48.6 million, or 12.4% from the six months ended June 30, 2010. The increase was primarily related to worldwide rental volume demand which resulted in increases in gasoline costs of $22.8 million, vehicle license taxes of $4.8 million, vehicle registration fees of $3.6 million and self insurance expenses of $3.0 million, as well as the effects of foreign currency translation of approximately $17.5 million. The increase in gasoline costs also related to higher gasoline prices. These increases were partly offset by a decrease in vehicle damage costs of $5.3 million.
+
+[p. 54]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Personnel related expenses for our car rental segment of $606.7 million for the six months ended June 30, 2011 increased $27.5 million, or 4.7%, from the six months ended June 30, 2010. The increase was related to increases in salaries of $9.6 million, outside services, including transporter wages of $7.2 million and incentive compensation costs of $5.9 million, as well as the effects of foreign currency translation of approximately $12.7 million, partly offset by a decrease in benefits of $10.9 million. The expense increases were primarily related to improved results, as well as additional U.S. off-airport and Advantage locations in 2011. The decrease in benefits primarily related to the U.K. pension plan curtailment gain.
+
+Equipment Rental Segment
+
+Direct operating expenses for our equipment rental segment of $379.5 million for the six months ended June 30, 2011 increased 12.4% from $337.7 million for the six months ended June 30, 2010 as a result of increases in other direct operating expenses, fleet related expenses and personnel related expenses.
+
+Other direct operating expenses for our equipment rental segment of $171.2 million for the six months ended June 30, 2011 increased $22.6 million, or 15.2% from the six months ended June 30, 2010. The increase was primarily related to increases in restructuring charges of $12.6 million, legal expenses of $2.3 million and re-rent expense of $1.9 million, as well as the effects of foreign currency translation of approximately $2.8 million. The increase in re-rent expense primarily related to improved worldwide rental volume demand.
+
+Fleet related expenses for our equipment rental segment of $95.3 million for the six months ended June 30, 2011 increased $10.7 million, or 12.6% from the six months ended June 30, 2010. The increase was primarily related to continued aging of the fleet which resulted in an increase in maintenance costs of $7.7 million and increased worldwide rental volume resulting in increased freight and delivery costs of $5.0 million, as well as the effects of foreign currency translation of approximately $1.7 million.
+
+Personnel related expenses for our equipment rental segment of $113.0 million for the six months ended June 30, 2011 increased $8.6 million, or 8.2% from the six months ended June 30, 2010. The increase was related to an increase in wages of $5.1 million primarily related to improved results, as well as the effects of foreign currency translation of approximately $2.0 million.
+
+Depreciation of Revenue Earning Equipment and Lease Charges
+
+Car Rental Segment
+
+Depreciation of revenue earning equipment and lease charges for our car rental segment of $723.9 million for the six months ended June 30, 2011 decreased 7.0% from $778.0 million for the six months ended June 30, 2010. The decrease was primarily due to an improvement in certain vehicle residual values and a higher mix of non-program cars, partly offset by the effects of foreign currency translation of approximately $20.3 million.
+
+Equipment Rental Segment
+
+Depreciation of revenue earning equipment and lease charges in our equipment rental segment of $131.8 million for the six months ended June 30, 2011 decreased 4.4% from $137.9 million for the six months ended June 30, 2010. The decrease was primarily due to higher residual values on the disposal of used equipment, partly offset by a 1.0% increase in the average acquisition cost of rental equipment operated during the period, as well as the effects of foreign currency translation of approximately $1.8 million.
+
+[p. 55]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Selling, General and Administrative Expenses
+
+Selling, general and administrative expenses increased 11.2%, due to increases in administrative expenses, sales promotion expenses and advertising expenses.
+
+Administrative expenses increased $24.6 million, or 11.9%, primarily due to increases in salaries and related expenses of $14.0 million and consulting expenses of $4.7 million, as well as the effects of foreign currency translation of approximately $5.6 million.
+
+Sales promotion expenses increased $9.4 million, or 14.7%, primarily related to increases in sales salaries and commissions due to improved results.
+
+Advertising expenses increased $4.0 million, or 5.8%, primarily due to increased media and production related to the new campaign ("Gas and Brake").
+
+Interest Expense
+
+Car Rental Segment
+
+Interest expense for our car rental segment of $154.5 million for the six months ended June 30, 2011 decreased 17.0% from $186.2 million for the six months ended June 30, 2010. The decrease was primarily due to lower interest rates in 2011, as well as a decrease in the weighted average debt outstanding.
+
+Equipment Rental Segment
+
+Interest expense for our equipment rental segment of $23.3 million for the six months ended June 30, 2011 increased 14.2% from $20.4 million for the six months ended June 30, 2010. The increase was primarily due to a portion of the write-off of the unamortized debt costs in connection with the refinancing of our Senior ABL Facility which was allocated to our equipment rental segment in 2011.
+
+Other
+
+Other interest expense relating to interest on corporate debt of $184.9 million for the six months ended June 30, 2011 increased 13.2% from $163.4 million for the six months ended June 30, 2010. The increase was primarily due to the write-off of unamortized debt costs in connection with the refinancing of our Senior Term Facility and Senior ABL Facility, financing costs incurred in connection with the new Senior Term Facility and the write-off of unamortized debt costs in connection with the redemption of our 10.5% Senior Subordinated Notes and a portion of our 8.875% Senior Notes in 2011.
+
+Interest Income
+
+Interest income decreased $5.7 million primarily due to a value added tax reclaim received in the six months ended June 30, 2010.
+
+Other (Income) Expense, Net
+
+Other (income) expense, net increased $62.7 million primarily due to premiums paid in connection with the redemption of our 10.5% Senior Subordinated Notes and a portion of our 8.875% Senior Notes during 2011.
+
+[p. 56]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+ADJUSTED PRE-TAX INCOME (LOSS)
+
+Car Rental Segment
+
+Adjusted pre-tax income for our car rental segment of $303.5 million increased $101.5 million from $202.0 million for the six months ended June 30, 2010. The increase was primarily due to stronger volumes, improved residual values and disciplined cost management, partly offset by decreased pricing. Adjustments to our car rental segment income before income taxes for the six months ended June 30, 2011 totaled $30.4 million (which consists of non-cash debt charges of $20.8 million, purchase accounting of $16.6 million, restructuring and restructuring related charges of $5.5 million, pension adjustment of $(13.1) million and loss on derivatives of $0.6 million). Adjustments to our car rental segment income before income taxes for the six months ended June 30, 2010 totaled $110.7 million (which consists of non-cash debt charges of $74.7 million, purchase accounting of $19.5 million and restructuring and restructuring related charges of $16.5 million). See footnote (c) to the table under "Results of Operations" for a summary and description of these adjustments.
+
+Equipment Rental Segment
+
+Adjusted pre-tax income for our equipment rental segment of $43.6 million increased $34.2 million from $9.4 million for the six months ended June 30, 2010. The increase was primarily due to stronger volumes and pricing, strong cost management performance and higher residual values on the disposal of used equipment. Adjustments to our equipment rental segment loss before income taxes for the six months ended June 30, 2011 totaled $64.6 million (which consists of restructuring and restructuring related charges of $35.9 million, purchase accounting of $24.8 million and non-cash debt charges of $3.9 million). Adjustments to our equipment rental loss before income taxes for the six months ended June 30, 2010 totaled $48.6 million (which consists of purchase accounting of $23.5 million, restructuring and restructuring related charges of $21.0 million and non-cash debt charges of $4.1 million). See footnote (c) to the table under "Results of Operations" for a summary and description of these adjustments.
+
+PROVISION FOR TAXES ON INCOME, NET INCOME ATTRIBUTABLE TO NONCONTROLLING INTEREST AND NET LOSS ATTRIBUTABLE TO HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES' COMMON STOCKHOLDERS
+
+Six Months Ended June 30,
+(in millions of dollars) | 2011 | 2010 | $ Change | % Change
+Loss before income taxes | $(64.2) | $(164.1) | $99.9 | (60.9)%
+Provision for taxes on income | (4.6) | (3.2) | (1.4) | 44.9%
+Net loss | (68.8) | (167.3) | 98.5 | (58.8)%
+Less: Net income attributable to noncontrolling interest | (8.8) | (8.2) | (0.6) | 6.2%
+Net loss attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | $(77.6) | $(175.5) | $97.9 | (55.8)%
+
+Provision for Taxes on Income
+
+The effective tax rate for the six months ended June 30, 2011 was (7.2)% as compared to (1.9)% in the six months ended June 30, 2010. The provision for taxes on income increased $1.4 million, primarily due to
+
+[p. 57]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+lower loss before income taxes, changes in geographic earnings mix and changes in losses in certain non-U.S. jurisdictions for which tax benefits cannot be realized.
+
+Net Income Attributable to Noncontrolling Interest
+
+Net income attributable to noncontrolling interest increased $0.6 million due to an increase in our majority-owned subsidiary Navigation Solutions, L.L.C.'s net income for the six months ended June 30, 2011 as compared to the six months ended June 30, 2010.
+
+Net Loss Attributable to Hertz Global Holdings, Inc. and Subsidiaries' Common Stockholders
+
+The net loss attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders decreased 55.8% primarily due to higher rental volumes in our worldwide car and equipment rental operations, improved residual values on the disposal of certain vehicles and used equipment and disciplined cost management, partly offset by lower pricing in our worldwide car rental operations, costs incurred in connection with the refinancing of our Senior Term Facility and Senior ABL Facility and the write-off of unamortized debt costs and premiums paid in connection with the redemption of our 10.5% Senior Subordinated Notes and a portion of our 8.875% Senior Notes during 2011. The impact of changes in exchange rates on net loss was mitigated by the fact that not only revenues but also most expenses outside of the United States were incurred in local currencies.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Our domestic and international operations are funded by cash provided by operating activities and by extensive financing arrangements maintained by us in the United States and internationally.
+
+Cash Flows
+
+As of June 30, 2011, we had cash and cash equivalents of $747.6 million, a decrease of $1,626.6 million from $2,374.2 million as of December 31, 2010. The following table summarizes such decrease:
+
+Six Months Ended June 30,
+(in millions of dollars) | 2011 | 2010 | $ Change
+Cash provided by (used in):
+Operating activities | $686.9 | $1,016.2 | $(329.3)
+Investing activities | (2,177.7) | (2,336.0) | 158.3
+Financing activities | (167.4) | 1,306.8 | (1,474.2)
+Effect of exchange rate changes | 31.6 | (75.8) | 107.4
+Net change in cash and cash equivalents | $(1,626.6) | $(88.8) | $(1,537.8)
+
+During the six months ended June 30, 2011, we generated $329.3 million less cash from operating activities compared with the same period in 2010. The decrease was primarily due to the timing of our equipment rental customer receivables, VAT receivables and vendor payments as a result of improvements in the operating performance of our business. The decrease was also due to premiums paid to redeem debt in 2011 and timing of interest payments.
+
+Our primary use of cash in investing activities is for the acquisition of revenue earning equipment, which consists of cars and equipment. During the six months ended June 30, 2011, we used $158.3 million less cash for investing activities compared with the same period in 2010. The decrease in the use of funds
+
+[p. 58]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+was primarily due to the year-over-year change in restricted cash and cash equivalents and increase in proceeds from disposal of revenue earning equipment, partly offset by increases in revenue earning equipment and property and equipment expenditures. The increase in proceeds from the disposal of revenue earning equipment was primarily related to opportunistically selling our fleet while residuals are at peak levels as well as refreshing the age of our fleet. The increase in revenue earning equipment expenditures was primarily due to higher equipment rental volumes. As of June 30, 2011 and December 31, 2010, we had $274.3 million and $207.6 million, respectively, of restricted cash and cash equivalents to be used for the purchase of revenue earning vehicles and other specified uses under our fleet financing facilities, our Like Kind Exchange Program, or "LKE Program," and to satisfy certain of our self-insurance regulatory reserve requirements. The increase in restricted cash and cash equivalents of $66.7 million from December 31, 2010 to June 30, 2011, primarily related to the timing of purchases and sales of revenue earning vehicles.
+
+During the six months ended June 30, 2011, we generated $1,474.2 million less cash from financing activities compared with the same period in 2010. The decrease was primarily due to payment of long-term debt (includes redemption of $518.5 million principal amount of 10.5% Senior Subordinated Notes, redemption of $1,585 million principal amount of our outstanding 8.875% Senior Notes and a payment of $1.3 billion for the 2005 Senior Term Facility), a decrease in proceeds under the revolving lines of credit, net and payments of short-term borrowings, partly offset by an increase in proceeds from the issuance of long-term debt (includes $1.4 billion Senior Term Facility issued March 2011 and $1 billion of 6.75% Senior Notes issued in February and March 2011).
+
+Capital Expenditures
+
+The tables below set forth the revenue earning equipment and property and equipment capital expenditures and related disposal proceeds on a cash basis consistent with our consolidated statements of cash flows for the first and second quarters of 2011 and 2010 (in millions of dollars).
+
+Revenue Earning Equipment | Property and Equipment
+Capital Expenditures | Disposal Proceeds | Net Capital Expenditures (Disposal Proceeds) | Capital Expenditures | Disposal Proceeds | Net Capital Expenditures
+2011
+First Quarter | $1,963.8 | $(1,690.2) | $273.6 | $56.8 | $(14.5) | $42.3
+Second Quarter | 3,503.0 | (1,798.7) | 1,704.3 | 68.6 | (13.9) | 54.7
+5,466.8 | (3,488.9) | 1,977.9 | 125.4 | (28.4) | 97.0
+2010
+First Quarter | $2,214.5 | $(1,606.4) | $608.1 | $51.3 | $(6.7) | $44.6
+Second Quarter | 3,102.8 | (1,837.1) | 1,265.7 | 40.7 | (8.5) | 32.2
+$5,317.3 | $(3,443.5) | $1,873.8 | $92.0 | $(15.2) | $76.8
+
+[p. 59]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Six Months Ended June 30,
+2011 | 2010 | $ Change | % Change
+Revenue earning equipment expenditures
+Car rental | $5,211.3 | $5,259.9 | $(48.6) | (0.9)%
+Equipment rental | 255.5 | 57.4 | 198.1 | 345.1%
+Total | $5,466.8 | $5,317.3 | $149.5 | 2.8%
+
+The decrease in our car rental operations revenue earning equipment expenditures was primarily due to continued efforts to increase utilization of existing fleet during the six months ended June 30, 2011 as compared to the six months ended June 30, 2010. The increase in our equipment rental operations revenue earning equipment expenditures was primarily due to a continued improvement in economic conditions as well as efforts to reduce the age of our fleet during the six months ended June 30, 2011 as compared to the six months ended June 30, 2010.
+
+Six Months Ended June 30,
+2011 | 2010 | $ Change | % Change
+Property and equipment expenditures
+Car rental | $98.5 | $82.2 | $16.3 | 19.8%
+Equipment rental | 12.7 | 5.7 | 7.0 | 122.8%
+Other | 14.2 | 4.1 | 10.1 | 246.3%
+Total | $125.4 | $92.0 | $33.4 | 36.3%
+
+The increases in property and equipment expenditures were primarily due to a continued improvement in economic conditions.
+
+Financing
+
+Our primary liquidity needs include servicing of corporate and fleet related debt, the payment of operating expenses and purchases of rental vehicles and equipment to be used in our operations. Our primary sources of funding are operating cash flows, cash received on the disposal of vehicles and equipment, borrowings under our asset-backed securitizations and our asset-based revolving credit facilities and access to the credit markets generally.
+
+As of June 30, 2011, we had $11,693.6 million of total indebtedness outstanding. Cash paid for interest during the six months ended June 30, 2011, was $343.4 million, net of amounts capitalized. Accordingly, we are highly leveraged and a substantial portion of our liquidity needs arise from debt service on our indebtedness and from the funding of our costs of operations and capital expenditures.
+
+Our liquidity as of June 30, 2011 consisted of cash and cash equivalents, unused commitments under our Senior ABL Facility and unused commitments under our fleet debt. For a description of these amounts, see Note 7 to the Notes to our condensed consolidated financial statements included in this Report as well as "Borrowing Capacity and Availability," below.
+
+[p. 60]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+We have a significant amount of debt that will mature over the next several years. The aggregate amounts of maturities of debt for each of the twelve-month periods ending June 30 (in millions of dollars) are as follows:
+
+2012 | $4,364.1 | (including $4,167.7 of other short-term borrowings)
+2013 | $597.8
+2014 | $743.1
+2015 | $1,210.7
+2016 | $963.9
+After 2016 | $3,906.5
+
+Our short-term borrowings as of June 30, 2011 include, among other items, the amounts outstanding under the European Securitization, Australian Securitization, U.S. Fleet Financing Facility, U.S. Variable Funding Notes, Brazilian Fleet Financing Facility, Canadian Securitization, Capitalized Leases and European Revolving Credit Facility. These amounts are reflected as short-term borrowings, regardless of the facility maturity date, as these facilities are revolving in nature and/or the outstanding borrowings have maturities of three months or less. Short-term borrowings also include the Convertible Senior Notes which became convertible on January 1, 2011 and remain as such through September 30, 2011.
+
+The agreements governing our indebtedness require us to comply with certain covenants. Our failure to comply with the obligations contained in any agreements governing our indebtedness could result in an event of default under the applicable instrument, which could result in the related debt becoming immediately due and payable and could further result in a cross default or cross acceleration of our debt issued under other instruments.
+
+As a result of our successful refinancing efforts in 2009, 2010 and the six months ended June 30, 2011 and the strategic cost reduction actions taken in the past, we believe that we will remain in compliance with our debt covenants and that cash generated from operations and cash received on the disposal of vehicles and equipment, together with amounts available under various facilities will be adequate to permit us to meet our debt service obligations, ongoing costs of operations, working capital needs and capital expenditure requirements for the next twelve months.
+
+A significant number of cars that we purchase are subject to repurchase by car manufacturers under contractual repurchase or guaranteed depreciation programs. Under these programs, car manufacturers agree to repurchase cars at a specified price or guarantee the depreciation rate on the cars during a specified time period, typically subject to certain car condition and mileage requirements. We use book values derived from this specified price or guaranteed depreciation rate to calculate financing capacity under certain asset-backed and asset-based financing arrangements.
+
+In the event of a bankruptcy of a car manufacturer, our liquidity would be impacted by several factors including reductions in fleet residual values and the risk that we would be unable to collect outstanding receivables due to us from such bankrupt manufacturer. In addition, the program cars manufactured by any such company would need to be removed from our fleet or re-designated as non-program vehicles, which would require us to furnish additional credit enhancement associated with these program vehicles. For a discussion of the risks associated with a manufacturer's bankruptcy or our reliance on asset-backed and asset-based financing, see "Item 1A—Risk Factors" included in our Form 10-K.
+
+[p. 61]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+We rely significantly on asset-backed and asset-based financing arrangements to purchase cars for our domestic and international car rental fleet. The amount of financing available to us pursuant to these programs depends on a number of factors, many of which are outside our control, including recently adopted legislation, proposed SEC rules and regulations and other legislative and administrative developments. In this regard, there has been uncertainty regarding the potential impact of recently proposed SEC rules and regulations governing the issuance of asset-backed securities and additional requirements contained in the Dodd-Frank Wall Street Reform and Consumer Protection Act. While we will continue to monitor these developments and their impact on our ABS program, the SEC rules and regulations, once adopted and implemented, may impact our ability and/or desire to engage in asset-backed financings in the future. For further information concerning our asset-backed financing programs and our indebtedness, see Note 4 to the Notes to our audited annual consolidated financial statements included in our Form 10-K under the caption "Item 8—Financial Statements and Supplementary Data." For a discussion of the risks associated with our reliance on asset-backed and asset-based financing and the significant amount of indebtedness, see "Item 1A—Risk Factors" in our Form 10-K.
+
+For further information on our indebtedness, see Note 7 to the Notes to our condensed consolidated financial statements included in this Report.
+
+On May 9, 2011, we announced an offer to exchange each issued and outstanding share of common stock of Dollar Thrifty for $57.60 in cash and 0.8546 shares of our common stock, or the "tender offer." Based on the closing stock price for Hertz Holdings on May 6, 2011, Dollar Thrifty shareholders would have received $72.00 per share, or approximately $2.2 billion in the aggregate. We intend, promptly after completion of the tender offer, to consummate a second-step merger of HDTMS, Inc., or another of our wholly owned subsidiaries, with and into Dollar Thrifty, or the "second-step merger." We intend to fund the transactions contemplated by the tender offer and second-step merger using cash on hand, borrowings under bank credit facilities and/or the issuance of debt securities. We estimate that the total amount of cash required to complete the transactions contemplated by the tender offer and second-step merger, including payment of any fees, expenses and other related amounts incurred in connection with the offer and second-step merger and the refinancing of a portion of Dollar Thrifty's outstanding indebtedness, will be approximately $1.9 billion (exclusive of fees and expenses related to new borrowings and/or issuances of debt securities in connection with the offer and second-step merger and exclusive of any cash and cash equivalents available from Dollar Thrifty). The tender offer is subject to a number of conditions, including, among others, a minimum tender of a number of shares of Dollar Thrifty common stock which, together with Dollar Thrifty shares then owned by Hertz Holdings and its subsidiaries, represents at least a majority of the then outstanding shares of Dollar Thrifty common stock on a fully diluted basis, as well as the receipt of required regulatory approvals.
+
+Covenants
+
+Certain of our debt instruments and credit facilities contain a number of covenants that, among other things, limit or restrict the ability of the borrowers and the guarantors to dispose of assets, incur additional indebtedness, incur guarantee obligations, prepay certain indebtedness, make certain restricted payments (including paying dividends, redeeming stock or making other distributions), create liens, make investments, make acquisitions, engage in mergers, fundamentally change the nature of their business, make capital expenditures, or engage in certain transactions with certain affiliates.
+
+Under the new terms of our amended Senior Term Facility and Senior ABL Facility, we are not subject to ongoing financial maintenance covenants; however, under the Senior ABL Facility we are subject to a
+
+[p. 62]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+springing financial maintenance covenant upon the occurrence of certain triggering events. As of June 30, 2011, no triggering event had occurred requiring testing of the springing financial maintenance covenant.
+
+In addition to borrowings under our Senior Credit Facilities, we have a significant amount of additional debt outstanding. For further information on the terms of our Senior Credit Facilities as well as our significant amount of debt outstanding, see Note 7 to the Notes to our condensed consolidated financial statements included in this Report and Note 4 to the Notes to our audited annual consolidated financial statements included in our Form 10-K under the caption "Item 8—Financial Statements and Supplementary Data." For a discussion of the risks associated with our significant indebtedness, see "Item 1A—Risk Factors" in our Form 10-K.
+
+Borrowing Capacity and Availability
+
+As of June 30, 2011, the following facilities were available for the use of Hertz and its subsidiaries (in millions of dollars):
+
+Remaining Capacity | Availability Under Borrowing Base Limitation
+Corporate Debt
+Senior ABL Facility | $1,340.8 | $828.9
+Total Corporate Debt | 1,340.8 | 828.9
+Fleet Debt
+U.S. Fleet Variable Funding Notes | 298.1 | 29.6
+European Seasonal Revolving Credit Facility | 43.1 | 43.1
+European Securitization | 174.3 | 34.6
+Canadian Securitization | 101.4 | 20.3
+Australian Securitization | 121.2 | 2.6
+Brazilian Fleet Financing Facility | 0.9 | —
+Capitalized Leases | 15.0 | —
+Total Fleet Debt | 754.0 | 130.2
+Total | $2,094.8 | $959.1
+
+Our borrowing capacity and availability primarily comes from our "revolving credit facilities," which are a combination of asset-backed securitization facilities and asset-based revolving credit facilities. Creditors under each of our revolving credit facilities have a claim on a specific pool of assets as collateral. Our ability to borrow under each revolving credit facility is a function of, among other things, the value of the assets in the relevant collateral pool. We refer to the amount of debt we can borrow given a certain pool of assets as the "borrowing base."
+
+We refer to "Remaining Capacity" as the maximum principal amount of debt permitted to be outstanding under the respective facility (i.e., the amount of debt we could borrow assuming we possessed sufficient assets as collateral) less the principal amount of debt then-outstanding under such facility.
+
+We refer to "Availability Under Borrowing Base Limitation" and "borrowing base availability" as the lower of Remaining Capacity or the borrowing base less the principal amount of debt then-outstanding
+
+[p. 63]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+under such facility (i.e., the amount of debt we could borrow given the collateral we possess at such time).
+
+As of June 30, 2011, the Senior Term Facility had approximately $0.5 million available under the letter of credit facility and the Senior ABL Facility had $1,111.7 million available under the letter of credit facility sublimit, subject to borrowing base restrictions.
+
+Substantially all of our revenue earning equipment and certain related assets are owned by special purpose entities, or are encumbered in favor of our lenders under our various credit facilities.
+
+Some of these special purpose entities are consolidated variable interest entities, of which Hertz is the primary beneficiary, whose sole purpose is to provide commitments to lend in various currencies subject to borrowing bases comprised of rental vehicles and related assets of certain of Hertz International, Ltd.'s subsidiaries. As of June 30, 2011 and December 31, 2010, our International Fleet Financing No. 1 B.V., International Fleet Financing No. 2 B.V. and HA Funding Pty, Ltd. variable interest entities had total assets primarily comprised of loans receivable and revenue earning equipment of $651.4 million and $652.1 million, respectively, and total liabilities primarily comprised of debt of $650.8 million and $651.6 million, respectively.
+
+Off-Balance Sheet Commitments and Arrangements
+
+As of June 30, 2011 and December 31, 2010, the following guarantees (including indemnification commitments) were issued and outstanding:
+
+Indemnification Obligations
+
+In the ordinary course of business, we execute contracts involving indemnification obligations customary in the relevant industry and indemnifications specific to a transaction such as the sale of a business. These indemnification obligations might include claims relating to the following: environmental matters; intellectual property rights; governmental regulations and employment-related matters; customer, supplier and other commercial contractual relationships; and financial matters. Performance under these indemnification obligations would generally be triggered by a breach of terms of the contract or by a third party claim. We regularly evaluate the probability of having to incur costs associated with these indemnification obligations and have accrued for expected losses that are probable and estimable. The types of indemnification obligations for which payments are possible include the following:
+
+Sponsors; Directors
+
+Hertz has entered into customary indemnification agreements with Hertz Holdings, the Sponsors and our stockholders affiliated with the Sponsors, pursuant to which Hertz Holdings and Hertz will indemnify the Sponsors, our stockholders affiliated with the Sponsors and their respective affiliates, directors, officers, partners, members, employees, agents, representatives and controlling persons, against certain liabilities arising out of performance of a consulting agreement with Hertz Holdings and each of the Sponsors and certain other claims and liabilities, including liabilities arising out of financing arrangements or securities offerings. We also entered into indemnification agreements with each of our directors. We do not believe that these indemnifications are reasonably likely to have a material impact on us.
+
+[p. 64]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Environmental
+
+We have indemnified various parties for the costs associated with remediating numerous hazardous substance storage, recycling or disposal sites in many states and, in some instances, for natural resource damages. The amount of any such expenses or related natural resource damages for which we may be held responsible could be substantial. The probable expenses that we expect to incur for such matters have been accrued, and those expenses are reflected in our condensed consolidated financial statements. As of June 30, 2011 and December 31, 2010, the aggregate amounts accrued for environmental liabilities, including liability for environmental indemnities, reflected in our condensed consolidated balance sheets in "Accrued liabilities" were $1.7 million and $1.6 million, respectively. The accrual generally represents the estimated cost to study potential environmental issues at sites deemed to require investigation or clean-up activities, and the estimated cost to implement remediation actions, including on-going maintenance, as required. Cost estimates are developed by site. Initial cost estimates are based on historical experience at similar sites and are refined over time on the basis of in-depth studies of the sites. For many sites, the remediation costs and other damages for which we ultimately may be responsible cannot be reasonably estimated because of uncertainties with respect to factors such as our connection to the site, the materials there, the involvement of other potentially responsible parties, the application of laws and other standards or regulations, site conditions, and the nature and scope of investigations, studies, and remediation to be undertaken (including the technologies to be required and the extent, duration, and success of remediation).
+
+Risk Management
+
+For a discussion of additional risks arising from our operations, including vehicle liability, general liability and property damage insurable risks, see "Item 1—Business—Risk Management" in our Form 10-K and "Part II, Item 1A—Risk Factors" in our subsequent quarterly reports on Form 10-Q.
+
+Market Risks
+
+We are exposed to a variety of market risks, including the effects of changes in interest rates, foreign currency exchange rates and fluctuations in gasoline prices. We manage our exposure to these market risks through our regular operating and financing activities and, when deemed appropriate, through the use of derivative financial instruments. Derivative financial instruments are viewed as risk management tools and have not been used for speculative or trading purposes. In addition, derivative financial instruments are entered into with a diversified group of major financial institutions in order to manage our exposure to counterparty nonperformance on such instruments. For more information on these exposures, see Note 13 to the Notes to our condensed consolidated financial statements included in this Report.
+
+Interest Rate Risk
+
+From time to time, we may enter into interest rate swap agreements and/or interest rate cap agreements to manage interest rate risk. See Notes 7 and 13 to the Notes to our condensed consolidated financial statements included in this Report and Notes 4 and 13 to the Notes to our audited annual consolidated financial statements included in our Form 10-K under the caption "Item 8—Financial Statements and Supplementary Data."
+
+We have a significant amount of debt with variable rates of interest based generally on LIBOR, Euro inter-bank offered rate, or "EURIBOR," or their equivalents for local currencies or bank conduit
+
+[p. 65]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+commercial paper rates plus an applicable margin. Increases in interest rates could therefore significantly increase the associated interest payments that we are required to make on this debt.
+
+We have assessed our exposure to changes in interest rates by analyzing the sensitivity to our earnings assuming various changes in market interest rates. Assuming a hypothetical increase of one percentage point in interest rates on our debt portfolio as of June 30, 2011, our net loss would increase by an estimated $26.4 million over a twelve-month period.
+
+Consistent with the terms of the agreements governing the respective debt obligations, we may hedge a portion of the floating rate interest exposure under the various debt facilities to provide protection in respect of such exposure.
+
+Foreign Currency Risk
+
+We have foreign currency exposure to exchange rate fluctuations worldwide and primarily with respect to the Euro, Canadian dollar, Australian dollar and British pound.
+
+We manage our foreign currency risk primarily by incurring, to the extent practicable, operating and financing expenses in the local currency in the countries in which we operate, including making fleet and equipment purchases and borrowing for working capital needs. Also, we have purchased foreign exchange options to manage exposure to fluctuations in foreign exchange rates for selected marketing programs. The effect of exchange rate changes on these financial instruments would not materially affect our consolidated financial position, results of operations or cash flows. Our risks with respect to foreign exchange options are limited to the premium paid for the right to exercise the option and the future performance of the option's counterparty.
+
+We also manage exposure to fluctuations in currency risk on intercompany loans we make to certain of our subsidiaries by entering into foreign currency forward contracts at the time of the loans which are intended to offset the impact of foreign currency movements on the underlying intercompany loan obligations.
+
+On October 1, 2006, we designated our 7.875% Senior Notes due 2014 as an effective net investment hedge of our Euro-denominated net investment in our international operations.
+
+For the three-month and six-month periods ended June 30, 2011, our consolidated statement of operations contained realized and unrealized losses relating to the effects of foreign currency of $5.1 million and $7.7 million, respectively.
+
+See Note 13 to the Notes to our condensed consolidated financial statements included in this Report.
+
+Other Risks
+
+We purchase unleaded gasoline and diesel fuel at prevailing market rates. In January 2009, we began a program to manage our exposure to changes in fuel prices through the use of derivative commodity instruments. For the three-month and six-month periods ended June 30, 2011, we recognized a loss of $0.2 million and a gain of $2.9 million, respectively, in "Direct operating" on our consolidated statement of operations relating to our gasoline swaps. See Note 13 to the Notes to our condensed consolidated financial statements included in this Report.
+
+[p. 66]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Inflation
+
+The increased cost of vehicles is the primary inflationary factor affecting us. Many of our other operating expenses are also expected to increase with inflation, including health care costs and gasoline. Management does not expect that the effect of inflation on our overall operating costs will be greater for us than for our competitors.
+
+Income Taxes
+
+In January 2006, we implemented a LKE Program for our U.S. car rental business. Pursuant to the program, we dispose of vehicles and acquire replacement vehicles in a form intended to allow such dispositions and replacements to qualify as tax-deferred "like-kind exchanges" pursuant to section 1031 of the Internal Revenue Code. The program has resulted in deferral of federal and state income taxes for fiscal years 2006, 2007, 2008 and 2009 and part of 2010. A LKE Program for HERC has also been in place for several years. The program allows tax deferral if a qualified replacement asset is acquired within a specific time period after asset disposal. Accordingly, if a qualified replacement asset is not purchased within this limited time period, taxable gain is recognized. Over the last few years, for strategic purposes, such as cash management and fleet reduction, we have recognized some taxable gains in the program. In 2009, the bankruptcy filing of an original equipment manufacturer, or "OEM," also resulted in minimal gain recognition. We had sufficient net operating losses to fully offset the taxable gains recognized. We cannot offer assurance that the expected tax deferral will continue or that the relevant law concerning the programs will remain in its current form. An extended reduction in our car rental fleet could result in reduced deferrals in the future, which in turn could require us to make material cash payments for federal and state income tax liabilities. Our inability to obtain replacement financing as our fleet financing facilities mature would likely result in an extended reduction in the fleet. In the event of an extended fleet reduction, we believe the likelihood of making material cash tax payments in the near future is low because of our significant net operating losses. In August 2010, we elected to temporarily suspend the U.S. car rental LKE Program allowing cash proceeds from sales of vehicles to be utilized for various business purposes, including paying down existing debt obligations, future growth initiatives and for general operating purposes. Purchases of vehicles will continue to be funded with a combination of asset-backed securitizations, asset-based revolving credit facilities and corporate liquidity. We expect that recent tax legislation, effective September 2010 through December 2011, will result in the LKE suspension having a neutral effect on our taxes. The new law allows 100% bonus depreciation for qualified asset acquisitions during the period the law is effective. We estimate recognized tax gains on vehicle dispositions resulting from the LKE suspension to be mainly offset by 100% tax depreciation on newly acquired vehicles. Our federal net operating loss position for U.S. tax purposes should remain relatively unchanged when the LKE program is re-instated.
+
+On January 1, 2009, Bank of America acquired Merrill Lynch & Co., Inc., the parent company of BAMLCP. Accordingly, Bank of America is now an indirect beneficial owner of our common stock held by BAMLCP and certain of its affiliates. For U.S. income tax purposes the transaction, when combined with other unrelated transactions during the previous 36 months, resulted in a change in control as that term is defined in Section 382 of the Internal Revenue Code. Consequently, utilization of all pre-2009 U.S. net operating losses is subject to an annual limitation. The limitation is not expected to result in a loss of net operating losses or have a material adverse impact on taxes.
+
+[p. 67]
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Employee Retirement Benefits
+
+Pension
+
+We sponsor defined benefit pension plans worldwide. Pension obligations give rise to significant expenses that are dependent on assumptions discussed in Note 5 of the Notes to our audited annual consolidated financial statements included in our Form 10-K under the caption "Item 8—Financial Statements and Supplementary Data." Our 2011 worldwide pre-tax pension expense is expected to be approximately $38.3 million, which would represent an increase of $6.1 million from 2010. The anticipated increase in expense compared to 2010 is primarily due to lower expected rates of return on assets as well as adverse exchange rate movements.
+
+We participate in various "multiemployer" pension plans. In the event that we withdraw from participation in one of these plans, then applicable law could require us to make an additional lump-sum contribution to the plan, and we would have to reflect that as an expense in our consolidated statement of operations and as a liability on our condensed consolidated balance sheet. Our withdrawal liability for any multiemployer plan would depend on the extent of the plan's funding of vested benefits. At least one multiemployer plan in which we participate is reported to have, and other of our multiemployer plans could have, significant underfunded liabilities. Such underfunding may increase in the event other employers become insolvent or withdraw from the applicable plan or upon the inability or failure of withdrawing employers to pay their withdrawal liability. In addition, such underfunding may increase as a result of lower than expected returns on pension fund assets or other funding deficiencies.
+
+Recent Accounting Pronouncements
+
+In June 2011, the Financial Accounting Standards Board issued Accounting Standards Update No. 2011-05, "Presentation of Comprehensive Income," requiring companies to present items of net income and other comprehensive income either in one continuous statement, referred to as the statement of comprehensive income, or in two separate, but consecutive statements of net income and other comprehensive income. The amendments in this update do not change the items that must be reported in other comprehensive income or when an item of other comprehensive income must be reclassified to net income. These provisions will become effective for us beginning with our quarterly report for the period ended March 31, 2012.
+
+Other Financial Information
+
+With respect to the unaudited interim financial information of Hertz Global Holdings, Inc. as of June 30, 2011 and for the three-month and six-month periods ended June 30, 2011 and 2010 included in this Form 10-Q, PricewaterhouseCoopers LLP reported that they applied limited procedures in accordance with professional standards for reviews of such unaudited interim financial information. However, their separate report dated August 5, 2011 included in this Form 10-Q herein states that they did not audit and they do not express an opinion on such unaudited interim financial information. Accordingly, the degree of reliance on their report should be restricted in light of the limited nature of the review procedures applied. PricewaterhouseCoopers LLP is not subject to the liability provisions of Section 11 of the Securities Act of 1933 for their report on such unaudited interim financial information because that report is not a "report" or "part" of a registration statement prepared or certified by PricewaterhouseCoopers LLP within the meaning of Sections 7 and 11 of the Securities Act of 1933.

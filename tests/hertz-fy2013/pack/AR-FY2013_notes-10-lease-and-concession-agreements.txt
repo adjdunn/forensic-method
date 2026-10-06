@@ -1,0 +1,55 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-K for the fiscal year ended December 31, 2013, filed 2014-03-19. Item 8, Notes to Consolidated Financial Statements, Note 10: Lease and Concession Agreements. https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm
+
+[p. 129]
+
+Note 10—Lease and Concession Agreements
+
+We have various concession agreements, which provide for payment of rents and a percentage of revenue with a guaranteed minimum, and real estate leases under which the following amounts were expensed (in millions of dollars):
+
+Years ended December 31,
+2013 | 2012 | 2011
+Rents | $185.3 | $142.3 | $135.9
+Concession fees:
+Minimum fixed obligations | 404.8 | 263.7 | 248.8
+Additional amounts, based on revenues | 294.6 | 316.2 | 311.6
+Total | $884.7 | $722.2 | $696.3
+
+For the years ended December 31, 2013, 2012 and 2011, sublease income reduced rent expense included in the above table by $5.3 million, $5.0 million and $5.0 million, respectively.
+
+[p. 130]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+As of December 31, 2013, minimum obligations under existing agreements referred to above are approximately as follows (in millions of dollars):
+
+Rents | Concessions
+2014 | $141.3 | $407.9
+2015 | 116.9 | 310.3
+2016 | 88.9 | 249.1
+2017 | 66.8 | 188.9
+2018 | 46.5 | 152.0
+Years after 2018 | 195.7 | 685.6
+
+The future minimum rent payments in the above table have been reduced by minimum future sublease rental inflows in aggregate of $20.4 million.
+
+Many of our concession agreements and real estate leases require us to pay or reimburse operating expenses, such as common area charges and real estate taxes, to pay concession fees above guaranteed minimums or additional rent based on a percentage of revenues or sales (as defined in those agreements) arising at the relevant premises, or both. Such obligations are not reflected in the table of minimum future obligations appearing immediately above. We operate from various leased premises under operating leases with terms up to 25 years. A number of our operating leases contain renewal options. These renewal options vary, but the majority include clauses for renewal for various term lengths at various rates, both fixed and market.
+
+In addition to the rents mentioned above, we have various leases on revenue earning equipment and office and computer equipment under which the following amounts were expensed (in millions of dollars):
+
+Years ended December 31,
+2013 | 2012 | 2011
+Revenue earning equipment | $80.5 | $79.8 | $96.1
+Office and computer equipment | 13.9 | 9.5 | 7.5
+Total | $94.4 | $89.3 | $103.6
+
+As of December 31, 2013, minimum obligations under existing agreements referred to above that have a maturity of more than one year are as follows (in millions of dollars):
+
+2014 | $52.6
+2015 | $16.0
+2016 | $8.0
+2017 | $1.2
+2018 | $—
+Years after 2018 | $—
+
+Commitments under capital leases within our vehicle rental programs have been reflected in Note 5—Debt.

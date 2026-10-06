@@ -1,0 +1,380 @@
+[
+ {
+  "filed": "2010-02-26",
+  "form": "10-K",
+  "acc": "0001047469-10-001542",
+  "doc": "a2196853z10-k.htm",
+  "period": "2009-12-31",
+  "reports": [],
+  "missing": "FilingSummary.xml HTTP 404"
+ },
+ {
+  "filed": "2010-05-05",
+  "form": "10-Q",
+  "acc": "0001047469-10-004833",
+  "doc": "a2198477z10-q.htm",
+  "period": "2010-03-31",
+  "reports": [],
+  "missing": "FilingSummary.xml HTTP 404"
+ },
+ {
+  "filed": "2010-08-06",
+  "form": "10-Q",
+  "acc": "0001047469-10-007159",
+  "doc": "a2199578z10-q.htm",
+  "period": "2010-06-30",
+  "reports": [
+   {
+    "kind": "BS",
+    "name": "0010 - Statement - CONDENSED CONSOLIDATED BALANCE SHEETS",
+    "file": "R1.xml"
+   },
+   {
+    "kind": "IS",
+    "name": "0020 - Statement - CONSOLIDATED STATEMENTS OF OPERATIONS",
+    "file": "R3.xml"
+   },
+   {
+    "kind": "CF",
+    "name": "0030 - Statement - CONSOLIDATED STATEMENTS OF CASH FLOWS",
+    "file": "R4.xml"
+   }
+  ]
+ },
+ {
+  "filed": "2010-11-09",
+  "form": "10-Q",
+  "acc": "0001047469-10-009492",
+  "doc": "a2200825z10-q.htm",
+  "period": "2010-09-30",
+  "reports": [
+   {
+    "kind": "BS",
+    "name": "0010 - Statement - CONDENSED CONSOLIDATED BALANCE SHEETS",
+    "file": "R1.xml"
+   },
+   {
+    "kind": "IS",
+    "name": "0020 - Statement - CONSOLIDATED STATEMENTS OF OPERATIONS",
+    "file": "R3.xml"
+   },
+   {
+    "kind": "CF",
+    "name": "0030 - Statement - CONSOLIDATED STATEMENTS OF CASH FLOWS",
+    "file": "R4.xml"
+   }
+  ]
+ },
+ {
+  "filed": "2011-02-25",
+  "form": "10-K",
+  "acc": "0001047469-11-001397",
+  "doc": "a2202167z10-k.htm",
+  "period": "2010-12-31",
+  "reports": [
+   {
+    "kind": "BS",
+    "name": "0010 - Statement - CONSOLIDATED BALANCE SHEETS",
+    "file": "R1.xml"
+   },
+   {
+    "kind": "IS",
+    "name": "0020 - Statement - CONSOLIDATED STATEMENTS OF OPERATIONS",
+    "file": "R3.xml"
+   },
+   {
+    "kind": "CF",
+    "name": "0040 - Statement - CONSOLIDATED STATEMENTS OF CASH FLOWS",
+    "file": "R6.xml"
+   }
+  ]
+ },
+ {
+  "filed": "2011-05-06",
+  "form": "10-Q",
+  "acc": "0001047469-11-004720",
+  "doc": "a2203910z10-q.htm",
+  "period": "2011-03-31",
+  "reports": [
+   {
+    "kind": "BS",
+    "name": "0010 - Statement - CONDENSED CONSOLIDATED BALANCE SHEETS",
+    "file": "R1.xml"
+   },
+   {
+    "kind": "IS",
+    "name": "0020 - Statement - CONSOLIDATED STATEMENTS OF OPERATIONS",
+    "file": "R3.xml"
+   },
+   {
+    "kind": "CF",
+    "name": "0030 - Statement - CONSOLIDATED STATEMENTS OF CASH FLOWS",
+    "file": "R4.xml"
+   }
+  ]
+ },
+ {
+  "filed": "2011-08-05",
+  "form": "10-Q",
+  "acc": "0001047469-11-007031",
+  "doc": "a2205046z10-q.htm",
+  "period": "2011-06-30",
+  "reports": [
+   {
+    "kind": "BS",
+    "name": "0010 - Statement - CONDENSED CONSOLIDATED BALANCE SHEETS",
+    "file": "R1.htm"
+   },
+   {
+    "kind": "IS",
+    "name": "0020 - Statement - CONSOLIDATED STATEMENTS OF OPERATIONS",
+    "file": "R3.htm"
+   },
+   {
+    "kind": "CF",
+    "name": "0030 - Statement - CONSOLIDATED STATEMENTS OF CASH FLOWS",
+    "file": "R4.htm"
+   }
+  ]
+ },
+ {
+  "filed": "2011-11-07",
+  "form": "10-Q",
+  "acc": "0001047469-11-009145",
+  "doc": "a2206040z10-q.htm",
+  "period": "2011-09-30",
+  "reports": [
+   {
+    "kind": "BS",
+    "name": "0010 - Statement - CONDENSED CONSOLIDATED BALANCE SHEETS",
+    "file": "R1.htm"
+   },
+   {
+    "kind": "IS",
+    "name": "0020 - Statement - CONSOLIDATED STATEMENTS OF OPERATIONS",
+    "file": "R3.htm"
+   },
+   {
+    "kind": "CF",
+    "name": "0030 - Statement - CONSOLIDATED STATEMENTS OF CASH FLOWS",
+    "file": "R4.htm"
+   }
+  ]
+ },
+ {
+  "filed": "2012-02-27",
+  "form": "10-K",
+  "acc": "0001047469-12-001623",
+  "doc": "a2207464z10-k.htm",
+  "period": "2011-12-31",
+  "reports": [
+   {
+    "kind": "BS",
+    "name": "0010 - Statement - CONSOLIDATED BALANCE SHEETS",
+    "file": "R2.htm"
+   },
+   {
+    "kind": "IS",
+    "name": "0020 - Statement - CONSOLIDATED STATEMENTS OF OPERATIONS",
+    "file": "R4.htm"
+   },
+   {
+    "kind": "CF",
+    "name": "0040 - Statement - CONSOLIDATED STATEMENTS OF CASH FLOWS",
+    "file": "R7.htm"
+   }
+  ]
+ },
+ {
+  "filed": "2012-05-04",
+  "form": "10-Q",
+  "acc": "0001047469-12-005385",
+  "doc": "a2209237z10-q.htm",
+  "period": "2012-03-31",
+  "reports": [
+   {
+    "kind": "BS",
+    "name": "0010 - Statement - CONDENSED CONSOLIDATED BALANCE SHEETS",
+    "file": "R2.htm"
+   },
+   {
+    "kind": "IS",
+    "name": "0020 - Statement - CONSOLIDATED STATEMENTS OF OPERATIONS",
+    "file": "R4.htm"
+   },
+   {
+    "kind": "CF",
+    "name": "0040 - Statement - CONSOLIDATED STATEMENTS OF CASH FLOWS",
+    "file": "R7.htm"
+   }
+  ]
+ },
+ {
+  "filed": "2012-08-03",
+  "form": "10-Q",
+  "acc": "0001047469-12-007702",
+  "doc": "a2210414z10-q.htm",
+  "period": "2012-06-30",
+  "reports": [
+   {
+    "kind": "BS",
+    "name": "0010 - Statement - CONDENSED CONSOLIDATED BALANCE SHEETS",
+    "file": "R2.htm"
+   },
+   {
+    "kind": "IS",
+    "name": "0020 - Statement - CONSOLIDATED STATEMENTS OF OPERATIONS",
+    "file": "R4.htm"
+   },
+   {
+    "kind": "CF",
+    "name": "0040 - Statement - CONSOLIDATED STATEMENTS OF CASH FLOWS",
+    "file": "R7.htm"
+   }
+  ]
+ },
+ {
+  "filed": "2012-11-02",
+  "form": "10-Q",
+  "acc": "0001445305-12-003378",
+  "doc": "hghq32012form10-q.htm",
+  "period": "2012-09-30",
+  "reports": [
+   {
+    "kind": "BS",
+    "name": "1001000 - Statement - CONDENSED CONSOLIDATED BALANCE SHEETS",
+    "file": "R2.htm"
+   },
+   {
+    "kind": "IS",
+    "name": "1002000 - Statement - CONSOLIDATED STATEMENTS OF OPERATIONS",
+    "file": "R4.htm"
+   },
+   {
+    "kind": "CF",
+    "name": "1004000 - Statement - CONSOLIDATED STATEMENTS OF CASH FLOWS",
+    "file": "R7.htm"
+   }
+  ]
+ },
+ {
+  "filed": "2013-03-04",
+  "form": "10-K",
+  "acc": "0001445305-13-000446",
+  "doc": "hgh2012form10-k.htm",
+  "period": "2012-12-31",
+  "reports": [
+   {
+    "kind": "BS",
+    "name": "1001000 - Statement - CONSOLIDATED BALANCE SHEETS",
+    "file": "R2.htm"
+   },
+   {
+    "kind": "IS",
+    "name": "1001000 - Statement - CONSOLIDATED STATEMENTS OF OPERATIONS",
+    "file": "R3.htm"
+   },
+   {
+    "kind": "CF",
+    "name": "1003000 - Statement - CONSOLIDATED STATEMENTS OF CASH FLOWS",
+    "file": "R7.htm"
+   }
+  ]
+ },
+ {
+  "filed": "2013-05-02",
+  "form": "10-Q",
+  "acc": "0001445305-13-001076",
+  "doc": "hghq12013form10-q.htm",
+  "period": "2013-03-31",
+  "reports": [
+   {
+    "kind": "BS",
+    "name": "1001000 - Statement - CONDENSED CONSOLIDATED BALANCE SHEETS",
+    "file": "R2.htm"
+   },
+   {
+    "kind": "IS",
+    "name": "1002000 - Statement - CONSOLIDATED STATEMENTS OF OPERATIONS",
+    "file": "R4.htm"
+   },
+   {
+    "kind": "CF",
+    "name": "1005000 - Statement - CONSOLIDATED STATEMENTS OF CASH FLOWS",
+    "file": "R8.htm"
+   }
+  ]
+ },
+ {
+  "filed": "2013-08-02",
+  "form": "10-Q",
+  "acc": "0001364479-13-000006",
+  "doc": "hghq22013form10-q.htm",
+  "period": "2013-06-30",
+  "reports": [
+   {
+    "kind": "BS",
+    "name": "1001000 - Statement - CONDENSED CONSOLIDATED BALANCE SHEETS",
+    "file": "R2.htm"
+   },
+   {
+    "kind": "IS",
+    "name": "1002000 - Statement - CONSOLIDATED STATEMENTS OF OPERATIONS",
+    "file": "R4.htm"
+   },
+   {
+    "kind": "CF",
+    "name": "1005000 - Statement - CONSOLIDATED STATEMENTS OF CASH FLOWS",
+    "file": "R8.htm"
+   }
+  ]
+ },
+ {
+  "filed": "2013-11-07",
+  "form": "10-Q",
+  "acc": "0001364479-13-000011",
+  "doc": "hghq32013form10-q.htm",
+  "period": "2013-09-30",
+  "reports": [
+   {
+    "kind": "BS",
+    "name": "1001000 - Statement - CONDENSED CONSOLIDATED BALANCE SHEETS",
+    "file": "R2.htm"
+   },
+   {
+    "kind": "IS",
+    "name": "1002000 - Statement - CONSOLIDATED STATEMENTS OF OPERATIONS",
+    "file": "R4.htm"
+   },
+   {
+    "kind": "CF",
+    "name": "1005000 - Statement - CONSOLIDATED STATEMENTS OF CASH FLOWS",
+    "file": "R9.htm"
+   }
+  ]
+ },
+ {
+  "filed": "2014-03-19",
+  "form": "10-K",
+  "acc": "0001364479-14-000006",
+  "doc": "hgh2013form10-k.htm",
+  "period": "2013-12-31",
+  "reports": [
+   {
+    "kind": "BS",
+    "name": "1001000 - Statement - CONSOLIDATED BALANCE SHEETS",
+    "file": "R2.htm"
+   },
+   {
+    "kind": "IS",
+    "name": "1002000 - Statement - CONSOLIDATED STATEMENTS OF OPERATIONS",
+    "file": "R4.htm"
+   },
+   {
+    "kind": "CF",
+    "name": "1005000 - Statement - CONSOLIDATED STATEMENTS OF CASH FLOWS",
+    "file": "R9.htm"
+   }
+  ]
+ }
+]

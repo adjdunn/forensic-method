@@ -1,0 +1,30 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q1 2011 (three months ended 31 Mar 2011), filed 2011-05-06. Part II, Item 1A. Risk Factors. https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm
+
+[p. 55]
+
+ITEM 1A. RISK FACTORS
+
+There is no material change in the information reported under "Part I—Item 1A—Risk Factors" contained in our Annual Report on Form 10-K for the fiscal year ended December 31, 2010 with the exception of the following:
+
+Investment funds associated with or designated by the Sponsors will continue to exercise significant control over our board of directors, management, policies and significant transactions, and may have interests that differ from our other stockholders.
+
+Investment funds associated with or designated by the Sponsors currently beneficially own, in the aggregate, approximately 39% of the outstanding shares of our common stock. These funds are party to a stockholders agreement pursuant to which each of the funds has agreed to vote in favor of the other funds' nominees to our board of directors. The Sponsors currently exercise, and will continue to exercise, significant influence over our board of directors and matters requiring stockholder approval and our management, policies and affairs for so long as the investment funds associated with or designated by the Sponsors continue to hold a significant amount of our common stock. There can be no assurance that the interests of the Sponsors will not conflict with those of our other stockholders. The Sponsors currently have the ability to significantly influence the vote on any transaction that requires the approval of stockholders, including many possible change in control transactions, and may discourage or prevent any such transaction regardless of whether or not our other stockholders believe that such a transaction is in the company's or their own best interests.
+
+Additionally, the Sponsors may from time to time acquire and hold interests in businesses that compete directly with us. One or more of the Sponsors may also pursue acquisition opportunities and other corporate opportunities that may be complementary to our business and as a result, those opportunities may not be available to us.
+
+Restrictive covenants in certain of the agreements and instruments governing our indebtedness may materially adversely affect our financial flexibility or may have other material adverse effects on our business, financial condition and results of operations.
+
+Certain of our credit facilities and other asset-based and asset-backed financing arrangements contain covenants that, among other things, restrict our ability to: (i) dispose of assets; (ii) incur additional indebtedness; (iii) incur guarantee obligations; (iv) prepay other indebtedness or amend other financing arrangements; (v) pay dividends; (vi) create liens on assets; (vii) enter into sale and leaseback transactions; (viii) make investments, loans, advances or capital expenditures; (ix) make acquisitions; (x) engage in mergers or consolidations; (xi) change the business conducted by us; and (xii) engage in certain transactions with affiliates.
+
+Our Senior ABL Facility contains a financial covenant that obligates us to maintain a specified fixed charge coverage ratio if we fail to maintain a specified minimum level of borrowing base availability thereunder. Our ability to comply with this covenant will depend on our ongoing financial and operating performance, which in turn are subject to, among other things, the risks identified in this section and
+
+[p. 56]
+ITEM 1A. RISK FACTORS (Continued)
+
+under "Part I—Item 1A—Risk Factors—Risks Related to Our Business" included in our Annual Report on Form 10-K.
+
+The agreements governing our financing arrangements contain numerous covenants. The breach of any of these covenants or restrictions could result in a default under the relevant agreement, which can, in turn, cause cross-defaults under our other financing arrangements. In such event, we may be unable to borrow under the Senior ABL Facility and certain of our other financing arrangements and may not be able to repay the amounts due under such arrangements. Therefore, we would need to raise refinancing indebtedness, which may not be available to us on favorable terms, on a timely basis or at all. This could have serious consequences to our financial condition and results of operations and could cause us to become bankrupt or insolvent. Additionally, such defaults could require us to sell assets, if possible, and otherwise curtail our operations in order to pay our creditors. Such alternative measures could have a material adverse effect on our business, financial condition and results of operations.
+
+If we are unable to purchase adequate supplies of competitively priced cars or equipment and the cost of the cars or equipment we purchase increases, our financial condition and results of operations may be materially adversely affected.
+
+We are not a party to any long-term car supply arrangements with manufacturers. The price and other terms at which we can acquire cars thus varies based on market and other conditions. For example, certain car manufacturers have in the past, and may in the future, utilize strategies to de-emphasize sales to the car rental industry, which can negatively impact our ability to obtain cars on competitive terms and conditions. In addition, the earthquake and tsunami in Japan may cause disruptions in the overall supply of cars or equipment. Consequently, there is no guarantee that we can purchase a sufficient number of vehicles at competitive prices and on competitive terms and conditions. Reduced or limited supplies of equipment together with increased prices are risks that we also face in our equipment rental business. If we are unable to obtain an adequate supply of cars or equipment, or if we obtain less favorable pricing and other terms when we acquire cars or equipment and are unable to pass on any increased costs to our customers, then our financial condition and results of operations may be materially adversely affected.

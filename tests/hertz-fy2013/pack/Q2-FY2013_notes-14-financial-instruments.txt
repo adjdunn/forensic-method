@@ -1,0 +1,218 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q2 2013 (three and six months ended 30 Jun 2013), filed 2013-08-02. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 14: Financial Instruments. https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm
+
+[p. 25]
+
+Note 14—Financial Instruments
+
+Gasoline Swap Contracts
+
+We purchase unleaded gasoline and diesel fuel at prevailing market rates and maintain a program to manage our exposure to changes in fuel prices through the use of derivative commodity instruments. We currently have in place swaps to cover a portion of our fuel price exposure through July 2014. We presently hedge a portion of our overall unleaded gasoline and diesel fuel purchases with commodity swaps and have contracts in place that settle on a monthly basis. Gains and losses resulting from changes in the fair value of these commodity instruments are included in our results of operations in the periods incurred.
+
+Interest Rate Cap Contracts
+
+Hertz is exposed to market risks, such as changes in interest rates, and has purchased and sold interest rate cap agreements to manage that risk. Consequently, we manage the financial exposure as part of our risk management program by striving to reduce the potentially adverse effects that the volatility of the financial markets may have on our operating results. Gains and losses resulting from changes in the fair value of these interest rate caps are included in our results of operations in the periods incurred.
+
+Foreign Currency Forward Contracts
+
+We manage exposure to fluctuations in currency risk on intercompany loans we make to certain of our subsidiaries by entering into foreign currency forward contracts at the time of the loans which are intended to offset the impact of foreign currency movements on the underlying intercompany loan obligations.
+
+[p. 26]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Foreign Exchange Options
+
+We manage our foreign currency risk primarily by incurring, to the extent practicable, operating and financing expenses in the local currency in the countries in which we operate, including making fleet and equipment purchases and borrowing for working capital needs. Also, we have purchased foreign exchange options to manage exposure to fluctuations in foreign exchange rates for selected marketing programs. The effect of exchange rate changes on these financial instruments would not materially affect our consolidated financial position, results of operations or cash flows. Our risks with respect to foreign exchange options are limited to the premium paid for the right to exercise the option and the future performance of the option's counterparty.
+
+The following table summarizes the estimated fair value of derivatives (in millions of dollars):
+
+Fair Value of Derivative Instruments(1)
+Asset Derivatives(2) | Liability Derivatives(2)
+June 30, 2013 | December 31, 2012 | June 30, 2013 | December 31, 2012
+Derivatives not designated as hedging
+instruments under ASC 815:
+Gasoline swaps | $— | $— | $0.9 | $0.1
+Interest rate caps | 0.6 | 0.9 | 0.6 | 0.9
+Foreign exchange forward contracts | 4.8 | 3.4 | 1.9 | 4.5
+Foreign exchange options | 0.1 | 0.2 | — | —
+Total derivatives not designated as hedging
+instruments under ASC 815 | $5.5 | $4.5 | $3.4 | $5.5
+
+_______________________________________________________________________________
+
+(1) | All fair value measurements were primarily based upon significant observable (Level 2) inputs.
+
+(2) | All asset derivatives are recorded in "Prepaid expenses and other assets" and all liability derivatives are recorded in "Accrued liabilities" on our condensed consolidated balance sheets.
+
+The following table summarizes the gains and (losses) of derivatives (in millions of dollars):
+
+Location of Gain or (Loss) Recognized on Derivatives | Amount of Gain or (Loss) Recognized in Income on Derivatives
+Three Months Ended June 30,
+2013 | 2012
+Derivatives not designated as hedging
+instruments under ASC 815:
+Gasoline swaps | Direct operating | $(2.5) | $(3.3)
+Interest rate caps | Selling, general and administrative | — | (0.1)
+Foreign exchange forward contracts | Selling, general and administrative | (7.1) | (7.7)
+Foreign exchange options | Selling, general and administrative | — | 0.1
+Total | $(9.6) | $(11.0)
+
+[p. 27]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Location of Gain or (Loss) Recognized on Derivatives | Amount of Gain or (Loss) Recognized in Income on Derivatives
+Six Months Ended June 30,
+2013 | 2012
+Derivatives not designated as hedging
+instruments under ASC 815:
+Gasoline swaps | Direct operating | $(0.8) | $(1.5)
+Interest rate caps | Selling, general and administrative | 0.1 | (0.1)
+Foreign exchange forward contracts | Selling, general and administrative | (2.9) | (5.6)
+Foreign exchange options | Selling, general and administrative | (0.1) | 0.1
+Total | $(3.7) | $(7.1)
+
+While our fuel derivatives, foreign currency forward contracts,foreign exchange options and certain interest rate caps are subject to enforceable master netting agreements with their counterparties, we do not offset the derivative assets and liabilities in our condensed consolidated balance sheets.
+
+The impact of offsetting derivative instruments is depicted below (in millions of dollars):
+
+As of June 30, 2013: | Gross amounts not offset in Balance Sheet
+Gross assets | Gross assets offset in Balance Sheet | Net recognized assets in Balance Sheet | Financial Instruments | Cash Collateral | Net Amount
+Interest rate caps | $0.6 | $— | $0.6 | $— | $— | $0.6
+Foreign exchange forward contracts | 4.8 | — | 4.8 | (2.8) | — | 2.0
+Foreign exchange options | 0.1 | — | 0.1 | — | — | 0.1
+Total | $5.5 | $— | $5.5 | $(2.8) | $— | $2.7
+
+Gross amounts not offset in Balance Sheet
+Gross liabilities | Gross liabilities offset in Balance Sheet | Net recognized liabilities in Balance Sheet | Financial Instruments | Cash Collateral | Net Amount
+Gasoline swaps | $0.9 | $— | $0.9 | $(0.9) | $— | $—
+Interest rate caps | 0.6 | — | 0.6 | — | — | 0.6
+Foreign exchange forward contracts | 1.9 | — | 1.9 | (1.9) | — | —
+Total | $3.4 | $— | $3.4 | $(2.8) | $— | $0.6
+
+As of December 31, 2012: | Gross amounts not offset in Balance Sheet
+Gross assets | Gross assets offset in Balance Sheet | Net recognized assets in Balance Sheet | Financial Instruments | Cash Collateral | Net Amount
+Interest rate caps | $0.9 | $— | $0.9 | $— | $— | $0.9
+Foreign exchange forward contracts | 3.4 | — | 3.4 | (1.3) | — | 2.1
+Foreign exchange options | 0.2 | — | 0.2 | (0.2) | — | —
+Total | $4.5 | $— | $4.5 | $(1.5) | $— | $3.0
+
+[p. 28]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Gross amounts not offset in Balance Sheet
+Gross liabilities | Gross liabilities offset in Balance Sheet | Net recognized liabilities in Balance Sheet | Financial Instruments | Cash Collateral | Net Amount
+Interest rate caps | $0.9 | $— | $0.9 | $— | $— | $0.9
+Gasoline swaps | 0.1 | — | 0.1 | — | — | 0.1
+Foreign exchange forward contracts | 4.5 | — | 4.5 | (1.5) | — | 3.0
+Total | $5.5 | $— | $5.5 | $(1.5) | $— | $4.0
+
+Fair value measures
+
+Pursuant to the accounting guidance for fair value measurements and its subsequent updates, fair value is defined as the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. When determining the fair value measurements for assets and liabilities required or permitted to be recorded at fair value, we consider the principal or most advantageous market in which we would transact and we consider assumptions that market participants would use when pricing the asset or liability.
+
+Fair Value Hierarchy
+
+The accounting guidance for fair value measurements also requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. A financial instrument's categorization within the fair value hierarchy is based upon the lowest level of input that is significant to the fair value measurement. The inputs are prioritized into three levels that may be used to measure fair value:
+
+Level 1: Inputs that reflect quoted prices for identical assets or liabilities in active markets that are observable.
+
+Level 2: Inputs that reflect quoted prices for similar assets or liabilities in active markets; quoted prices for identical or similar assets or liabilities in markets that are not active; or model-derived valuations in which significant inputs are observable or can be derived principally from, or corroborated by, observable market data.
+
+Level 3: Inputs that are unobservable to the extent that observable inputs are not available for the asset or liability at the measurement date.
+
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+
+Assets and liabilities measured at fair value on a recurring basis as of June 30, 2013 and December 31, 2012 were as follows (in millions):
+
+June 30, 2013
+Fair Value Measurements Using
+Total | Quoted Prices in Active Markets for Identical Instruments (Level 1) | Significant Other Observable Inputs (Level 2) | Significant Unobservable Inputs (Level 3)
+Prepaid Expenses and Other Assets:
+Interest rate caps | $0.6 | $— | $0.6 | $—
+Foreign currency forward contracts | 4.8 | — | 4.8 | —
+Foreign exchange options | 0.1 | — | 0.1 | —
+Total | $5.5 | $— | $5.5 | $—
+Other Liabilities:
+Gasoline swaps | $0.9 | $— | $0.9 | $—
+Interest rate caps | $0.6 | $— | $0.6 | $—
+Foreign currency forward contracts | 1.9 | — | 1.9 | —
+Total | $3.4 | $— | $3.4 | $—
+
+[p. 29]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+December 31, 2012
+Fair Value Measurements Using
+Total | Quoted Prices in Active Markets for Identical Instruments (Level 1) | Significant Other Observable Inputs (Level 2) | Significant Unobservable Inputs (Level 3)
+Prepaid Expenses and Other Assets:
+Interest rate caps | $0.9 | $— | $0.9 | $—
+Foreign currency forward contracts | 3.4 | — | 3.4 | —
+Foreign exchange options | 0.2 | — | 0.2 | —
+Total | $4.5 | $— | $4.5 | $—
+Other Liabilities:
+Gasoline swaps | $0.1 | $— | $0.1 | $—
+Interest rate caps | 0.9 | — | 0.9 | —
+Foreign currency forward contracts | 4.5 | — | 4.5 | —
+Total | $5.5 | $— | $5.5 | $—
+
+Gasoline swaps
+
+Gasoline swaps classified as Level 2 assets and liabilities are priced using quoted market prices for similar assets or liabilities in active markets.
+
+Interest rate caps
+
+Interest rate caps classified as Level 2 assets and liabilities are priced using quoted market prices for similar assets or liabilities in active markets.
+
+Foreign currency forward contracts
+
+Foreign currency forward contracts classified as Level 2 assets and liabilities are priced using quoted market prices for similar assets or liabilities in active markets.
+
+Foreign exchange options
+
+Foreign currency forward contracts classified as Level 2 assets and liabilities are priced using quoted market prices for similar assets or liabilities in active markets.
+
+Fair Value of Financial Instruments
+
+The fair values of cash and cash equivalents, accounts receivable, accounts payable and accrued expenses, to the extent the underlying liability will be settled in cash, approximate carrying values because of the short-term nature of these instruments.
+
+Marketable securities held by us consist of debt securities classified as available-for-sale, which are carried at fair value and are included within "Prepaid expenses and other assets." Unrealized gains and losses, net of related income taxes, are included in "Accumulated other comprehensive loss." As of June 30, 2013 and December 31, 2012, the fair value of debt securities was $132.0 million and $0.0 million, respectively. For the three and six months ended June 30, 2013, unrealized gains of $2.0 million were recorded in "Accumulated other comprehensive loss." Hertz classifies its investment in the convertible notes within Level 3 because it is valued using significant unobservable inputs. To estimate the fair value, Hertz utilized a binomial valuation model. The most significant unobservable inputs we use are our estimates of the underlying equity value of the investee. The discount rates and volatility used in the measurements of fair value were between 6% - 21% and 36% - 42%, respectively, and are based on the underlying risk associated with our estimate of the underlying equity value of the investee, as well as the terms of the respective contracts. The credit rating of the investee, general business conditions, liquidity, and underlying equity value could materially affect the fair value of the convertible notes. Hertz periodically conducts reviews and engages valuation specialists to verify pricing and assesses liquidity to determine if significant inputs have changed that would impact
+
+[p. 30]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+the fair value hierarchy disclosure. For further information on assets classified as Level 3 measurement, see Note 5—Business Combinations and Divestitures.
+
+The following table summarizes the changes in fair value measurement using Level 3 inputs for the three and six months ended June 30, 2013 (in millions of dollars):
+
+Three Months Ended | Six Months Ended
+June 30, 2013 | June 30, 2013
+Fair Value Measurements Using Level 3 Inputs Convertible Notes
+Balance at the beginning of period | $— | $—
+Realized gain (losses) included in earnings | — | —
+Unrealized gain related to investments | 2.0 | 2.0
+Purchases | 130.0 | 130.0
+Settlements | — | —
+Balance at June 30, 2013 | $132.0 | $132.0
+
+For the three and six months ended June 30, 2012, unrealized gains of $0.0 million and $5.1 million, respectively, were recorded in "Accumulated other comprehensive loss." These mostly comprised previously held equity interest in Dollar Thrifty with fair values based on Level 1 inputs consisting of quoted market price. Hertz subsequently acquired all remaining shares of Dollar Thrifty common stock on November 19, 2012. For a further discussion of the Dollar Thrifty acquisition refer to Note 4 of the Notes to our audited annual consolidated financial statements included in our Form 10-K under the caption “Item 8—Financial Statements and Supplementary Data.”
+
+For borrowings with an initial maturity of 90 days or less, fair value approximates carrying value because of the short-term nature of these instruments. For all other debt, fair value is estimated based on quoted market rates as well as borrowing rates currently available to us for loans with similar terms and average maturities (Level 2 inputs). The aggregate fair value of all debt at June 30, 2013 was $19,129.7 million, compared to its aggregate unpaid principal balance of $17,856.9 million. The aggregate fair value of all debt at December 31, 2012 was $16,493.1 million, compared to its aggregate unpaid principal balance of $15,473.8 million.

@@ -1,0 +1,75 @@
+=== page 1 ===
+The Home Depot, Inc.: review of items to investigate
+Fiscal years ended February 2, 2025 (“2025 report”) and February 1, 2026 (“2026 report”); pre-tax income $18,602m.
+Documents: the two annual reports, the two fourth-quarter releases, the statements spreadsheet, the two text-track replies (policy
+assessment and year-on-year comparison) and the two numbers-track replies (statement scan and flag explanations).
+Items to investigate
+No sentence was contradicted by the company's own numbers, so there is no level 1 item. All five below are level 2 (several signals on
+one account), largest size first; the first two sizes are balances, not income effects.
+1. Goodwill in the acquired distribution businesses (“Other”)
+
+Shown: The SRS units moved from a qualitative test to a quantitative one in which fair value “exceeded” carrying amount, with no
+margin given; the Primary units still read “substantially exceeded”. GMS was not tested (2026 report, p. 60). “Other” holds 62% of
+goodwill but earns 1.5% of operating income (pp. 55–56). Size: no charge taken; a $13.8bn balance, 74% of pre-tax income. Level
+2.
+
+Reading: can't tell from these documents, because the room in the test is not disclosed. A stated margin, or a rising “Other”
+margin, would make it ordinary.
+
+Next: the final GMS allocation and the next annual test; ask for the headroom by unit.
+2. Return on invested capital and commercial paper
+
+Shown: The measure counts only “long-term debt (including current installments) and equity” (p. 35). Commercial paper rose from
+$316m to $4,464m, partly to repay senior notes (p. 36), and the average-borrowings table was dropped (2025 report, p. 61; 2026
+report, p. 61). Including it gives 24.7% against the reported 25.7%. Size: no income effect; a $4,464m balance, 24.0% of pre-tax
+income. Level 2.
+
+Reading: most likely ordinary, a stated definition applied as written. Paper staying high while pay is tied to the measure would
+change that.
+
+Next: the proxy's definition for performance shares (p. 71); average commercial paper in the quarterly reports.
+3. Operating margin and Primary segment costs
+
+Shown: Operating margin fell from 13.5% to 12.7%, the third yearly fall. About half is acquisition mix and 44% is the Primary
+margin falling from 13.9% to 13.5%, with Primary overhead up 3.8% on sales down 0.7% (pp. 55–56). The fiscal 2024 legal benefit
+went from “lower legal-related benefits” (2025 report, p. 34) to “non-recurring” (2026 report, p. 34), with no amount either year.
+The explanation partly holds. Size: $1,334m, 7.2% of pre-tax income. Level 2.
+
+Reading: most likely the business weakening. A large legal benefit in the prior year would make the fall more ordinary.
+
+Next: Note 2 (pp. 55–56); ask for the legal benefit and payroll amounts.
+4. Inventory and the shrink estimate
+
+Shown: Inventory rose 10.1% against cost of sales up 3.4%; the company's explanation restates the movement and does not hold
+(pp. 32, 37). The shrink sensitivity fell from $95m to $79m (p. 39 in both). The auditor dropped its shrink matter and added one on
+“sufficiency of audit evidence” (pp. 41–42). The cost method wording now adds “moving average cost” (p. 49). Size: $1,102m of
+balance above prior-year days, 5.9% of pre-tax income; the income effect is the shrink estimate, roughly $160m, 0.9%. Level 2.
+
+Reading: the tracks differ. The numbers track says can't tell, possibly higher unit costs. The text track reads the lower shrink and
+the new audit matter as most likely ordinary. Later counts showing higher losses, or a falling Primary gross margin, would change
+it.
+
+Next: quarterly reports for inventory by segment; ask for count results.
+5. Acquired-intangible amortization: long lives, then excluded
+
+Shown: Customer relationships are written off straight-line over 19 to 20 years although valued on “customer attrition rates” (pp.
+51, 74, 76). Adjusted earnings then exclude all such amortization (release, p. 8), and the gap to reported earnings per share grew
+from 0.9% to 2.2% to 3.2%. Size: $607m excluded, 3.3% of pre-tax income; a 15-year life would add about $112m, 0.6% (an
+illustration). Level 2.
+
+Reading: the exclusion is most likely ordinary; the lives are possibly slightly stretched, on general practice. Disclosed low attrition
+would settle the lives.
+
+Next: the final GMS lives (p. 75); whether incentive pay uses adjusted figures.
+Also noted
+Receivables grew 14.2% against sales up 3.2% (2.4%, a balance). The numbers track reads this as most likely ordinary because GMS
+explains it, but the allowance is still only “not material” while customer receivables went from $924m to $2,588m (p. 48). Sales per
+retail square foot was dropped (2025 report, pp. 32–33). Reserves and contingencies carry no amounts. Depreciation and amortization
+differs by $62m between the cash flow statement and the segment note (pp. 47, 55).
+Checked and explained
+Cash against earnings (8.1%): the working-capital and tax-timing explanation holds. Payables (5.9%, a balance): most likely a reversal
+of last year's timing, partly holds. The adjusted earnings arithmetic, the GMS “approximately 1%” of sales, property lives and supplier
+terms all held; revised figures were reclassifications only.
+Not examined
+Related parties (in the proxy), reserve movements (schedules omitted), quarterly reports, attrition rates and legal amounts.
+Items to investigate, not conclusions. The verdicts are the analyst's.

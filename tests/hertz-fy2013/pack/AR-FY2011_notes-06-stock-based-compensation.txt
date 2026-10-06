@@ -1,0 +1,140 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-K for the fiscal year ended December 31, 2011, filed 2012-02-27. Item 8, Notes to Consolidated Financial Statements, Note 6: Stock-Based Compensation. https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm
+
+[p. 120]
+
+Note 6—Stock-Based Compensation
+
+Plans
+
+On February 28, 2008, our Board of Directors adopted the Hertz Global Holdings, Inc. 2008 Omnibus Incentive Plan, or the "Omnibus Plan," which was approved by our stockholders at the annual meeting of stockholders held on May 15, 2008 and amended and restated on May 27, 2010. A maximum of 32.7 million shares are reserved for issuance under the Omnibus Plan. The Omnibus Plan provides for grants of both equity and cash awards, including non-qualified stock options, incentive stock options, stock appreciation rights, performance awards (shares and units), restricted stock, restricted stock units and deferred stock units to key executives, employees and non-management directors. We also granted awards under the Hertz Global Holdings, Inc. Stock Incentive Plan, or the "Stock Incentive Plan," and the Hertz Global Holdings, Inc. Director Stock Incentive Plan, or the "Director Plan", or collectively the "Prior Plans."
+
+The Omnibus Plan provides that no further awards will be granted pursuant to the Prior Plans. However, awards that had been previously granted pursuant to the Prior Plans will continue to be subject to and
+
+[p. 121]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+governed by the terms of the Prior Plans. As of December 31, 2011, there were 9.3 million shares of our common stock underlying awards outstanding under the Prior Plans. In addition, as of December 31, 2011, there were 10.9 million shares of our common stock underlying awards outstanding under the Omnibus Plan.
+
+In addition to the 20.2 million shares underlying outstanding awards as of December 31, 2011, we had 18.1 million shares of our common stock available for issuance under the Omnibus Plan. The shares of common stock to be delivered under the Omnibus Plan may consist, in whole or in part, of common stock held in treasury or authorized but unissued shares of common stock, not reserved for any other purpose.
+
+Shares subject to any award granted under the Omnibus Plan that for any reason are canceled, terminated, forfeited, settled in cash or otherwise settled without the issuance of common stock after the effective date of the Omnibus Plan will generally be available for future grants under the Omnibus Plan.
+
+Impact on Results
+
+A summary of the total compensation expense and associated income tax benefits recognized under our Prior Plans and the Omnibus Plan, including the cost of stock options, restricted stock units, or "RSUs," and performance stock units, or "PSUs," is as follows (in millions of dollars):
+
+Years ended December 31,
+2011 | 2010 | 2009
+Compensation Expense | $31.0 | $36.6 | $34.5
+Income Tax Benefit | (12.0) | (14.2) | (13.4)
+Total | $19.0 | $22.4 | $21.1
+
+As of December 31, 2011, there was approximately $35.6 million of total unrecognized compensation cost related to non-vested stock options, RSUs and PSUs granted by Hertz Holdings under the Prior Plans and the Omnibus Plan. The total unrecognized compensation cost is expected to be recognized over the remaining 1.5 years, on a weighted average basis, of the requisite service period that began on the grant dates.
+
+Stock Options and Stock Appreciation Rights
+
+All stock options and stock appreciation rights granted under the Omnibus Plan will have a per-share exercise price of not less than the fair market value of one share of Hertz Holdings common stock on the grant date. Stock options and stock appreciation rights will vest based on a minimum period of service or the occurrence of events (such as a change in control, as defined in the Omnibus Plan) specified by the compensation committee of our Board of Directors. No stock options or stock appreciation rights will be exercisable after ten years from the grant date.
+
+We have accounted for our employee stock-based compensation awards in accordance with ASC 718, "Compensation—Stock Compensation." The options are being accounted for as equity-classified awards. We will recognize compensation cost on a straight-line basis over the vesting period. The value of each option award is estimated on the grant date using a Black-Scholes option valuation model that incorporates the assumptions noted in the following table. Because the stock of Hertz Holdings became publicly traded in November 2006 and has a short trading history, it is not practicable for us to estimate the expected volatility of our share price, or a peer company share price, because there is not sufficient historical information about past volatility. Therefore, we have used the calculated value method,
+
+[p. 122]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+substituting the historical volatility of an appropriate industry sector index for the expected volatility of our common stock price as an assumption in the valuation model. We selected the Dow Jones Specialized Consumer Services sub-sector within the consumer services industry, and we used the U.S. large capitalization component, which includes the top 70% of the index universe (by market value).
+
+The calculation of the historical volatility of the index was made using the daily historical closing values of the index for the preceding 6.25 years, because that is the expected term of the options using the simplified approach.
+
+The risk-free interest rate is the implied zero-coupon yield for U.S. Treasury securities having a maturity approximately equal to the expected term, as of the grant dates. The assumed dividend yield is zero.
+
+Assumption | 2011 Grants | 2010 Grants | 2009 Grants
+Expected volatility | 36.7% | 36.1% | 34.9%
+Expected dividend yield | 0.0% | 0.0% | 0.0%
+Expected term (years) | 6.25 | 6.25 | 6.25
+Risk-free interest rate | 2.56% | 1.62%-2.96% | 2.90%
+Weighted-average grant date fair value | $5.93 | $4.00 | $1.29
+
+A summary of option activity under the Stock Incentive Plan and the Omnibus Plan as of December 31, 2011 is presented below.
+
+Options | Shares | Weighted- Average Exercise Price | Weighted- Average Remaining Contractual Term (years) | Aggregate Intrinsic Value (In thousands of dollars)
+Outstanding at January 1, 2011 | 15,415,904 | $9.69 | 6.7 | $84,534
+Granted | 2,108,944 | 14.60
+Exercised | (1,808,272) | 7.20
+Forfeited or Expired | (574,515) | 11.65
+Outstanding at December 31, 2011 | 15,142,061 | 10.60 | 6.3 | $41,110
+Exercisable at December 31, 2011 | 10,226,236 | 9.91 | 5.3 | $36,136
+
+A summary of non-vested options as of December 31, 2011, and changes during the year, is presented below.
+
+Non-vested Shares | Weighted- Average Exercise Price | Weighted- Average Grant- Date Fair Value
+Non-vested as of January 1, 2011 | 6,347,726 | $9.61 | $4.91
+Granted | 2,108,944 | 14.60 | 5.93
+Vested | (3,027,297) | 9.14 | 5.76
+Forfeited | (513,548) | 9.58 | 4.60
+Non-vested as of December 31, 2011 | 4,915,825 | $12.04 | $4.86
+
+[p. 123]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Additional information pertaining to option activity under the plans is as follows (in millions of dollars):
+
+Years ended December 31,
+2011 | 2010 | 2009
+Aggregate intrinsic value of stock options exercised | $15.0 | $8.1 | $4.2
+Cash received from the exercise of stock options | 13.1 | 7.9 | 5.3
+Fair value of options that vested | 17.4 | 21.6 | 23.1
+Tax benefit realized on exercise of stock options | 0.5 | 0.3 | —
+
+Performance Stock, Performance Stock Units, Restricted Stock and Restricted Stock Units
+
+Performance stock, PSUs and performance units granted under the Omnibus Plan will vest based on the achievement of pre-determined performance goals over performance periods determined by the compensation committee. Each of the units granted under the Omnibus Plan represent the right to receive one share of our common stock on a specified future date. In the event of an employee's death or disability, a pro rata portion of the employee's performance stock, performance stock units and performance units will vest to the extent performance goals are achieved at the end of the performance period. Restricted stock and RSUs granted under the Omnibus Plan will vest based on a minimum period of service or the occurrence of events (such as a change in control, as defined in the Omnibus Plan) specified by the compensation committee.
+
+A summary of RSU and PSU activity under the Omnibus Plan as of December 31, 2011 is presented below.
+
+Shares | Weighted- Average Fair Value | Aggregate Intrinsic Value (In thousands of dollars)
+Outstanding at January 1, 2011 | 6,044,589 | $5.08 | $87,586
+Granted | 549,253 | 14.78
+Vested | (1,992,441) | 4.80
+Forfeited or Expired | (273,940) | 5.47
+Outstanding at December 31, 2011 | 4,327,461 | $6.46 | $50,718
+
+Additional information pertaining to RSU and PSU activity is as follows:
+
+Years ended December 31,
+2011 | 2010 | 2009
+Total fair value of awards that vested ($ millions) | $9.6 | $8.2 | $6.2
+Weighted average grant date fair value of awards | $14.78 | $10.10 | $3.42
+
+Compensation expense for RSUs and PSUs is based on the grant date fair value, and is recognized ratably over the vesting period. For grants in 2009, 2010 and 2011, the vesting period is three years (25% in the first year, 25% in the second year and 50% in the third year). In addition to the service vesting condition, the PSUs granted in March, 2010 had an additional vesting condition which called for the number of units that will be awarded being based on achievement of a certain level of 2010 Corporate EBITDA.
+
+[p. 124]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+In March 2011 we granted 499,515 PSUs that had a performance vesting condition under which the number of units that will ultimately be awarded will vary from 0% to 150% of the original grant, based on the sum of 2011 and 2012 Corporate EBITDA results, in addition to a service vesting condition. An additional 193,798 PSUs granted in March 2011 contained a market condition whereby the 20 day average trailing stock price must equal or exceed a certain price target at any time during the five year performance period, in addition to a service vesting condition. A summary of the PSU activity for this grant is presented below.
+
+Shares | Weighted- Average Fair Value | Aggregate Intrinsic Value (In thousands of dollars)
+Outstanding at January 1, 2011 | — | $— | $—
+Granted | 693,313 | 13.37
+Vested | —
+Forfeited or Expired | (15,342) | 14.60
+Outstanding at December 31, 2011 | 677,971 | $13.34 | $7,946
+
+Employee Stock Purchase Plan
+
+On February 28, 2008, upon recommendation of the compensation committee of our Board of Directors, or "Committee," our Board of Directors adopted the Hertz Global Holdings, Inc. Employee Stock Purchase Plan, or the "ESPP," and the plan was approved by our stockholders on May 15, 2008. The ESPP is intended to be an "employee stock purchase plan" within the meaning of Section 423 of the Internal Revenue Code.
+
+The maximum number of shares that may be purchased under the ESPP is 3,000,000 shares of our common stock, subject to adjustment in the case of any change in our shares, including by reason of a stock dividend, stock split, share combination, recapitalization, reorganization, merger, consolidation or change in corporate structure. An eligible employee may elect to participate in the ESPP each quarter (or other period established by the Committee) through a payroll deduction. The maximum and minimum contributions that an eligible employee may make under all of our qualified employee stock purchase plans will be determined by the Committee, provided that no employee may be permitted to purchase stock with an aggregate fair market value greater than $25,000 per year. At the end of the offering period, the total amount of each employee's payroll deduction will be used to purchase shares of our common stock. The purchase price per share will be not less than 85% of the market price of our common stock on the date of purchase; the exact percentage for each offering period will be set in advance by the Committee.
+
+For the years ended December 31, 2011, 2010 and 2009, we recognized compensation cost of approximately $0.7 million ($0.4 million, net of tax), $0.6 million ($0.3 million, net of tax) and $0.5 million ($0.3 million, net of tax), respectively, for the amount of the discount on the stock purchased by our employees under the ESPP. Approximately 1,600 employees participated in the ESPP as of December 31, 2011.
+
+[p. 125]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)

@@ -1,0 +1,1173 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q1 2013 (three months ended 31 Mar 2013), filed 2013-05-02. Part I, Item 1. Condensed Consolidated Financial Statements (Unaudited), with notes. https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm
+
+[p. 1]
+
+ITEM l. Condensed Consolidated Financial Statements
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Board of Directors and
+
+Shareholders of Hertz Global Holdings, Inc.:
+
+We have reviewed the accompanying condensed consolidated balance sheet of Hertz Global Holdings, Inc. and its subsidiaries as of March 31, 2013, and the related consolidated statements of operations, of comprehensive loss and of cash flows for the three-month periods ended March 31, 2013 and 2012 and the consolidated statement of changes in equity for the three-month period ended March 31, 2013. These interim financial statements are the responsibility of the Company's management.
+
+We conducted our review in accordance with the standards of the Public Company Accounting Oversight Board (United States). A review of interim financial information consists principally of applying analytical procedures and making inquiries of persons responsible for financial and accounting matters. It is substantially less in scope than an audit conducted in accordance with the standards of the Public Company Accounting Oversight Board (United States), the objective of which is the expression of an opinion regarding the financial statements taken as a whole. Accordingly, we do not express such an opinion.
+
+Based on our review, we are not aware of any material modifications that should be made to the accompanying condensed consolidated interim financial statements for them to be in conformity with accounting principles generally accepted in the United States of America.
+
+We previously audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States), the consolidated balance sheet as of December 31, 2012, and the related consolidated statements of operations, of comprehensive income (loss), of changes in equity and of cash flows for the year then ended (not presented herein), and in our report dated March 4, 2013, we expressed an unqualified opinion on those consolidated financial statements. In our opinion, the information set forth in the accompanying condensed consolidated balance sheet as of December 31, 2012, is fairly stated in all material respects in relation to the consolidated balance sheet from which it has been derived.
+
+/s/ PricewaterhouseCoopers LLP
+
+Florham Park, New Jersey
+
+May 2, 2013
+
+[p. 2]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+(In Thousands of Dollars; Unaudited)
+
+March 31, 2013 | December 31, 2012
+ASSETS
+Cash and cash equivalents | $653,783 | $533,255
+Restricted cash and cash equivalents | 425,161 | 571,634
+Receivables, less allowance for doubtful accounts of $29,018 and $25,113 | 1,555,520 | 1,886,596
+Inventories, at lower of cost or market | 109,953 | 105,728
+Prepaid expenses and other assets | 550,670 | 470,120
+Revenue earning equipment, at cost:
+Cars | 13,694,941 | 12,591,132
+Less accumulated depreciation | (1,995,261) | (1,881,030)
+Other equipment | 3,313,112 | 3,240,095
+Less accumulated depreciation | (1,043,568) | (1,041,861)
+Total revenue earning equipment | 13,969,224 | 12,908,336
+Property and equipment, at cost:
+Land, buildings and leasehold improvements | 1,302,509 | 1,288,833
+Service equipment and other | 1,241,864 | 1,261,049
+2,544,373 | 2,549,882
+Less accumulated depreciation | (1,087,176) | (1,113,496)
+Total property and equipment | 1,457,197 | 1,436,386
+Other intangible assets, net | 4,002,046 | 4,032,111
+Goodwill | 1,352,694 | 1,341,872
+Total assets | $24,076,248 | $23,286,038
+LIABILITIES AND EQUITY
+Accounts payable | $1,304,849 | $999,061
+Accrued liabilities | 1,213,907 | 1,180,538
+Accrued taxes | 143,589 | 118,610
+Debt | 16,316,982 | 15,448,624
+Public liability and property damage | 321,003 | 332,232
+Deferred taxes on income | 2,738,756 | 2,699,668
+Total liabilities | 22,039,086 | 20,778,733
+Commitments and contingencies
+Equity:
+Hertz Global Holdings, Inc. and Subsidiaries stockholders' equity
+Preferred Stock, $0.01 par value, 200,000,000 shares authorized, no shares issued and outstanding | — | —
+Common Stock, $0.01 par value, 2,000,000,000 shares authorized, 422,979,383 and 421,485,862 shares issued and 399,779,383 and 421,485,862 outstanding | 4,230 | 4,215
+Additional paid-in capital | 3,237,348 | 3,233,948
+Accumulated deficit | (686,022) | (703,985)
+Accumulated other comprehensive loss | (51,165) | (26,892)
+2,504,391 | 2,507,286
+Treasury Stock, at cost, 23,200,000 shares and 0 shares | (467,248) | —
+Total Hertz Global Holdings, Inc. and Subsidiaries stockholders' equity | 2,037,143 | 2,507,286
+Noncontrolling interest | 19 | 19
+Total equity | 2,037,162 | 2,507,305
+Total liabilities and equity | $24,076,248 | $23,286,038
+
+The accompanying notes are an integral part of these financial statements.
+
+[p. 3]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(In Thousands of Dollars, except share and per share data)
+
+Unaudited
+
+Three Months Ended March 31,
+2013 | 2012
+Revenues:
+Car rental | $2,006,779 | $1,623,231
+Equipment rental | 350,482 | 301,326
+Other | 79,247 | 36,368
+Total revenues | 2,436,508 | 1,960,925
+Expenses:
+Direct operating | 1,351,190 | 1,114,158
+Depreciation of revenue earning equipment and lease charges | 587,027 | 515,106
+Selling, general and administrative | 251,709 | 207,752
+Interest expense | 176,782 | 162,267
+Interest income | (1,834) | (1,092)
+Other income, net | (598) | (457)
+Total expenses | 2,364,276 | 1,997,734
+Income (loss) before income taxes | 72,232 | (36,809)
+Provision for taxes on income | (54,269) | (19,524)
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | 17,963 | (56,333)
+Weighted average shares outstanding (in thousands):
+Basic | 415,847 | 418,076
+Diluted | 460,897 | 418,076
+Earnings (loss) per share attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders (See Note 17—Earnings (Loss) Per Share):
+Basic | $0.04 | $(0.13)
+Diluted | $0.04 | $(0.13)
+
+The accompanying notes are an integral part of these financial statements.
+
+[p. 4]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS
+
+(In Thousands of Dollars)
+
+Unaudited
+
+Three Months Ended March 31, 2013 | Three Months Ended March 31, 2012
+Net income (loss) | $17,963 | $(56,333)
+Other comprehensive income (loss), net of tax:
+Translation adjustment changes | $(27,405) | $29,570
+Unrealized holding gains (losses) on securities, (net of tax of 2013: $0 and 2012: $1,958) | (5) | 3,086
+Other, (net of tax of 2013: $0 and 2012: $0) | (44) | (87)
+Defined benefit pension plans:
+Net gains (losses) arising during the period, (net of tax of 2013: $1,682 and 2012: $0) | 3,181 | (231)
+Defined benefit pension plans | 3,181 | (231)
+Other comprehensive income (loss) | (24,273) | 32,338
+Comprehensive loss attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | $(6,310) | $(23,995)
+
+The accompanying notes are an integral part of these financial statements.
+
+[p. 5]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENT OF CHANGES IN EQUITY
+
+(In Thousands of Dollars)
+
+Unaudited
+
+Preferred Stock | Common Stock | Additional Paid-In Capital | Accumulated Deficit | Accumulated Other Comprehensive Income (Loss) | Treasury Stock | Non-Controlling Interest | Total Equity
+Shares | Amount
+December 31, 2012 | $— | 421,486 | $4,215 | $3,233,948 | $(703,985) | $(26,892) | $— | $19 | $2,507,305
+Net income attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | 17,963 | 17,963
+Other comprehensive loss | (24,273) | (24,273)
+Employee stock purchase plan | 149 | 2 | 1,412 | 1,414
+Net settlement on vesting of restricted stock | 732 | 7 | (10,349) | (10,342)
+Share repurchase(a) | (467,248) | (467,248)
+Stock-based employee compensation charges, net of tax | 7,984 | 7,984
+Exercise of stock options, net of tax | 608 | 6 | 4,209 | 4,215
+Common shares issued to Directors | 4 | — | 144 | 144
+March 31, 2013 | $— | 422,979 | $4,230 | $3,237,348 | $(686,022) | $(51,165) | $(467,248) | $19 | $2,037,162
+
+_________________________________________________
+
+(a) In March 2013, Hertz Holdings repurchased 23,200,000 shares at a price of $20.14 per share.
+
+The accompanying notes are an integral part of these financial statements.
+
+[p. 6]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(In Thousands of Dollars)
+
+Unaudited
+
+Three Months Ended March 31,
+2013 | 2012
+Cash flows from operating activities:
+Net income (loss) | $17,963 | $(56,333)
+Adjustments to reconcile net income (loss) to net cash provided by operating activities:
+Depreciation of revenue earning equipment | 571,751 | 492,053
+Depreciation of property and equipment | 51,324 | 44,049
+Amortization of other intangible assets | 30,499 | 19,166
+Amortization and write-off of deferred financing costs | 11,925 | 17,135
+Amortization and write-off of debt discount | 5,352 | 7,742
+Stock-based compensation charges | 7,984 | 7,515
+Gain on derivatives | (1,456) | (2,956)
+Loss on revaluation of foreign denominated debt | — | 2,498
+Provision for losses on doubtful accounts | 12,657 | 6,917
+Deferred taxes on income | 35,992 | 2,370
+Gain on sale of property and equipment | (1,017) | (197)
+Changes in assets and liabilities, net of effects of acquisition:
+Receivables | (33,211) | (57,554)
+Inventories, prepaid expenses and other assets | (42,109) | (5,471)
+Accounts payable | 38,289 | 53,589
+Accrued liabilities | 22,760 | (38,712)
+Accrued taxes | 24,660 | 5,334
+Public liability and property damage | (9,809) | (5,144)
+Net cash provided by operating activities | 743,554 | 492,001
+Cash flows from investing activities:
+Net change in restricted cash and cash equivalents | 142,642 | 97,639
+Revenue earning equipment expenditures | (3,252,980) | (2,648,695)
+Proceeds from disposal of revenue earning equipment | 2,237,878 | 2,009,336
+Property and equipment expenditures | (80,060) | (74,222)
+Proceeds from disposal of property and equipment | 23,456 | 47,631
+Acquisitions, net of cash acquired | (2,784) | (147,314)
+Other investing activities | (469) | (140)
+Net cash used in investing activities | $(932,317) | $(715,765)
+
+The accompanying notes are an integral part of these financial statements.
+
+[p. 7]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS (Continued)
+
+(In Thousands of Dollars)
+
+Unaudited
+
+Three Months Ended March 31,
+2013 | 2012
+Cash flows from financing activities:
+Proceeds from issuance of long-term debt | $1,201,582 | $264,599
+Payment of long-term debt | (298,631) | (453,279)
+Short-term borrowings:
+Proceeds | 128,785 | 40,650
+Payments | (195,326) | (243,276)
+Proceeds (payments) under the revolving lines of credit, net | (31,986) | 325,247
+Purchase of noncontrolling interest | — | (38,000)
+Proceeds from employee stock purchase plan | 1,202 | 985
+Proceeds from exercise of stock options | 4,215 | 4,514
+Proceeds from disgorgement of stockholder short-swing profits | — | 4
+Purchase of treasury shares | (467,248) | —
+Net settlement on vesting of restricted stock | (10,342) | (18,494)
+Payment of financing costs | (15,402) | (4,217)
+Net cash provided by (used in) financing activities | 316,849 | (121,267)
+Effect of foreign exchange rate changes on cash and cash equivalents | (7,558) | 7,953
+Net increase (decrease) in cash and cash equivalents during the period | 120,528 | (337,078)
+Cash and cash equivalents at beginning of period | 533,255 | 931,779
+Cash and cash equivalents at end of period | $653,783 | $594,701
+Supplemental disclosures of cash flow information:
+Cash paid during the period for:
+Interest (net of amounts capitalized) | $119,097 | $126,945
+Income taxes | 5,703 | 22,433
+Supplemental disclosures of non-cash flow information:
+Purchases of revenue earning equipment included in accounts payable and accrued liabilities | $443,120 | $518,231
+Sales of revenue earning equipment included in receivables | 230,715 | 299,577
+Purchases of property and equipment included in accounts payable | 58,701 | 41,917
+Sales of property and equipment included in receivables | 13,698 | 9,299
+
+The accompanying notes are an integral part of these financial statements.
+
+[p. 8]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+Unaudited
+
+Note 1—Background
+
+Hertz Global Holdings, Inc., or “Hertz Holdings,” is our top-level holding company. The Hertz Corporation, or “Hertz,” is our primary operating company and a direct wholly owned subsidiary of Hertz Investors, Inc., which is wholly owned by Hertz Holdings. “We,” “us” and “our” mean Hertz Holdings and its consolidated subsidiaries, including Hertz and Dollar Thrifty Automotive Group, Inc., or "Dollar Thrifty."
+
+We are a successor to corporations that have been engaged in the car and truck rental and leasing business since 1918 and the equipment rental business since 1965. Hertz Holdings was incorporated in Delaware in 2005 to serve as the top-level holding company for the consolidated Hertz business. Hertz was incorporated in Delaware in 1967. Ford Motor Company acquired an ownership interest in Hertz in 1987. Prior to this, Hertz was a subsidiary of United Continental Holdings, Inc. (formerly Allegis Corporation), which acquired Hertz's outstanding capital stock from RCA Corporation in 1985.
+
+On December 21, 2005, investment funds associated with or designated by:
+
+• | Clayton, Dubilier & Rice, Inc., which was succeeded by Clayton, Dubilier & Rice, LLC, or “CD&R,”
+
+• | The Carlyle Group, or “Carlyle,” and
+
+• | Merrill Lynch & Co., Inc., or "Merrill Lynch,"
+
+or collectively the “Sponsors,” acquired all of Hertz's common stock from Ford Holdings LLC. We refer to the acquisition of all of Hertz's common stock by the Sponsors as the “Acquisition.”
+
+On November 19, 2012, Hertz completed the acquisition of Dollar Thrifty, a car and truck rental and leasing business. See Note 5—Business Combinations and Divestitures.
+
+On December 12, 2012, Hertz completed the sale of Simply Wheelz LLC, a wholly owned subsidiary of Hertz that operated our Advantage Rent A Car business. See Note 5—Business Combinations and Divestitures.
+
+In December 2012, the Sponsors sold 50,000,000 shares of their Hertz Holdings common stock to J.P. Morgan as the sole underwriter in the registered public offering of those shares.
+
+In March 2013, the Sponsors sold 60,050,777 shares of their Hertz Holdings common stock to Citigroup Global Markets Inc. and Barclays Capital Inc. as the underwriters in the registered public offering of those shares. In connection with the offering, Hertz Holdings repurchased from the underwriters 23,200,000 of the 60,050,777 shares of common stock sold by the Sponsors.
+
+As a result of our initial public offering in November 2006 and subsequent offerings in June 2007, May 2009, June 2009, March 2011, December 2012 and March 2013, the Sponsors reduced their holdings to approximately 12.5% of the outstanding shares of common stock of Hertz Holdings.
+
+Note 2—Basis of Presentation and Recently Issued Accounting Pronouncements
+
+Basis of Presentation
+
+The significant accounting policies summarized in Note 2 to our audited consolidated financial statements contained in our Annual Report on Form 10-K for the fiscal year ended December 31, 2012, filed with the United States Securities and Exchange Commission, or "SEC," on March 4, 2013, or the "Form 10-K," have been followed in preparing the accompanying condensed consolidated financial statements.
+
+The December 31, 2012 condensed consolidated balance sheet data was derived from our audited financial statements, but does not include all disclosures required by accounting principles generally accepted in the United States of America, or "GAAP."
+
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the amounts reported in the financial statements and footnotes. Actual results could differ materially from those estimates.
+
+[p. 9]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+In our opinion, all adjustments necessary for a fair presentation of the results of operations for the interim periods have been made. Results for interim periods are not necessarily indicative of results for a full year.
+
+Certain prior period amounts have been reclassified to conform with current period presentation.
+
+Recently Issued Accounting Pronouncements
+
+In July 2012, the Financial Accounting Standards Board, or "FASB," issued Accounting Standards Update, or "ASU," No. 2012-02, "Intangibles—Goodwill and Other (Topic 350): Testing Indefinite-Lived Intangible Assets for Impairment," or "ASU 2012-02" which states that an entity has the option first to assess qualitative factors to determine whether the existence of events and circumstances indicates that it is more likely than not that an indefinite-lived intangible asset is impaired. If, after assessing the totality of events and circumstances, an entity concludes that it is not more likely than not that the indefinite-lived intangible asset is impaired, then the entity is not required to take further action. However, if an entity concludes otherwise, then it is required to determine the fair value of the indefinite-lived intangible asset and perform the quantitative impairment test by comparing the fair value with the carrying amount. This provision is effective for annual and interim impairment tests performed for fiscal years beginning after September 15, 2012. This accounting guidance is not expected to have a material impact on our consolidated financial statements or financial statement disclosures.
+
+In March 2013, the FASB issued ASU No. 2013-05, “Foreign Currency Matters (Topic 830): Parent's Accounting for the Cumulative Translation Adjustment upon Derecognition of Certain Subsidiaries or Groups of Assets within a Foreign Entity or of an Investment in a Foreign Entity,” or “ASU 2013-05”, which permits an entity to release cumulative translation adjustments into net income when a reporting entity (parent) ceases to have a controlling financial interest in a subsidiary or group of assets that is a business within a foreign entity. Accordingly, the cumulative translation adjustment should be released into net income only if the sale or transfer results in the complete or substantially complete liquidation of the foreign entity in which the subsidiary or group of assets had resided, or, if a controlling financial interest is no longer held. The revised standard is effective for reporting periods beginning after December 15, 2013. The amendments should be applied prospectively to derecognition events occurring after the effective date. Prior periods should not be adjusted. Early adoption is permitted. This accounting guidance is not expected to have a material impact on our consolidated financial statements or financial statement disclosures.
+
+Note 3—Cash and Cash Equivalents and Restricted Cash and Cash Equivalents
+
+We consider all highly liquid debt instruments purchased with an original maturity of three months or less to be cash equivalents.
+
+In our Consolidated Statements of Cash Flows, we net cash flows from revolving borrowings in the line item "Proceeds (payments) under the revolving lines of credit, net."
+
+Restricted cash and cash equivalents includes cash and cash equivalents that are not readily available for our normal disbursements. Restricted cash and cash equivalents are restricted for the purchase of revenue earning vehicles and other specified uses under our Fleet Debt facilities, for our Like-Kind Exchange Program, or "LKE Program," and to satisfy certain of our self-insurance regulatory reserve requirements. As of March 31, 2013 and December 31, 2012, the portion of total restricted cash and cash equivalents that was associated with our Fleet Debt facilities was $370.5 million and $494.0 million, respectively. The decrease in restricted cash and cash equivalents associated with our fleet debt of $123.5 million from December 31, 2012 to March 31, 2013 was primarily related to the timing of purchases and sales of revenue earning vehicles.
+
+[p. 10]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Note 4—Goodwill and Other Intangible Assets
+
+The following summarizes the changes in our goodwill, by segment (in millions of dollars):
+
+Car Rental | Equipment Rental | Total
+Balance as of January 1, 2013
+Goodwill | $1,287.5 | $775.4 | $2,062.9
+Accumulated impairment losses | (46.1) | (674.9) | (721.0)
+1,241.4 | 100.5 | 1,341.9
+Goodwill acquired during the period | — | — | —
+Adjustments to previously recorded purchase price allocation(a) | 9.2 | 4.6 | 13.8
+Other changes during the period(b) | (2.9) | (0.1) | (3.0)
+6.3 | 4.5 | 10.8
+Balance as of March 31, 2013
+Goodwill | 1,293.8 | 779.9 | 2,073.7
+Accumulated impairment losses | (46.1) | (674.9) | (721.0)
+$1,247.7 | $105.0 | $1,352.7
+
+Car Rental | Equipment Rental | Total
+Balance as of January 1, 2012
+Goodwill | $419.3 | $693.8 | $1,113.1
+Accumulated impairment losses | (46.1) | (674.9) | (721.0)
+373.2 | 18.9 | 392.1
+Goodwill acquired during the year | 884.9 | 82.0 | 966.9
+Adjustments to previously recorded purchase price allocation(c) | (15.3) | — | (15.3)
+Other changes during the year(d) | (1.4) | (0.4) | (1.8)
+868.2 | 81.6 | 949.8
+Balance as of December 31, 2012
+Goodwill | 1,287.5 | 775.4 | 2,062.9
+Accumulated impairment losses | (46.1) | (674.9) | (721.0)
+$1,241.4 | $100.5 | $1,341.9
+
+_______________________________________________________________________________
+
+(a) | Consists of adjustments related to purchase accounting and deferred tax during 2013.
+
+(b) | Primarily consists of changes resulting from the translation of foreign currencies at different exchange rates from the beginning of the period to the end of the period.
+
+(c) | Consists of deferred tax adjustments recorded during 2012.
+
+(d) | Primarily consists of changes resulting from disposals and the translation of foreign currencies at different exchange rates from the beginning of the year to the end of the year.
+
+[p. 11]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Other intangible assets, net, consisted of the following major classes (in millions of dollars):
+
+March 31, 2013
+Gross Carrying Amount | Accumulated Amortization | Net Carrying Value
+Amortizable intangible assets:
+Customer-related | $694.6 | $(451.3) | $243.3
+Other(1) | 457.4 | (46.9) | 410.5
+Total | 1,152.0 | (498.2) | 653.8
+Indefinite-lived intangible assets:
+Trade name | 3,330.0 | — | 3,330.0
+Other(2) | 18.2 | — | 18.2
+Total | 3,348.2 | — | 3,348.2
+Total other intangible assets, net | $4,500.2 | $(498.2) | $4,002.0
+
+December 31, 2012
+Gross Carrying Amount | Accumulated Amortization | Net Carrying Value
+Amortizable intangible assets:
+Customer-related | $694.7 | $(434.0) | $260.7
+Other(1) | 459.6 | (33.8) | 425.8
+Total | 1,154.3 | (467.8) | 686.5
+Indefinite-lived intangible assets:
+Trade name | 3,330.0 | — | 3,330.0
+Other(2) | 15.6 | — | 15.6
+Total | 3,345.6 | — | 3,345.6
+Total other intangible assets, net | $4,499.9 | $(467.8) | $4,032.1
+
+_______________________________________________________________________________
+
+(1) | Other amortizable intangible assets primarily include Dollar Thrifty concession agreements, Donlen trade name, reacquired franchise rights, non-compete agreements and technology-related intangibles.
+
+(2) | Other indefinite-lived intangible assets primarily consist of reacquired franchise rights.
+
+Amortization of other intangible assets for the three months ended March 31, 2013 and 2012 was approximately $30.5 million and $19.2 million, respectively. Based on our amortizable intangible assets as of March 31, 2013, we expect amortization expense to be approximately $90.1 million for the remainder of 2013, $116.3 million in 2014, $113.8 million in 2015, $64.9 million in 2016 and $51.8 million in 2017.
+
+Note 5—Business Combinations and Divestitures
+
+Dollar Thrifty Acquisition
+
+On November 19, 2012, Hertz Holdings completed the Dollar Thrifty acquisition pursuant to the terms of the Merger Agreement with Dollar Thrifty and a wholly owned Hertz subsidiary, or "Merger Sub." In accordance with the terms of the Merger Agreement, Merger Sub completed a tender offer in which it purchased a majority of the shares of Dollar Thrifty common stock then outstanding at a price equal to $87.50 per share in cash. Merger Sub subsequently acquired the remaining shares of Dollar Thrifty common stock by means of a short-form merger in which such shares were converted into the right to receive the same $87.50 per share in cash paid in the tender offer. The total purchase price was approximately $2,592.0 million, which comprised of $2,551.0 million of cash, including our use of approximately $404.0 million of cash and cash equivalents available from Dollar Thrifty, and the fair value of our previously held equity
+
+[p. 12]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+interest in Dollar Thrifty of $41.0 million. As a condition of the Merger Agreement, and pursuant to a divestiture agreement reached with the Federal Trade Commission, or "FTC," Hertz divested its Simply Wheelz subsidiary, which owned and operated the Advantage brand, and secured for the buyer of Advantage certain Dollar Thrifty on-airport car rental concessions. Dollar Thrifty is now a wholly-owned subsidiary of Hertz.
+
+The purchase price of Dollar Thrifty was funded with (i) cash proceeds of $1,950.0 million received by Hertz from its issuance of $1,950.0 million in aggregate principal amount of Senior Notes and Term Loans, (ii) approximately $404.0 million of acquired cash and cash equivalents from Dollar Thrifty, and (iii) the balance funded by Hertz's existing cash.
+
+The purchase price was allocated to the estimated fair values of the assets acquired and liabilities assumed on the closing date of November 19, 2012. For the preliminary purchase price allocation refer to Note 4 of the Notes to our audited annual consolidated financial statements included in our Form 10-K under the caption "Item 8—Financial Statements and Supplementary Data."
+
+Adjustments to the preliminary purchase price allocation have been made to reflect revised estimates of the fair value of the assets acquired and liabilities assumed at November 19, 2012. The revisions primarily related to valuation of certain contracts and accrued liabilities, and the resulting changes to goodwill. Providing for these adjustments in previous periods would not have a material impact on the reported operating results for the three month period ended December 31, 2012 and therefore such amounts have been recorded in the quarter ended March 31, 2013.
+
+Unaudited pro forma financial information
+
+The following table presents unaudited pro forma financial information as if the acquisition of Dollar Thrifty had occurred on January 1, 2012 for the period presented below (in millions of dollars).
+
+Revenue | Loss
+2012 supplemental pro forma from 1/1/12 - 3/31/12 (combined entity) | $2,257.4 | $(41.1)
+
+The unaudited pro forma consolidated results do not purport to project the future results of operations of the combined entity nor do they reflect the expected realization of any cost savings associated with the acquisition. The unaudited pro forma consolidated results reflect the historical financial information of Hertz Holdings and Dollar Thrifty, adjusted for increases in amortization expense related to intangible assets acquired, additional interest expense associated with the financing relating to the acquisition, elimination of the results of operations of the Advantage business and locations to be divested where Dollar Thrifty operated at least one of its brands prior to the consummation of the Dollar Thrifty acquisition, and including an estimated amount of leasing revenue to be earned by Hertz from leasing vehicles to the buyer of Advantage.
+
+Other Acquisitions
+
+During the three months ended March 31, 2013, we re-acquired five domestic car rental locations from our former licensees. These acquisitions are not material to the consolidated amounts presented within our statement of operations for the three months ended March 31, 2013.
+
+Divestitures
+
+Potential Divestiture of Selected Dollar Thrifty Airport Locations
+
+In order to obtain regulatory approval and clearance for the Dollar Thrifty acquisition, Hertz agreed to dispose of Advantage, to secure for the buyer of Advantage certain on-airport car rental concessions and related assets at 13 locations where Dollar Thrifty operated at least one of its brands prior to the consummation of the Dollar Thrifty acquisition, or the “Initial airport locations.” Additionally, Hertz agreed to secure for the buyer of Advantage or, in certain cases, one or more other FTC-approved buyers, on-airport car rental concessions at 13 additional locations where Dollar Thrifty operated prior to the consummation of the Dollar Thrifty acquisition, or the “Secondary airport locations.” The buyer of Advantage agreed to assume all of the Secondary airport locations. As of March 31, 2013, Hertz completed the sale of several locations among the Initial airport locations and the Secondary airport locations, and had a remaining loss reserve, including estimated support payments of $22.6 million.
+
+[p. 13]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Advantage Divestiture
+
+On December 12, 2012, Hertz completed the sale of Simply Wheelz LLC, or the “Advantage divestiture,” a wholly owned subsidiary of Hertz that operated our Advantage Rent A Car business, or “Advantage.” As part of the sale agreement, Hertz agreed to sublease vehicles to the buyer of Advantage for use in continuing the operations of Advantage, for a period no longer than two years from the closing date. As such, Hertz will have significant continuing involvement in the operations of the disposed Advantage business. Therefore, the operating results associated with the Advantage business will continue to be classified as part of our continuing operations in the consolidated statements of operations for all periods presented.
+
+Note 6—Taxes on Income
+
+The effective tax rate for the three months ended March 31, 2013 and 2012 was 75.1% and (53.0)%, respectively. The effective tax rate for the full fiscal year 2013 is expected to be approximately 40%. The provision for taxes on income of $54.3 million in the three months ended March 31, 2013 increased from $19.5 million in the three months ended March 31, 2012, primarily due to higher income before income taxes, changes in geographic earnings mix and changes in losses in certain non-U.S. jurisdictions for which tax benefits are not realized.
+
+Note 7—Depreciation of Revenue Earning Equipment and Lease Charges
+
+Depreciation of revenue earning equipment and lease charges includes the following (in millions of dollars):
+
+Three Months Ended March 31,
+2013 | 2012
+Depreciation of revenue earning equipment | $573.0 | $531.4
+Adjustment of depreciation upon disposal of revenue earning equipment | (1.3) | (39.4)
+Rents paid for vehicles leased | 15.3 | 23.1
+Total | $587.0 | $515.1
+
+The adjustment of depreciation upon disposal of revenue earning equipment for the three months ended March 31, 2013 and 2012, included net losses of $3.3 million and net gains of $34.9 million, respectively, on the disposal of vehicles used in our car rental operations and gains of $4.6 million and $4.5 million, respectively, on the disposal of industrial and construction equipment used in our equipment rental operations.
+
+Depreciation rates are reviewed on a quarterly basis based on management's routine review of present and estimated future market conditions and their effect on residual values at the time of disposal. During the three months ended March 31, 2013, depreciation rates being used to compute the provision for depreciation of revenue earning equipment were adjusted on certain vehicles in our car rental operations to reflect changes in the estimated residual values to be realized when revenue earning equipment is sold. These depreciation rate changes resulted in net decreases of $0.7 million and $0.2 million in depreciation expense for the three months ended March 31, 2013 and March 31, 2012, respectively. For the three months ended March 31, 2013, the depreciation rate changes in certain of our equipment rental operations resulted in an increase of $0.1 million in depreciation expense.
+
+[p. 14]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Note 8—Debt
+
+Our debt consists of the following (in millions of dollars):
+
+Facility | Average Interest Rate at March 31, 2013(1) | Fixed or Floating Interest Rate | Maturity | March 31, 2013 | December 31, 2012
+Corporate Debt
+Senior Term Facility | 3.75% | Floating | 3/2018 | $2,120.1 | $2,125.5
+Senior ABL Facility | 2.46% | Floating | 3/2016 | 630.0 | 195.0
+Senior Notes(2) | 6.58% | Fixed | 10/2018–10/2022 | 3,900.0 | 3,650.0
+Promissory Notes | 6.96% | Fixed | 6/2012–1/2028 | 48.7 | 48.7
+Convertible Senior Notes | 5.25% | Fixed | 6/2014 | 474.7 | 474.7
+Other Corporate Debt | 4.30% | Floating | Various | 94.0 | 88.7
+Unamortized Net Discount (Corporate)(3) | (30.5) | (37.3)
+Total Corporate Debt | 7,237.0 | 6,545.3
+Fleet Debt
+HVF U.S. ABS Program
+HVF U.S. Fleet Variable Funding Notes:
+HVF Series 2009-1(4) | 1.04% | Floating | 3/2014 | 1,950.0 | 2,350.0
+1,950.0 | 2,350.0
+HVF U.S. Fleet Medium Term Notes
+HVF Series 2009-2(4) | 5.38% | Fixed | 3/2013–3/2015 | 807.5 | 1,095.9
+HVF Series 2010-1(4) | 3.77% | Fixed | 2/2014–2/2018 | 749.9 | 749.8
+HVF Series 2011-1(4) | 2.86% | Fixed | 3/2015–3/2017 | 598.0 | 598.0
+HVF Series 2013-1(4) | 1.68% | Fixed | 8/2016–8/2018 | 950.0 | —
+3,105.4 | 2,443.7
+RCFC U.S. ABS Program
+RCFC U.S. Fleet Variable Funding Notes
+RCFC Series 2010-3 Notes(4)(5) | 1.05% | Floating | 12/2013 | 519.0 | 519.0
+RCFC U.S. Fleet Medium Term Notes
+RCFC Series 2011-1 Notes(4)(5) | 2.81% | Fixed | 2/2015 | 500.0 | 500.0
+RCFC Series 2011-2 Notes(4)(5) | 3.21% | Fixed | 5/2015 | 400.0 | 400.0
+1,419.0 | 1,419.0
+Donlen ABS Program
+Donlen GN II Variable Funding Notes(4) | 1.10% | Floating | 12/2013 | 898.1 | 899.3
+Other Fleet Debt
+U.S. Fleet Financing Facility | 2.96% | Floating | 9/2015 | 166.0 | 166.0
+European Revolving Credit Facility | 2.85% | Floating | 6/2015 | 127.8 | 185.3
+European Fleet Notes | 8.50% | Fixed | 7/2015 | 511.2 | 529.4
+European Securitization(4) | 2.49% | Floating | 7/2014 | 237.4 | 242.2
+Hertz-Sponsored Canadian Securitization(4) | 2.16% | Floating | 6/2013 | 85.6 | 100.5
+
+[p. 15]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Facility | Average Interest Rate at March 31, 2013(1) | Fixed or Floating Interest Rate | Maturity | March 31, 2013 | December 31, 2012
+Dollar Thrifty-Sponsored Canadian Securitization(4)(5) | 2.13% | Floating | 8/2014 | 54.1 | 55.3
+Australian Securitization(4) | 4.34% | Floating | 12/2014 | 149.9 | 148.9
+Brazilian Fleet Financing Facility | 13.18% | Floating | 10/2013 | 14.2 | 14.0
+Capitalized Leases | 4.21% | Floating | Various | 350.8 | 337.6
+Unamortized Discount (Fleet) | 10.5 | 12.1
+1,707.5 | 1,791.3
+Total Fleet Debt | 9,080.0 | 8,903.3
+Total Debt | $16,317.0 | $15,448.6
+
+_______________________________________________________________________________
+
+Note: | For further information on the definitions and terms of our debt, see Note 5 of the Notes to our audited annual consolidated financial statements included in our Form 10-K under the caption "Item 8—Financial Statements and Supplementary Data."
+
+(1) | As applicable, reference is to the March 31, 2013 weighted average interest rate (weighted by principal balance).
+
+(2) | References to our "Senior Notes" include the series of Hertz's unsecured senior notes set forth in the table below. As of March 31, 2013 and December 31, 2012, the outstanding principal amount for each such series of the Senior Notes is also specified below.
+
+Outstanding Principal (in millions)
+Senior Notes | March 31, 2013 | December 31, 2012
+4.25% Senior Notes due April 2018 | $250.0 | $—
+7.50% Senior Notes due October 2018 | 700.0 | 700.0
+6.75% Senior Notes due April 2019 | 1,250.0 | 1,250.0
+5.875% Senior Notes due October 2020 | 700.0 | 700.0
+7.375% Senior Notes due January 2021 | 500.0 | 500.0
+6.25% Senior Notes due October 2022 | 500.0 | 500.0
+$3,900.0 | $3,650.0
+
+(3) | As of March 31, 2013 and December 31, 2012, $33.9 million and $40.6 million, respectively, of the unamortized corporate discount relates to the 5.25% Convertible Senior Notes.
+
+(4) | Maturity reference is to the "expected final maturity date" as opposed to the subsequent "legal maturity date." The expected final maturity date is the date by which Hertz and investors in the relevant indebtedness expect the relevant indebtedness to be repaid. The legal final maturity date is the date on which the relevant indebtedness is legally due and payable.
+
+(5) | RCFC U.S. ABS Program and the Dollar Thrifty-Sponsored Canadian Securitization represent fleet debt acquired in connection with the Dollar Thrifty acquisition on November 19, 2012.
+
+Maturities
+
+The aggregate amounts of maturities of debt for each of the twelve-month periods ending March 31 (in millions of dollars) are as follows:
+
+2014 | $5,985.9 | (including $5,686.7 of other short-term borrowings*)
+2015 | $1,991.1
+2016 | $1,101.8
+2017 | $529.2
+2018 | $248.1
+After 2018 | $6,480.9
+
+_______________________________________________________________________________
+
+[p. 16]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+* | Our short-term borrowings as of March 31, 2013 include, among other items, the amounts outstanding under the Senior ABL Facility, HVF U.S. Fleet Variable Funding Notes, RCFC U.S. Fleet Variable Funding Notes, Donlen GN II Variable Funding Notes, U.S. Fleet Financing Facility, European Revolving Credit Facility, European Securitization, Hertz-Sponsored Canadian Securitization, Dollar Thrifty-Sponsored Canadian Securitization, Australian Securitization, Brazilian Fleet Financing Facility and Capitalized Leases. These amounts are reflected as short-term borrowings, regardless of the facility maturity date, as these facilities are revolving in nature and/or the outstanding borrowings have maturities of three months or less. Short-term borrowings also include the Convertible Senior Notes which became convertible on January 1, 2013 and remain as such through June 30, 2013. As of March 31, 2013, short-term borrowings had a weighted average interest rate of 2.1%.
+
+We are highly leveraged and a substantial portion of our liquidity needs arise from debt service on our indebtedness and from the funding of our costs of operations and capital expenditures. We believe that cash generated from operations and cash received on the disposal of vehicles and equipment, together with amounts available under various liquidity facilities will be adequate to permit us to meet our debt maturities over the next twelve months.
+
+Letters of Credit
+
+As of March 31, 2013, there were outstanding standby letters of credit totaling $669.6 million. Of this amount, $617.6 million was issued under the Senior Credit Facilities. As of March 31, 2013, none of these letters of credit have been drawn upon.
+
+2013 Events
+
+On January 1, 2013, our Convertible Senior Notes became convertible again. This conversion right was triggered because our closing common stock price per share exceeded $10.77 for at least 20 trading days during the 30 consecutive trading day period ending on December 31, 2012. The Convertible Senior Notes continued to be convertible until March 31, 2013, and on April 1, 2013, our Convertible Senior Notes became convertible again. This conversion right was triggered because our closing common stock price per share exceeded $10.77 for at least 20 trading days during the 30 consecutive trading day period ending on March 31, 2013. The Convertible Senior Notes continue to be convertible through June 30, 2013, and may be convertible thereafter, if one or more of the conversion conditions specified in the indenture is satisfied during future measurement periods. In connection with our repurchase of the shares of our common stock in March 2013, we changed our settlement policy to provide that we will settle conversions of our Convertible Senior Notes using 100% shares of our common stock. Previously, we had a policy of settling the conversion of our Convertible Senior Notes using a combination settlement, which called for settling the fixed dollar amount per $1,000 in principal amount in cash and settling in shares the excess conversion value, if any.
+
+In January 2013, Hertz Vehicle Financing LLC, or "HVF," an insolvency remote, direct, wholly-owned, special purpose subsidiary of Hertz, completed the issuance of $950.0 million in aggregate principal amount of three year and five year Series 2013-1 Rental Car Asset Backed Notes, Class A and Class B. The $282.75 million of three year Class A notes carry a 1.12% coupon, the $42.25 million of three year Class B notes carry a 1.86% coupon, the $543.75 million of five year Class A notes carry a 1.83% coupon, and the $81.25 million of five year Class B notes carry a 2.48% coupon. The three year notes and five year notes have expected final payment dates in August 2016 and August 2018, respectively. The Class B notes are subordinated to the Class A notes.
+
+The net proceeds from the sale of HVF's Series 2013-1 Rental Car Asset Backed Notes will be, to the extent permitted by the applicable agreements, (i) used to pay the purchase price of vehicles acquired by HVF pursuant to HVF's U.S. ABS Program (as defined herein), (ii) used to pay the principal amount of other HVF U.S. ABS Program indebtedness that is then permitted or required to be paid or (iii) released to HVF to be distributed to Hertz or otherwise used by HVF for general purposes.
+
+In February 2013, Hertz caused its Brazilian operating subsidiary to amend the Brazilian Fleet Financing Facility to extend the maturity date from February 2013 to October 2013.
+
+In March 2013, Hertz issued $250 million in aggregate principal amount of 4.25% Senior Notes due 2018. The proceeds of this March 2013 offering were used by Hertz to replenish a portion of its liquidity, after having dividended $467.2 million in available liquidity to us, which we used to repurchase 23,200,000 shares of our common stock in March 2013.
+
+For subsequent events relating to our indebtedness, see Note 18—Subsequent Events.
+
+[p. 17]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Registration Rights
+
+Pursuant to the terms of the exchange and registration rights agreement entered into in connection with the issuance of $250 million in aggregate principal amount of the 4.25% Senior Notes due 2018 in March 2013, Hertz agreed to file a registration statement under the Securities Act of 1933, as amended, to permit either the exchange of such notes for registered notes or, in the alternative, the registered resale of such notes. Hertz's failure to meet its obligations under either exchange and registration rights agreement, including by failing to have the registration statement become effective by March 2014 or failing to complete the exchange offer by April 2014, will result in Hertz incurring special interest on such notes at a per annum rate of 0.25% for the first 90 days of any period where any such failure has occurred and is continuing, which rate will be increased by an additional 0.25% during each subsequent 90 day period, up to a maximum of 0.50%. We do not believe the special interest obligation is probable, and as such, we have not recorded any amounts with respect to this registration payment arrangement.
+
+Guarantees and Security
+
+In February 2013 and March 2013, we added Dollar Thrifty and certain of its subsidiaries as guarantors under certain of our debt instruments and credit facilities. There have been no material changes to the guarantees and security provisions of the debt instruments and credit facilities under which our indebtedness as of March 31, 2013 has been issued from the terms as disclosed in our Form 10-K.
+
+Financial Covenant Compliance
+
+Under the terms of our Senior Term Facility and Senior ABL Facility, we are not subject to ongoing financial maintenance covenants; however, under the Senior ABL Facility, failure to maintain certain levels of liquidity will subject the Hertz credit group to a contractually specified fixed charge coverage ratio of not less than 1:1 for the four quarters most recently ended. As of March 31, 2013, we were not subject to such contractually specified fixed charge coverage ratio.
+
+Borrowing Capacity and Availability
+
+As of March 31, 2013, the following facilities were available for the use of Hertz and its subsidiaries (in millions of dollars):
+
+Remaining Capacity | Availability Under Borrowing Base Limitation
+Corporate Debt
+Senior ABL Facility | $751.3 | $751.3
+Total Corporate Debt | 751.3 | 751.3
+Fleet Debt
+HVF U.S. Fleet Variable Funding Notes | 488.8 | —
+RCFC U.S. Fleet Variable Funding Notes | 81.0 | —
+Donlen GN II Variable Funding Notes | 105.0 | —
+U.S. Fleet Financing Facility | 24.0 | —
+European Revolving Credit Facility | 153.4 | —
+European Securitization | 260.3 | —
+Hertz-Sponsored Canadian Securitization | 111.2 | —
+Dollar Thrifty-Sponsored Canadian Securitization | 93.5 | —
+Australian Securitization | 111.2 | —
+Capitalized Leases | 45.1 | 10.3
+Total Fleet Debt | 1,473.5 | 10.3
+Total | $2,224.8 | $761.6
+
+Our borrowing capacity and availability primarily comes from our "revolving credit facilities," which are a combination of asset-backed securitization facilities and asset-based revolving credit facilities. Creditors under each of our revolving credit facilities have a claim on a specific pool of assets as collateral. Our ability to borrow under each revolving credit
+
+[p. 18]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+facility is a function of, among other things, the value of the assets in the relevant collateral pool. We refer to the amount of debt we can borrow given a certain pool of assets as the "borrowing base."
+
+We refer to "Remaining Capacity" as the maximum principal amount of debt permitted to be outstanding under the respective facility (i.e., the amount of debt we could borrow assuming we possessed sufficient assets as collateral) less the principal amount of debt then-outstanding under such facility.
+
+We refer to "Availability Under Borrowing Base Limitation" as the lower of Remaining Capacity or the borrowing base less the principal amount of debt then-outstanding under such facility (i.e., the amount of debt we could borrow given the collateral we possess at such time).
+
+As of March 31, 2013, the Senior Term Facility had approximately $0.1 million available under the letter of credit facility and the Senior ABL Facility had $1,027.2 million available under the letter of credit facility sublimit, subject to borrowing base restrictions.
+
+Substantially all of our revenue earning equipment and certain related assets are owned by special purpose entities, or are encumbered in favor of our lenders under our various credit facilities.
+
+Some of these special purpose entities are consolidated variable interest entities, of which Hertz is the primary beneficiary, whose sole purpose is to provide commitments to lend in various currencies subject to borrowing bases comprised of rental vehicles and related assets of certain of Hertz International, Ltd.'s subsidiaries. As of March 31, 2013 and December 31, 2012, our International Fleet Financing No. 1 B.V., International Fleet Financing No. 2 B.V. and HA Funding Pty, Ltd. variable interest entities collectively had total assets primarily comprised of loans receivable and revenue earning equipment of $393.4 million and $440.8 million, respectively, and collectively had total liabilities primarily comprised of debt of $392.9 million and $440.3 million, respectively.
+
+Note 9—Employee Retirement Benefits
+
+The following table sets forth the net periodic pension and postretirement (including health care, life insurance and auto) expense (in millions of dollars):
+
+Pension Benefits | Postretirement Benefits (U.S.)
+U.S. | Non-U.S.
+Three Months Ended March 31,
+2013 | 2012 | 2013 | 2012 | 2013 | 2012
+Components of Net Periodic
+Benefit Cost:
+Service cost | $7.3 | $6.3 | $0.6 | $0.3 | $0.1 | $0.1
+Interest cost | 6.7 | 6.5 | 2.3 | 2.3 | 0.2 | 0.2
+Expected return on plan assets | (7.5) | (7.3) | (3.1) | (3.0) | — | —
+Net amortizations | 4.3 | 2.8 | 0.1 | — | — | —
+Net pension /
+postretirement expense | $10.8 | $8.3 | $(0.1) | $(0.4) | $0.3 | $0.3
+
+Our policy for funded plans is to contribute annually, at a minimum, amounts required by applicable laws, regulations and union agreements. From time to time we make contributions beyond those legally required. For the three months ended March 31, 2013, we contributed $3.7 million to our worldwide pension plans, including discretionary contributions of $3.0 million to our United Kingdom, or "U.K.," defined benefit pension plan and benefit payments made through unfunded plans. For the three months ended March 31, 2012, we contributed $20.3 million to our worldwide pension plans, including discretionary contributions of $3.2 million to our U.K. defined benefit pension plan and benefit payments made through unfunded plans. The level of future contributions will vary, and is dependent on a number of factors including investment returns, interest rate fluctuations, plan demographics, funding regulations and the results of the final actuarial valuation.
+
+We also sponsor postretirement health care and life insurance benefits for a limited number of employees with hire dates prior to January 1, 1990. The postretirement health care plan is contributory with participants' contributions
+
+[p. 19]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+adjusted annually. An unfunded liability is recorded. We also have a key officer postretirement car benefit plan that provides the use of a vehicle from our fleet and insurance for the participants' benefit for retired Executive Vice Presidents and above who have a minimum of 20 years of service and who retire at age 58 or above. The assigned car benefit is available for 15 years post-retirement or until the participant reaches the age of 80, whichever occurs last.
+
+We participate in various "multiemployer" pension plans. In the event that we withdraw from participation in one of these plans, then applicable law could require us to make an additional lump-sum contribution to the plan, and we would have to reflect that as an expense in our consolidated statement of operations and as a liability on our condensed consolidated balance sheet. Our withdrawal liability for any multiemployer plan would depend on the extent of the plan's funding of vested benefits. At least one multiemployer plan in which we participate is reported to have, and other of our multiemployer plans could have, significant underfunded liabilities. Such underfunding may increase in the event other employers become insolvent or withdraw from the applicable plan or upon the inability or failure of withdrawing employers to pay their withdrawal liability. In addition, such underfunding may increase as a result of lower than expected returns on pension fund assets or other funding deficiencies. The occurrence of any of these events could have a material adverse effect on our consolidated financial position, results of operations or cash flows.
+
+During 2012, Hertz completely withdrew employees from an existing multi-employer pension plan with the Central States Pension Fund, or the "Pension Fund," and entered into a new agreement with the Pension Fund. In connection with the complete withdrawal from the Pension Fund, Hertz was subject to a withdrawal liability of approximately $23.2 million, which was paid in December 2012.
+
+Note 10—Stock-Based Compensation
+
+In February 2013, we granted 5,247 Restricted Stock Units, or "RSUs," and 1,707,458 Performance Stock Units, or "PSUs," to certain executives and employees at a fair value of $19.95, under the Hertz Global Holdings, Inc. 2008 Omnibus Incentive Plan, or the "Omnibus Plan." Of the total PSUs awarded 1,136,724 PSUs have a performance condition under which the number of units that will ultimately be awarded will vary from 0% to 150% of the original grant, based on 2013 and combined 2013-2014 Corporate EBITDA results. "EBITDA" means consolidated net income before net interest expense, consolidated income taxes and consolidated depreciation (which includes revenue earning equipment lease charges) and amortization and "Corporate EBITDA," represents EBITDA as adjusted for car rental fleet interest, car rental fleet depreciation and certain other items, as provided in the applicable award agreements. These PSU awards vest evenly over a three year vesting period. Of the total PSUs awarded, 490,632 PSUs have a performance condition under which the number of units that will ultimately be awarded will either be 0% to 100% of the original grant. Award of this grant is contingent upon final 2013 Corporate EBITDA Margin exceeding a minimum level. "Corporate EBITDA Margin" means Corporate EBITDA as a percentage of Consolidated Revenue. These PSU awards vest evenly over a three year vesting period. Of the total PSUs awarded, 83,567 PSUs have a performance condition under which the number of units that will ultimately be awarded will either be 0% to 100% of the original grant. Award of this grant is contingent upon final 2013 Corporate EBITDA Margin exceeding a minimum level. These PSU awards vest evenly over a two year vesting period. The RSUs awarded have a two year cliff vesting period.
+
+A summary of the total compensation expense and associated income tax benefits recognized under our Hertz Global Holdings, Inc. Stock Incentive Plan and Hertz Global Holdings, Inc. Director Stock Incentive Plan, or the "Prior Plans," and the Omnibus Plan, including the cost of stock options, RSUs, and PSUs, is as follows (in millions of dollars):
+
+Three Months Ended March 31,
+2013 | 2012
+Compensation expense | $8.0 | $7.5
+Income tax benefit | (3.1) | (2.9)
+Total | $4.9 | $4.6
+
+As of March 31, 2013, there was approximately $64.1 million of total unrecognized compensation cost related to non-vested stock options, RSUs and PSUs granted by Hertz Holdings under the Prior Plans and the Omnibus Plan. The total unrecognized compensation cost is expected to be recognized over the remaining 2.3 years, on a weighted average basis, of the requisite service period that began on the grant dates.
+
+[p. 20]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Note 11—Segment Information
+
+Our operating segments are aggregated into reportable business segments based primarily upon similar economic characteristics, products, services, customers, and delivery methods. We have identified two reportable segments: rental and leasing of cars, crossovers and light trucks, or "car rental," and rental of industrial, construction, material handling and other equipment, or "equipment rental." Other reconciling items include general corporate assets and expenses, certain interest expense (including net interest on corporate debt), as well as other business activities. Donlen is included in the car rental reportable segment.
+
+Adjusted pre-tax income is calculated as income (loss) before income taxes plus non-cash purchase accounting charges, non-cash debt charges relating to the amortization and write-off of debt financing costs and debt discounts and certain one-time charges and non-operational items. Adjusted pre-tax income is important to management because it allows management to assess operational performance of our business, exclusive of the items mentioned above. It also allows management to assess the performance of the entire business on the same basis as the segment measure of profitability. Management believes that it is important to investors for the same reasons it is important to management and because it allows them to assess our operational performance on the same basis that management uses internally. The contribution of our reportable segments to revenues and adjusted pre-tax income (loss) and the reconciliation to consolidated amounts are summarized below (in millions of dollars).
+
+Three Months Ended March 31,
+Revenues | Adjusted Pre-Tax Income (Loss)
+2013 | 2012 | 2013 | 2012
+Car rental | $2,084.8 | $1,658.2 | $208.4 | $91.6
+Equipment rental | 351.0 | 302.1 | 45.8 | 25.9
+Total reportable segments | 2,435.8 | 1,960.3 | 254.2 | 117.5
+Other | 0.7 | 0.6
+Total | $2,436.5 | $1,960.9
+Adjustments:
+Other reconciling items(1) | (109.7) | (88.1)
+Purchase accounting(2) | (33.7) | (24.1)
+Non-cash debt charges(3) | (17.3) | (25.2)
+Restructuring charges | (3.7) | (6.7)
+Restructuring related charges(4) | (4.2) | (3.3)
+Integration expenses(5) | (10.8) | —
+Acquisition related costs | (2.6) | (6.9)
+Income (loss) before income taxes | $72.2 | $(36.8)
+
+_______________________________________________________________________________
+
+(1) | Represents general corporate expenses, certain interest expense (including net interest on corporate debt), as well as other business activities.
+
+(2) | Represents the purchase accounting effects of the Acquisition on our results of operations relating to increased depreciation and amortization of tangible and intangible assets and accretion of revalued workers' compensation and public liability and property damage liabilities. Also represents the purchase accounting effects of certain subsequent acquisitions on our results of operations relating to increased depreciation and amortization of tangible and intangible assets.
+
+(3) | Represents non-cash debt charges relating to the amortization and write-off of deferred debt financing costs and debt discounts.
+
+(4) | Represents incremental costs incurred directly supporting our business transformation initiatives. Such costs include transition costs incurred in connection with our business process outsourcing arrangements and incremental costs incurred to facilitate business process re-engineering initiatives that involve significant organization redesign and extensive operational process changes.
+
+(5) | Primarily represents Dollar Thrifty related expenses and adjustments.
+
+Total assets increased $790.2 million from December 31, 2012 to March 31, 2013. The increase was primarily related to an increase in our car rental and equipment rental segments' revenue earning equipment, driven by increased volumes, partly offset by a decrease in fleet receivables within our car rental segment, primarily related to the timing of purchases and sales of revenue earning equipment.
+
+[p. 21]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Note 12—Other Comprehensive Income (Loss)
+
+Changes in the accumulated other comprehensive income (loss) balance by component (net of tax) were as follows (in millions of dollars):
+
+Pension and Other Post-Employment Benefits | Foreign Currency Items | Unrealized Losses on Terminated Net Investment Hedges | Other | Accumulated Other Comprehensive Loss
+Balance at January 1, 2013 | $(109.8) | $102.7 | $(19.4) | $(0.4) | $(26.9)
+Other comprehensive income (loss) before reclassification | 0.5 | (27.4) | — | (0.1) | (26.9)
+Amounts reclassified from accumulated other comprehensive loss | 2.6 | — | — | — | 2.6
+Net current period other comprehensive income (loss) | 3.2 | (27.4) | — | (0.1) | (24.3)
+Balance at March 31, 2013 | $(106.6) | $75.3 | $(19.4) | $(0.5) | $(51.2)
+
+Pension and Other Post-Employment Benefits | Foreign Currency Items | Unrealized Losses on Terminated Net Investment Hedges | Unrealized Gains on Available for Sale Securities | Other | Accumulated Other Comprehensive Income (Loss)
+Balance at January 1, 2012 | $(99.6) | $91.3 | $(19.4) | $0.3 | $(1.0) | $(28.4)
+Other comprehensive income (loss) before reclassification | — | 29.6 | — | 3.1 | (0.2) | 32.5
+Amounts reclassified from accumulated other comprehensive income (loss) | (0.2) | — | — | — | — | (0.2)
+Net current period Other comprehensive income (loss) | (0.2) | 29.6 | — | 3.1 | (0.2) | 32.3
+Balance at March 31, 2012 | $(99.8) | $120.9 | $(19.4) | $3.4 | $(1.2) | $3.9
+
+Amounts reclassified from accumulated other comprehensive income (loss) to earnings during the three months ended March 31, 2013 and 2012 were as follows (in millions of dollars):
+
+Three months ended March 31, | Statement of Operations Captions
+2013 | 2012
+Pension and other postretirement benefit plans
+Amortization of actuarial losses | $4.3 | $(0.2) | Selling, general and administrative
+Tax provision | 1.7 | —
+Net of tax | $2.6 | $(0.2)
+
+Note 13—Restructuring
+
+As part of our ongoing effort to implement our strategy of reducing operating costs, we have evaluated our workforce and operations and made adjustments, including headcount reductions and business process reengineering resulting in optimized work flow at rental locations and maintenance facilities as well as streamlined our back-office operations and evaluated potential outsourcing opportunities. When we made adjustments to our workforce and operations, we incurred incremental expenses that delay the benefit of a more efficient workforce and operating structure, but we
+
+[p. 22]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+believe that increased operating efficiency and reduced costs associated with the operation of our business are important to our long-term competitiveness.
+
+During 2007 through 2012, we announced several initiatives to improve our competitiveness and industry leadership through targeted job reductions. These initiatives included, but were not limited to, job reductions at our corporate headquarters and back-office operations in the U.S. and Europe. As part of our re-engineering optimization we outsourced selected functions globally. In addition, we streamlined operations and reduced costs by initiating the closure of targeted car rental locations and equipment rental branches throughout the world. The largest of these closures occurred in 2008 which resulted in closures of approximately 250 off-airport locations and 22 branches in our U.S. equipment rental business. These initiatives impacted approximately 9,610 employees.
+
+During the first quarter of 2013, we continued to streamline operations and reduce costs with the closure of several car rental and equipment rental locations globally as well as a reduction in our workforce by approximately 50 employees.
+
+From January 1, 2007 through March 31, 2013, we incurred $572.1 million ($285.8 million for our car rental segment, $230.8 million for our equipment rental segment and $55.5 million of other) of restructuring charges.
+
+Additional efficiency and cost saving initiatives are being developed; however, we presently do not have firm plans or estimates of any related expenses.
+
+Restructuring charges in our consolidated statement of operations can be summarized as follows (in millions of dollars).
+
+Three Months Ended March 31,
+2013 | 2012
+By Type:
+Termination benefits | $2.3 | $2.7
+Consultant costs | 0.3 | 0.2
+Facility closure and lease obligation costs | 1.1 | 3.8
+Total | $3.7 | $6.7
+
+Three Months Ended March 31,
+2013 | 2012
+By Caption:
+Direct operating | $1.4 | $4.9
+Selling, general and administrative | 2.3 | 1.8
+Total | $3.7 | $6.7
+
+Three Months Ended March 31,
+2013 | 2012
+By Segment:
+Car rental | $3.1 | $3.5
+Equipment rental | 0.5 | 3.2
+Other reconciling items | 0.1 | —
+Total | $3.7 | $6.7
+
+During the three months ended March 31, 2013 and 2012, the after-tax effect of the restructuring charges decreased diluted earnings per share by $0.01 and increased the diluted loss per share by $0.02 respectively.
+
+The following table sets forth the activity affecting the restructuring accrual during the three months ended March 31, 2013 (in millions of dollars). We expect to pay the remaining restructuring obligations relating to termination benefits over the next twelve months. The remainder of the restructuring accrual relates to future lease obligations which will be paid over the remaining term of the applicable leases.
+
+[p. 23]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Termination Benefits | Pension and Post Retirement Expense | Consultant Costs | Other | Total
+Balance as of January 1, 2013 | $12.4 | $0.2 | $0.3 | $8.1 | $21.0
+Charges incurred | 2.3 | — | 0.3 | 1.1 | 3.7
+Cash payments | (5.7) | — | (0.4) | (0.8) | (6.9)
+Other(1) | (0.3) | — | — | (1.3) | (1.6)
+Balance as of March 31, 2013 | $8.7 | $0.2 | $0.2 | $7.1 | $16.2
+
+_______________________________________________________________________________
+
+(1) | Primarily consists of increases of $1.3 million for facility closures and $0.3 million for foreign currency translation.
+
+Note 14—Financial Instruments
+
+Gasoline Swap Contracts
+
+We purchase unleaded gasoline and diesel fuel at prevailing market rates and maintain a program to manage our exposure to changes in fuel prices through the use of derivative commodity instruments. We currently have in place swaps to cover a portion of our fuel price exposure through July 2014. We presently hedge a portion of our overall unleaded gasoline and diesel fuel purchases with commodity swaps and have contracts in place that settle on a monthly basis. Gains and losses resulting from changes in the fair value of these commodity instruments are included in our results of operations in the periods incurred.
+
+Interest Rate Cap Contracts
+
+Hertz is exposed to market risks, such as changes in interest rates, and has purchased and sold interest rate cap agreements to manage that risk. Consequently, we manage the financial exposure as part of our risk management program by striving to reduce the potentially adverse effects that the volatility of the financial markets may have on our operating results. Gains and losses resulting from changes in the fair value of these interest rate caps are included in our results of operations in the periods incurred.
+
+Foreign Currency Forward Contracts
+
+We manage exposure to fluctuations in currency risk on intercompany loans we make to certain of our subsidiaries by entering into foreign currency forward contracts at the time of the loans which are intended to offset the impact of foreign currency movements on the underlying intercompany loan obligations.
+
+Foreign Exchange Options
+
+We manage our foreign currency risk primarily by incurring, to the extent practicable, operating and financing expenses in the local currency in the countries in which we operate, including making fleet and equipment purchases and borrowing for working capital needs. Also, we have purchased foreign exchange options to manage exposure to fluctuations in foreign exchange rates for selected marketing programs. The effect of exchange rate changes on these financial instruments would not materially affect our consolidated financial position, results of operations or cash flows. Our risks with respect to foreign exchange options are limited to the premium paid for the right to exercise the option and the future performance of the option's counterparty.
+
+[p. 24]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+The following table summarizes the estimated fair value of derivatives (in millions of dollars):
+
+Fair Value of Derivative Instruments(1)
+Asset Derivatives(2) | Liability Derivatives(2)
+March 31, 2013 | December 31, 2012 | March 31, 2013 | December 31, 2012
+Derivatives not designated as hedging
+instruments under ASC 815:
+Gasoline swaps | $1.6 | $— | $— | $0.1
+Interest rate caps | 0.8 | 0.9 | 0.8 | 0.9
+Foreign exchange forward contracts | 2.7 | 3.4 | 4.4 | 4.5
+Foreign exchange options | 0.1 | 0.2 | — | —
+Total derivatives not designated as hedging
+instruments under ASC 815 | $5.2 | $4.5 | $5.2 | $5.5
+
+_______________________________________________________________________________
+
+(1) | All fair value measurements were primarily based upon significant observable (Level 2) inputs.
+
+(2) | All asset derivatives are recorded in "Prepaid expenses and other assets" and all liability derivatives are recorded in "Accrued liabilities" on our condensed consolidated balance sheets.
+
+The following table summarizes the gains and (losses) of derivatives (in millions of dollars):
+
+Location of Gain or (Loss) Recognized on Derivatives | Amount of Gain or (Loss) Recognized in Income on Derivatives
+Three Months Ended March 31,
+2013 | 2012
+Derivatives not designated as hedging
+instruments under ASC 815:
+Gasoline swaps | Direct operating | $1.7 | $1.8
+Interest rate caps | Selling, general and administrative | 0.1 | —
+Foreign exchange forward contracts | Selling, general and administrative | 4.1 | (5.4)
+Foreign exchange options | Selling, general and administrative | (0.1) | —
+Total | $5.8 | $(3.6)
+
+While our fuel derivatives, interest rate caps, foreign currency forward contracts and foreign exchange options are subject to enforceable master netting agreements with their counterparties, we do not offset the derivative assets and liabilities in our Condensed Consolidated Balance Sheets. The impact of offsetting derivative instruments is depicted below (in millions of dollars):
+
+As of March 31, 2013: | Gross assets not offset in Balance Sheet
+Gross assets | Gross assets offset in Balance Sheet | Net recognized assets in Balance Sheet | Financial Instruments | Cash Collateral | Net Amount
+Gasoline swap | $1.6 | $— | $1.6 | $— | $— | $1.6
+Interest rate caps | 0.8 | — | 0.8 | — | — | 0.8
+Foreign exchange forward contracts | 2.7 | — | 2.7 | — | — | 2.7
+Foreign exchange options | 0.1 | — | 0.1 | — | — | 0.1
+Total | $5.2 | $— | $5.2 | $— | $— | $5.2
+
+[p. 25]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Gross liabilities not offset in Balance Sheet
+Gross liabilities | Gross liabilities offset in Balance Sheet | Net recognized liabilities in Balance Sheet | Financial Instruments | Cash Collateral | Net Amount
+Interest rate caps | $0.8 | $— | $0.8 | $— | $— | $0.8
+Foreign exchange forward contracts | 4.4 | — | 4.4 | — | — | 4.4
+Total | $5.2 | $— | $5.2 | $— | $— | $5.2
+
+As of December 31, 2012: | Gross assets not offset in Balance Sheet
+Gross assets | Gross assets offset in Balance Sheet | Net recognized assets in Balance Sheet | Financial Instruments | Cash Collateral | Net Amount
+Interest rate caps | $0.9 | $— | $0.9 | $— | $— | $0.9
+Foreign exchange forward contracts | 3.4 | — | 3.4 | — | — | 3.4
+Foreign exchange options | 0.2 | — | 0.2 | — | — | 0.2
+Total | $4.5 | $— | $4.5 | $— | $— | $4.5
+
+Gross liabilities not offset in Balance Sheet
+Gross liabilities | Gross liabilities offset in Balance Sheet | Net recognized liabilities in Balance Sheet | Financial Instruments | Cash Collateral | Net Amount
+Gasoline swaps | $0.1 | $— | $0.1 | $— | $— | $0.1
+Interest rate caps | 0.9 | — | 0.9 | — | — | 0.9
+Foreign exchange forward contracts | 4.5 | — | 4.5 | — | — | 4.5
+Total | $5.5 | $— | $5.5 | $— | $— | $5.5
+
+Fair value measures
+
+Pursuant to the accounting guidance for fair value measurements and its subsequent updates, fair value is defined as the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. When determining the fair value measurements for assets and liabilities required or permitted to be recorded at fair value, we consider the principal or most advantageous market in which we would transact and we consider assumptions that market participants would use when pricing the asset or liability.
+
+Fair Value Hierarchy
+
+The accounting guidance for fair value measurements also requires an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. A financial instrument's categorization within the fair value hierarchy is based upon the lowest level of input that is significant to the fair value measurement. The inputs are prioritized into three levels that may be used to measure fair value:
+
+Level 1: Inputs that reflect quoted prices for identical assets or liabilities in active markets that are observable.
+
+Level 2: Inputs that reflect quoted prices for similar assets or liabilities in active markets; quoted prices for identical or similar assets or liabilities in markets that are not active; or model-derived valuations in which significant inputs are observable or can be derived principally from, or corroborated by, observable market data.
+
+Level 3: Inputs that are unobservable to the extent that observable inputs are not available for the asset or liability at the measurement date.
+
+[p. 26]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Asset and Liabilities Measured at Fair Value on a Recurring Basis
+
+Assets and liabilities measured at fair value on a recurring basis as of March 31, 2013 and December 31, 2012 were as follows (in millions):
+
+March 31, 2013
+Fair Value Measurements Using
+Total | Quoted Prices in Active Markets for Identical Instruments (Level 1) | Significant Other Observable Inputs (Level 2) | Significant Unobservable Inputs (Level 3)
+Prepaid Expenses and Other Current Assets:
+Gasoline swaps | $1.6 | $— | $1.6 | $—
+Interest rate caps | 0.8 | — | 0.8 | —
+Foreign currency forward contracts | 2.7 | — | 2.7 | —
+Foreign exchange options | 0.1 | — | 0.1 | —
+Total | $5.2 | $— | $5.2 | $—
+Other Current Liabilities:
+Interest rate caps | $0.8 | $— | $0.8 | $—
+Foreign currency forward contracts | 4.4 | — | 4.4 | —
+Total | $5.2 | $— | $5.2 | $—
+
+December 31, 2012
+Fair Value Measurements Using
+Total | Quoted Prices in Active Markets for Identical Instruments (Level 1) | Significant Other Observable Inputs (Level 2) | Significant Unobservable Inputs (Level 3)
+Prepaid Expenses and Other Current Assets:
+Interest rate caps | $0.9 | $— | $0.9 | $—
+Foreign currency forward contracts | 3.4 | — | 3.4 | —
+Foreign exchange options | 0.2 | — | 0.2 | —
+Total | $4.5 | $— | $4.5 | $—
+Other Current Liabilities:
+Gasoline swaps | $0.1 | $— | $0.1 | $—
+Interest rate caps | 0.9 | — | 0.9 | —
+Foreign currency forward contracts | 4.5 | — | 4.5 | —
+Total | $5.5 | $— | $5.5 | $—
+
+Gasoline swaps
+
+Gasoline swaps classified as Level 2 assets and liabilities are priced using quoted market prices for similar assets or liabilities in active markets.
+
+Interest rate caps
+
+Interest rate caps classified as Level 2 assets and liabilities are priced using quoted market prices for similar assets or liabilities in active markets.
+
+[p. 27]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Foreign currency forward contracts
+
+Foreign currency forward contracts classified as Level 2 assets and liabilities are priced using quoted market prices for similar assets or liabilities in active markets.
+
+Foreign exchange options
+
+Foreign currency forward contracts classified as Level 2 assets and liabilities are priced using quoted market prices for similar assets or liabilities in active markets.
+
+Fair Value of Financial Instruments
+
+The fair values of cash and cash equivalents, accounts receivable, accounts payable and accrued expenses, to the extent the underlying liability will be settled in cash, approximate carrying values because of the short-term nature of these instruments.
+
+For borrowings with an initial maturity of 90 days or less, fair value approximates carrying value because of the short-term nature of these instruments. For all other debt, fair value is estimated based on quoted market rates as well as borrowing rates currently available to us for loans with similar terms and average maturities (Level 2 inputs). The aggregate fair value of all debt at March 31, 2013 was $17,700.5 million, compared to its aggregate unpaid principal balance of $16,337.0 million. The aggregate fair value of all debt at December 31, 2012 was $16,493.1 million, compared to its aggregate unpaid principal balance of $15,473.8 million.
+
+Note 15—Related Party Transactions
+
+Relationship with Hertz Investors, Inc. and the Sponsors
+
+Other than as disclosed below, in the three months ended March 31, 2013, there were no material changes to our relationship with Hertz Investors, Inc. or the Sponsors.
+
+In March 2013, the Sponsors sold 60,050,777 shares of their Hertz Holdings common stock to Citigroup Global Markets Inc. and Barclays Capital Inc. as the underwriters in the registered public offering of those shares. In connection with the offering, Hertz Holdings repurchased from the underwriters 23,200,000 of the 60,050,777 shares of common stock sold by the Sponsors.
+
+As a result of our initial public offering in November 2006 and subsequent offerings in June 2007, May 2009, June 2009, March 2011, December 2012 and March 2013, the Sponsors reduced their holdings to approximately 12.5% of the outstanding shares of our common stock.
+
+Financing Arrangements with Related Parties
+
+As of March 31, 2013 and December 31, 2012, approximately $192.8 million and $189.8 million, respectively, of our outstanding debt was with related parties.
+
+For information on our total indebtedness, see Note 8—Debt.
+
+Note 16—Contingencies and Off-Balance Sheet Commitments
+
+Off-Balance Sheet Commitments
+
+As of March 31, 2013 and December 31, 2012, the following guarantees (including indemnification commitments) were issued and outstanding:
+
+Indemnification Obligations
+
+In the ordinary course of business, we execute contracts involving indemnification obligations customary in the relevant industry and indemnifications specific to a transaction such as the sale of a business. These indemnification obligations might include claims relating to the following: environmental matters; intellectual property rights; governmental regulations and employment-related matters; customer, supplier and other commercial contractual relationships; and financial matters. Performance under these indemnification obligations would generally be triggered by a breach of terms of the contract or by a third party claim. We regularly evaluate the probability of having to incur costs associated
+
+[p. 28]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+with these indemnification obligations and have accrued for expected losses that are probable and estimable. The types of indemnification obligations for which payments are possible include the following:
+
+Sponsors; Directors
+
+Hertz has entered into customary indemnification agreements with Hertz Holdings, the Sponsors and our stockholders affiliated with the Sponsors, pursuant to which Hertz Holdings and Hertz will indemnify the Sponsors, our stockholders affiliated with the Sponsors and their respective affiliates, directors, officers, partners, members, employees, agents, representatives and controlling persons, against certain liabilities arising out of performance of a consulting agreement with Hertz Holdings and each of the Sponsors and certain other claims and liabilities, including liabilities arising out of financing arrangements or securities offerings. We also entered into indemnification agreements with each of our directors. We do not believe that these indemnifications are reasonably likely to have a material impact on us.
+
+Environmental
+
+We have indemnified various parties for the costs associated with remediating numerous hazardous substance storage, recycling or disposal sites in many states and, in some instances, for natural resource damages. The amount of any such expenses or related natural resource damages for which we may be held responsible could be substantial. The probable expenses that we expect to incur for such matters have been accrued, and those expenses are reflected in our condensed consolidated financial statements. As of March 31, 2013 and December 31, 2012, the aggregate amounts accrued for environmental liabilities including liability for environmental indemnities, reflected in our condensed consolidated balance sheets in "Accrued liabilities" were $2.6 million and $2.6 million, respectively. The accrual generally represents the estimated cost to study potential environmental issues at sites deemed to require investigation or clean-up activities, and the estimated cost to implement remediation actions, including on-going maintenance, as required. Cost estimates are developed by site. Initial cost estimates are based on historical experience at similar sites and are refined over time on the basis of in-depth studies of the sites. For many sites, the remediation costs and other damages for which we ultimately may be responsible cannot be reasonably estimated because of uncertainties with respect to factors such as our connection to the site, the materials there, the involvement of other potentially responsible parties, the application of laws and other standards or regulations, site conditions, and the nature and scope of investigations, studies, and remediation to be undertaken (including the technologies to be required and the extent, duration, and success of remediation).
+
+Legal Proceedings
+
+From time to time we are a party to various legal proceedings. We are currently a defendant in numerous actions and have received numerous claims on which actions have not yet been commenced for public liability and property damage arising from the operation of motor vehicles and equipment rented from us and our licensees. The obligation for public liability and property damage on self-insured U.S. and international vehicles and equipment, as stated on our balance sheet, represents an estimate for both reported accident claims not yet paid and claims incurred but not yet reported. The related liabilities are recorded on a non-discounted basis. Reserve requirements are based on actuarial evaluations of historical accident claim experience and trends, as well as future projections of ultimate losses, expenses, premiums and costs. At March 31, 2013 and December 31, 2012 our liability recorded for public liability and property damage matters was $321.0 million and $332.2 million, respectively. We believe that our analysis is based on the most relevant information available, combined with reasonable assumptions, and that we may prudently rely on this information to determine the estimated liability. We note the liability is subject to significant uncertainties. The adequacy of the liability reserve is regularly monitored based on evolving accident claim history and insurance related state legislation changes. If our estimates change or if actual results differ from these assumptions, the amount of the recorded liability is adjusted to reflect these results.
+
+For a detailed description of certain of our legal proceedings please see Note 12 of the Notes to our audited annual consolidated financial statements included in our Form 10-K under the caption "Item 8—Financial Statements and Supplementary Data."
+
+The following recent developments pertaining to legal proceedings described in our Form 10-K are furnished on a supplemental basis:
+
+In Davis Landscape, Ltd. et al. v. Hertz Equipment Rental Corporation, the parties executed a settlement agreement in March 2013 and thereafter sought preliminary approval from the court of the proposed class settlement. The court has now tentatively approved the proposed class settlement, approved the parties' notice plan and has set June 18,
+
+[p. 29]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+2013 as the date for the final approval hearing. We have accrued our best estimate of the ultimate cost, which is not material to our financial condition, results of operations or cash flows.
+
+On October 13, 2006, Janet Sobel, Daniel Dugan, PhD. and Lydia Lee, individually and on behalf of all others similarly situated v. The Hertz Corporation and Enterprise Rent-A-Car Company, was filed in the United States District Court for the District of Nevada. Enterprise is now a defendant in a separate action and is no longer a defendant in the Sobel case. The Sobel case purports to be a nationwide class action on behalf of all persons who rented cars from Hertz at airports in Nevada and were separately charged airport concession recovery fees by Hertz as part of their rental charges. In the complaint, the plaintiffs seek an unspecified amount of compensatory damages, restitution of any charges found to be improper and an injunction prohibiting Hertz from quoting or charging those airport fees that are alleged not to be allowed by Nevada law. The complaint also seeks attorneys' fees and costs. In 2010, the parties engaged in mediation which resulted in a proposed settlement. Although the court tentatively approved the settlement in November 2010, the court denied the plaintiffs' motion for final approval of the proposed settlement in May 2011. Following additional activity in the case, in March 2013, the court granted, in part, the plaintiffs' motion for partial summary judgment with respect to restitution and granted the plaintiffs' motion for class certification, while denying the Company's motion for partial summary judgment. The court further indicated that plaintiffs are entitled to prejudgment interest from the date of the plaintiffs' first amended complaint. A judgment has not yet been entered in the case, and there are expected to be further proceedings before the district court. The amount of a judgment could potentially exceed $40.0 million. The Company intends to appeal or seek other appropriate relief and believes that the court's liability, damages and class certification findings will be reversed. We continue to believe the outcome of this case will not be material to our financial condition, results of operations or cash flows.
+
+Aside from the above mentioned, none of the other legal proceedings described in our Form 10-K have experienced any material changes.
+
+In addition to the above mentioned and those described in our Form 10-K or in our other filings with SEC, various other legal actions, claims and governmental inquiries and proceedings are pending or may be instituted or asserted in the future against us and our subsidiaries. Other than with respect to the aggregate claims for public liability and property damage pending against us, management, based on the advice of legal counsel, does not believe that any of the matters resolved, or pending against us, are material to us and our subsidiaries taken as a whole.
+
+We have established reserves for matters where we believe that the losses are probable and reasonably estimated. Other than with respect to the aggregate reserve established for claims for public liability and property damage, none of those reserves are material. For matters where we have not established a reserve, the ultimate outcome or resolution cannot be predicted at this time, or the amount of ultimate loss, if any, cannot be reasonably estimated. Litigation is subject to many uncertainties and the outcome of the individual litigated matters is not predictable with assurance. It is possible that certain of the actions, claims, inquiries or proceedings, including those discussed in our Form 10-K or in our other filings with SEC, could be decided unfavorably to us or any of our subsidiaries involved. Accordingly, it is possible that an adverse outcome from such a proceeding could exceed the amount accrued in an amount that could be material to our consolidated financial condition, results of operations or cash flows in any particular reporting period.
+
+Note 17—Earnings (Loss) Per Share
+
+Basic earnings (loss) per share has been computed based upon the weighted average number of common shares outstanding. Diluted earnings (loss) per share has been computed based upon the weighted average number of common shares outstanding plus the effect of all potentially dilutive common stock equivalents, except when the effect would be anti-dilutive.
+
+[p. 30]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+The following table sets forth the computation of basic and diluted earnings (loss) per share (in millions, except per share amounts):
+
+Three Months Ended March 31,
+2013 | 2012
+Basic and diluted earnings (loss) per share:
+Numerator:
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders, basic | $18.0 | $(56.3)
+Interest on Convertible Senior Notes, net of tax | 1.0 | —
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders, diluted | $19.0 | $(56.3)
+Denominator:
+Weighted average shares used in basic computation | 415.8 | 418.1
+Add: Stock options, RSUs and PSUs | 6.6 | —
+Add: Potential issuance of common stock upon conversion of Convertible Senior Notes | 38.4 | —
+Weighted average shares used in diluted computation | 460.9 | 418.1
+Earnings (loss) per share attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders, basic | $0.04 | $(0.13)
+Earnings (loss) per share attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders, diluted | $0.04 | $(0.13)
+
+Diluted earnings (loss) per share computations for the three months ended March 31, 2012 excluded the weighted-average impact of the assumed exercise of approximately 19.4 million shares of stock options, RSUs and PSUs, because such impact would be antidilutive.
+
+In March 2013, the Sponsors sold 60,050,777 shares of their Hertz Holdings common stock to Citigroup Global Markets Inc. and Barclays Capital Inc. as the underwriters in the registered public offering of those shares. In connection with the offering, Hertz Holdings repurchased from the underwriters 23,200,000 of the 60,050,777 shares of common stock sold by the Sponsors.
+
+We have calculated our weighted average shares outstanding in accordance with the applicable accounting guidance which provides that the number of shares is determined by relating the portion of time within a reporting period that common shares have been outstanding to the total time in that period.
+
+Prior to this repurchase transaction, we had a policy of settling the conversion of our 5.25% Convertible Senior Notes due June 2014, or the "Convertible Notes," using a combination of cash and shares of our common stock. Upon completion of the share repurchase from the underwriters, we announced a change to our former settlement policy and stated our intention to settle the Convertible Notes in 100% shares of our common stock. We believe the repurchase of shares from the underwriters in the offering and the subsequent use of shares to settle the Convertible Notes will prevent any further dilutive impact to our weighted average fully diluted shares outstanding.
+
+In addition to the impact the repurchased shares had on our weighted shares outstanding for the period, the announcement of the policy change resulted in an adjustment to the numerator (net income) of our earnings per share computation. The numerator was adjusted to add back the after-tax amount of interest recognized in the period associated with the Convertible Senior Notes on the same pro rata basis.
+
+Note 18—Subsequent Events
+
+On April 1, 2013, our Convertible Senior Notes became convertible again. See Note 8—Debt for more information.
+
+In April 2013, Hertz entered into an Amendment No. 2, or "Amendment No. 2," to the Senior Term Facility, primarily to reduce the interest rate applicable to a portion of the outstanding term loans under the Senior Term Facility. Prior to Amendment No. 2, approximately $1,372.0 million of tranche B term loans, or “Tranche B Term Loans”, under the Senior Term Facility bore interest at a floating rate measured by reference to, at Hertz's option, either (i) an adjusted London inter-bank offered rate not less than 1.00 percent plus a borrowing margin of 2.75 percent per annum or (ii)
+
+[p. 31]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+an alternate base rate plus a borrowing margin of 1.75 percent per annum. Pursuant to Amendment No. 2, certain of the existing lenders under the Senior Term Facility converted their existing Tranche B Term Loans into a new tranche of tranche B-2 term loans, or the “Tranche B-2 Term Loans”, in an aggregate principal amount, along with new loans advanced by certain new lenders, of approximately $1,372.0 million. The proceeds of Tranche B-2 Term Loans advanced by the new lenders were used to prepay in full all of the Tranche B Term Loans that were not converted into Tranche B-2 Term Loans.
+
+The Tranche B-2 Term Loans bear interest at a floating rate measured by reference to, at Hertz's option, either (i) an adjusted London inter-bank offered rate not less than 0.75 percent plus a borrowing margin of 2.25 percent per annum or (ii) an alternate base rate plus a borrowing margin of 1.25 percent per annum. The terms and conditions of the new Tranche B-2 Term Loans with respect to maturity, collateral, and covenants are otherwise unchanged compared to the Tranche B Term Loans.
+
+On April 15, 2013, Hertz entered into definitive agreements with China Auto Rental Holdings, Inc., or “China Auto,” and related parties pursuant to which Hertz made a strategic investment in China Auto. China Auto is the largest car rental company in China. Pursuant to the transaction, Hertz invested cash and certain of its assets in China and received common stock and convertible notes in return. Upon the closing of the transaction which occurred on April 30, 2013, Hertz owns 10% of China Auto's ordinary shares and has a seat on China Auto's Board. Upon conversion of the notes, Hertz would have 18.64% on a fully diluted basis. This transaction will be accounted for under the equity method of accounting in accordance with GAAP.

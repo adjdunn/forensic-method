@@ -1,0 +1,136 @@
+=== page 1 ===
+Hertz Global Holdings, Inc.: disclosure changes, FY2012 to FY2013
+Page 1
+Hertz Global Holdings, Inc.: disclosure changes, FY2012 to FY2013
+Compares the Form 10-K reports for the years ended December 31, 2012 and 2013 and the two fourth-quarter results releases.
+"Pre-tax" is FY2013 income before income taxes of $663.1M.
+1. Full write-ups
+Depreciation policy (Note 2): car holding range lengthened and relabelled
+ Before: "Useful lives are as follows: Cars | 4 to 28 months" (FY2012 report, p. 81).
+ After: "Holding periods are as follows: Cars | 4 to 36 months" (FY2013 report, p. 91).
+ Why it matters: The top of the range rose by eight months, and the company names "optimization of fleet holding periods"
+among the reasons U.S. rate changes cut 2013 depreciation by $44.2M (p. 126). Neither report discloses the range
+change as a change in estimate, and the holding-period share of the $44.2M is not split out. Size: 6.7% of FY2013 pre-tax
+income of $663.1M.
+ Reading: Possibly the reporting is stretched, because cars were depreciated over a longer span in the year U.S. disposals
+swung to a $48.2M loss. Evidence that cars were in fact sold older, with disposal results back near break-even, would point
+to an ordinary integration of the Dollar Thrifty fleet.
+Depreciation (Note 8 and management discussion): "strong" dropped and the reason for the rate cuts
+changed
+ Before: "indicative of the strong residual values experienced in the U.S." (FY2012 report, p. 113); lower per-vehicle
+depreciation was "due to improved residual values in the U.S." (p. 42).
+ After: "also indicative of the residual values experienced in the U.S."; the cuts now "reflect changes from the impact of car
+sales channel diversification… and the optimization of fleet holding periods" (FY2013 report, p. 126).
+ Why it matters: The sentence tested in the single-year assessment is a carry-over with one word removed, while the U.S.
+disposal result it rests on went from a $100.6M gain to a $48.2M loss. The management discussion also dropped "residual
+values have remained fairly stronger" and the warning that a car's market value may "be less than its estimated residual
+value" (FY2012 p. 41–42); the warning survives only in risk factors (FY2013 p. 23). Size: 6.7% of pre-tax (the $44.2M cut);
+the disposal swing of $148.8M is 22.4%.
+ Reading: Most likely the business weakened and the wording was trimmed to match, with the estimate itself left
+favourable. A different reading would follow if the 2013 losses came mainly from one-off sales timing, which the note also
+cites.
+Controls and Note 2: prior years revised; Dollar Thrifty no longer outside the controls test
+ Before: No error correction; "We have excluded from our evaluation the internal controls… of Dollar Thrifty", 21% of total
+assets (FY2012 report, p. 141).
+ After: New section "Correction of Errors… out of period errors totaling $46.3 million" (FY2013 report, p. 83); new general
+ledger "implemented" in the third quarter (p. 159); the exclusion is dropped.
+ Why it matters: 2012 pre-tax income is now $441.4M, not $450.6M, so company-wide pre-tax growth reads 50.2% rather
+than 47.2%, and adjusted pre-tax growth 29.2% rather than 27.9%. Size: $34.7M moved to prior years, 5.2% of pre-tax;
+$46.3M in total, 7.0%.
+ Reading: Possibly the control conclusion is generous, as before; the comparison adds that the named errors (vendor
+incentives, Brazil) are not attributed to the newly tested Dollar Thrifty. One isolated process, already fixed, would point to
+ordinary.
+2. Other changes
+ Legal: The Nevada fee case moved from "a stay order and… mediation" (FY2012 p. 122) to restitution granted in part and
+a judgment that "could potentially exceed $40.0 million" (FY2013 p. 137), an exposure of 6.0% of pre-tax. A securities
+class action is new (p. 138).
+ Pricing measure: "Rental rate revenue per transaction day", which left out items "beyond the control of management"
+(FY2012 p. 49), became "Total RPD", which covers what management "has the ability to control" (FY2013 p. 49). The
+2012 U.S. decline is 3.1% on the old basis (FY2012 p. 42) and 2.8% on the new (FY2013 p. 58).
+ Adjusted pre-tax income: "non-cash debt charges" became "debt-related charges" (FY2012 p. 50; FY2013 p. 50).
+Integration ($40.0M), relocation ($7.8M) and impairment ($44.0M) are new exclusions, together 13.8% of pre-tax. The
+releases raise the "normalized" tax rate from 34% to 35% (2012 release p. 20; 2013 release, unnumbered page), against a
+reported 47.8%.
+
+=== page 2 ===
+Hertz Global Holdings, Inc.: disclosure changes, FY2012 to FY2013
+Page 2
+ Cars sold: 2012 non-program car sales were 178,300 worldwide (FY2012 p. 42) but are now 136,400 U.S. plus 54,500
+international, or 190,900 (FY2013 pp. 42–43), 7.1% higher with no explanation.
+ Risk factors: "Several of our remaining multiemployer plans have underfunded liabilities" (FY2012 p. 25) became "could
+have significant underfunded liabilities" (FY2013 p. 26). "We are not a party to any long-term car supply arrangements"
+(FY2012 p. 22) was dropped (FY2013 p. 23).
+3. What stayed the same
+Statement
+Pages, FY2012 and
+FY2013
+The number, FY2012 and FY2013
+Still fits?
+"with fewer program cars in our fleet"; "we
+have decreased the percentage of program
+cars"
+pp. 22, 41 and pp. 23,
+42
+Program share of the U.S. fleet 5% then 9%;
+international 21% then 24%
+No, for 2013
+Average holding period "eighteen months in
+the United States"
+p. 11 and p. 11
+Top of stated range 28 then 36 months; U.S.
+fleet over non-program cars sold 31.6 then 29.7
+months (a ceiling)
+Can't tell; rough test
+Allowance "based on our historical
+experience"
+p. 81 and p. 90
+Allowance over write-offs 1.00 then 0.76 times;
+write-offs up 37.5%, allowance up 5.1%
+Strained; rough test
+Intangible lives "range from two to fifteen
+years"
+p. 83 and p. 93
+Donlen lives of 16 and 20 years disclosed (p. 89
+and p. 99); amortization 8.8% then 10.5% of
+average gross
+No, both years;
+small
+4. Disclosed changes in estimates or policies
+Change
+Year
+Stated effect on income
+Page
+U.S. car depreciation rates lowered
+2012
++$139.4M (shown as +$130.6M for all car rental in
+the FY2012 report, net of the international increase)
+FY2013 p. 126; FY2012 p.
+113
+U.S. car depreciation rates lowered
+2013
++$44.2M, 6.7% of pre-tax
+FY2013 p. 126
+Out-of-period errors corrected by
+revising prior years
+Found in 2013
+−$18.7M in 2011, −$9.2M in 2012, −$11.6M in
+2013's first nine months; $46.3M in total
+FY2013 pp. 83–87
+International car depreciation rates
+raised
+2012, 2013
+−$8.8M, then −$5.0M (0.8% of pre-tax)
+FY2013 p. 126
+Convertible note settlement policy
+changed
+2013
+No income effect; $7.7M added to the
+earnings-per-share numerator
+FY2013 p. 149
+Equipment rental depreciation rates
+2012, 2013
+−$0.5M, then +$0.4M
+FY2013 p. 126
+5. Not in the documents
+Neither report has a separate receivables or inventory note, and the fuller related-party disclosure sits in proxy statements
+that were not attached.

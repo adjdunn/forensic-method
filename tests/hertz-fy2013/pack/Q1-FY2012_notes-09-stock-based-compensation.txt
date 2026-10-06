@@ -1,0 +1,24 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q1 2012 (three months ended 31 Mar 2012), filed 2012-05-04. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 9: Stock-Based Compensation. https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm
+
+[p. 18]
+
+Note 9—Stock-Based Compensation
+
+In March 2012, we granted 527,360 Restricted Stock Units, or "RSUs," to certain executives and employees at fair values ranging from $13.65 to $14.47, 747,423 Performance Stock Units, or "PSUs," at a fair value of $13.65, and 1,083,962 PSUs (referred to as Price Vesting Units, or "PVUs") at fair values ranging from $10.13 to $11.26 under the Hertz Global Holdings, Inc. 2008 Omnibus Incentive Plan, or the "Omnibus Plan." The PSUs have a performance condition under which the number of units that will ultimately be awarded will vary from 0% to 150% of the original grant, based on 2012 and 2013 Corporate EBITDA results. "EBITDA" means consolidated net income before net interest expense, consolidated income taxes and consolidated depreciation (which includes revenue earning equipment lease charges) and amortization and "Corporate EBITDA," represents EBITDA as adjusted for car rental fleet interest, car rental fleet depreciation and certain other items, as described within the provisions of the Plan. Of the PVUs granted, one half will fully vest after three years if the stock price appreciates 15%, and one half will fully vest after four years if the stock price appreciates 25%. Partial attainment of the stock appreciation targets will result in partial vesting. The achievement of the market condition for the PVUs is determined based on the average closing stock price for the 20 trading day period ending March 6, 2015 and 2016, respectively.
+
+A summary of the total compensation expense and associated income tax benefits recognized under our Hertz Global Holdings, Inc. Stock Incentive Plan and Hertz Global Holdings, Inc. Director Stock Incentive Plan, or the "Prior Plans," and the Omnibus Plan, including the cost of stock options, RSUs and PSUs, is as follows (in millions of dollars):
+
+Three Months Ended March 31,
+2012 | 2011
+Compensation expense | $7.5 | $9.1
+Income tax benefit | (2.9) | (3.5)
+Total | $4.6 | $5.6
+
+[p. 19]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+As of March 31, 2012, there was approximately $55.5 million of total unrecognized compensation cost related to non-vested stock options, RSUs and PSUs granted by Hertz Holdings under the Prior Plans and the Omnibus Plan. The total unrecognized compensation cost is expected to be recognized over the remaining 1.5 years, on a weighted average basis, of the requisite service period that began on the grant dates.

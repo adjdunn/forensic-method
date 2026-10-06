@@ -1,0 +1,57 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q1 2013 (three months ended 31 Mar 2013), filed 2013-05-02. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 16: Contingencies and Off-Balance Sheet Commitments. https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm
+
+[p. 27]
+
+Note 16—Contingencies and Off-Balance Sheet Commitments
+
+Off-Balance Sheet Commitments
+
+As of March 31, 2013 and December 31, 2012, the following guarantees (including indemnification commitments) were issued and outstanding:
+
+Indemnification Obligations
+
+In the ordinary course of business, we execute contracts involving indemnification obligations customary in the relevant industry and indemnifications specific to a transaction such as the sale of a business. These indemnification obligations might include claims relating to the following: environmental matters; intellectual property rights; governmental regulations and employment-related matters; customer, supplier and other commercial contractual relationships; and financial matters. Performance under these indemnification obligations would generally be triggered by a breach of terms of the contract or by a third party claim. We regularly evaluate the probability of having to incur costs associated
+
+[p. 28]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+with these indemnification obligations and have accrued for expected losses that are probable and estimable. The types of indemnification obligations for which payments are possible include the following:
+
+Sponsors; Directors
+
+Hertz has entered into customary indemnification agreements with Hertz Holdings, the Sponsors and our stockholders affiliated with the Sponsors, pursuant to which Hertz Holdings and Hertz will indemnify the Sponsors, our stockholders affiliated with the Sponsors and their respective affiliates, directors, officers, partners, members, employees, agents, representatives and controlling persons, against certain liabilities arising out of performance of a consulting agreement with Hertz Holdings and each of the Sponsors and certain other claims and liabilities, including liabilities arising out of financing arrangements or securities offerings. We also entered into indemnification agreements with each of our directors. We do not believe that these indemnifications are reasonably likely to have a material impact on us.
+
+Environmental
+
+We have indemnified various parties for the costs associated with remediating numerous hazardous substance storage, recycling or disposal sites in many states and, in some instances, for natural resource damages. The amount of any such expenses or related natural resource damages for which we may be held responsible could be substantial. The probable expenses that we expect to incur for such matters have been accrued, and those expenses are reflected in our condensed consolidated financial statements. As of March 31, 2013 and December 31, 2012, the aggregate amounts accrued for environmental liabilities including liability for environmental indemnities, reflected in our condensed consolidated balance sheets in "Accrued liabilities" were $2.6 million and $2.6 million, respectively. The accrual generally represents the estimated cost to study potential environmental issues at sites deemed to require investigation or clean-up activities, and the estimated cost to implement remediation actions, including on-going maintenance, as required. Cost estimates are developed by site. Initial cost estimates are based on historical experience at similar sites and are refined over time on the basis of in-depth studies of the sites. For many sites, the remediation costs and other damages for which we ultimately may be responsible cannot be reasonably estimated because of uncertainties with respect to factors such as our connection to the site, the materials there, the involvement of other potentially responsible parties, the application of laws and other standards or regulations, site conditions, and the nature and scope of investigations, studies, and remediation to be undertaken (including the technologies to be required and the extent, duration, and success of remediation).
+
+Legal Proceedings
+
+From time to time we are a party to various legal proceedings. We are currently a defendant in numerous actions and have received numerous claims on which actions have not yet been commenced for public liability and property damage arising from the operation of motor vehicles and equipment rented from us and our licensees. The obligation for public liability and property damage on self-insured U.S. and international vehicles and equipment, as stated on our balance sheet, represents an estimate for both reported accident claims not yet paid and claims incurred but not yet reported. The related liabilities are recorded on a non-discounted basis. Reserve requirements are based on actuarial evaluations of historical accident claim experience and trends, as well as future projections of ultimate losses, expenses, premiums and costs. At March 31, 2013 and December 31, 2012 our liability recorded for public liability and property damage matters was $321.0 million and $332.2 million, respectively. We believe that our analysis is based on the most relevant information available, combined with reasonable assumptions, and that we may prudently rely on this information to determine the estimated liability. We note the liability is subject to significant uncertainties. The adequacy of the liability reserve is regularly monitored based on evolving accident claim history and insurance related state legislation changes. If our estimates change or if actual results differ from these assumptions, the amount of the recorded liability is adjusted to reflect these results.
+
+For a detailed description of certain of our legal proceedings please see Note 12 of the Notes to our audited annual consolidated financial statements included in our Form 10-K under the caption "Item 8—Financial Statements and Supplementary Data."
+
+The following recent developments pertaining to legal proceedings described in our Form 10-K are furnished on a supplemental basis:
+
+In Davis Landscape, Ltd. et al. v. Hertz Equipment Rental Corporation, the parties executed a settlement agreement in March 2013 and thereafter sought preliminary approval from the court of the proposed class settlement. The court has now tentatively approved the proposed class settlement, approved the parties' notice plan and has set June 18,
+
+[p. 29]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+2013 as the date for the final approval hearing. We have accrued our best estimate of the ultimate cost, which is not material to our financial condition, results of operations or cash flows.
+
+On October 13, 2006, Janet Sobel, Daniel Dugan, PhD. and Lydia Lee, individually and on behalf of all others similarly situated v. The Hertz Corporation and Enterprise Rent-A-Car Company, was filed in the United States District Court for the District of Nevada. Enterprise is now a defendant in a separate action and is no longer a defendant in the Sobel case. The Sobel case purports to be a nationwide class action on behalf of all persons who rented cars from Hertz at airports in Nevada and were separately charged airport concession recovery fees by Hertz as part of their rental charges. In the complaint, the plaintiffs seek an unspecified amount of compensatory damages, restitution of any charges found to be improper and an injunction prohibiting Hertz from quoting or charging those airport fees that are alleged not to be allowed by Nevada law. The complaint also seeks attorneys' fees and costs. In 2010, the parties engaged in mediation which resulted in a proposed settlement. Although the court tentatively approved the settlement in November 2010, the court denied the plaintiffs' motion for final approval of the proposed settlement in May 2011. Following additional activity in the case, in March 2013, the court granted, in part, the plaintiffs' motion for partial summary judgment with respect to restitution and granted the plaintiffs' motion for class certification, while denying the Company's motion for partial summary judgment. The court further indicated that plaintiffs are entitled to prejudgment interest from the date of the plaintiffs' first amended complaint. A judgment has not yet been entered in the case, and there are expected to be further proceedings before the district court. The amount of a judgment could potentially exceed $40.0 million. The Company intends to appeal or seek other appropriate relief and believes that the court's liability, damages and class certification findings will be reversed. We continue to believe the outcome of this case will not be material to our financial condition, results of operations or cash flows.
+
+Aside from the above mentioned, none of the other legal proceedings described in our Form 10-K have experienced any material changes.
+
+In addition to the above mentioned and those described in our Form 10-K or in our other filings with SEC, various other legal actions, claims and governmental inquiries and proceedings are pending or may be instituted or asserted in the future against us and our subsidiaries. Other than with respect to the aggregate claims for public liability and property damage pending against us, management, based on the advice of legal counsel, does not believe that any of the matters resolved, or pending against us, are material to us and our subsidiaries taken as a whole.
+
+We have established reserves for matters where we believe that the losses are probable and reasonably estimated. Other than with respect to the aggregate reserve established for claims for public liability and property damage, none of those reserves are material. For matters where we have not established a reserve, the ultimate outcome or resolution cannot be predicted at this time, or the amount of ultimate loss, if any, cannot be reasonably estimated. Litigation is subject to many uncertainties and the outcome of the individual litigated matters is not predictable with assurance. It is possible that certain of the actions, claims, inquiries or proceedings, including those discussed in our Form 10-K or in our other filings with SEC, could be decided unfavorably to us or any of our subsidiaries involved. Accordingly, it is possible that an adverse outcome from such a proceeding could exceed the amount accrued in an amount that could be material to our consolidated financial condition, results of operations or cash flows in any particular reporting period.

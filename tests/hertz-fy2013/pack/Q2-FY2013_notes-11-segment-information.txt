@@ -1,0 +1,80 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q2 2013 (three and six months ended 30 Jun 2013), filed 2013-08-02. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 11: Segment Information. https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm
+
+[p. 21]
+
+Note 11—Segment Information
+
+Our operating segments are aggregated into reportable business segments based primarily upon similar economic characteristics, products, services, customers, and delivery methods. We have identified two reportable segments: rental and leasing of cars, crossovers and light trucks, or "car rental," and rental of industrial, construction, material handling and other equipment, or "equipment rental." Other reconciling items include general corporate assets and expenses, certain interest expense (including net interest on corporate debt), as well as other business activities. Donlen is included in the car rental reportable segment.
+
+Adjusted pre-tax income is calculated as income before income taxes plus non-cash purchase accounting charges, non-cash debt charges relating to the amortization and write-off of debt financing costs and debt discounts and certain one-time charges and non-operational items. Adjusted pre-tax income is important to management because it allows management to assess operational performance of our business, exclusive of the items mentioned above. It also allows management to assess the performance of the entire business on the same basis as the segment measure of profitability. Management believes that it is important to investors for the same reasons it is important to management and because it allows them to assess our operational performance on the same basis that management uses internally. The contribution of our reportable segments to revenues and adjusted pre-tax income and the reconciliation to consolidated amounts are summarized below (in millions of dollars).
+
+Three Months Ended June 30,
+Revenues | Adjusted Pre-Tax Income
+2013 | 2012 | 2013 | 2012
+Car rental | $2,329.5 | $1,889.6 | $363.0 | $277.4
+Equipment rental | 384.3 | 335.0 | 74.1 | 42.5
+Total reportable segments | 2,713.8 | 2,224.6 | 437.1 | 319.9
+Other | 0.8 | 0.5
+Total | $2,714.6 | $2,225.1
+Adjustments:
+Other reconciling items(1) | (122.6) | (86.0)
+Purchase accounting(2) | (33.1) | (29.0)
+Non-cash debt charges(3) | (19.5) | (20.6)
+Restructuring charges | (17.6) | (16.1)
+Restructuring related charges(4) | (8.6) | (5.0)
+Integration expenses(5) | (9.2) | —
+Derivative gains (losses)(6) | (0.1) | —
+Acquisition related costs | (9.1) | (4.5)
+Other(7) | (5.4) | —
+Income before income taxes | $211.9 | $158.7
+
+[p. 22]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Six Months Ended June 30,
+Revenues | Adjusted Pre-Tax Income
+2013 | 2012 | 2013 | 2012
+Car rental | $4,414.3 | $3,547.9 | $571.4 | $369.0
+Equipment rental | 735.4 | 637.1 | 119.9 | 68.4
+Total reportable segments | 5,149.7 | 4,185.0 | 691.3 | 437.4
+Other | 1.5 | 1.1
+Total | $5,151.2 | $4,186.1
+Adjustments:
+Other reconciling items(1) | (232.3) | (174.2)
+Purchase accounting(2) | (66.8) | (53.0)
+Non-cash debt charges(3) | (36.8) | (45.8)
+Restructuring charges | (21.3) | (22.8)
+Restructuring related charges(4) | (12.8) | (8.3)
+Integration expenses(5) | (20.0) | —
+Acquisition related costs | (11.7) | (11.4)
+Other(7) | (5.4) | —
+Income before income taxes | $284.2 | $121.9
+
+_______________________________________________________________________________
+
+(1) | Represents general corporate expenses, certain interest expense (including net interest on corporate debt), as well as other business activities.
+
+(2) | Represents the purchase accounting effects of the 2005 sale of all of Hertz's stock on our results of operations relating to increased depreciation and amortization of tangible and intangible assets and accretion of revalued workers' compensation and public liability and property damage liabilities. Also represents the purchase accounting effects of certain subsequent acquisitions on our results of operations relating to increased depreciation and amortization of tangible and intangible assets.
+
+(3) | Represents non-cash debt charges relating to the amortization and write-off of deferred debt financing costs and debt discounts.
+
+(4) | Represents incremental costs incurred directly supporting our business transformation initiatives. Such costs include transition costs incurred in connection with our business process outsourcing arrangements and incremental costs incurred to facilitate business process re-engineering initiatives that involve significant organization redesign and extensive operational process changes.
+
+(5) | Primarily represents Dollar Thrifty related expenses and adjustments.
+
+(6) | Represents the mark-to-market adjustment on our interest rate caps.
+
+(7) | Primarily represents expenses related to litigation accruals.
+
+Total assets increased $2,646.3 million from December 31, 2012 to June 30, 2013. The increase was primarily related to an increase in our car rental and equipment rental segments' revenue earning equipment, driven by increased volumes, partly offset by a decrease in fleet receivables within our car rental segment, primarily related to the timing of purchases and sales of revenue earning equipment.
+
+[p. 23]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited

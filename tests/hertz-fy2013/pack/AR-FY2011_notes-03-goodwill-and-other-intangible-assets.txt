@@ -1,0 +1,144 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-K for the fiscal year ended December 31, 2011, filed 2012-02-27. Item 8, Notes to Consolidated Financial Statements, Note 3: Goodwill and Other Intangible Assets. https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm
+
+[p. 98]
+
+Note 3—Goodwill and Other Intangible Assets
+
+The following summarizes the changes in our goodwill, by segment (in millions of dollars):
+
+Car Rental | Equipment Rental | Total
+Balance as of January 1, 2011
+Goodwill | $367.9 | $681.7 | $1,049.6
+Accumulated impairment losses | (46.1) | (674.9) | (721.0)
+321.8 | 6.8 | 328.6
+Goodwill acquired during the year | 53.1 | 12.3 | 65.4
+Adjustments to previously recorded purchase price allocation | (0.9) | (0.1) | (1.0)
+Other changes during the year(1) | (0.8) | (0.1) | (0.9)
+51.4 | 12.1 | 63.5
+Balance as of December 31, 2011
+Goodwill | 419.3 | 693.8 | 1,113.1
+Accumulated impairment losses | (46.1) | (674.9) | (721.0)
+$373.2 | $18.9 | $392.1
+
+Car Rental | Equipment Rental | Total
+Balance as of January 1, 2010
+Goodwill | $367.3 | $677.5 | $1,044.8
+Accumulated impairment losses | (46.1) | (674.9) | (721.0)
+321.2 | 2.6 | 323.8
+Goodwill acquired during the year | 2.7 | 4.3 | 7.0
+Other changes during the year(1) | (2.1) | (0.1) | (2.2)
+0.6 | 4.2 | 4.8
+Balance as of December 31, 2010
+Goodwill | 367.9 | 681.7 | 1,049.6
+Accumulated impairment losses | (46.1) | (674.9) | (721.0)
+$321.8 | $6.8 | $328.6
+
+(1)
+
+Primarily consists of changes resulting from the translation of foreign currencies at different exchange rates from the beginning of the period to the end of the period.
+
+[p. 99]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Other intangible assets, net, consisted of the following major classes (in millions of dollars):
+
+December 31, 2011
+Gross Carrying Amount | Accumulated Amortization | Net Carrying Value
+Amortizable intangible assets:
+Customer-related | $672.6 | $(365.5) | $307.1
+Other(1) | 74.7 | (27.8) | 46.9
+Total | 747.3 | (393.3) | 354.0
+Indefinite-lived intangible assets:
+Trade name | 2,190.0 | — | 2,190.0
+Other(2) | 18.2 | — | 18.2
+Total | 2,208.2 | — | 2,208.2
+Total other intangible assets, net | $2,955.5 | $(393.3) | $2,562.2
+
+December 31, 2010
+Gross Carrying Amount | Accumulated Amortization | Net Carrying Value
+Amortizable intangible assets:
+Customer-related | $606.5 | $(304.6) | $301.9
+Other(1) | 59.1 | (18.6) | 40.5
+Total | 665.6 | (323.2) | 342.4
+Indefinite-lived intangible assets:
+Trade name | 2,190.0 | — | 2,190.0
+Other(2) | 18.2 | — | 18.2
+Total | 2,208.2 | — | 2,208.2
+Total other intangible assets, net | $2,873.8 | $(323.2) | $2,550.6
+
+(1)
+
+Other amortizable intangible assets primarily consist of our Advantage trade name and concession rights, Donlen trade name, reacquired franchise rights, non-compete agreements and technology-related intangibles.
+
+(2)
+
+Other indefinite-lived intangible assets primarily consist of reacquired franchise rights.
+
+Amortization of other intangible assets for the years ended December 31, 2011, 2010 and 2009, was $70.0 million, $64.7 million and $66.1 million, respectively. Based on our amortizable intangible assets as of December 31, 2011, we expect amortization expense to be approximately $73.0 million in 2012, $71.6 million in 2013, $68.3 million in 2014, $66.8 million in 2015 and $19.3 million in 2016.
+
+Donlen Acquisition
+
+On September 1, 2011, Hertz acquired 100% of the equity interest in Donlen, a leading provider of fleet leasing and management services. Donlen provides Hertz an immediate leadership position in long-term car, truck and equipment leasing and fleet management, which enables us to present our customers a complete portfolio of transportation solutions and the enhanced ability to cross sell to each others' customer base. This transaction is part of the overall growth strategy of Hertz to provide the most
+
+[p. 100]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+flexible transportation programs for corporate and general consumers. Additionally, Donlen brings to Hertz a specialized consulting and technology expertise that will enable us to model, measure and manage fleet performance more effectively and efficiently. The combination of the strategic fit and expected fleet synergies described above are the primary drivers behind the excess purchase price paid over the fair value of the assets and liabilities acquired. All such goodwill recognized as part of this acquisition is reported in the car rental segment.
+
+The Donlen base equity valuation for the transaction was $250.0 million, subject to adjustment based on the net assets of Donlen at closing. The preliminary purchase price adjustment at closing resulted in a downward adjustment of $2.4 million (resulting in an initial closing cash payment for equity of $247.6 million). The final purchase price adjustment, based on the final Donlen closing date balance sheet, resulted in an upward adjustment of $2.4 million (resulting in a final closing cash payment for equity of $250.0 million. None of the goodwill recognized as part of this acquisition is expected to be deductible for tax purposes.
+
+The following summarizes the fair values of the assets purchased and liabilities assumed as of the acquisition date (in millions):
+
+Cash and cash equivalents | $35.6
+Receivables | 64.0
+Prepaid expenses and other assets | 7.0
+Revenue earning equipment | 1,120.6
+Property and equipment | 13.5
+Other intangible assets | 75.0
+Goodwill | 51.1
+Accounts payable | (39.3)
+Accrued liabilities | (226.8)
+Deferred taxes on income | (121.9)
+Debt | (728.8)
+Total | $250.0
+
+Other intangible assets and their amortization periods are as follows:
+
+Useful life (in years) | Fair value (in millions)
+Customer relationships | 16 | $65.0
+Trademark | 20 | 7.0
+Non-compete agreement | 5 | 3.0
+Total | $75.0
+
+[p. 101]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+The amount of Donlen's revenue and earnings included in Hertz's consolidated statement of operations for the year ended December 31, 2011, and the revenue and earnings of the combined entity had the acquisition date been January 1, 2010, are as follows (in millions):
+
+Revenue | Earnings
+Actual from 9/1/11 - 12/31/11 (Donlen only) | $142.7 | $2.0
+2011 supplemental pro forma from 1/1/11 - 12/31/11 (combined entity) | $8,559.6 | $187.0
+2010 supplemental pro forma from 1/1/10 - 12/31/10 (combined entity) | $7,904.3 | $(48.6)
+
+Donlen's actual earnings for the four months ended December 31, 2011 was impacted by $1.9 million related to the amortization expense associated with the acquired intangible assets and the fair value adjustment related to acquired software, as well as, the write-off of certain unamortized debt costs.
+
+2011 supplemental pro forma revenue for the year ended December 31, 2011 excludes $3.2 million related to deferred revenue which was eliminated as part of acquisition accounting. 2011 supplemental pro forma earnings for the year ended December 31, 2011 excludes $2.0 million related to deferred income which was eliminated as part of acquisition accounting, and $6.1 million of acquisition related costs incurred in 2011.
+
+2010 supplemental pro forma revenue for the year ended December 31, 2010 excludes $8.7 million related to deferred revenue which was eliminated as part of acquisition accounting. 2010 supplemental pro forma earnings for the year ended December 31, 2010 excludes $5.3 million related to deferred income which was eliminated as part of acquisition accounting, and includes $6.1 million of acquisition related costs incurred.
+
+This transaction has been accounted for using the acquisition method of accounting in accordance with GAAP and operating results of Donlen from the date of acquisition are included in our consolidated statement of operations. The allocation of the purchase price to the tangible and intangible net assets acquired is substantially complete, except with regards to Deferred taxes on income, which could change once Donlen's pre-acquisition tax return is completed.
+
+Other Acquisitions
+
+Additionally, during the year ended December 31, 2011, we added ten international car rental locations and four domestic equipment rental locations by acquiring a former franchisee and from external acquisitions. These acquisitions are not material to the consolidated amounts presented within our statement of operations for the year ended December 31, 2011.
+
+[p. 102]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)

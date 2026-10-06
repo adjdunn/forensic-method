@@ -1,0 +1,92 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q2 2011 (three and six months ended 30 Jun 2011), filed 2011-08-05. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 4: Goodwill and Other Intangible Assets. https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm
+
+[p. 8]
+
+Note 4—Goodwill and Other Intangible Assets
+
+The following summarizes the changes in our goodwill, by segment (in millions of dollars):
+
+Car Rental | Equipment Rental | Total
+Balance as of January 1, 2011
+Goodwill | $336.4 | $658.7 | $995.1
+Accumulated impairment losses | (43.0) | (651.9) | (694.9)
+293.4 | 6.8 | 300.2
+Goodwill acquired during the period | 1.8 | 0.2 | 2.0
+Adjustments to previously recorded purchase price allocation | (0.9) | 1.4 | 0.5
+Other changes during the period(1) | 4.3 | 0.2 | 4.5
+5.2 | 1.8 | 7.0
+Balance as of June 30, 2011
+Goodwill | 341.6 | 660.5 | 1,002.1
+Accumulated impairment losses | (43.0) | (651.9) | (694.9)
+$298.6 | $8.6 | $307.2
+
+Car Rental | Equipment Rental | Total
+Balance as of January 1, 2010
+Goodwill | $335.8 | $654.5 | $990.3
+Accumulated impairment losses | (43.0) | (651.9) | (694.9)
+292.8 | 2.6 | 295.4
+Goodwill acquired during the year | 2.7 | 4.3 | 7.0
+Other changes during the year(1) | (2.1) | (0.1) | (2.2)
+0.6 | 4.2 | 4.8
+Balance as of December 31, 2010
+Goodwill | 336.4 | 658.7 | 995.1
+Accumulated impairment losses | (43.0) | (651.9) | (694.9)
+$293.4 | $6.8 | $300.2
+
+(1)
+
+Primarily consists of changes resulting from the translation of foreign currencies at different exchange rates from the beginning of the period to the end of the period.
+
+[p. 9]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Other intangible assets, net, consisted of the following major classes (in millions of dollars):
+
+June 30, 2011
+Gross Carrying Amount | Accumulated Amortization | Net Carrying Value
+Amortizable intangible assets:
+Customer-related | $606.6 | $(334.0) | $272.6
+Other(1) | 64.6 | (22.9) | 41.7
+Total | 671.2 | (356.9) | 314.3
+Indefinite-lived intangible assets:
+Trade name | 2,190.0 | — | 2,190.0
+Other(2) | 18.2 | — | 18.2
+Total | 2,208.2 | — | 2,208.2
+Total other intangible assets, net | $2,879.4 | $(356.9) | $2,522.5
+
+December 31, 2010
+Gross Carrying Amount | Accumulated Amortization | Net Carrying Value
+Amortizable intangible assets:
+Customer-related | $606.5 | $(304.6) | $301.9
+Other(1) | 59.1 | (18.6) | 40.5
+Total | 665.6 | (323.2) | 342.4
+Indefinite-lived intangible assets:
+Trade name | 2,190.0 | — | 2,190.0
+Other(2) | 18.2 | — | 18.2
+Total | 2,208.2 | — | 2,208.2
+Total other intangible assets, net | $2,873.8 | $(323.2) | $2,550.6
+
+(1)
+
+Other amortizable intangible assets primarily consist of our Advantage trade name and concession rights, reacquired franchise rights, non-compete agreements and technology-related intangibles.
+
+(2)
+
+Other indefinite-lived intangible assets primarily consist of reacquired franchise rights.
+
+Amortization of other intangible assets for the three months ended June 30, 2011 and 2010, was approximately $16.9 million and $16.3 million, respectively, and for the six months ended June 30, 2011 and 2010, was approximately $33.7 million and $32.7 million, respectively. Based on our amortizable intangible assets as of June 30, 2011, we expect amortization expense to be approximately $32.8 million for the remainder of 2011, $65.3 million in 2012, $64.0 million in 2013, $61.0 million in 2014, $59.8 million in 2015 and $13.4 million in 2016.
+
+During the six months ended June 30, 2011, we added eight international car rental locations and one domestic equipment rental location through external acquisitions. These transactions have been accounted for using the acquisition method of accounting in accordance with GAAP and operating results of the acquired locations from the date of acquisition are included in our consolidated statement
+
+[p. 10]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+of operations. The allocation of the purchase price to the tangible and intangible net assets acquired is preliminary and subject to finalization. These acquisitions are not material to the consolidated amounts presented within our statement of operations for the three-month and six-month periods ended June 30, 2011.

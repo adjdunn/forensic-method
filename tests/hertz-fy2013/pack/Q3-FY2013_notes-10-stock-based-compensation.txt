@@ -1,0 +1,30 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q3 2013 (three and nine months ended 30 Sep 2013), filed 2013-11-07. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 10: Stock-Based Compensation. https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm
+
+[p. 21]
+
+Note 10—Stock-Based Compensation
+
+In February 2013, we granted 5,247 Restricted Stock Units, or "RSUs," and 1,707,458 Performance Stock Units, or "PSUs," to certain executives and employees at a grant date fair value of $19.95, under the Hertz Global Holdings, Inc. 2008 Omnibus Incentive Plan, or the "Omnibus Plan." Of the total PSUs awarded 1,136,724 PSUs have a performance condition under which the number of units that will ultimately be awarded will vary from 0% to 150% of the original grant, based on 2013 and combined 2013-2014 Corporate EBITDA results. "EBITDA" means consolidated net income before net interest expense, consolidated income taxes and consolidated depreciation (which includes revenue earning equipment lease charges) and amortization and "Corporate EBITDA," represents EBITDA as adjusted for car rental fleet interest, car rental fleet depreciation and certain other items, as provided in the applicable award agreements. These PSU awards vest evenly over a three year vesting period. Of the total PSUs awarded, 487,167 PSUs have a performance condition under which the number of units that will ultimately be awarded will be 0% to 100% of the original grant. Satisfaction of the performance condition under this grant is contingent upon final 2013 Corporate EBITDA Margin exceeding a minimum level. "Corporate EBITDA Margin" means Corporate EBITDA as a percentage of Consolidated Revenue. These PSU awards vest evenly over a three year vesting period. Of the total PSUs awarded, 83,567 PSUs have a performance condition under which the number of units that will ultimately be awarded will be 0% to 100% of the original grant. Satisfaction of the performance condition under this grant is contingent upon final 2013 Corporate EBITDA Margin exceeding a minimum level. These PSU awards vest evenly over a two year vesting period. The 5,247 RSUs awarded have a two year cliff vesting period.
+
+In May 2013, we granted 166,576 RSUs at a fair value of $23.80. Of the total RSUs awarded, 162,584 vest 33 1/3% annually over three years, and 3,992 RSUs vest after two years.
+
+In July 2013, we granted 5,543 RSUs at a fair value of $25.61. The RSUs awarded in July 2013 vest 33 1/3% annually over three years.
+
+[p. 22]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+A summary of the total compensation expense and associated income tax benefits recognized under the Hertz Global Holdings, Inc. Stock Incentive Plan and Hertz Global Holdings, Inc. Director Stock Incentive Plan, or the "Prior Plans," and the Omnibus Plan, including the cost of stock options, RSUs, and PSUs, is as follows (in millions of dollars):
+
+Three Months Ended September 30, | Nine Months Ended September 30,
+2013 | 2012 | 2013 | 2012
+Compensation expense | $12.8 | $7.3 | $32.5 | $22.3
+Income tax benefit | (4.9) | (2.8) | (12.6) | (8.6)
+Total | $7.9 | $4.5 | $19.9 | $13.7
+
+Compensation expense includes $1.6 million of accelerated stock-based compensation expense recorded as part of restructuring expense for the three months and nine months ended September 30, 2013.
+
+As of September 30, 2013, there was approximately $46.5 million of total unrecognized compensation cost related to non-vested stock options, RSUs and PSUs granted by Hertz Holdings under the Prior Plans and the Omnibus Plan. The total unrecognized compensation cost is expected to be recognized over the remaining 1.5 years, on a weighted average basis, of the requisite service period that began on the grant dates.

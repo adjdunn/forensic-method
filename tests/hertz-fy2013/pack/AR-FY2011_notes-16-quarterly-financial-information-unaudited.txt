@@ -1,0 +1,28 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-K for the fiscal year ended December 31, 2011, filed 2012-02-27. Item 8, Notes to Consolidated Financial Statements, Note 16: Quarterly Financial Information (Unaudited). https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm
+
+[p. 146]
+
+Note 16—Quarterly Financial Information (Unaudited)
+
+Provided below is a summary of the quarterly operating results during 2011 and 2010 (in millions of dollars, except per share data).
+
+Earnings per share amounts are computed independently each quarter. As a result, the sum of each quarter's per share amount may not equal the total per share amount for the respective year.
+
+First Quarter 2011 | Second Quarter 2011 | Third Quarter 2011 | Fourth Quarter 2011
+Revenues | $1,780.0 | $2,072.3 | $2,432.3 | $2,013.8
+Income (loss) before income taxes | (158.9) | 94.6 | 295.7 | 92.8
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | (132.6) | 55.0 | 206.7 | 47.0
+Earnings (loss) per share, basic | $(0.32) | $0.13 | $0.50 | $0.11
+Earnings (loss) per share, diluted | $(0.32) | $0.12 | $0.47 | $0.11
+
+[p. 147]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+First Quarter 2010 | Second Quarter 2010 | Third Quarter 2010 | Fourth Quarter 2010
+Revenues | $1,660.9 | $1,879.6 | $2,186.3 | $1,835.8
+Income (loss) before income taxes | (158.9) | (5.9) | 156.1 | (6.0)
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | (151.1) | (24.9) | 155.3 | (28.1)
+Earnings (loss) per share, basic | $(0.37) | $(0.06) | $0.38 | $(0.07)
+Earnings (loss) per share, diluted | $(0.37) | $(0.06) | $0.36 | $(0.07)

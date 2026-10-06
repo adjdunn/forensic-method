@@ -1,0 +1,67 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q3 2013 (three and nine months ended 30 Sep 2013), filed 2013-11-07. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 13: Restructuring. https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm
+
+[p. 26]
+
+Note 13—Restructuring
+
+As part of our ongoing effort to implement our strategy of reducing operating costs, we have evaluated our workforce and operations and made adjustments, including headcount reductions and business process reengineering resulting in optimized work flow at rental locations and maintenance facilities as well as streamlined our back-office operations and evaluated potential outsourcing opportunities. When we made adjustments to our workforce and operations, we incurred incremental expenses that delay the benefit of a more efficient workforce and operating structure, but we believe that increased operating efficiency and reduced costs associated with the operation of our business are important to our long-term competitiveness.
+
+During 2007 through 2012, we announced several initiatives to improve our competitiveness and industry leadership through targeted job reductions. These initiatives included, but were not limited to, job reductions at our corporate headquarters and back-office operations in the U.S. and Europe. As part of our re-engineering optimization we outsourced selected functions globally. In addition, we streamlined operations and reduced costs by initiating the closure of targeted car rental locations and equipment rental branches throughout the world. The largest of these closures occurred in 2008 which resulted in closures of approximately 250 off-airport locations and 22 branches in our U.S. equipment rental business. These initiatives impacted approximately 9,610 employees.
+
+During the first, second and third quarters of 2013, we continued to streamline operations (including actions associated with the Dollar Thrifty integration) and reduce costs with the closure of several U.S. car rental, international car rental and worldwide equipment rental locations, corporate headquarter relocation, as well as a reduction in our workforce by approximately 50, 515 and 480 employees, respectively.
+
+From January 1, 2007 through September 30, 2013, we incurred $625.9 million ($101.7 million for our U.S. car rental segment, $215.9 million for our International car rental segment, $232.7 million for our worldwide equipment rental segment, $2.0 million for all other operations and $73.6 million of other) of restructuring charges.
+
+Additional efficiency and cost saving initiatives are being developed; however, we presently do not have firm plans or estimates of any related expenses.
+
+Restructuring charges in our consolidated statement of operations can be summarized as follows (in millions of dollars):
+
+Three Months Ended September 30, | Nine Months Ended September 30,
+2013 | 2012 | 2013 | 2012
+By Type:
+Termination benefits | $14.8 | $0.3 | $32.3 | $16.5
+Pension and post retirement expense | 0.1 | — | 0.1 | —
+Consultant costs | 0.7 | 0.1 | 1.5 | 0.7
+Relocation costs and temporary labor costs | 14.0 | 0.1 | 14.1 | 0.1
+Facility closure and lease obligation costs | 6.7 | 0.9 | 9.6 | 6.6
+Other | — | 0.1 | — | 0.4
+Total | $36.3 | $1.5 | $57.6 | $24.3
+
+Three Months Ended September 30, | Nine Months Ended September 30,
+2013 | 2012 | 2013 | 2012
+By Caption:
+Direct operating | $9.9 | $3.7 | $18.2 | $15.6
+Selling, general and administrative | 26.4 | (2.2) | 39.4 | 8.7
+Total | $36.3 | $1.5 | $57.6 | $24.3
+
+[p. 27]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Three Months Ended September 30, | Nine Months Ended September 30,
+2013 | 2012 | 2013 | 2012
+By Segment:
+U.S. car rental | $7.4 | $1.3 | $18.3 | $5.7
+International car rental | 8.6 | (1.1) | 16.6 | 9.8
+Worldwide equipment rental | 1.1 | — | 2.4 | 7.1
+All other operations | — | — | — | —
+Other reconciling items | 19.2 | 1.3 | 20.3 | 1.7
+Total | $36.3 | $1.5 | $57.6 | $24.3
+
+During the three and nine months ended September 30, 2013, the after-tax effect of the restructuring charges decreased diluted earnings per share by $0.06 and $0.09, respectively. During the three and nine months ended September 30, 2012, the after-tax effect of the restructuring charges decreased diluted earnings per share by $0.01 and $0.05, respectively.
+
+The following table sets forth the activity affecting the restructuring accrual during the nine months ended September 30, 2013 (in millions of dollars). We expect to pay the remaining restructuring obligations relating to termination benefits over the next 12 months. The remainder of the restructuring accrual relates to future lease obligations which will be paid over the remaining term of the applicable leases.
+
+Termination Benefits | Pension and Post-retirement Expense | Consultant Costs | Other | Total
+Balance as of January 1, 2013 | $12.4 | $0.2 | $0.3 | $8.1 | $21.0
+Charges incurred | 32.3 | 0.1 | 1.5 | 23.7 | 57.6
+Cash payments | (25.4) | (0.2) | (1.6) | (2.1) | (29.3)
+Other(1) | (1.6) | (0.1) | — | (9.6) | (11.3)
+Balance as of September 30, 2013 | $17.7 | $— | $0.2 | $20.1 | $38.0
+
+_______________________________________________________________________________
+
+(1) | Consists of $9.6 million for facility closures, $1.6 million for accelerated equity award compensation and $0.1 million for a reclassification to accrued pension liabilities.

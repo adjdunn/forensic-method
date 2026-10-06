@@ -1,0 +1,24 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q2 2012 (three and six months ended 30 Jun 2012), filed 2012-08-03. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 16: Earnings (Loss) Per Share. https://www.sec.gov/Archives/edgar/data/1364479/000104746912007702/a2210414z10-q.htm
+
+[p. 31]
+
+Note 16—Earnings (Loss) Per Share
+
+Basic earnings (loss) per share has been computed based upon the weighted average number of common shares outstanding. Diluted earnings (loss) per share has been computed based upon the weighted average number of common shares outstanding plus the effect of all potentially dilutive common stock equivalents, except when the effect would be anti-dilutive.
+
+The following table sets forth the computation of basic and diluted loss per share (in millions of dollars, except per share amounts):
+
+Three Months Ended June 30, | Six Months Ended June 30,
+2012 | 2011 | 2012 | 2011
+Basic and diluted earnings (loss) per share:
+Numerator:
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | $92.9 | $55.0 | $36.6 | $(77.6)
+Denominator:
+Weighted average shares used in basic computation | 420.0 | 415.9 | 419.1 | 415.0
+Add: Stock options, RSUs and PSUs | 4.4 | 8.3 | 5.5 | —
+Add: Potential issuance of common stock upon conversion of Convertible Senior Notes | 23.0 | 27.6 | 23.3 | —
+Weighted average shares used in diluted computation | 447.4 | 451.8 | 447.9 | 415.0
+Earnings (loss) per share attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders, basic | $0.22 | $0.13 | $0.09 | $(0.19)
+Earnings (loss) per share attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders, diluted | $0.21 | $0.12 | $0.08 | $(0.19)
+
+Diluted earnings (loss) per share computations for the three and six months ended June 30, 2012 excluded the weighted-average impact of the assumed exercise of approximately 4.6 million shares, of stock options, RSUs and PSUs, because such impact would be antidilutive. Diluted earnings (loss) per share computations for the three and six months ended June 30, 2011 excluded the weighted-average impact of the assumed exercise of approximately 5.0 million and 21.2 million shares, respectively, of stock options, RSUs and PSUs, because such impact would be antidilutive. Additionally, for the six months ended June 30, 2011, there was no impact to the diluted earnings (loss) per share computations associated with the outstanding Convertible Senior Notes, because such impact would be anti-dilutive.

@@ -1,0 +1,13 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q3 2013 (three and nine months ended 30 Sep 2013), filed 2013-11-07. Part II, Item 1A. Risk Factors. https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm
+
+[p. 76]
+
+ITEM 1A. RISK FACTORS
+
+There is no material change in the information reported under "Part I—Item 1A—Risk Factors" contained in our Annual Report on Form 10-K for the fiscal year ended December 31, 2012 with the exception of the following:
+
+We have recognized losses as a result of our relationship with FSNA and Simply Wheelz and are likely to incur additional losses.
+
+We are currently a party to a sublease agreement and certain other commercial arrangements with FSNA and its subsidiary Simply Wheelz as a result of the disposition of our Advantage business, including a sublease agreement pursuant to which we currently sublease approximately 20,000 vehicles to Simply Wheelz or its affiliates for use in the operation of the Advantage brand. In October 2013, FSNA requested that we forbear from seeking collection of all amounts owed to us by Simply Wheelz and agree to renegotiate certain aspects of existing commercial arrangements between the parties, including the financial terms on which we are leasing vehicles them. On November 2, 2013, we terminated the applicable sublease contracts, and we continue evaluating our alternatives in light of the sublease termination. Simply Wheelz has since filed for bankruptcy protection under Chapter 11 of the United States Bankruptcy Code. If Simply Wheelz fails to pay us the amounts owed to us, including for any declines in the residual values of the vehicles we sublease to them, or if we are unable to regain possession of those vehicles at the times and in the amounts that we expect, our results of operations could be adversely affected. For the third quarter of 2013, we recorded a charge of $4 million with respect to those amounts due to us from Simply Wheelz as of September 30, 2013 and we anticipate taking an aggregate impairment charge of $40 million to cover our expected loss on the sale of the vehicles we are subleasing to Simply Wheelz. We currently estimate our total exposure to FSNA's liquidity issues to be between $50 and $70 million.
+
+In addition, FSNA or Simply Wheelz may assert additional claims against us with respect to the sale of our Advantage business and our existing commercial arrangements, including causes of action under the U.S. Bankruptcy Code. We may incur additional losses as a result of these claims.

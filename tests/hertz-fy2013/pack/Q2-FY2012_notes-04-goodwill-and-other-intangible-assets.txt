@@ -1,0 +1,103 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q2 2012 (three and six months ended 30 Jun 2012), filed 2012-08-03. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 4: Goodwill and Other Intangible Assets. https://www.sec.gov/Archives/edgar/data/1364479/000104746912007702/a2210414z10-q.htm
+
+[p. 9]
+
+Note 4—Goodwill and Other Intangible Assets
+
+The following summarizes the changes in our goodwill, by segment (in millions of dollars):
+
+Car Rental | Equipment Rental | Total
+Balance as of January 1, 2012
+Goodwill | $419.3 | $693.8 | $1,113.1
+Accumulated impairment losses | (46.1) | (674.9) | (721.0)
+373.2 | 18.9 | 392.1
+Goodwill acquired during the period | — | 76.8 | 76.8
+Adjustments to previously recorded purchase price allocation | (15.1) | — | (15.1)
+Other changes during the period(1) | (0.9) | (0.5) | (1.4)
+(16.0) | 76.3 | 60.3
+Balance as of June 30, 2012
+Goodwill | 403.3 | 770.1 | 1,173.4
+Accumulated impairment losses | (46.1) | (674.9) | (721.0)
+$357.2 | $95.2 | $452.4
+
+Car Rental | Equipment Rental | Total
+Balance as of January 1, 2011
+Goodwill | $367.9 | $681.7 | $1,049.6
+Accumulated impairment losses | (46.1) | (674.9) | (721.0)
+321.8 | 6.8 | 328.6
+Goodwill acquired during the year | 53.1 | 12.3 | 65.4
+Adjustments to previously recorded purchase price allocation | (0.9) | (0.1) | (1.0)
+Other changes during the year(1) | (0.8) | (0.1) | (0.9)
+51.4 | 12.1 | 63.5
+Balance as of December 31, 2011
+Goodwill | 419.3 | 693.8 | 1,113.1
+Accumulated impairment losses | (46.1) | (674.9) | (721.0)
+$373.2 | $18.9 | $392.1
+
+(1)
+
+Primarily consists of changes resulting from the translation of foreign currencies at different exchange rates from the beginning of the period to the end of the period.
+
+[p. 10]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Other intangible assets, net, consisted of the following major classes (in millions of dollars):
+
+June 30, 2012
+Gross Carrying Amount | Accumulated Amortization | Net Carrying Value
+Amortizable intangible assets:
+Customer-related | $689.7 | $(399.4) | $290.3
+Other(1) | 78.4 | (32.9) | 45.5
+Total | 768.1 | (432.3) | 335.8
+Indefinite-lived intangible assets:
+Trade name | 2,190.0 | — | 2,190.0
+Other(2) | 18.2 | — | 18.2
+Total | 2,208.2 | — | 2,208.2
+Total other intangible assets, net | $2,976.3 | $(432.3) | $2,544.0
+
+December 31, 2011
+Gross Carrying Amount | Accumulated Amortization | Net Carrying Value
+Amortizable intangible assets:
+Customer-related | $672.6 | $(365.5) | $307.1
+Other(1) | 74.7 | (27.8) | 46.9
+Total | 747.3 | (393.3) | 354.0
+Indefinite-lived intangible assets:
+Trade name | 2,190.0 | — | 2,190.0
+Other(2) | 18.2 | — | 18.2
+Total | 2,208.2 | — | 2,208.2
+Total other intangible assets, net | $2,955.5 | $(393.3) | $2,562.2
+
+(1)
+
+Other amortizable intangible assets primarily consist of our Advantage trade name and concession rights, Donlen trade name, reacquired franchise rights, non-compete agreements and technology-related intangibles.
+
+(2)
+
+Other indefinite-lived intangible assets primarily consist of reacquired franchise rights.
+
+Amortization of other intangible assets for the three months ended June 30, 2012 and 2011, was approximately $19.8 million and $16.9 million, respectively, and for the six months ended June 30, 2012 and 2011, was approximately $39.0 million and $33.7 million, respectively. Based on our amortizable intangible assets as of June 30, 2012, we expect amortization expense to be approximately $37.9 million for the remainder of 2012, $75.3 million in 2013, $71.4 million in 2014, $69.1 million in 2015, $20.6 million in 2016 and $8.6 million in 2017.
+
+[p. 11]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+On September 1, 2011, Hertz acquired 100% of the equity interest in Donlen, a leading provider of fleet leasing and management services. The amount of revenue and earnings of the combined entity had the acquisition date been January 1, 2010, are as follows (in millions):
+
+Revenue | Earnings (Loss)
+2011 supplemental pro forma for the second quarter of 2011 (combined entity) | $2,171.0 | $58.2
+2011 supplemental pro forma for the first half of 2011 (combined entity) | 4,045.0 | (72.1)
+
+2011 supplemental pro forma revenue for the three months ended June 30, 2011 excludes $1.2 million related to deferred revenue which was eliminated as part of acquisition accounting. 2011 supplemental pro forma earnings for the three months ended June 30, 2011 excludes $0.7 million related to deferred income which was eliminated as part of acquisition accounting. 2011 supplemental pro forma revenue for the six months ended June 30, 2011 excludes $2.6 million related to deferred revenue which was eliminated as part of acquisition accounting. 2011 supplemental pro forma earnings for the six months ended June 30, 2011 excludes $1.6 million related to deferred income which was eliminated as part of acquisition accounting.
+
+This transaction has been accounted for using the acquisition method of accounting in accordance with GAAP and operating results of Donlen from the date of acquisition are included in our consolidated statements of operations. The allocation of the purchase price to the tangible and intangible net assets acquired is substantially complete, except with regards to deferred taxes on income, which could change based upon the completion of Donlen's pre-acquisition tax return.
+
+Other Acquisitions
+
+Additionally, during the six months ended June 30, 2012, we added nine domestic equipment rental locations through external acquisitions. These acquisitions are not material to the consolidated amounts presented within our statement of operations for the three-month and six-month periods ended June 30, 2012.

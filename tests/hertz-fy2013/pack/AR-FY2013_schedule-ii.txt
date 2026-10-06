@@ -1,0 +1,28 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-K for the fiscal year ended December 31, 2013, filed 2014-03-19. Item 8 / Item 15, Schedule II Valuation and Qualifying Accounts. https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm
+
+[p. 158]
+
+SCHEDULE II
+
+VALUATION AND QUALIFYING ACCOUNTS
+
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+(In Millions of Dollars)
+
+Balance at | Additions
+Beginning of Period | Charged to Expense | Translation Adjustments | Deductions | Balance at End of Period
+Allowance for doubtful accounts:
+Year ended December 31, 2013 | $29.3 | $41.9 | $(0.1) | $(40.3) | (a) | $30.8
+Year ended December 31, 2012(b) | 20.3 | 38.3 | — | (29.3) | (a) | 29.3
+Year ended December 31, 2011(b) | 19.7 | 28.2 | 0.1 | (27.7) | (a) | 20.3
+Tax valuation allowances:
+Year ended December 31, 2013 | $226.4 | $37.9 | $15.1 | $— | $279.4
+Year ended December 31, 2012(b) | 186.7 | 39.8 | (0.1) | — | 226.4
+Year ended December 31, 2011(b) | 185.8 | 2.1 | (1.2) | — | 186.7
+
+_____________________________
+
+(a) | Amounts written off, net of recoveries.
+
+(b) | Prior period amounts have been revised, for a description of the revisions to prior periods, see Note 2 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption “Item 8—Financial Statements and Supplementary Data."

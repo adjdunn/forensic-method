@@ -1,0 +1,93 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q3 2011 (three and nine months ended 30 Sep 2011), filed 2011-11-07. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 2: Basis of Presentation and Recently Issued Accounting Pronouncements. https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm
+
+[p. 6]
+
+Note 2—Basis of Presentation and Recently Issued Accounting Pronouncements
+
+Basis of Presentation
+
+The significant accounting policies summarized in Note 2 to our audited consolidated financial statements contained in our Annual Report on Form 10-K for the fiscal year ended December 31, 2010, filed with the United States Securities and Exchange Commission, or "SEC," on February 25, 2011, or the "Form 10-K," have been followed in preparing the accompanying condensed consolidated financial statements.
+
+The December 31, 2010 condensed consolidated balance sheet data was derived from our audited financial statements, but does not include all disclosures required by accounting principles generally accepted in the United States of America, or "GAAP."
+
+[p. 7]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the amounts reported in the financial statements and footnotes. Actual results could differ materially from those estimates.
+
+In our opinion, all adjustments necessary for a fair statement of the results of operations for the interim periods have been made. Results for interim periods are not necessarily indicative of results for a full year.
+
+Certain prior period amounts have been reclassified to conform with current reporting.
+
+During the third quarter of 2011, we identified certain errors in our previously issued consolidated financial statements. While these errors did not, individually or in the aggregate, result in a material misstatement of the Company's previously issued consolidated financial statements, correcting these items in the third quarter would have been material to the third quarter and nine-months ending September 30, 2011 results. Accordingly, management has revised in this filing and will revise in its 2011 Form 10-K and its subsequent quarterly filings on Form 10-Q, its previously reported balance sheets and consolidated statement of operations as noted below. These errors relate to additional telecommunication charges and depreciation of revenue earning equipment, as well as certain corrections to deferred taxes on income for years 2005 through 2010 and the related impact on the 2008 goodwill impairment. We are recording the cumulative effect $(26.9) million of these adjustments for the periods prior to 2008 as a decrease to the previously reported December 31, 2007 Retained earnings of $270.4 million, resulting in revised December 31, 2007 Retained earnings of $243.5 million. These adjustments also resulted in a decrease to revenue earning equipment, net and increases to goodwill, accounts payable and deferred taxes on income as of December 31, 2010 and 2009. As such, total assets were revised from the previously reported $17,332.2 million to $17,345.0 million, total liabilities were revised from the previously reported $15,200.9 million to $15,226.5 million and total equity was revised from the previously reported $2,131.3 million to $2,118.5 million as of December 31, 2010. Also, total assets were revised from the previously reported $16,002.4 million to $16,015.1 million, total liabilities were revised from the previously reported $13,905.0 million to $13,929.9 million and total equity was revised from the previously reported $2,097.4 million to $2,087.2 million as of December 31, 2009.
+
+The following tables present the effect of this correction on our Consolidated Statements of Operations (in thousands, except per share data):
+
+Year Ended December 31, 2010 | Year Ended December 31, 2009
+As Previously Reported | Adjustment | As Revised | As Previously Reported | Adjustment | As Revised
+Direct operating | $4,282,351 | $1,043 | $4,283,394 | $4,084,176 | $6,300 | $4,090,476
+Depreciation of revenue earning equipment and lease charges | 1,868,147 | — | 1,868,147 | 1,931,358 | 2,453 | 1,933,811
+Other corrections | — | — | — | — | (2,870) | (2,870)
+(Provision) benefit for taxes on income | (17,068) | 407 | (16,661) | 59,666 | 2,377 | 62,043
+Net loss attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | (48,044) | (636) | (48,680) | (126,022) | (3,506) | (129,528)
+Loss per share:
+Basic | $(0.12) | — | $(0.12) | $(0.34) | $(0.01) | $(0.35)
+Diluted | $(0.12) | — | $(0.12) | $(0.34) | $(0.01) | $(0.35)
+
+[p. 8]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Year Ended December 31, 2008
+As Previously Reported | Adjustment | As Revised
+Direct operating | $4,930,018 | $1,638 | $4,931,656
+Depreciation of revenue earning equipment and lease charges | 2,194,164 | 2,703 | 2,196,867
+Impairment charges | 1,168,900 | 26,087 | 1,194,987
+Other corrections | — | 2,870 | 2,870
+Benefit for taxes on income | 196,847 | 51,483 | 248,330
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | (1,206,746) | 18,185 | (1,188,561)
+Earnings (loss) per share:
+Basic | $(3.74) | $0.06 | $(3.68)
+Diluted | $(3.74) | $0.06 | $(3.68)
+
+Three Months Ended March 31, 2010 | Three Months Ended June 30, 2010
+As Previously Reported | Adjustment | As Revised | As Previously Reported | Adjustment | As Revised
+Direct operating | $1,012,999 | $1,069 | $1,014,068 | $1,075,037 | $(374) | $1,074,663
+(Provision) benefit for taxes on income | 11,020 | 417 | 11,437 | (14,210) | (146) | (14,356)
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | (150,405) | (652) | (151,057) | (25,121) | 228 | (24,893)
+Loss per share:
+Basic | $(0.37) | — | $(0.37) | $(0.06) | — | $(0.06)
+Diluted | $(0.37) | — | $(0.37) | $(0.06) | — | $(0.06)
+
+Three Months Ended September 30, 2010 | Nine Months Ended September 30, 2010
+As Previously Reported | Adjustment | As Revised | As Previously Reported | Adjustment | As Revised
+Direct operating | $1,157,485 | $2,149 | $1,159,634 | $3,245,521 | $2,844 | $3,248,365
+(Provision) benefit for taxes on income | 3,014 | 838 | 3,852 | (176) | 1,110 | 934
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | 156,640 | (1,311) | 155,329 | (18,886) | (1,734) | (20,620)
+Earnings (loss) per share:
+Basic | $0.38 | — | $0.38 | $(0.05) | — | $(0.05)
+Diluted | $0.36 | — | $0.36 | $(0.05) | — | $(0.05)
+
+[p. 9]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+As previously reported, for the nine months ended September 30, 2010, we have revised net cash provided by operating activities and net cash used in investing activities within our consolidated statements of cash flows due to a gross-up of cash lease payments relating to our revenue earning equipment in the non-cash add back previously included in depreciation of revenue earning equipment and proceeds from disposal of revenue earning equipment.
+
+Recently Issued Accounting Pronouncements
+
+In June 2011, the Financial Accounting Standards Board, or "FASB," issued Accounting Standards Update No. 2011-05, "Presentation of Comprehensive Income," requiring companies to present items of net income and other comprehensive income either in one continuous statement, referred to as the statement of comprehensive income, or in two separate, but consecutive statements of net income and other comprehensive income. The amendments in this update do not change the items that must be reported in other comprehensive income or when an item of other comprehensive income must be reclassified to net income. These provisions will become effective for us beginning with our quarterly report for the period ended March 31, 2012. In October 2011, the FASB decided to propose a deferral of the requirement to present reclassifications of other comprehensive income on the face of the income statement, which was also included in this accounting standards update.
+
+In September 2011, the FASB issued Accounting Standards Update No. 2011-08, "Testing Goodwill for Impairment," which gives companies the option to first assess qualitative factors to determine whether the existence of events or circumstances leads to a determination that it is more likely than not that the fair value of a reporting unit is less than its carrying amount. If, after assessing the totality of events or circumstances, an entity determines it is not more likely than not that the fair value of a reporting unit is less than its carrying amount, then performing the two-step impairment test is unnecessary. This option is available to us effective immediately for all future goodwill impairment tests.
+
+In September 2011, the FASB issued Accounting Standards Update No. 2011-09, "Disclosures about an Employer's Participation in a Multiemployer Plan," which require that employers provide additional separate disclosures for multiemployer pension plans and multiemployer other postretirement benefit plans. These provisions will become effective for us beginning with our annual report for the period ended December 31, 2011.

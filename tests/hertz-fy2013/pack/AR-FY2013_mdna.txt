@@ -1,0 +1,1169 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-K for the fiscal year ended December 31, 2013, filed 2014-03-19. Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations. https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm
+
+[p. 41]
+
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations
+
+The statements in this discussion and analysis regarding industry outlook, our expectations regarding the performance of our business and the other non-historical statements are forward-looking statements. These forward-looking statements are subject to numerous risks and uncertainties, including, but not limited to, the risks and uncertainties described in “Item 1A—Risk Factors.” The following discussion and analysis provides information that we believe to be relevant to an understanding of our consolidated financial condition and results of operations. Our actual results may differ materially from those contained in or implied by any forward-looking statements. You should read the following discussion and analysis together with the sections entitled “Cautionary Note Regarding Forward-Looking Statements,” “Item 1A—Risk Factors,” “Item 6—Selected Financial Data” and our consolidated financial statements and related notes included in this Annual Report under the caption “Item 8—Financial Statements and Supplementary Data.”
+
+Overview of Our Business
+
+We are engaged principally in the business of renting and leasing of cars and equipment.
+
+Our revenues primarily are derived from rental and related charges and consist of:
+
+• | Car rental revenues (revenues from all company-operated car rental operations, including charges to customers for the reimbursement of costs incurred relating to airport concession fees and vehicle license fees, the fueling of vehicles and the sale of loss or collision damage waivers, liability insurance coverage, parking and other products and fees and certain cost reimbursements from our franchisees and from Simply Wheelz LLC for the sublease of vehicles);
+
+• | Equipment rental revenues (revenues from all company-operated equipment rental operations, including amounts charged to customers for the fueling and delivery of equipment and sale of loss damage waivers, as well as revenues from the sale of new equipment and consumables); and
+
+• | All other operations revenues (revenues from fleet leasing and management services and other business activities, such as our third party claims management services).
+
+Our expenses primarily consist of:
+
+• | Direct operating expenses (primarily wages and related benefits; commissions and concession fees paid to airport authorities, travel agents and others; facility, self-insurance and reservation costs; the cost of new equipment and consumables purchased for resale; and other costs relating to the operation and rental of revenue earning equipment, such as damage, maintenance and fuel costs);
+
+• | Depreciation expense and lease charges relating to revenue earning equipment (including net gains or losses on the disposal of such equipment). Revenue earning equipment includes cars and rental equipment;
+
+• | Selling, general and administrative expenses (including advertising); and
+
+• | Interest expense.
+
+Our profitability is primarily a function of the volume, mix and pricing of rental transactions and the utilization of cars and equipment. Significant changes in the purchase price or residual values of cars and equipment or interest rates can have a significant effect on our profitability depending on our ability to adjust pricing for these changes. We continue to balance our mix of non-program and program vehicles based on market conditions. Our business requires significant expenditures for cars and equipment, and consequently we require substantial liquidity to finance such expenditures. See "Liquidity and Capital Resources" below.
+
+On November 19, 2012, Hertz acquired 100% of the equity of Dollar Thrifty, a car rental business. As of December 31, 2013, Dollar Thrifty had approximately 340 corporate locations in the United States and Canada, with approximately 4,100 employees located mainly in North America. In addition to its corporate operations, Dollar Thrifty had approximately 1,060 franchise locations in approximately 75 countries. Dollar Thrifty brings to Hertz an immediate leadership position in the value-priced rental vehicle market generally appealing to leisure customers, including domestic and foreign tourists, and to small businesses, government and independent business travelers.
+
+Our Segments
+
+We have identified four reportable segments, which are organized based on the products and services provided by our operating segments and the geographic areas in which our operating segments conduct business, as follows:
+
+[p. 42]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+rental of cars, crossovers and light trucks in the United States, or "U.S. car rental,” rental of cars, crossovers and light trucks internationally, or “international car rental," rental of industrial, construction, material handling and other equipment, or "worldwide equipment rental" and "all other operations," which includes our Donlen operating segment.
+
+We historically aggregated our U.S., Europe, Other International and Donlen car rental operating segments together to produce a worldwide car rental reportable segment. We now present our operations as four reportable segments (U.S. car rental, international car rental, worldwide equipment rental and all other operations). We have revised our segment results presented herein to reflect this new segment structure, including for prior periods.
+
+U.S. Car Rental
+
+In recent periods we have decreased the percentage of program cars in our car rental fleet, but this strategy remains flexible as we continue to periodically review the efficiencies of an optimal mix between program and non-program cars in our fleet. However, non-program cars allow us the opportunity for ancillary revenue, such as warranty and financing, during disposition. Program cars generally provide us with flexibility to reduce the size of our fleet by returning cars sooner than originally expected without risk of loss in the event of an economic downturn or to respond to changes in rental demand. This flexibility is reduced as the percentage of non-program cars in our car rental fleet increases. Furthermore, it is expected that the average age of our fleet will increase since the average holding period for non-program vehicles is longer than program vehicles. However, the longer holding period does not necessarily equate to higher costs due to the stringent turnback requirements imposed by vehicle manufacturers for program cars.
+
+As of December 31,
+2013 | 2012 | 2011
+Percentage of non-program cars in our U.S. car rental operations | 91% | 95% | 83%
+
+In the year ended December 31, 2013, our U.S. monthly per vehicle depreciation costs decreased as compared to the prior year period due to mix optimization, improved procurement and remarketing efforts, optimization of fleet holding periods related to the integration of Dollar Thrifty and channel diversification.
+
+Depreciation rates are reviewed on a quarterly basis based on management's routine review of present and estimated future market conditions and their effect on residual values at the time of disposal. During 2013, 2012 and 2011, depreciation rates being used to compute the provision for depreciation of revenue earning equipment were adjusted on certain vehicles in our car rental operations to reflect changes in the estimated residual values to be realized when revenue earning equipment is sold. These depreciation rate changes in our U.S. car rental operations from previous quarters resulted in net decreases of $44.2 million, $139.4 million and $26.7 million in depreciation expense for the years ended December 31, 2013, 2012 and 2011, respectively. The favorable adjustments reflect changes from the impact of car sales channel diversification, acceleration of our retail sales expansion and the optimization of fleet holding periods related to the integration of Dollar Thrifty. The cumulative effect of the reduction in rates was also indicative of the residual values experienced in the U.S. for the years ended December 31, 2013, 2012 and 2011.
+
+For the years ended December 31, 2013, 2012 and 2011, our U.S. car rental operations sold approximately 197,700, 136,400 and 121,800 non-program cars, respectively, an 44.9% increase in 2013 versus 2012. This increase was primarily related to our recent acquisition of Dollar Thrifty.
+
+Total revenue per transaction day, or "Total RPD," is calculated as total revenues less revenues from fleet subleases, divided by the total number of transaction days, with all periods adjusted to eliminate the effect of fluctuations in foreign currency. For the year ended December 31, 2013, we experienced a 26.2% increase in transaction days and a 1.4% increase in Total RPD as compared with the same period in the prior year in the United States.
+
+Revenues from our U.S. off-airport operations represented $1,453.3 million, $1,306.6 million and $1,198.6 million of our total car rental revenues in the years ended December 31, 2013, 2012 and 2011, respectively. As of December 31, 2013, we have 2,785 off-airport locations in the U.S. Our strategy includes selected openings of new off-airport locations, the disciplined evaluation of existing locations and the pursuit of same-store sales growth. Our strategy also includes increasing penetration in the off-airport market and growing the online leisure market, particularly in the longer length weekly sector, which is characterized by lower vehicle costs and lower transaction costs at a lower Total RPD. Increasing our penetration in these sectors is consistent with our long-term strategy to generate profitable growth. When we open a new off-airport location, we incur a number of costs, including those relating to site selection, lease negotiation, recruitment of employees, selection and development of managers, initial sales activities and integration
+
+[p. 43]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+of our systems with those of the companies who will reimburse the location's replacement renters for their rentals. A new off-airport location, once opened, takes time to generate its full potential revenues and, as a result, revenues at new locations do not initially cover their start-up costs and often do not, for some time, cover the costs of their ongoing operations.
+
+As of December 31, 2013, our U.S. car rental operations had a total of approximately 5,550 corporate and 560 franchisee locations.
+
+International Car Rental
+
+As of December 31,
+2013 | 2012 | 2011
+Percentage of non-program cars in our international car rental operations | 76% | 79% | 75%
+
+In the year ended December 31, 2013, our international monthly per vehicle depreciation costs decreased as compared to the prior year period due to mix optimization, improved procurement and remarketing efforts and slight strengthening of used vehicle residual values.
+
+Depreciation rates are reviewed on a quarterly basis based on management's routine review of present and estimated future market conditions and their effect on residual values at the time of disposal. During 2013, 2012 and 2011, depreciation rates being used to compute the provision for depreciation of revenue earning equipment were adjusted on certain vehicles in our car rental operations to reflect changes in the estimated residual values to be realized when revenue earning equipment is sold. Depreciation rate changes in our international operations resulted in net increases of $5.0 million, $8.8 million and $12.9 million in depreciation expense for the years ended December 31, 2013, 2012 and 2011.
+
+For the years ended December 31, 2013, 2012 and 2011, our international car rental operations sold approximately 64,500, 54,500 and 54,800 non-program cars, respectively, an 18.3% increase in 2013 versus 2012. This increase was due to accelerated rotation strategy due to slight strengthening of used vehicle residual values.
+
+During the year ended December 31, 2013, in our international operations, we experienced a 4.1% increase in transaction days and a 0.6% increase in Total RPD when compared to the year ended December 31, 2012.
+
+As of December 31, 2013, our international car rental operations had a total of approximately 1,450 corporate and 3,930 franchisee locations in approximately 145 countries in North America (excluding the United States), Europe, Latin America, Asia, Australia, Africa, the Middle East and New Zealand.
+
+Equipment Rental
+
+HERC experienced higher rental volumes and pricing for the year ended December 31, 2013 compared to the prior year as the industry continued its recovery in North America. The recovery has been led by continued strength in oil and gas, industrial and specialty markets, and the early beginnings of the construction recovery. We continued to see growth in industrial performance, especially oil and gas related, and improvement in the construction sector in part reflecting higher rental penetration. Additionally, there continue to be opportunities for growth in 2014 as the uncertain economic outlook makes rental solutions attractive to customers. Our European equipment rental business, which represents approximately 6.5% of our worldwide equipment rental revenues, saw a revenue decline of 1.9% for the year ended December 31, 2013 compared to the prior year period, due to the soft industry conditions in France and Spain.
+
+Depreciation rate changes in certain of our equipment rental operations resulted in a decrease of $0.4 million, an increase of $0.5 million and a decrease of $4.4 million in depreciation expense for the years ended December 31, 2013, 2012 and 2011, respectively.
+
+All Other Operations
+
+On September 1, 2011, Hertz acquired 100% of the equity of Donlen, a leading provider of fleet leasing and management services for corporate fleets. For the years ended December 31, 2013 and 2012 and for the four months ended December 31, 2011 (period it was owned by Hertz), Donlen had an average of approximately 169,600, 150,800 and 137,000 vehicles under lease and management, respectively.
+
+[p. 44]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Seasonality
+
+Our car rental and equipment rental operations are seasonal businesses, with decreased levels of business in the winter months and heightened activity during the spring and summer. We have the ability to dynamically manage fleet capacity, the most significant portion of our cost structure, to meet market demand. For instance, to accommodate increased demand, we increase our available fleet and staff during the second and third quarters of the year. As business demand declines, fleet and staff are decreased accordingly. A number of our other major operating costs, including airport concession fees, commissions and vehicle liability expenses, are directly related to revenues or transaction volumes. In addition, our management expects to utilize enhanced process improvements, including efficiency initiatives and the use of our information technology systems, to help manage our variable costs. Approximately three-fifths of our typical annual operating costs represent variable costs, while the remaining two-fifths are fixed or semi-fixed. We also maintain a flexible workforce, with a significant number of part time and seasonal workers. However, certain operating expenses, including rent, insurance, and administrative overhead, remain fixed and cannot be adjusted for seasonal demand. Revenues related to our fleet leasing and management services are generally not seasonal.
+
+Restructuring
+
+As part of our ongoing effort to implement our strategy of reducing operating costs, we have evaluated our workforce and operations and made adjustments, including headcount reductions and business process reengineering resulting in optimized work flow at rental locations and maintenance facilities as well as streamlined our back-office operations and evaluated potential outsourcing opportunities. When we made adjustments to our workforce and operations, we incurred incremental expenses that delay the benefit of a more efficient workforce and operating structure, but we believe that increased operating efficiency and reduced costs associated with the operation of our business are important to our long-term competitiveness.
+
+During 2007 through 2013, we announced several initiatives to improve our competitiveness and industry leadership through targeted job reductions. These initiatives included, but were not limited to, job reductions at our corporate headquarters, integration of Dollar Thrifty and back-office operations in the U.S. and Europe. As part of our re-engineering optimization we outsourced selected functions globally. In addition, we streamlined operations and reduced costs by initiating the closure of targeted car rental locations and equipment rental branches throughout the world. The largest of these closures occurred in 2008 which resulted in closures of approximately 250 off-airport locations and 22 branches in our U.S. equipment rental business. These initiatives impacted approximately 10,700 employees.
+
+For the years ended December 31, 2013, 2012 and 2011, our consolidated statement of operations includes restructuring charges relating to various initiatives of $77.0 million, $38.0 million and $56.4 million, respectively.
+
+For the year ended December 31, 2013, $21.9 million of costs related to the relocation of our corporate headquarters to Estero, Florida were recorded within restructuring charges.
+
+Additional efficiency and cost saving initiatives are being developed, however, we presently do not have firm plans or estimates of any related expenses.
+
+See Note 14 to the Notes to our audited annual consolidated financial statements included in this Annual Report under caption “Item 8—Financial Statements and Supplementary Data.”
+
+Critical Accounting Policies and Estimates
+
+Our discussion and analysis of financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States of America, or “GAAP.” The preparation of these financial statements requires management to make estimates and judgments that affect the reported amounts in our financial statements and accompanying notes.
+
+We believe the following accounting policies may involve a higher degree of judgment and complexity in their application and represent the critical accounting policies used in the preparation of our financial statements. If different assumptions or conditions were to prevail, the results could be materially different from our reported results. For additional discussion of our accounting policies, see Note 2 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption “Item 8—Financial Statements and Supplementary Data.”
+
+[p. 45]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Acquisition Accounting
+
+We account for business combinations using the acquisition method, which requires an allocation of the purchase price of an acquired entity to the assets acquired and liabilities assumed based on their estimated fair values at the date of acquisition. Goodwill represents the excess of the purchase price over the net tangible and intangible assets acquired.
+
+Revenue Earning Equipment
+
+Our principal assets are revenue earning equipment, which represented approximately 58% of our total assets as of December 31, 2013. Revenue earning equipment consists of vehicles utilized in our car rental operations and equipment utilized in our equipment rental operations. For the year ended December 31, 2013, 30% of the vehicles purchased for our combined U.S. and international car rental fleets were subject to repurchase by automobile manufacturers under contractual repurchase and guaranteed depreciation programs, subject to certain manufacturers' car condition and mileage requirements, at a specific price during a specified time period. These programs limit our residual risk with respect to vehicles purchased under these programs. For all other vehicles, as well as equipment acquired by our equipment rental business, we use historical experience, as well as industry residual value guidebooks, and the monitoring of market conditions, to set depreciation rates. Generally, when revenue earning equipment is acquired, we estimate the period that we will hold the asset, primarily based on historical measures of the amount of rental activity (e.g., automobile mileage and equipment usage) and the targeted age of equipment at the time of disposal. We also estimate the residual value of the applicable revenue earning equipment at the expected time of disposal. The residual values for rental vehicles are affected by many factors, including make, model and options, age, physical condition, mileage, sale location, time of the year and channel of disposition (e.g., auction, retail, dealer direct). The residual value for rental equipment is affected by factors which include equipment age and amount of usage. Depreciation is recorded on a straight-line basis over the estimated holding period. Depreciation rates are reviewed on a quarterly basis based on management's ongoing assessment of present and estimated future market conditions, their effect on residual values at the time of disposal and the estimated holding periods. Market conditions for used vehicle and equipment sales can also be affected by external factors such as the economy, natural disasters, fuel prices and incentives offered by manufacturers of new cars. These key factors are considered when estimating future residual values. Depreciation rates are adjusted prospectively through the remaining expected life. As a result of this ongoing assessment, we make periodic adjustments to depreciation rates of revenue earning equipment in response to changing market conditions. Upon disposal of revenue earning equipment, depreciation expense is adjusted for any difference between the net proceeds received and the remaining net book value and a corresponding gain or loss is recorded.
+
+Within our Donlen subsidiary, revenue earning equipment is under longer term lease agreements with our customers. These leases contain provisions whereby we have a contracted residual value guaranteed to us by the lessee, such that we do not experience any gains or losses on the disposal of these vehicles. Therefore depreciation rates on these vehicles are not adjusted at any point in time per the associated lease contract.
+
+See Note 8 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption “Item 8—Financial Statements and Supplementary Data.”
+
+Public Liability and Property Damage
+
+The obligation for public liability and property damage on self-insured U.S. and international vehicles and equipment represents an estimate for both reported accident claims not yet paid, and claims incurred but not yet reported. The related liabilities are recorded on a non-discounted basis. Reserve requirements are based on rental volume and actuarial evaluations of historical accident claim experience and trends, as well as future projections of ultimate losses, expenses, premiums and administrative costs. The adequacy of the liability is regularly monitored based on evolving accident claim history and insurance related state legislation changes. If our estimates change or if actual results differ from these assumptions, the amount of the recorded liability is adjusted to reflect these results. Our actual results as compared to our estimates have historically resulted in relatively minor adjustments to our recorded liability.
+
+Pension Benefit Obligations
+
+Our employee pension costs and obligations are dependent on our assumptions used by actuaries in calculating such amounts. These assumptions include discount rates, salary growth, long-term return on plan assets, retirement rates, mortality rates and other factors. Actual results that differ from our assumptions are accumulated and amortized over future periods and, therefore, generally affect our recognized expense in such future periods. While we believe that the assumptions used are appropriate, significant differences in actual experience or significant changes in assumptions
+
+[p. 46]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+would affect our pension costs and obligations. The various employee related actuarial assumptions (e.g., retirement rates, mortality rates, salary growth) used in determining pension costs and plan liabilities are reviewed periodically by management, assisted by the enrolled actuary, and updated as warranted. The discount rate used to value the pension liabilities and related expenses and the expected rate of return on plan assets are the two most significant assumptions impacting pension expense. The discount rate used is a market based spot rate as of the valuation date. For the expected return on assets assumption, we use a forward looking rate that is based on the expected return for each asset class (including the value added by active investment management), weighted by the target asset allocation. The past annualized long-term performance of the Plans' assets has generally been in line with the long-term rate of return assumption. See Note 6 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption “Item 8—Financial Statements and Supplementary Data.” For a discussion of the risks associated with our pension plans, see “Item 1A—Risk Factors” in this Annual Report.
+
+Goodwill
+
+We review goodwill for impairment whenever events or changes in circumstances indicate that the carrying amount of the goodwill may not be recoverable, and also review goodwill annually. Goodwill impairment is deemed to exist if the carrying value of goodwill exceeds its fair value. Goodwill must be tested at least annually using a two-step process. The first step is to identify any potential impairment by comparing the carrying value of the reporting unit to its fair value. A reporting unit is an operating segment or a business one level below that operating segment (the component level) if discrete financial information is prepared and regularly reviewed by segment management. However, components are aggregated as a single reporting unit if they have similar economic characteristics. We estimate the fair value of our reporting units using a discounted cash flow methodology. The key assumptions used in the discounted cash flow valuation model for impairment testing include discount rates, growth rates, cash flow projections and terminal value rates. Discount rates are set by using the Weighted Average Cost of Capital, or “WACC,” methodology. The WACC methodology considers market and industry data as well as Company specific risk factors for each reporting unit in determining the appropriate discount rates to be used. The discount rate utilized for each reporting unit is indicative of the return an investor would expect to receive for investing in such a business. The cash flows represent management's most recent planning assumptions. These assumptions are based on a combination of industry outlooks, views on general economic conditions, our expected pricing plans and expected future savings generated by our past restructuring activities. Terminal value rate determination follows common methodology of capturing the present value of perpetual cash flow estimates beyond the last projected period assuming a constant WACC and low long-term growth rates. If a potential impairment is identified, the second step is to compare the implied fair value of goodwill with its carrying amount to measure the impairment loss. A significant decline in the projected cash flows or a change in the WACC used to determine fair value could result in a future goodwill impairment charge.
+
+In the fourth quarter 2013, we performed our annual impairment analysis based upon market data as of October 1, 2013 and concluded that there was no impairment related to our goodwill and our other indefinite lived intangible assets. At October 1, 2013, we had five reporting units: U.S. Car Rental, Europe Car Rental, Other International Car Rental, Donlen and Worldwide Equipment Rental.
+
+We performed the impairment analyses for our reporting units, using our business and long-term strategic plans, revised to reflect the current economic conditions. Our weighted average cost of capital used in the discounted cash flow model was calculated based upon the fair value of our debt and our stock price with a debt to equity ratio comparable to our industry. The total fair value of our reporting units was then compared to our market capitalization to ensure their reasonableness.
+
+See Note 3 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption “Item 8—Financial Statements and Supplementary Data.”
+
+Intangible and Long-lived Assets
+
+We re-evaluate the estimated useful lives of our intangible assets annually or as circumstances change. Those intangible assets considered to have indefinite useful lives, including our trade name, are evaluated for impairment on an annual basis, by comparing the fair value of the intangible assets to their carrying value. Intangible assets with finite useful lives are amortized over their respective estimated useful lives. In addition, whenever events or changes in circumstances indicate that the carrying value of intangible assets might not be recoverable, we will perform an impairment review.
+
+[p. 47]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+The valuation of our indefinite lived assets utilized the relief from royalty method, which incorporates cash flows and discount rates comparable to those discussed above. We also considered the excess earnings as a percentage of revenues to ensure their reasonableness. Our analysis supported our conclusion that an impairment did not exist.
+
+Derivatives
+
+We periodically enter into cash flow and other hedging transactions to specifically hedge exposure to various risks related to interest rates, fuel prices and foreign currency rates. Derivative financial instruments are viewed as risk management tools and have not been used for speculative or trading purposes. All derivatives are recorded on the balance sheet as either assets or liabilities measured at their fair value. The effective portion of changes in fair value of derivatives designated as cash flow hedging instruments is recorded as a component of other comprehensive income. The ineffective portion is recognized currently in earnings within the same line item as the hedged item, based upon the nature of the hedged item. For derivative instruments that are not part of a qualified hedging relationship, the changes in their fair value are recognized currently in earnings. The valuation methods used to mark these to market are either market quotes (for fuel swaps, interest rate caps and foreign exchange instruments) or a discounted cash flow method (for interest rate swaps). The key inputs for the discounted cash flow method are the current yield curve and the credit default swap spread. These valuations are subject to change based on movements in items such as the London inter-bank offered rate, or “LIBOR,” our credit worthiness and unleaded gasoline and diesel fuel prices.
+
+Income Taxes
+
+Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect of a change in tax rates is recognized in the statement of operations in the period that includes the enactment date. Valuation allowances are recorded to reduce deferred tax assets when it is more likely than not that a tax benefit will not be realized. Subsequent changes to enacted tax rates and changes to the global mix of earnings will result in changes to the tax rates used to calculate deferred taxes and any related valuation allowances. Provisions are not made for income taxes on undistributed earnings of international subsidiaries that are intended to be indefinitely reinvested outside the United States or are expected to be remitted free of taxes. Future distributions, if any, from these international subsidiaries to the United States or changes in U.S. tax rules may require recording a tax on these amounts. We have recorded a deferred tax asset for unutilized net operating loss carryforwards in various tax jurisdictions. Upon utilization, the taxing authorities may examine the positions that led to the generation of those net operating losses. If the utilization of any of those losses are disallowed a deferred tax liability may have to be recorded.
+
+See Note 9 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption “Item 8—Financial Statements and Supplementary Data.”
+
+Stock Based Compensation
+
+The cost of employee services received in exchange for an award of equity instruments is based on the grant date fair value of the award. The compensation expense for RSUs and PSUs is recognized ratably over the vesting period. For grants in 2011, 2012 and 2013, the vesting period is two or three years (for grants in 2011, 25% in the first year, 25% in the second year and 50% in the third year and for grants in 2012 and 2013, 33 1/3% per year). In addition to the service vesting condition, the PSUs had an additional vesting condition which called for the number of units that will be awarded based on achievement of a certain level of Corporate EBITDA over the applicable measurement period.
+
+The cost of employee services received in exchange for an award of equity instruments is based on the grant date fair value of the award. That cost is recognized over the period during which the employee is required to provide service in exchange for the award. We estimated the fair value of options issued at the date of grant using a Black-Scholes option-pricing model, which includes assumptions related to volatility, expected term, dividend yield and risk-free interest rate. These factors combined with the stock price on the date of grant result in a fixed expense which is recorded on a straight-line basis over the vesting period. The key factors used in the valuation process, other than the volatility, remained unchanged from the date of grant. Because the stock of Hertz Holdings became publicly traded in November 2006 and had a short trading history, it was not practicable for us to estimate the expected volatility of our share price, or a peer company share price, because there was not sufficient historical information about past volatility prior to 2012. Therefore, prior to 2012 we used the calculated value method, substituting the historical volatility of an appropriate industry sector index for the expected volatility of our common stock price as an assumption in the valuation model.
+
+[p. 48]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+We selected the Dow Jones Specialized Consumer Services sub-sector within the consumer services industry, and we used the U.S. large capitalization component, which includes the top 70% of the index universe (by market value).
+
+The calculation of the historical volatility of the index was made using the daily historical closing values of the index for the preceding 6.25 years, because that is the expected term of the options using the simplified approach.
+
+Beginning in 2012, we have determined that there is now sufficient historical information available to estimate the expected volatility of our stock price. Therefore for equity awards made in 2012 the assumed volatility for our stock price is based on a weighted average combining implied volatility and the average of our peer’s most recent 5.79-year volatility and mean reversion volatility. The assumed dividend yield is zero. The risk-free interest rate is the implied zero-coupon yield for U.S. Treasury securities having a maturity approximately equal to the expected term of the options, as of the grant dates. The non-cash stock-based compensation expense associated with the Hertz Global Holdings, Inc. Stock Incentive Plan, or the “Stock Incentive Plan,” the Hertz Global Holdings, Inc. Director Stock Incentive Plan, or the “Director Plan,” and the Hertz Global Holdings, Inc. 2008 Omnibus Incentive Plan, or the “Omnibus Plan,” are pushed down from Hertz Holdings and recorded on the books at the Hertz level. See Note 7 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption “Item 8—Financial Statements and Supplementary Data.”
+
+Recent Accounting Pronouncements
+
+For a discussion of recent accounting pronouncements, see Note 2 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption “Item 8—Financial Statements and Supplementary Data.”
+
+RESULTS OF OPERATIONS
+
+In the following discussion, comparisons are made between the years ended December 31, 2013, 2012 and 2011. The following table sets forth for each of the periods indicated, the percentage of total revenues represented by the various line items in our consolidated statements of operations (in millions of dollars):
+
+Percentage of Revenues
+Years Ended December 31, | Years Ended December 31,
+2013 | 2012 | 2011 | 2013 | 2012 | 2011
+Revenues:
+Worldwide car rental | $8,706.9 | $7,161.7 | $6,940.8 | 80.8% | 79.4% | 83.6%
+Worldwide equipment rental | 1,538.0 | 1,385.4 | 1,209.5 | 14.3 | 15.4 | 14.6
+All other operations | 527.0 | 477.8 | 149.0 | 4.9 | 5.2 | 1.8
+Total revenues | 10,771.9 | 9,024.9 | 8,299.3 | 100.0 | 100.0 | 100.0
+Expenses:
+Direct operating | 5,752.0 | 4,806.0 | 4,573.1 | 53.4 | 53.3 | 55.1
+Depreciation of revenue earning equipment and lease charges | 2,525.5 | 2,128.9 | 1,896.2 | 23.4 | 23.6 | 22.8
+Selling, general and administrative | 1,022.2 | 968.1 | 767.7 | 9.5 | 10.7 | 9.3
+Interest expense | 716.0 | 649.9 | 699.7 | 6.6 | 7.2 | 8.4
+Interest income | (11.6) | (4.9) | (5.5) | (0.1) | (0.1) | (0.1)
+Other (income) expense, net | 104.7 | 35.5 | 62.5 | 1.0 | 0.4 | 0.8
+Total expenses | 10,108.8 | 8,583.5 | 7,993.7 | 93.8 | 95.1 | 96.3
+Income before income taxes | 663.1 | 441.4 | 305.6 | 6.2 | 4.9 | 3.7
+Provision for taxes on income | (316.9) | (202.8) | (121.8) | (3.0) | (2.3) | (1.5)
+Net income | 346.2 | 238.6 | 183.8 | 3.2 | 2.6 | 2.2
+Less: Net income attributable to noncontrolling interest | — | — | (19.6) | — | — | (0.3)
+Net income attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | $346.2 | $238.6 | $164.2 | 3.2% | 2.6% | 1.9%
+
+[p. 49]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+The following table sets forth certain of our selected car rental, equipment rental and other operating data for each of the periods indicated:
+
+Years Ended or as of December 31,
+2013 | 2012 | 2011
+Selected U.S. Car Rental Operating Data:
+Number of transactions (in thousands) | 27,093 | 21,920 | 19,903
+Transaction days (in thousands)(a) | 133,181 | 105,539 | 93,741
+Total RPD(b) | $47.00 | $46.33 | $47.67
+Average number of cars (Company-operated) | 468,500 | 358,000 | 321,700
+Average number of cars (Leased) | 21,500 | 1,100 | —
+Adjusted pre-tax income (in millions of dollars)(c) | $1,091.1 | $872.8 | $673.2
+Revenue earning equipment, net (in millions of dollars) | $8,629.0 | $7,434.3 | $5,177.4
+Selected International Car Rental Operating Data:
+Number of transactions (in thousands) | 7,527 | 7,207 | 7,192
+Transaction days (in thousands)(a) | 45,019 | 43,248 | 43,560
+Total RPD(b) | $53.81 | $53.52 | $54.53
+Average number of cars (Company-operated) | 159,700 | 153,700 | 156,900
+Average number of cars (Leased) | 1,600 | 1,400 | —
+Adjusted pre-tax income (in millions of dollars)(c) | $141.2 | $92.9 | $145.6
+Revenue earning equipment, net (in millions of dollars) | $2,047.1 | $2,163.6 | $2,010.2
+Selected Worldwide Equipment Rental Operating Data:
+Rental and rental related revenue (in millions of dollars)(d) | $1,415.0 | $1,266.5 | $1,095.1
+Same-store revenue growth, including growth initiatives(e) | 9.6% | 8.6% | 9.3%
+Average acquisition cost of rental equipment operated during the period (in millions of dollars) | $3,401.2 | $3,069.0 | $2,804.8
+Adjusted pre-tax income (in millions of dollars)(c) | $292.1 | $226.2 | $161.3
+Revenue earning equipment, net (in millions of dollars) | $2,416.3 | $2,203.3 | $1,786.7
+Selected All Other Operations Operating Data:
+Average number of cars during the period (Donlen - under lease and maintenance) | 169,600 | 150,800 | 137,000
+Adjusted pre-tax income (in millions of dollars)(c) | $57.3 | $47.6 | $15.0
+Revenue earning equipment, net (in millions of dollars) | $1,101.0 | $1,095.4 | $1,117.3
+
+_______________________________________________________________________________
+
+(a) | Transaction days represent the total number of days that vehicles were on rent in a given period.
+
+(b) | Car rental revenue consists of all revenue (including U.S. and International), net of discounts, associated with the rental of cars including
+
+charges for optional insurance products, revenue from fleet subleases, and franchisee transactions. But for purposes of calculating total revenue per transaction day, or “Total RPD,” we exclude revenue from fleet subleases. Total RPD is calculated as total revenue less revenue from fleet subleases, divided by the total number of transaction days, with all periods adjusted to eliminate the effect of fluctuations in foreign currency. Our management believes eliminating the effect of fluctuations in foreign currency is appropriate so as not to affect the comparability of underlying trends. This statistic is important to our management and investors as it represents the best measurement of the changes in underlying pricing in the car rental business and encompasses the elements in car rental pricing that management has the ability to control.
+
+[p. 50]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+The following table reconciles our car rental segment revenues to our rental rate revenue and rental rate revenue per transaction day (based on December 31, 2012 foreign exchange rates) for the years ended December 31, 2013, 2012 and 2011 (in millions of dollars, except as noted):
+
+Reconciliation of GAAP to | U.S. car rental segment | International car rental segment
+Non-GAAP Earnings Measures | Years Ended December 31,
+2013 | 2012 | 2011 | 2013 | 2012 | 2011
+Revenues | $6,324.4 | $4,893.2 | $4,468.9 | $2,382.5 | $2,268.5 | $2,471.9
+Advantage sublease revenue | (65.0) | (3.7) | — | — | — | —
+Foreign currency adjustment | — | — | — | 40.1 | 46.0 | (96.5)
+Total rental revenue | $6,259.4 | $4,889.5 | $4,468.9 | $2,422.6 | $2,314.5 | $2,375.4
+Transaction days (in thousands) | 133,181 | 105,539 | 93,741 | 45,019 | 43,248 | 43,560
+Total RPD (in whole dollars) | $47.00 | $46.33 | $47.67 | $53.81 | $53.52 | $54.53
+
+(c) | Adjusted pre-tax income is calculated as income before income taxes plus certain non-cash purchase accounting charges, debt-related charges relating to the amortization and write-off of debt financing costs and debt discounts and certain one-time charges and nonoperational items. Adjusted pre-tax income is important to management because it allows management to assess operational performance of our business, exclusive of the items mentioned above. It also allows management to assess the performance of the entire business on the same basis as the segment measure of profitability. Management believes that it is important to investors for the same reasons it is important to management and because it allows them to assess our operational performance on the same basis that management uses internally. The contribution of our reportable segments to adjusted pre-tax income and reconciliation to consolidated amounts are presented below (in millions of dollars):
+
+Reconciliation of Non-GAAP to GAAP Earnings Measures | Years Ended December 31,
+2013 | 2012 | 2011
+Adjusted pre-tax income:
+U.S. car rental | $1,091.1 | $872.8 | $673.2
+International car rental | 141.2 | 92.9 | 145.6
+Worldwide equipment rental | 292.1 | 226.2 | 161.3
+All other operations | 57.3 | 47.6 | 15.0
+Total reportable segments | 1,581.7 | 1,239.5 | 995.1
+Adjustments:
+Other reconciling items(1) | (428.5) | (347.2) | (333.3)
+Purchase accounting(2) | (132.2) | (109.6) | (87.6)
+Debt-related charges(3) | (68.4) | (83.6) | (130.4)
+Restructuring charges | (77.0) | (38.0) | (56.4)
+Restructuring related charges(4) | (21.8) | (11.1) | (9.8)
+Derivative gains (losses)(5) | (1.0) | (0.9) | 0.1
+Acquisition related costs and charges(6) | (18.5) | (163.7) | (18.8)
+Integration expenses(7) | (40.0) | — | —
+Relocation costs | (7.8) | — | —
+Management transition costs | — | — | (4.0)
+Pension adjustment(8) | — | — | 13.1
+Premiums paid on debt(9) | (28.7) | — | (62.4)
+Impairment charges and other(10) | (44.0) | — | —
+Other(11) | (50.7) | (44.0) | —
+Income before income taxes | $663.1 | $441.4 | $305.6
+
+_________________________________________________________________________
+
+(1) | Represents general corporate expenses, certain interest expense (including net interest on corporate debt), as well as other business activities.
+
+(2) | Represents the increase in amortization of other intangible assets, depreciation of property and equipment and accretion of revalued liabilities relating to purchase accounting.
+
+(3) | Represents debt-related charges relating to the amortization and write-off of deferred debt financing costs and debt discounts.
+
+(4) | Represents incremental costs incurred directly supporting our business transformation initiatives. Such costs include transition costs incurred in connection with our business process outsourcing arrangements and incremental costs incurred to facilitate
+
+[p. 51]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+business process re-engineering initiatives that involve significant organization redesign and extensive operational process changes.
+
+(5) | Represents the mark-to-market adjustment on our interest rate cap.
+
+(6) | In 2012, primarily represents Dollar Thrifty acquisition related expenses, change in control expenses, 'Day-1' compensation expenses and other adjustments related to the Dollar Thrifty acquisition, loss on the Advantage divestiture, expenses related to additional required divestitures and costs associated with the Dollar Thrifty acquisition, pre-acquisition interest and commitment fee expenses for interim financing associated with the Dollar Thrifty acquisition and a gain on the investment in Dollar Thrifty stock.
+
+(7) | In 2013, primarily represents Dollar Thrifty integration related expenses and adjustments.
+
+(8) | Represents a gain for the U.K. pension plan relating to unamortized prior service cost from a 2010 amendment that eliminated discretionary pension increases related to pre-1997 service primarily pertaining to inactive employees.
+
+(9) | In 2013, represents premiums paid to redeem our 8.50% Former European Fleet Notes. In 2011, represents premiums paid to redeem our 10.5% Senior Subordinated Notes and a portion of our 8.875% Senior Notes.
+
+(10) | Related to FSNA and its subsidiary, Simply Wheelz.
+
+(11) | In 2013, primarily represents expenses related to the loss on conversion of the convertible senior notes. In 2012, primarily represents expenses related to the withdrawal from a multiemployer pension plan, litigation accrual and expenses associated with the impact of Hurricane Sandy.
+
+(d) | Worldwide equipment rental and rental related revenue consists of all revenue, net of discounts, associated with the rental of equipment including charges for delivery, loss damage waivers and fueling, but excluding revenue arising from the sale of equipment, parts and supplies and certain other ancillary revenue. Rental and rental related revenue is adjusted in all periods to eliminate the effect of fluctuations in foreign currency. Our management believes eliminating the effect of fluctuations in foreign currency is appropriate so as not to affect the comparability of underlying trends. This statistic is important to our management and investors as it is utilized in the measurement of rental revenue generated per dollar invested in fleet on an annualized basis and is comparable with the reporting of other industry participants. The following table reconciles our worldwide equipment rental segment revenues to our worldwide equipment rental and rental related revenue (based on December 31, 2012 foreign exchange rates) for the years ended December 31, 2013, 2012 and 2011 (in millions of dollars):
+
+Reconciliation of GAAP to Non-GAAP Earnings Measures | Years Ended December 31,
+2013 | 2012 | 2011
+Worldwide equipment rental segment revenues | $1,538.0 | $1,385.4 | $1,209.5
+Worldwide equipment sales and other revenue | (132.3) | (122.9) | (107.4)
+Foreign currency adjustment | 9.3 | 4.0 | (7.0)
+Rental and rental related revenue | $1,415.0 | $1,266.5 | $1,095.1
+
+(e) | Same-store revenue growth is calculated as the year over year change in revenue for locations that are open at the end of the period reported and have been operating under our direction for more than twelve months. The same-store revenue amounts are adjusted in all periods to eliminate the effect of fluctuations in foreign currency. Our management believes eliminating the effect of fluctuations in foreign currency is appropriate so as not to affect the comparability of underlying trends.
+
+Year Ended December 31, 2013 Compared with Year Ended December 31, 2012
+
+REVENUES
+
+Years Ended December 31,
+(in millions of dollars) | 2013 | 2012 | $ Change | % Change
+Revenues by Segment
+U.S. car rental | $6,324.4 | $4,893.2 | $1,431.2 | 29.2%
+International car rental | 2,382.5 | 2,268.5 | 114.0 | 5.0%
+Worldwide equipment rental | 1,538.0 | 1,385.4 | 152.6 | 11.0%
+All other operations | 527.0 | 477.8 | 49.2 | 10.3%
+Total revenues | $10,771.9 | $9,024.9 | $1,747.0 | 19.4%
+
+Results from operations are discussed below and include comparisons to prior year periods. We acquired Dollar Thrifty on November 19, 2012. Our results from operations include Dollar Thrifty for the post-acquisition period ended December 31, 2012, which is approximately 43 days in 2012. The results of operations for Dollar Thrifty are included within our U.S. car rental segment. In order to obtain regulatory approval and clearance for Dollar Thrifty acquisition,
+
+[p. 52]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Hertz agreed to dispose of Advantage. On December 12, 2012, Hertz completed the sale of Simply Wheelz LLC, or the "Advantage divestiture." The acquisition of Dollar Thrifty and related Advantage divestiture is referred to as "Recent Acquisitions." "On a comparable basis" discussion excludes the effects of the Recent Acquistions. See Note 4 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption “Item 8—Financial Statements and Supplementary Data.”
+
+U.S. Car Rental Segment
+
+Revenues from our U.S. car rental segment increased 29.2%, primarily as a result of increases in car rental transaction days of 26.2% and an increase in Total RPD in the U.S. of 1.4%, incremental volume associated with the Recent Acquisitions and refueling fees of $49.3 million.
+
+U.S. Total RPD for the year ended December 31, 2013 increased 1.4% from 2012. U.S. airport RPD increased 2.2% and U.S. off-airport RPD declined by 0.2%.
+
+International Car Rental Segment
+
+Revenues from our international car rental segment increased 5.0%, primarily as a result of increases in transaction days of 4.1%, Total RPD of 0.6% and refueling fees of $11.8 million as well as due to the effects of foreign currency translation of approximately $6.8 million.
+
+International Total RPD for the year ended December 31, 2013 increased 0.6% from 2012 primarily due to increases in all our international operations outside of Europe of 2.3%, partly offset by a decrease in Europe's Total RPD of 0.4%.
+
+Worldwide Equipment Rental Segment
+
+Revenues from our worldwide equipment rental segment increased 11.0%, primarily due to increases of 14.2% and 3.1% in worldwide equipment rental volumes and pricing, respectively, partly offset by the effects of foreign currency translation of approximately $6.9 million. The increase in volumes was primarily due to strong industrial performance, especially oil and gas related, and improvement in the construction sector in part reflecting higher rental penetration.
+
+All Other Operations Segment
+
+Revenues from all other operations increased $49.2 million from the prior year period, primarily due to increased volumes in our Donlen operations.
+
+EXPENSES
+
+Years Ended December 31,
+(in millions of dollars) | 2013 | 2012 | $ Change | % Change
+Expenses:
+Fleet related expenses | $1,352.8 | $1,145.7 | $207.1 | 18.1%
+Personnel related expenses | 1,810.0 | 1,563.2 | 246.8 | 15.8%
+Other direct operating expenses | 2,589.2 | 2,097.1 | 492.1 | 23.5%
+Direct operating | 5,752.0 | 4,806.0 | 946.0 | 19.7%
+Depreciation of revenue earning equipment
+and lease charges | 2,525.5 | 2,128.9 | 396.6 | 18.6%
+Selling, general and administrative | 1,022.2 | 968.1 | 54.1 | 5.6%
+Interest expense | 716.0 | 649.9 | 66.1 | 10.2%
+Interest income | (11.6) | (4.9) | (6.7) | 136.7%
+Other (income) expense, net | 104.7 | 35.5 | 69.2 | 194.9%
+Total expenses | $10,108.8 | $8,583.5 | $1,525.3 | 17.8%
+
+Total expenses increased 17.8%, but total expenses as a percentage of revenues decreased from 95.1% for the year ended December 31, 2012 to 93.8% for the year ended December 31, 2013.
+
+[p. 53]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Direct Operating Expenses
+
+U.S. Car Rental Segment
+
+Direct operating expenses for our U.S. car rental segment of $3,488.9 million for 2013 increased $811.0 million, or 30.3%, from $2,677.9 million for 2012 as a result of increases in fleet related expenses, personnel related expenses and other direct operating expenses.
+
+Fleet related expenses for our U.S. car rental segment of $720.8 million for 2013 increased $181.7 million, or 33.7%, from 2012. On a comparable basis, the increase was primarily related to U.S. rental volume demand which resulted in increases in vehicle damage of $48.1 million, self insurance expenses of $9.0 million and vehicle maintenance costs of $9.6 million due to the expansion of our off-airport and leisure businesses, longer holding periods and the impact of recalls. These increases were partly offset by a decrease in other vehicle operating costs of $4.5 million and gasoline costs of $4.4 million.
+
+Personnel related expenses for our U.S. car rental segment of $1,132.5 million for 2013 increased $210.4 million, or 22.8%, from 2012. On a comparable basis, there was an increase in field compensation of $30.4 million primarily due to an increase in headcount.
+
+Other direct operating expenses for our U.S. car rental segment of $1,635.6 million for 2013 increased $418.9 million, or 34.4%, from 2012. On a comparable basis, the increases in other direct operating expenses were due to increases in facilities of $20.4 million, commissions of $15.1 million, field systems and computer costs of $11.5 million, concessions of $14.2 million, reservations of $5.5 million and field administration cost of $3.6 million. The increases were primarily a result of improved U.S. car rental volume demand and the expansion of our off-airport business. The above increases were partly offset by decreases in restructuring of $4.4 million related to the Dollar Thrifty integration.
+
+International Car Rental Segment
+
+Direct operating expenses for our international car rental segment of $1,404.3 million for 2013 increased $62.9 million, or 4.7%, from $1,341.4 million for 2012 as a result of increases in fleet related expenses, personnel related expenses and other direct operating expenses.
+
+Fleet related expenses for our international car rental segment of $399.3 million for 2013 increased $6.7 million, or 1.7%, from 2012. On a comparable basis, there was a decrease in fleet operating expenses of $4.5 million partially offset by the effects of foreign currency translation of $2.5 million.
+
+Personnel related expenses for our international car rental segment of $357.8 million for 2013 increased $11.9 million, or 3.4%, from 2012. On a comparable basis, there was an increase in field compensation of $1.7 million and the effects of foreign currency translation of $1.0 million.
+
+Other direct operating expenses for our international car rental segment of $647.2 million for 2013 increased $44.3 million, or 7.3%, from 2012. On a comparable basis, the increase was primarily related to increases in restructuring charges of $10.7 million, concession fees of $6.0 million, reservation costs of $5.8 million, customer service costs of $5.1 million, and the effect of foreign currency translation of $1.5 million. The increases were primarily a result of improved international car rental volume demand. The increases in other direct operating expenses were partly offset by a decrease in commissions of $2.4 million.
+
+Worldwide Equipment Rental Segment
+
+Direct operating expenses for our worldwide equipment rental segment of $828.0 million for 2013 increased $57.8 million, or 7.5% from $770.2 million for 2012 as a result of increases in fleet related expenses, personnel related expenses and other direct operating expenses.
+
+Fleet related expenses for our worldwide equipment rental segment of $232.4 million for 2013 increased $18.9 million, or 8.9% from 2012. The increase was primarily related to costs incurred to support the revenue growth
+
+[p. 54]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+of 11.0% consisting of gasoline and vehicle operating costs of $12.2 million and higher maintenance costs of $8.0 million due to higher fleet levels. These increases were partly offset by the effects of foreign currency translation of approximately $0.5 million.
+
+Personnel related expenses for our worldwide equipment rental segment of $265.3 million for 2013 increased $20.5 million, or 8.4% from 2012. The increase was attributable to an increase in salaries and related expenses of $19.7 million and an increase in benefits of $3.0 million. These increases were partly offset by decreases in incentives of $1.3 million and the effects of foreign currency translation of approximately $0.8 million.
+
+Other direct operating expenses for our worldwide equipment rental segment of $330.3 million for 2013 increased $18.4 million, or 5.9% from 2012. The increase was primarily related to increases in the costs of sales of $8.7 million, customer service costs $4.0 million, facility costs of $3.9 million, service vehicle costs of $3.8 million and field system costs of $2.5 million. These increases were partly offset by decreases in field administrative costs of $2.9 million and the effects of foreign currency translation of approximately $1.4 million.
+
+All Other Operations Segment
+
+Direct operating expenses for our all other operations segment of $24.2 million for 2013 increased $0.7 million, or 3.0%, from $23.5 million for 2012 as a result of an increase in personnel related expenses offset by decreases in other direct operating expenses and fleet related expenses.
+
+Fleet related expenses for our all other operations segment of $0.4 million for 2013 decreased $0.1 million from 2012.
+
+Personnel related expenses for our all other operations segment of $25.3 million for 2013 increased $0.9 million, or 3.7%, from 2012. The increase was primarily related to increased salaries and related expenses in our Donlen operations.
+
+Other direct operating expenses for our all other operations segment of $(1.5) million for 2013 decreased $0.1 million from 2012.
+
+Depreciation of Revenue Earning Equipment and Lease Charges
+
+U.S. Car Rental Segment
+
+Depreciation of revenue earning equipment and lease charges for our U.S. car rental segment of $1,269.3 million for 2013 increased $328.7 million, or 34.9% from $940.6 million for 2012. The increase was primarily attributable to an increase in average fleet due to the Recent Acquisitions and a deterioration in the used vehicle residual values.
+
+International Car Rental Segment
+
+Depreciation of revenue earning equipment and lease charges for our international car rental segment of $532.0 million for 2013 increased $3.8 million, or 0.7% from $528.2 million for 2012. The increase was primarily due to increased fleet size in our international car rental operations, partially offset by slight strengthening of used vehicle residual values, mix of vehicles, better procurement of fleet and by lower net depreciation per vehicle.
+
+Worldwide Equipment Rental Segment
+
+Depreciation of revenue earning equipment and lease charges in our worldwide equipment rental segment of $298.8 million for 2013 increased $26.7 million or 9.8% from $272.1 million for 2012. The increase was primarily due to a 10.8% increase in the average acquisition cost of rental equipment operated during the period, partly offset by strong residual values and improved disposal channel mix and the effects of foreign currency translation of approximately $0.5 million.
+
+[p. 55]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+All Other Operations Segment
+
+Depreciation of revenue earning equipment and lease charges in our all other operations segment of $425.4 million for 2013 increased $37.4 million, or 9.6% from $388.0 million for 2012. The increase was primarily driven by an increase in the number of cars at our Donlen operations.
+
+Selling, General and Administrative Expenses
+
+Selling, general and administrative expenses of $1,022.2 million for 2013 increased $52.6 million due to increases in administrative, sales promotion and advertising expenses as well as approximately $1.4 million due to the effects of foreign currency translation.
+
+Administrative expenses increased $15.8 million, or 2.7%, primarily attributable to the Recent Acquisitions. On a comparable basis, administrative expenses decreased for the year by $14.5 million. The decrease was primarily driven by synergies achieved from the Dollar Thrifty integration and was partially offset by the effects of foreign currency translation of approximately $1.3 million.
+
+Sales promotion expenses increased $8.1 million, or 5.1%, primarily related to increases in sales salaries and commissions due to improved results and the expansion within the off-airport sales force, partially offset by the effects of foreign currency translation of approximately $0.4 million.
+
+Advertising expenses increased $28.7 million, or 15.9%, primarily attributable to the Recent Acquisitions, in addition to an increase in on-line media costs and brand advertising to support new strategic initiatives and the effects of foreign currency translation of approximately $0.5 million.
+
+Interest Expense
+
+U.S. Car Rental Segment
+
+Interest expense for our U.S. car rental segment of $192.8 million for 2013 increased $15.9 million or 9.0% from $176.9 million for 2012. The increase was primarily due to the higher levels of debt required to fund the Recent Acquisitions, partly offset by debt refinancing activity and lower interest rates in 2013.
+
+International Car Rental Segment
+
+Interest expense for our international car rental segment of $114.3 million for 2013 decreased $9.9 million or 8.0% from $124.2 million for 2012. The decrease was primarily due to debt refinancing activity and lower interest rates in 2013.
+
+Worldwide Equipment Rental Segment
+
+Interest expense for our worldwide equipment rental segment of $51.8 million for 2013 decreased $0.2 million or 0.4% from $52.0 million for 2012. The decrease was primarily due to debt refinancing activity and lower interest rates in 2013, partly offset by increases in the weighted-average debt outstanding as a result of an increase in average fleet size.
+
+All Other Operations Segment
+
+Interest expense for our all other operations segment of $14.7 million for 2013 decreased $0.5 million or 3.3% from $15.2 million for 2012. The decrease was primarily related to debt refinancing activity and lower interest rates in 2013, partly offset by additional debt used to finance fleet growth within our Donlen operations.
+
+Other Reconciling Items
+
+Other interest expense relating to interest on corporate debt of $342.4 million for 2013 increased $60.8 million or 21.6% from $281.6 million for 2012. The increase was primarily due to the debt used to finance the Recent Acquisitions, partly offset by favorable rates due to refinancing.
+
+[p. 56]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Interest Income
+
+Interest income increased $6.7 million from the prior year.
+
+Other (Income) Expense, Net
+
+Other (income) expense, net of $104.7 million for 2013 increased $69.2 million, or 194.9% from $35.5 million for 2012. Primarily included within 2013 other (income) expense, net is the impairment charges and other of $44.0 million, debt extinguishment loss and inducement costs related to the early conversion of a portion of our Convertible Senior Notes of $38.6 million and premiums paid and write-offs relating to the European debt of $28.7 million, partly offset by a $5.8 million adjustment to Advantage divestiture support payments. Primarily included within 2012 other (income) expense, net is a loss on the Advantage divestiture of $31.4 million, expenses related to additional required divestitures and costs associated with the Dollar Thrifty acquisition of $24.2 million, partly offset by a gain from the sale of Switzerland operations of $10.3 million and a gain on the investment in Dollar Thrifty stock of $8.5 million.
+
+ADJUSTED PRE-TAX INCOME (LOSS)
+
+U.S. Car Rental Segment
+
+Adjusted pre-tax income for our U.S. car rental segment of $1,091.1 million increased 25.0% from $872.8 million for 2012. The increase was primarily due to stronger volumes, pricing, disciplined cost management and synergies achieved from the Dollar Thrifty integration. Adjustments to our U.S. car rental segment income before income taxes for 2013 totaled $158.5 million (which consists of integration expenses of $18.1 million, purchase accounting charges of $65.2 million, debt-related charges of $14.0 million, restructuring and restructuring related charges of $25.6 million, impairment and other of $44.0 million and loss on derivatives of $0.2 million, partly offset by other income of $8.6 million). Adjustments to our U.S. car rental segment income before income taxes for 2012 totaled $165.8 million (which consists of acquisition related costs and charges of $96.4 million, purchase accounting charges of $34.3 million, debt-related charges of $19.2 million, restructuring and restructuring related charges of $10.9 million and other of $5.0 million). See footnote (c) to the table under “Results of Operations” for a summary and description of these adjustments.
+
+International Car Rental Segment
+
+Adjusted pre-tax income for our international car rental segment of $141.2 million increased 52.0% from $92.9 million for 2012. The increase was primarily due to stronger volumes and pricing, lower net depreciation per vehicle, lower interest expense due to favorable refinancing activity and disciplined cost management. Adjustments to our international car rental segment income before income taxes for 2013 totaled $99.4 million (which consists of debt-related charges of $14.0 million, restructuring and restructuring related charges of $35.2 million, purchase accounting charges of $9.7 million, $28.7 million in premiums paid on debt, a loss on derivatives of $0.3 million and other of $11.5 million). Adjustments to our international car rental segment income before income taxes for 2012 totaled $47.6 million (which consists of restructuring and restructuring related charges of $23.5 million, debt-related charges of $15.1 million, purchase accounting charges of $8.6 million and loss on derivatives of $0.4 million). See footnote (c) to the table under “Results of Operations” for a summary and description of these adjustments.
+
+Worldwide Equipment Rental Segment
+
+Adjusted pre-tax income for our worldwide equipment rental segment of $292.1 million increased 29.1% from $226.2 million for 2012. The increase was primarily due to stronger volumes and pricing and strong cost management performance. Adjustments to our equipment rental segment income before income taxes for 2013 totaled $58.8 million (which consists of purchase accounting of $40.2 million, restructuring and restructuring related charges of $10.1 million, debt-related charges of $4.6 million and other of $3.9 million). Adjustments to our equipment rental segment income before income taxes for 2012 totaled $74.4 million (which consists of purchase accounting of $44.3 million, other of $15.8 million, restructuring and restructuring related charges of $9.3 million and debt-related charges of $5.0 million). See footnote (c) to the table under “Results of Operations” for a summary and description of these adjustments.
+
+[p. 57]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+All Other Operations Segment
+
+Adjusted pre-tax income for our all other operations segment of $57.3 million increased 20.4% from $47.6 million for 2012. The increase was primarily due to stronger volumes, lower interest expense due to favorable refinancing activity and disciplined cost management. Adjustments to our all other operations segment income before income taxes for 2013 totaled $21.5 million (which consists of purchase accounting charges of $15.1 million, debt-related charges of $5.7 million and a loss in other of $0.7 million). Adjustments to our all other segment income before income taxes for 2012 totaled $22.6 million (which consists of purchase accounting charges of $18.7 million, debt-related charges of $3.8 million, restructuring related charges of $0.3 million and gain on derivatives of $0.2 million). See footnote (c) to the table under “Results of Operations” for a summary and description of these adjustments.
+
+PROVISION FOR TAXES ON INCOME AND NET INCOME ATTRIBUTABLE TO HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES' COMMON STOCKHOLDERS
+
+Years Ended December 31,
+(in millions of dollars) | 2013 | 2012 | $ Change | % Change
+Income before income taxes | $663.1 | $441.4 | $221.7 | 50.2%
+Provision for taxes on income | (316.9) | (202.8) | (114.1) | 56.3%
+Net income attributable to Hertz Global Holdings, Inc.
+and Subsidiaries' common stockholders | $346.2 | $238.6 | $107.6 | 45.1%
+
+Provision for Taxes on Income
+
+The effective tax rate for the year ended December 31, 2013 was 47.8% as compared to 45.9% for the year ended December 31, 2012. The provision for taxes on income increased $114.1 million, primarily due to higher income before income taxes, changes in geographic earnings mix, increased state and local tax rates and an increase in thin cap limitation on deductibility of interest expense in various non-U.S. countries and other permanent differences, offset by a decrease in the valuation allowance relating to losses in certain non-U.S. jurisdictions for which tax benefits are not realized. See Note 9 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption “Item 8—Financial Statements and Supplementary Data.”
+
+Net Income Attributable to Hertz Global Holdings, Inc. and Subsidiaries' Common Stockholders
+
+Net income attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders increased 45.1% primarily due to higher rental volumes and pricing in our U.S. car rental, international car rental and worldwide equipment rental, disciplined cost management, lower net depreciation per vehicle in our international car rental operations and higher volumes in our all other operations segment. Most revenue and expense transactions from operations outside of the United States are recorded in local currencies, which reduces the effect of changes in exchange rates on net income.
+
+Year Ended December 31, 2012 Compared with Year Ended December 31, 2011
+
+REVENUES
+
+Years Ended December 31,
+(in millions of dollars) | 2012 | 2011 | $ Change | % Change
+Revenues by Segment
+U.S. car rentals | $4,893.2 | $4,468.9 | $424.3 | 9.5%
+International car rentals | 2,268.5 | 2,471.9 | (203.4) | (8.2)%
+Worldwide equipment rentals | 1,385.4 | 1,209.5 | 175.9 | 14.5%
+All other operations | 477.8 | 149.0 | 328.8 | 220.7%
+Total revenues | $9,024.9 | $8,299.3 | $725.6 | 8.7%
+
+Results from operations are discussed below and include comparisons to prior year periods. We acquired Donlen on September 1, 2011. Our results from operations include Donlen for the year ended December 31, 2012 and the post-
+
+[p. 58]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+acquisition period ended December 31, 2011, which is approximately four months in 2011. The results of operations for Donlen are included within our all other operations segment. We acquired Dollar Thrifty on November 19, 2012. Our results from operations include Dollar Thrifty for the post-acquisition period ended December 31, 2012, which is approximately 43 days in 2012. In order to obtain regulatory approval and clearance for Dollar Thrifty acquisition, Hertz agreed to dispose of Advantage. On December 12, 2012, Hertz completed the sale of Simply Wheelz LLC, or the "Advantage divestiture." The results of operations for Dollar Thrifty are included within our U.S. and international car rental segments. The acquisition of Dollar Thrifty and related Advantage divestiture is referred to as "Recent Acquisitions." "On a comparable basis" discussion excludes the effects of the Recent Acquistions. See Note 4 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption “Item 8—Financial Statements and Supplementary Data.”
+
+U.S. Car Rental Segment
+
+Revenues from our U.S. car rental segment increased 9.5%, primarily as a result of increases in U.S. car rental transaction days of 12.6%, incremental volume associated with the Recent Acquisitions and refueling fees of $32.0 million. These increases were partly offset by a decrease in Total RPD in the U.S.
+
+U.S. Total RPD for the year ended December 31, 2012 decreased 2.8% from 2011. U.S. airport RPD decreased 3.1% and U.S. off-airport RPD declined by 1.4%. U.S. airport RPD was negatively impacted by a shift to longer life and lower RPD rentals (due to a proportionately higher amount attributable to off-airport).
+
+International Car Rental Segment
+
+Revenues from our international car rental segment decreased 8.2%, primarily as a result of decreases in international car rental transaction days of 0.7%, Total RPD of 1.9% and refueling fees of $9.8 million, as well as the effects of foreign currency translation of approximately $140.6 million.
+
+International Total RPD for the year ended December 31, 2012 decreased 1.9% from 2011 primarily due to a decline in Europe's airport RPD which was due to the competitive pricing environment and uncertain economic conditions.
+
+Worldwide Equipment Rental Segment
+
+Revenues from our worldwide equipment rental segment increased 14.5%, primarily due to increases of 12.3% and 3.6% in worldwide equipment rental volumes and pricing, respectively, partly offset by the effects of foreign currency translation of approximately $11.2 million. The increase in volumes were primarily due to strong industrial performance, especially oil and gas related, and improvement in the construction sector in part reflecting higher rental penetration. Additionally, Cinelease and other 2012 equipment rental segment acquisitions contributed to the increase in equipment rental revenues.
+
+All Other Operations Segment
+
+Revenues from all other operations increased $328.8 million from the prior year period, primarily due to increased revenues from our Donlen operations, primarily attributable to a full year of Donlen operations in 2012 as compared to four months of operations in 2011.
+
+[p. 59]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+EXPENSES
+
+Years Ended December 31,
+(in millions of dollars) | 2012 | 2011 | $ Change | % Change
+Expenses:
+Fleet related expenses | $1,145.7 | $1,120.6 | $25.1 | 2.2%
+Personnel related expenses | 1,563.2 | 1,478.0 | 85.2 | 5.8%
+Other direct operating expenses | 2,097.1 | 1,974.5 | 122.6 | 6.2%
+Direct operating | 4,806.0 | 4,573.1 | 232.9 | 5.1%
+Depreciation of revenue earning equipment
+and lease charges | 2,128.9 | 1,896.2 | 232.7 | 12.3%
+Selling, general and administrative | 968.1 | 767.7 | 200.4 | 26.1%
+Interest expense | 649.9 | 699.7 | (49.8) | (7.1)%
+Interest income | (4.9) | (5.5) | 0.6 | (10.9)%
+Other (income) expense, net | 35.5 | 62.5 | (27.0) | (43.2)%
+Total expenses | $8,583.5 | $7,993.7 | $589.8 | 7.4%
+
+Total expenses increased 7.4%, but total expenses as a percentage of revenues decreased from 96.3% for the year ended December 31, 2011 to 95.1% for the year ended December 31, 2012.
+
+Direct Operating Expenses
+
+U.S. Car Rental Segment
+
+Direct operating expenses for our U.S. car rental segment of $2,677.9 million for 2012 increased $246.4 million, or 10.1%, from $2,431.5 million for 2011 as a result of increases in fleet related expenses, personnel related expenses and other direct operating expenses.
+
+Fleet related expenses for our U.S. car rental segment of $539.1 million for 2012 increased $35.3 million, or 7.0%, from 2011. On a comparable basis, the increase was primarily related to U.S. rental volume demand which resulted in increases in gasoline costs of $19.6 million, self insurance expenses of $7.0 million and vehicle maintenance costs of $1.1 million. The increase in gasoline costs reflect higher gasoline prices. These increases were partly offset by a decrease in vehicle damage costs of $12.1 million. The remaining 2012 net increase was primarily attributable to the Recent Acquisitions.
+
+Personnel related expenses for our U.S. car rental segment of $922.1 million for 2012 increased $66.0 million, or 7.7%, from 2011. On a comparable basis, the increase was primarily related to increases in salaries and related expenses associated with improved volume and compensation for employees at additional off-airport locations in 2012 as well as higher incentives. The remaining 2012 net increase was primarily attributable to the Recent Acquisitions.
+
+Other direct operating expenses for our U.S. car rental segment of $1,216.7 million for 2012 increased $145.1 million, or 13.5%, from 2011. On a comparable basis, the increase was primarily related to increases in facilities expenses of $51.1 million due to 2011 property sales, commissions of $9.7 million, concession fees of $14.0 million, restructuring charges of $6.5 million, field systems of $5.6 million and customer service costs of $4.3 million. The increases were primarily a result of improved U.S. car rental volume and off-airport expansions. The increases in other direct operating expenses were partly offset by a decrease in computer costs of $6.0 million. The remaining 2012 net increase was primarily attributable to the Recent Acquisitions.
+
+International Car Rental Segment
+
+Direct operating expenses for our international car rental segment of $1,341.4 million for 2012 decreased $66.4 million, or 4.7%, from $1,407.8 million for 2011 as a result of decreases in fleet related expenses, personnel related expenses and other direct operating expenses.
+
+[p. 60]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Fleet related expenses for our international car rental segment of $392.6 million for 2012 decreased $30.1 million, or 7.1%, from 2011. On a comparable basis, the decrease was primarily due to a decrease in vehicle damage costs of $15.9 million, self insurance expense of $2.4 million and the effects of foreign currency translation of approximately $26.0 million. The decrease was offset by an increase in international rental volume demand which resulted in increases in gasoline costs of $7.2 million and vehicle maintenance costs of $7.1 million.
+
+Personnel related expenses for our international car rental segment of $345.9 million for 2012 decreased $11.1 million, or 3.1%, from 2011. The decrease was primarily due to the effects of foreign currency translation of approximately $18.4 million. On a comparable basis, the decrease was partly offset by increases in salaries and related expenses associated with improved volume and compensation for employees at additional off-airport locations in 2012 as well as higher incentives.
+
+Other direct operating expenses for our international car rental segment of $602.9 million for 2012 decreased $25.2 million, or 4.0%, from 2011. On a comparable basis, the decrease in other direct operating expenses was primarily due to the effects of foreign currency translation of approximately $35.0 million and decreases in concession fees of $4.5 million and charge card fees of $2.8 million. The decreases in other direct operating expenses were partly offset by increases in commissions of $9.6 million and customer service costs of $6.4 million. The increases were primarily a result of improved international rental volume demand and off-airport expansions.
+
+Worldwide Equipment Rental Segment
+
+Direct operating expenses for our worldwide equipment rental segment of $770.2 million for 2012 increased $39.4 million, or 5.4% from $730.8 million for 2011 as a result of increases in personnel related expenses and fleet related expenses, partly offset by a decrease in other direct operating expenses.
+
+Fleet related expenses for our worldwide equipment rental segment of $213.5 million for 2012 increased $19.7 million, or 10.2% from 2011. The increase was primarily related to increased rental volume resulting in increased freight expenses of $11.4 million, higher maintenance costs of $5.9 million and increased delivery costs of $4.3 million. Additionally, Cinelease and other 2012 equipment rental segment acquisitions added to the increase of fleet related expenses. These increases were partly offset by the effects of foreign currency translation of approximately $1.9 million.
+
+Personnel related expenses for our worldwide equipment rental segment of $244.8 million for 2012 increased $22.6 million, or 10.2% from 2011. The increase was attributable to an increase in salaries and related expenses of $18.2 million and an increase in benefits of $4.8 million primarily related to increased volumes and new branch openings. Additionally, Cinelease and other 2012 equipment rental segment acquisitions added to the increase of personnel related expenses. These increases were partly offset by the effects of foreign currency translation of approximately $2.5 million.
+
+Other direct operating expenses for our worldwide equipment rental segment of $311.9 million for 2012 decreased $2.9 million, or 0.9% from 2011. The decrease was primarily related to the effects of foreign currency translation of approximately $2.6 million.
+
+All Other Operations Segment
+
+Direct operating expenses in our all other operations segment of $23.5 million for 2012 increased $13.6 million, or 137.4%, from $9.9 million for 2011 as a result of increases in fleet related expenses, personnel related expenses and other direct operating expenses primarily attributable to a full year of Donlen operations in 2012 as compared to four months of operations in 2011.
+
+Fleet related expenses in our all other operations segment of $0.5 million for 2012 increased $0.2 million, or 81.9%, from 2011.
+
+[p. 61]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Personnel related expenses in our all other operations segment of $24.4 million for 2012 increased $8.3 million, or 51.6%, from 2011. The increase was primarily related to increased salaries and related expenses in our Donlen operations.
+
+Other direct operating expenses in our all other operations segment of $(1.4) million for 2012 increased $5.1 million, or 77.8%, from 2011. The increase was primarily related to expenses in our Donlen operations.
+
+Depreciation of Revenue Earning Equipment and Lease Charges
+
+U.S. Car Rental Segment
+
+Depreciation of revenue earning equipment and lease charges for our U.S. car rental segment of $940.6 million for 2012 decreased $31.1 million, or 3.2% from $971.7 million for 2011. The decrease was primarily due to lower net depreciation per vehicle, higher vehicle residual values and a higher mix of non-program cars. The decrease was partly offset by increases attributable to the higher average fleet due to the Recent Acquisitions.
+
+International Car Rental Segment
+
+Depreciation of revenue earning equipment and lease charges for our international car rental segment of $528.2 million for 2012 decreased $25.0 million, or 4.5% from $553.2 million for 2011. The decrease was primarily due to lower net depreciation per vehicle, higher vehicle residual values, a higher mix of non-program cars and the effects of foreign currency translation of approximately $31.4 million.
+
+Worldwide Equipment Rental Segment
+
+Depreciation of revenue earning equipment and lease charges in our worldwide equipment rental segment of $272.1 million for 2012 increased 7.0% from $254.3 million for 2011. The increase was primarily due to a 9.4% increase in the average acquisition cost of rental equipment operated during the period, partly offset by higher residual values on the disposal of used equipment and the effects of foreign currency translation of approximately $2.5 million.
+
+All Other Operations Segment
+
+Depreciation of revenue earning equipment and lease charges in our all other operations segment of $388.0 million for 2012 increased $271.0 million, or 231.6% from $117.0 million for 2011. The increase was primarily attributable to a full year of Donlen operations in 2012 as compared to four months of operations in 2011.
+
+Selling, General and Administrative Expenses
+
+Selling, general and administrative expenses of $968.1 million for 2012 increased $221.2 million due to increases in administrative, sales promotion and advertising expenses, partly offset by the effects of foreign currency translation of approximately $20.8 million.
+
+Administrative expenses increased $189.3 million, or 38.4%. On a comparable basis, acquisition fees increased $26.0 million, expenses associated with the withdrawal from a multiemployer pension plan increased $23.2 million, contractor costs increased $5.5 million, legal expenses increased $6.4 million, restructuring and restructuring related charges increased by $8.1 million, which is in addition to litigation settlement expenses of $19.2 million. These increases were partly offset by the effects of foreign currency translation of approximately $14.2 million. The remaining 2012 net increase was primarily attributable to the Recent Acquisitions.
+
+Sales promotion expenses increased $12.0 million, or 6.7%, primarily related to increases in sales salaries and commissions due to improved results, partially offset by the effects of foreign currency translation of approximately $2.4 million.
+
+Advertising expenses increased $19.9 million, or 9.3%, primarily due to increased media and on-line advertising, higher airline miles expense associated with increased volume, costs related to our customer loyalty program,
+
+[p. 62]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+partly offset by the effects of foreign currency translation of approximately $4.2 million. The remaining 2012 net increase was primarily attributable to the Recent Acquisitions.
+
+Interest Expense
+
+U.S. Car Rental Segment
+
+Interest expense for our U.S. car rental segment of $176.9 million for 2012 increased 6.5% from $166.1 million for 2011. The increase is primarily due to higher levels of debt required to fund the Recent Acquisitions. The increase was partly offset by debt refinancing activity and lower interest rates in 2012.
+
+International Car Rental Segment
+
+Interest expense for our international car rental segment of $124.2 million for 2012 decreased 22.9% from $161.0 million for 2011. The decrease was primarily due to debt refinancing activity, lower interest rates in 2012 and the effects of foreign currency translation of $8.5 million.
+
+Worldwide Equipment Rental Segment
+
+Interest expense for our worldwide equipment rental segment of $52.0 million for 2012 increased 14.8% from $45.3 million for 2011. The increase was primarily due to increases in the weighted-average debt outstanding as a result of an increase in average fleet size.
+
+All Other Operations Segment
+
+Interest expense for our all other operations segment of $15.2 million for 2012 increased 153.3% from $6.0 million for 2011. The increase is primarily attributable to a full year of Donlen operations in 2012 as compared to four months of operations in 2011.
+
+Other Reconciling Items
+
+Other interest expense relating to interest on corporate debt of $281.6 million for 2012 decreased 12.4% from $321.3 million for 2011. The decrease was primarily due to larger write-offs last year of unamortized debt costs in connection with refinancing activity, lower rates achieved with the refinancing of our Senior Notes and Senior Subordinated Notes and a decrease in the weighted-average debt outstanding and interest rates.
+
+Interest Income
+
+Interest income decreased $0.6 million from the prior year.
+
+Other (Income) Expense, Net
+
+Other (income) expense, net of $35.5 million for 2012 decreased $27.0 million, or 43.2% from $62.5 million for 2011. Primarily included within 2012 other (income) expense, net is a loss on the Advantage divestiture of $31.4 million, expenses related to additional required divestitures and costs associated with the Dollar Thrifty acquisition of $24.2 million, partly offset by a gain from the sale of Switzerland operations of $10.3 million and a gain on the investment in Dollar Thrifty stock of $8.5 million. Other (income) expense, net for 2011 primarily includes premiums paid in connection with the redemption of our 10.5% Senior Subordinated Notes and a portion of our 8.875% Senior Notes.
+
+ADJUSTED PRE-TAX INCOME (LOSS)
+
+U.S. Car Rental Segment
+
+Adjusted pre-tax income for our U.S. car rental segment of $872.8 million increased 29.6% from $673.2 million for 2011. The increase was primarily due to stronger volumes, lower net depreciation per vehicle, improved residual values and disciplined cost management, partly offset by decreased pricing. Adjustments to our U.S. car rental segment income before income taxes for 2012 totaled $165.8 million (which consists of acquisition related costs and charges of $96.4 million, purchase accounting charges of $34.3 million, debt-related charges of $19.2 million, restructuring and restructuring related charges of $10.9 million and other of $5.0 million). Adjustments to our U.S. car rental segment income before income taxes for 2011 totaled $48.7 million (which consists of purchase accounting of $23.6 million,
+
+[p. 63]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+debt-related charges of $21.2 million and restructuring and restructuring related charges of $3.9 million). See footnote (c) to the table under “Results of Operations” for a summary and description of these adjustments.
+
+International Car Rental Segment
+
+Adjusted pre-tax income for our international car rental segment of $92.9 million decreased 36.2% from $145.6 million for 2011. The decrease was primarily due to decreased pricing, partly offset by lower net depreciation per vehicle, improved residual values and disciplined cost management. Adjustments to our international car rental segment income before income taxes for 2012 totaled $47.8 million (which consists of restructuring and restructuring related charges of $23.5 million, debt-related charges of $15.1 million, purchase accounting charges of $8.6 million, other of $0.2 million and loss on derivatives of $0.4 million). Adjustments to our international car rental segment income before income taxes for 2011 totaled $35.8 million (which consists of debt-related charges of $20.2 million, restructuring and restructuring related charges of $18.9 million, purchase accounting of $9.1 million, loss on derivatives of $0.7 million and pension adjustment of $(13.1) million). See footnote (c) to the table under “Results of Operations” for a summary and description of these adjustments.
+
+Worldwide Equipment Rental Segment
+
+Adjusted pre-tax income for our worldwide equipment rental segment of $226.2 million increased 40.2% from $161.3 million for 2011. The increase was primarily due to stronger volumes and pricing, strong cost management performance and higher residual values on the disposal of used equipment. Adjustments to our equipment rental segment income before income taxes for 2012 totaled $74.4 million (which consists of purchase accounting of $44.3 million, other of $15.8 million, restructuring and restructuring related charges of $9.3 million and debt-related charges of $5.0 million). Adjustments to our equipment rental loss before income taxes for 2011 totaled $92.4 million (which consists of purchase accounting of $44.5 million, restructuring and restructuring related charges of $42.4 million and debt-related charges of $5.5 million). See footnote (c) to the table under “Results of Operations” for a summary and description of these adjustments.
+
+All Other Operations Segment
+
+Adjusted pre-tax income for our all other operations segment of $47.6 million increased 217.3% from $15.0 million for 2011. The increase was primarily attributable to a full year of Donlen operations in 2012 as compared to four months of operations in 2011. Adjustments to our all other segment income before income taxes for 2012 totaled $22.6 million (which consists of purchase accounting charges of $18.7 million, debt-related charges of $3.8 million, restructuring related charges of $0.3 million and gain on derivatives of $0.2 million). Adjustments to our all other operations segment income before income taxes for 2011 totaled $9.9 million (which consists of purchase accounting of $6.7 million, debt-related charges of $2.5 million, restructuring related charges of $0.8 million and gain on derivatives of $0.1 million). See footnote (c) to the table under “Results of Operations” for a summary and description of these adjustments.
+
+PROVISION FOR TAXES ON INCOME, NET INCOME ATTRIBUTABLE TO NONCONTROLLING INTEREST AND NET INCOME ATTRIBUTABLE TO HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES' COMMON STOCKHOLDERS
+
+Years Ended December 31,
+(in millions of dollars) | 2012 | 2011 | $ Change | % Change
+Income before income taxes | $441.4 | $305.6 | $135.8 | 44.4%
+Provision for taxes on income | (202.8) | (121.8) | (81.0) | 66.5%
+Net income | 238.6 | 183.8 | 54.8 | 29.8%
+Less: Net income attributable to noncontrolling interest | — | (19.6) | 19.6 | (100.0)%
+Net income attributable to Hertz Global Holdings, Inc.
+and Subsidiaries' common stockholders | $238.6 | $164.2 | $74.4 | 45.3%
+
+Provision for Taxes on Income
+
+The effective tax rate for the year ended December 31, 2012 was 45.9% as compared to 39.9% for the year ended December 31, 2011. The provision for taxes on income increased $81.0 million, primarily due to higher income before
+
+[p. 64]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+income taxes, changes in geographic earnings mix, changes in losses in certain non-U.S. jurisdictions for which tax benefits are not realized and non-deductible compensation payments under Internal Revenue Code Section 280(G) related to the Dollar Thrifty acquisition. See Note 9 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption “Item 8—Financial Statements and Supplementary Data.”
+
+Net Income Attributable to Noncontrolling Interest
+
+Net income attributable to noncontrolling interest decreased $19.6 million due to Hertz's purchase of the noncontrolling interest of Navigation Solutions, L.L.C. on December 31, 2011, thereby increasing its ownership interest from 65% to 100%.
+
+Net Income Attributable to Hertz Global Holdings, Inc. and Subsidiaries' Common Stockholders
+
+Net income attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders increased 45.3% primarily due to higher rental volumes in our U.S. car rental, worldwide equipment rental and all other operations, disciplined cost management, lower net depreciation per vehicle in our U.S. and international car rental operations, increased pricing in our worldwide equipment rental operations and improved residual values on the disposal of certain used equipment, partly offset by lower pricing in our U.S. car rental and international operations. Most revenue and expense transactions from operations outside of the United States are recorded in local currencies, which reduces the effect of changes in exchange rates on net income.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Our domestic and international operations are funded by cash provided by operating activities and by extensive financing arrangements maintained by us in the United States and internationally.
+
+Cash Flows
+
+As of December 31, 2013, we had cash and cash equivalents of $423.2 million, a decrease of $122.3 million from $545.5 million as of December 31, 2012. The following table summarizes such decrease:
+
+Years Ended December 31, | 2013 vs. 2012 | 2012 vs. 2011
+(in millions of dollars) | 2013 | 2012 | 2011 | $ Change | $ Change
+Cash provided by (used in):
+Operating activities | $3,589.6 | $2,709.7 | $2,211.1 | $879.9 | $498.6
+Investing activities | (3,838.8) | (4,726.3) | (2,170.6) | 887.5 | (2,555.7)
+Financing activities | 126.9 | 1,624.6 | (1,486.6) | (1,497.7) | 3,111.2
+Effect of exchange rate changes | — | 5.7 | 3.7 | (5.7) | 2.0
+Net change in cash and cash equivalents | $(122.3) | $(386.3) | $(1,442.4) | $264.0 | $1,056.1
+
+During the year ended December 31, 2013, we generated $879.9 million more cash from operating activities compared with the same period in 2012. The increase was primarily a result of higher earnings before interest, depreciation and amortization as well as due to the timing of our payments.
+
+Our primary use of cash in investing activities is for the acquisition of revenue earning equipment, which consists of cars and equipment. During the year ended December 31, 2013, we used $887.5 million less cash for investing activities compared with the same period in 2012. The decrease in the use of funds was primarily due to a decrease in acquisition costs (as the Dollar Thrifty acquisition occurred during the prior year), increases in proceeds from disposal of revenue earning equipment and in the year-over-year change in restricted cash and cash equivalents, partly offset by an increase in revenue earning equipment expenditures, decrease in proceeds from disposal of business and disposal of property and equipment during the year. As of December 31, 2013 and 2012, we had $859.9 million and $551.6 million, respectively, of restricted cash and cash equivalents to be used for the purchase of revenue earning vehicles and other specified uses under our fleet financing facilities, our Like Kind Exchange Program, or "LKE Program," and to satisfy certain of our self-insurance regulatory reserve requirements. The increase in restricted cash and cash equivalents of $308.3 million from December 31, 2012 to December 31, 2013, primarily related to the increased fleet due to the acquisition of Dollar Thrifty.
+
+[p. 65]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+During the year ended December 31, 2013, cash flows from financing activities decreased by $1,497.7 million compared with the same period in 2012. The decrease was primarily related to the 2012 issuance of incremental Senior Notes and incurrence of incremental Term Loans related to the Dollar Thrifty acquisition and higher payments of pre-funded debt associated with our Senior Note redemptions in the prior year.
+
+Relocation of Headquarters
+
+We anticipate that our expenditures related to the move of our corporate headquarters to Estero, Florida for employee relocation, severance and associated costs will be in the range of $40 million to $45 million to be incurred over the next two years.
+
+The Company intends to lease it's new headquarters building in Estero, Florida and does not expect to incur any significant cash outlays related to its construction.
+
+Capital Expenditures
+
+The tables below set forth the revenue earning equipment and property and equipment capital expenditures and related disposal proceeds on a cash basis consistent with our consolidated statements of cash flows, by quarter for 2013, 2012 and 2011 (in millions of dollars).
+
+Revenue Earning Equipment | Property and Equipment
+Capital Expenditures | Disposal Proceeds | Net Capital Expenditures (Disposal Proceeds) | Capital Expenditures | Disposal Proceeds | Net Capital Expenditures
+2013
+First Quarter | $3,249.8 | $(2,237.9) | $1,011.9 | $80.1 | $(23.5) | $56.6
+Second Quarter | 3,559.3 | (1,504.9) | 2,054.4 | 88.0 | (19.0) | 69.0
+Third Quarter | 2,510.7 | (1,926.4) | 584.3 | 78.3 | (19.8) | 58.5
+Fourth Quarter | 978.6 | (1,594.9) | (616.3) | 67.4 | (10.7) | 56.7
+Total Year | $10,298.4 | $(7,264.1) | $3,034.3 | $313.8 | $(73.0) | $240.8
+2012
+First Quarter | $2,642.5 | $(2,009.3) | $633.2 | $74.2 | $(47.6) | $26.6
+Second Quarter | 3,051.1 | (1,599.0) | 1,452.1 | 63.0 | (8.8) | 54.2
+Third Quarter | 1,990.9 | (1,230.6) | 760.3 | 84.4 | (30.4) | 54.0
+Fourth Quarter | 1,928.3 | (2,286.2) | (357.9) | 75.5 | (35.2) | 40.3
+Total Year | $9,612.8 | $(7,125.1) | $2,487.7 | $297.1 | $(122.0) | $175.1
+2011
+First Quarter | $1,963.8 | $(1,690.2) | $273.6 | $56.8 | $(14.5) | $42.3
+Second Quarter | 3,487.7 | (1,798.7) | 1,689.0 | 68.6 | (13.9) | 54.7
+Third Quarter | 2,397.8 | (1,443.5) | 954.3 | 76.9 | (19.7) | 57.2
+Fourth Quarter | 1,582.6 | (2,918.0) | (1,335.4) | 79.4 | (5.7) | 73.7
+Total Year | $9,431.9 | $(7,850.4) | $1,581.5 | $281.7 | $(53.8) | $227.9
+
+Years Ended December 31, | 2013 vs. 2012 | 2012 vs. 2011
+2013 | 2012 | 2011 | $ Change | % Change | $ Change | % Change
+Revenue earning equipment expenditures
+U.S. car rental | $6,024.3 | $5,067.6 | $5,520.3 | $956.7 | 18.9% | $(452.7) | (8.2)%
+International car rental | 2,593.3 | 2,586.0 | 2,952.9 | 7.3 | 0.3% | (366.9) | (12.4)%
+Worldwide equipment rental | 671.5 | 762.9 | 588.7 | (91.4) | (12.0)% | 174.2 | 29.6%
+All other operations segment | 1,009.3 | 1,196.3 | 370.0 | (187.0) | (15.6)% | 826.3 | 223.3%
+Total | $10,298.4 | $9,612.8 | $9,431.9 | $685.6 | 7.1% | $180.9 | 1.9%
+
+[p. 66]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Year ended December 31, 2013 compared with year ended December 31, 2012
+
+The increase in our U.S. car rental operations revenue earning equipment expenditures was primarily due to the impact from the acquisition of Dollar Thrifty, increased volumes and timing of purchases and payments, partly offset by the impact of the divestiture of Advantage. The increase in our international car rental operations revenue earning equipment expenditures was primarily due to increased volumes in our international operations and timing of purchases and payments. The decreases in our worldwide equipment rental operations and in our all other operations revenue earning equipment expenditures were primarily due to the timing of purchases.
+
+Year ended December 31, 2012 compared with year ended December 31, 2011
+
+The decreases in our U.S. and international car rental operations revenue earning equipment expenditures were primarily due to the shift from the purchase of program cars to more non-program cars, which have much longer holding periods than program cars. The increase in our worldwide equipment rental operations revenue earning equipment expenditures was primarily due to increased volumes as well as continued improvement in the economic conditions during 2012. The increase in all other operations was primarily attributable to a full year of Donlen operations in 2012 as compared to four months of operations in 2011.
+
+Years Ended December 31, | 2013 vs. 2012 | 2012 vs. 2011
+2013 | 2012 | 2011 | $ Change | % Change | $ Change | % Change
+Property and equipment expenditures
+U.S. car rental | $212.9 | $191.2 | $199.2 | $21.7 | 11.3% | $(8.0) | (4.0)%
+International car rental | 47.5 | 55.8 | 35.8 | (8.3) | (14.9)% | 20.0 | 55.9%
+Worldwide equipment rental | 22.3 | 25.2 | 31.1 | (2.9) | (11.5)% | (5.9) | (19.0)%
+All other operations | 3.3 | 2.9 | 0.2 | 0.4 | 13.8% | 2.7 | 1,350.0%
+Other reconciling items | 27.8 | 22.0 | 15.4 | 5.8 | 26.4% | 6.6 | 42.9%
+Total | $313.8 | $297.1 | $281.7 | $16.7 | 5.6% | $15.4 | 5.5%
+
+Year ended December 31, 2013 compared with year ended December 31, 2012
+
+The increase in our U.S. car rental operations property and equipment expenditures was primarily due to technology initiatives and an increase in our operating locations. The decreases in our international car rental operations and worldwide equipment rental operations property and equipment expenditures were primarily due to timing of purchases and payments. The increases in our all other operations and other reconciling items property and equipment expenditures were primarily due to technology initiatives and timing of purchases and payments.
+
+Year ended December 31, 2012 compared with year ended December 31, 2011
+
+The decrease in our U.S. car rental operations property and equipment expenditures was primarily due to timing of purchases and payments, partly offset by increased locations during the year. The increase in international car rental operations property and equipment expenditures was primarily due to increased locations during the year. The decrease in our worldwide equipment rental operations property and equipment expenditures was due to the timing of purchases and payments. The increases in our all other operations and other reconciling items property and equipment expenditures were primarily due to technology initiatives and timing of purchases and payments.
+
+Financing
+
+Our primary liquidity needs include servicing of corporate and fleet related debt, acquisitions, the payment of operating expenses and purchases of rental vehicles and equipment to be used in our operations. Our primary sources of funding are operating cash flows, cash received on the disposal of vehicles and equipment, borrowings under our asset-backed securitizations and our asset-based revolving credit facilities and access to the credit markets generally.
+
+As of December 31, 2013, we had $16,309.4 million of total indebtedness outstanding. Cash paid for interest during the year ended December 31, 2013, was $651.0 million, net of amounts capitalized. Accordingly, we are highly leveraged and a substantial portion of our liquidity needs arise from debt service on our indebtedness and from the funding of our costs of operations, capital expenditures and acquisitions.
+
+Our liquidity as of December 31, 2013 consisted of cash and cash equivalents, unused commitments under our Senior ABL Facility and unused commitments under our fleet debt. For a description of these amounts, see Note 5 to the
+
+[p. 67]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Notes to our audited annual consolidated financial statements included in this Annual Report under caption “Item 8—Financial Statements and Supplementary Data.”
+
+As of December 31, 2013, a requirement under the HVF II Series 2013-B Notes was unknowingly not met, resulting in the occurrence of an amortization event under the HVF II Series 2013-B Notes that also triggered amortization events under certain other series of our outstanding U.S. rental car variable funding notes. As a result of the amortization event, our ability to borrow under these notes was temporarily restricted at December 31, 2013. Upon discovery in January 2014 of such requirement not being met, Hertz promptly obtained waivers from 100% of the noteholders required to waive and cure such amortization events and provided the required notices.
+
+Maturities
+
+The nominal amounts of maturities of debt for each of the twelve-month periods ending December 31 (in millions of dollars) are as follows:
+
+2014 | $2,053.3 | (including $927.2 of other short-term borrowings*)
+2015 | $5,284.5
+2016 | $1,367.5
+2017 | $366.0
+2018 | $3,643.5
+After 2018 | $3,587.8
+
+_______________________________________________________________________________
+
+* | Our short-term borrowings as of December 31, 2013 include, among other items, the Convertible Senior Notes which became convertible on January 1, 2013 and remain as such through March 31, 2014, the amounts outstanding under the European Securitization, Hertz-Sponsored Canadian Securitization, Dollar Thrifty-Sponsored Canadian Securitization, Australian Securitization and Brazilian Fleet Financing Facility. As of December 31, 2013, short-term borrowings had a weighted average interest rate of 3.4%. In February 2014, the Hertz-Sponsored Canadian Securitization and Dollar Thrifty-Sponsored Canadian Securitization had been extended to March 2015. See Note 19 to the Notes to our audited annual consolidated financial statements included in this Annual Report.
+
+We believe that cash generated from operations and cash received on the disposal of vehicles and equipment, together with amounts available under various liquidity facilities will be adequate to permit us to meet our debt maturities over the next twelve months.
+
+From time to time we evaluate our alternatives for the retirement or refinancing of the Convertible Senior Notes at or prior to their maturity on June 1, 2014. Such alternatives could include, without limitation, exchange offers, privately negotiated or market repurchases or exchanges or the discharge of any remaining Convertible Senior Notes at maturity, and the consideration could consist of cash, Hertz Holdings common stock or a combination of cash and common stock. No assurance can be given as to the terms or timing of any such transaction.
+
+In August 2013, we entered into privately negotiated agreements with certain holders of approximately $390.1 million in aggregate principal amount of our Convertible Senior Notes providing for the conversion of Convertible Senior Notes in accordance with the terms of the indenture governing the Convertible Senior Notes. The Convertible Senior Notes were convertible at a rate of 120.6637 shares of Hertz Holdings' common stock for each $1,000 in principal amount of Convertible Senior Notes (with cash delivered in lieu of any fractional shares), which resulted in Hertz Holdings issuing an aggregate of approximately 47.1 million shares of its common stock and paying cash premiums of approximately $11.9 million. Prior to the foregoing conversions, there was approximately $474.7 million in aggregate principal amount of the Convertible Senior Notes outstanding.
+
+For subsequent events relating to our indebtedness, see Note 19 to the Notes to our audited annual consolidated financial statements included in this Annual Report.
+
+Indentures for the Senior Notes
+
+Hertz's obligations under the indentures for the Senior Notes are guaranteed by each of its direct and indirect domestic subsidiaries that is a guarantor under the Senior Term Facility. The guarantees of all of the subsidiary guarantors may be released to the extent such subsidiaries no longer guarantee our Senior Credit Facilities in the United States.
+
+We refer to Hertz and its subsidiaries as the Hertz credit group. The indentures for the Senior Notes contain covenants that, among other things, limit or restrict the ability of the Hertz credit group to incur additional indebtedness, incur guarantee obligations, prepay certain indebtedness, make certain restricted payments (including paying dividends,
+
+[p. 68]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+redeeming stock or making other distributions to parent entities of Hertz and other persons outside of the Hertz credit group), make investments, create liens, transfer or sell assets, merge or consolidate, and enter into certain transactions with Hertz's affiliates that are not members of the Hertz credit group.
+
+Other Financing Risks
+
+A significant number of cars that we purchase are subject to repurchase by car manufacturers under contractual repurchase or guaranteed depreciation programs. Under these programs, car manufacturers agree to repurchase cars at a specified price or guarantee the depreciation rate on the cars during a specified time period, typically subject to certain car condition and mileage requirements. We use book values derived from this specified price or guaranteed depreciation rate to calculate financing capacity under certain asset-backed and asset-based financing arrangements.
+
+In the event of a bankruptcy of a car manufacturer, our liquidity would be impacted by several factors including reductions in fleet residual values and the risk that we would be unable to collect outstanding receivables due to us from such bankrupt manufacturer. In addition, the program cars manufactured by any such company would need to be removed from our financing facilities or re-designated as non-program vehicles, which would require us to furnish additional credit enhancement associated with these program vehicles. For a discussion of the risks associated with a manufacturer's bankruptcy or our reliance on asset-backed and asset-based financing, see "Item 1A—Risk Factors" included in this Annual Report.
+
+We rely significantly on asset-backed and asset-based financing arrangements to purchase cars for our domestic and international car rental fleet. The amount of financing available to us pursuant to these programs depends on a number of factors, many of which are outside our control, including recently adopted legislation, proposed SEC rules and regulations and other legislative and administrative developments. In this regard, there has been uncertainty regarding the potential impact of proposed SEC rules and regulations governing the issuance of asset-backed securities and additional requirements contained in the Dodd-Frank Wall Street Reform and Consumer Protection Act and the Basel III regulatory capital rules, a global regulatory standard on bank capital adequacy, stress testing and market liquidity risk. While we will continue to monitor these developments and their impact on our ABS program, the SEC rules and regulations, once adopted and implemented, may impact our ability and/or desire to engage in asset-backed financings in the future. For further information concerning our asset-backed financing programs and our indebtedness, see Note 5 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption "Item 8—Financial Statements and Supplementary Data." For a discussion of the risks associated with our reliance on asset-backed and asset-based financing and the significant amount of indebtedness, see "Item 1A—Risk Factors" in this Annual Report.
+
+For further information on our indebtedness, see Note 5 to the Notes to our audited annual consolidated financial statements included in this Annual Report.
+
+Covenants
+
+Certain of our debt instruments and credit facilities contain a number of covenants that, among other things, limit or restrict the ability of the borrowers and the guarantors to dispose of assets, incur additional indebtedness, incur guarantee obligations, prepay certain indebtedness, make certain restricted payments (including paying dividends, redeeming stock or making other distributions), create liens, make investments, make acquisitions, engage in mergers, fundamentally change the nature of their business, make capital expenditures, or engage in certain transactions with certain affiliates.
+
+Under the terms of our Senior Term Facility and Senior ABL Facility, we are not subject to ongoing financial maintenance covenants; however, under the Senior ABL Facility, failure to maintain certain levels of liquidity will subject the Hertz credit group to a contractually specified fixed charge coverage ratio of not less than 1:1 for the four quarters most recently ended. As of December 31, 2013, we were not subject to such contractually specified fixed charge coverage ratio.
+
+In addition to borrowings under our Senior Credit Facilities, we have a significant amount of additional debt outstanding. For further information on the terms of our Senior Credit Facilities as well as our significant amount of other debt outstanding, see Note 5 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption "Item 8—Financial Statements and Supplementary Data." For a discussion of the risks associated with our significant indebtedness, see "Item 1A—Risk Factors" in this annual report.
+
+[p. 69]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Borrowing Capacity and Availability
+
+As of December 31, 2013, the following facilities were available for the use of Hertz and its subsidiaries (in millions of dollars):
+
+Remaining Capacity | Availability Under Borrowing Base Limitation
+Corporate Debt
+Senior ABL Facility | $1,156.7 | $1,156.7
+Total Corporate Debt | 1,156.7 | 1,156.7
+Fleet Debt
+HVF U.S. Fleet Variable Funding Notes | 90.0 | —
+HVF II U.S. Fleet Variable Funding Notes | 210.0 | —
+HFLF Variable Funding Notes | 104.0 | —
+U.S. Fleet Financing Facility | 37.0 | —
+European Securitization | 269.5 | 4.1
+European Revolving Credit Facility | — | —
+Hertz-Sponsored Canadian Securitization | 98.1 | —
+Dollar Thrifty-Sponsored Canadian Securitization | 101.8 | —
+Australian Securitization | 110.9 | —
+Capitalized Leases | 19.8 | 19.8
+Total Fleet Debt | 1,041.1 | 23.9
+Total | $2,197.8 | $1,180.6
+
+Our borrowing capacity and availability primarily comes from our "revolving credit facilities," which are a combination of asset-backed securitization facilities and asset-based revolving credit facilities. Creditors under each of our revolving credit facilities have a claim on a specific pool of assets as collateral. Our ability to borrow under each revolving credit facility is a function of, among other things, the value of the assets in the relevant collateral pool. We refer to the amount of debt we can borrow given a certain pool of assets as the "borrowing base."
+
+We refer to "Remaining Capacity" as the maximum principal amount of debt permitted to be outstanding under the respective facility (i.e., the amount of debt we could borrow assuming we possessed sufficient assets as collateral) less the principal amount of debt then-outstanding under such facility.
+
+We refer to "Availability Under Borrowing Base Limitation" as the lower of Remaining Capacity or the borrowing base less the principal amount of debt then-outstanding under such facility (i.e., the amount of debt we could borrow given the collateral we possess at such time).
+
+As of December 31, 2013, the Senior ABL Facility had $1,026.1 million available under the letter of credit facility sublimit, subject to borrowing base restrictions.
+
+Substantially all of our revenue earning equipment and certain related assets are owned by special purpose entities, or are encumbered in favor of our lenders under our various credit facilities.
+
+Some of these special purpose entities are consolidated variable interest entities, of which Hertz is the primary beneficiary, whose sole purpose is to provide commitments to lend in various currencies subject to borrowing bases comprised of rental vehicles and related assets of certain of Hertz International, Ltd.'s subsidiaries. As of December 31, 2013 and December 31, 2012, our International Fleet Financing No. 1 B.V., International Fleet Financing No. 2 B.V. and HA Funding Pty, Ltd. variable interest entities had total assets primarily comprised of loans receivable and revenue earning equipment of $689.7 million and $440.8 million, respectively, and total liabilities primarily comprised of debt of $689.1 million and $440.3 million, respectively.
+
+[p. 70]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Contractual Obligations
+
+The following table details the contractual cash obligations for debt and related interest payable, operating leases and concession agreements, tax liability for uncertain tax positions and related interest and other purchase obligations as of December 31, 2013 (in millions of dollars):
+
+Payments Due by Period
+Total | 2014 | 2015 to 2016 | 2017 to 2018 | After 2018 | All Other
+Debt(1) | $16,302.6 | $2,053.3 | $6,652.0 | $4,009.5 | $3,587.8 | $—
+Interest on debt(2) | 2,499.6 | 574.5 | 882.5 | 717.0 | 325.6 | —
+Operating leases and concession agreements(3) | 2,727.7 | 601.9 | 789.1 | 455.4 | 881.3 | —
+Uncertain tax positions liability and interest(4) | 11.0 | — | — | — | — | 11.0
+Purchase obligations(5) | 4,757.6 | 4,702.9 | 52.2 | 2.2 | 0.3 | —
+Total | $26,298.5 | $7,932.6 | $8,375.8 | $5,184.1 | $4,795.0 | $11.0
+
+(1) | Amounts represent nominal value of debt obligations included in “Debt” in our consolidated balance sheet and include $927.2 million of other short-term borrowings. See Note 5 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption “Item 8—Financial Statements and Supplementary Data.”
+
+Our short-term borrowings as of December 31, 2013 include, among other items, the Convertible Senior Notes which became convertible on January 1, 2013 and remain as such through March 31, 2014, the amounts outstanding under the European Securitization, Hertz-Sponsored Canadian Securitization, Dollar Thrifty-Sponsored Canadian Securitization, Australian Securitization and Brazilian Fleet Financing Facility. In February 2014, the Hertz-Sponsored Canadian Securitization and Dollar Thrifty-Sponsored Canadian Securitization had been extended to March 2015. See Note 19—Subsequent Events.
+
+(2) | Amounts represent the estimated commitment fees and interest payments based on the principal amounts, minimum non-cancelable maturity dates and applicable interest rates on the debt at December 31, 2013.
+
+(3) | Includes obligations under various concession agreements, which provide for payment of rents and a percentage of revenue with a guaranteed minimum, and lease agreements for real estate, revenue earning equipment and office and computer equipment. Such obligations are reflected to the extent of their minimum non-cancelable terms. See Note 10 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption “Item 8—Financial Statements and Supplementary Data.”
+
+(4) | As of December 31, 2013, this represents our tax liability for uncertain tax positions and related net accrued interest and penalties of $8.1 million and $2.9 million, respectively. We are unable to reasonably estimate the timing of our uncertain tax positions liability and interest and penalty payments in individual years beyond twelve months due to uncertainties in the timing of the effective settlement of tax positions. See Note 9 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption “Item 8—Financial Statements and Supplementary Data.”
+
+(5) | Purchase obligations represent agreements to purchase goods or services that are legally binding on us and that specify all significant terms, including fixed or minimum quantities; fixed, minimum or variable price provisions; and the approximate timing of the transaction. Only the minimum non-cancelable portion of purchase agreements and related cancellation penalties are included as obligations. In the case of contracts, which state minimum quantities of goods or services, amounts reflect only the stipulated minimums; all other contracts reflect estimated amounts. Of the total purchase obligations as of December 31, 2013, $4,457.5 million represent fleet purchases where contracts have been signed or are pending with committed orders under the terms of such arrangements. We do not regard our employment relationships with our employees as “agreements to purchase services” for these purposes.
+
+The table excludes our pension and other postretirement benefit obligations. We contributed $18.7 million to our U.S. pension plan during 2013 and expect to contribute between $25.0 million and $35.0 million to our U.S. pension plan during 2014. The level of 2014 and future contributions will vary, and is dependent on a number of factors including investment returns, interest rate fluctuations, plan demographics, funding regulations and the results of the final actuarial valuation. See Note 6 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption “Item 8—Financial Statements and Supplementary Data.”
+
+[p. 71]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Off-Balance Sheet Commitments and Arrangements
+
+As of December 31, 2013 and 2012, the following guarantees (including indemnification commitments) were issued and outstanding:
+
+Indemnification Obligations
+
+In the ordinary course of business, we execute contracts involving indemnification obligations customary in the relevant industry and indemnifications specific to a transaction such as the sale of a business. These indemnification obligations might include claims relating to the following: environmental matters; intellectual property rights; governmental regulations and employment-related matters; customer, supplier and other commercial contractual relationships; and financial matters. Performance under these indemnification obligations would generally be triggered by a breach of terms of the contract or by a third party claim. We regularly evaluate the probability of having to incur costs associated with these indemnification obligations and have accrued for expected losses that are probable and estimable. The types of indemnification obligations for which payments are possible include the following:
+
+Sponsors; Directors
+
+Hertz has entered into customary indemnification agreements with Hertz Holdings, the Sponsors and our stockholders affiliated with the Sponsors, pursuant to which Hertz Holdings and Hertz will indemnify the Sponsors, our stockholders affiliated with the Sponsors and their respective affiliates, directors, officers, partners, members, employees, agents, representatives and controlling persons, against certain liabilities arising out of performance of a consulting agreement with Hertz Holdings and each of the Sponsors and certain other claims and liabilities, including liabilities arising out of financing arrangements or securities offerings. We also entered into indemnification agreements with each of our directors. We do not believe that these indemnifications are reasonably likely to have a material impact on us.
+
+Environmental
+
+We have indemnified various parties for the costs associated with remediating numerous hazardous substance storage, recycling or disposal sites in many states and, in some instances, for natural resource damages. The amount of any such expenses or related natural resource damages for which we may be held responsible could be substantial. The probable expenses that we expect to incur for such matters have been accrued, and those expenses are reflected in our consolidated financial statements. As of December 31, 2013 and 2012, the aggregate amounts accrued for environmental liabilities including liability for environmental indemnities, reflected in our consolidated balance sheets in "Accrued liabilities" were $2.5 million and $2.6 million, respectively. The accrual generally represents the estimated cost to study potential environmental issues at sites deemed to require investigation or clean-up activities, and the estimated cost to implement remediation actions, including on-going maintenance, as required. Cost estimates are developed by site. Initial cost estimates are based on historical experience at similar sites and are refined over time on the basis of in-depth studies of the sites. For many sites, the remediation costs and other damages for which we ultimately may be responsible cannot be reasonably estimated because of uncertainties with respect to factors such as our connection to the site, the materials there, the involvement of other potentially responsible parties, the application of laws and other standards or regulations, site conditions, and the nature and scope of investigations, studies, and remediation to be undertaken (including the technologies to be required and the extent, duration, and success of remediation).
+
+Risk Management
+
+For a discussion of additional risks arising from our operations, including vehicle liability, general liability and property damage insurable risks, see “Item 1—Business—Risk Management” in this Annual Report.
+
+Market Risks
+
+We are exposed to a variety of market risks, including the effects of changes in interest rates (including credit spreads), foreign currency exchange rates and fluctuations in fuel prices. We manage our exposure to these market risks through our regular operating and financing activities and, when deemed appropriate, through the use of derivative financial instruments. Derivative financial instruments are viewed as risk management tools and have not been used for speculative or trading purposes. In addition, derivative financial instruments are entered into with a diversified group of major financial institutions in order to manage our exposure to counterparty nonperformance on such instruments.
+
+[p. 72]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+For more information on these exposures, see Note 15 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption “Item 8—Financial Statements and Supplementary Data.”
+
+Interest Rate Risk
+
+From time to time, we may enter into interest rate swap agreements and/or interest rate cap agreements to manage interest rate risk. See Note 15 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption “Item 8—Financial Statements and Supplementary Data.”
+
+We have a significant amount of debt with variable rates of interest based generally on LIBOR, Euro inter-bank offered rate, or “EURIBOR,” or their equivalents for local currencies or bank conduit commercial paper rates plus an applicable margin. Increases in interest rates could therefore significantly increase the associated interest payments that we are required to make on this debt. See Note 5 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption “Item 8—Financial Statements and Supplementary Data.”
+
+We have assessed our exposure to changes in interest rates by analyzing the sensitivity to our earnings assuming various changes in market interest rates. Assuming a hypothetical increase of one percentage point in interest rates on our debt portfolio as of December 31, 2013, our net income would decrease by an estimated $33.1 million over a twelve-month period.
+
+Consistent with the terms of the agreements governing the respective debt obligations, we may hedge a portion of the floating rate interest exposure under the various debt facilities to provide protection in respect of such exposure.
+
+Foreign Currency Risk
+
+We have foreign currency exposure to exchange rate fluctuations worldwide and primarily with respect to the Euro, Canadian dollar, Australian dollar and British pound.
+
+We manage our foreign currency risk primarily by incurring, to the extent practicable, operating and financing expenses in the local currency in the countries in which we operate, including making fleet and equipment purchases and borrowing locally. Also, we have purchased foreign exchange options to manage exposure to fluctuations in foreign exchange rates for selected marketing programs. The effect of exchange rate changes on these financial instruments would not materially affect our consolidated financial position, results of operations or cash flows. Our risks with respect to foreign exchange options are limited to the premium paid for the right to exercise the option and the future performance of the option's counterparty.
+
+We also manage exposure to fluctuations in currency risk on intercompany loans we make to certain of our subsidiaries by entering into foreign currency forward contracts at the time of the loans which are intended to offset the impact of foreign currency movements on the underlying intercompany loan obligations.
+
+On October 1, 2006, we designated our 7.875% Senior Notes due 2014 as an effective net investment hedge of our Euro-denominated net investment in our international operations. Effective November 1, 2011, we de-designated the net investment hedge.
+
+For the years ended December 31, 2013, 2012 and 2011, our consolidated statement of operations contained realized and unrealized losses relating to the effects of foreign currency of $9.4 million, $10.6 million and $6.7 million, respectively.
+
+See Note 15 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption “Item 8—Financial Statements and Supplementary Data.”
+
+Other Risks
+
+We purchase unleaded gasoline and diesel fuel at prevailing market rates. In January 2009, we began a program to manage our exposure to changes in fuel prices through the use of derivative commodity instruments. For the years ended December 31, 2013, 2012 and 2011, we recognized gains of $2.2 million, $0.7 million and $2.6 million, respectively, in “Direct operating” on our consolidated statement of operations relating to our gasoline swaps. See Note 15 to the Notes to our audited annual consolidated financial statements included in this Annual Report under the caption “Item 8—Financial Statements and Supplementary Data.”
+
+[p. 73]
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of
+
+Operations (Continued)
+
+Inflation
+
+The increased cost of vehicles is the primary inflationary factor affecting us. Many of our other operating expenses are also expected to increase with inflation, including health care costs and gasoline. Management does not expect that the effect of inflation on our overall operating costs will be greater for us than for our competitors.
+
+Income Taxes
+
+In January 2006, we implemented a LKE Program for our U.S. car rental business. Pursuant to the program, we dispose of vehicles and acquire replacement vehicles in a form intended to allow such dispositions and replacements to qualify as tax-deferred "like-kind exchanges" pursuant to section 1031 of the Internal Revenue Code. The program has resulted in deferral of federal and state income taxes for fiscal years 2006 through 2009 and 2013, and part of 2010 and 2012. An LKE Program for HERC has also been in place for several years. The program allows tax deferral if a qualified replacement asset is acquired within a specific time period after asset disposal. Accordingly, if a qualified replacement asset is not purchased within this limited time period, taxable gain is recognized. Over the last few years, for strategic purposes, such as cash management, we have recognized some taxable gains in the program. We cannot offer assurance that the expected tax deferral will continue or that the relevant law concerning the programs will remain in its current form. An extended reduction in our car rental fleet could result in reduced deferrals in the future, which in turn could require us to make material cash payments for federal and state income tax liabilities. Our inability to obtain replacement financing as our fleet financing facilities mature would likely result in an extended reduction in the fleet value. In August 2010, we elected to temporarily suspend the U.S. car rental LKE Program allowing cash proceeds from sales of vehicles to be utilized for various business purposes, including paying down existing debt obligations, future growth initiatives and for general operating purposes. From August 2010 through year end 2011, recognized tax gains on vehicle dispositions resulting from the LKE suspension were more than offset by 100% tax depreciation on newly acquired vehicles. The U.S. car rental LKE Program was reinstated on October 15, 2012. During 2012 the allowable 50% bonus depreciation helped offset tax gains during the period of LKE suspension.
+
+Current year to date dispositions of Hertz Holdings' common stock by certain significant shareholders, when combined with other dispositions of Hertz Holdings' stock over the previous 36 months, have not resulted in a change in control as that term is defined in Section 382 of the Internal Revenue Code. Consequently, there is no limitation on the utilization of all pre-2013 U.S. net operating losses.
+
+The Internal Revenue service completed their audit of the company's 2007 to 2011 tax returns and had no changes to the previously filed tax returns.
+
+Employee Retirement Benefits
+
+Pension
+
+We sponsor defined benefit pension plans worldwide. Pension obligations give rise to significant expenses that are dependent on assumptions discussed in Note 6 to the Notes to our audited annual consolidated financial statements included in this annual report under the caption "Item 8—Financial Statements and Supplementary Data." Our 2013 worldwide pre-tax pension expense is $38.1 million, which represents an increase of $3.4 million from 2012. In general, pension expense increased from 2012 to 2013 due to a decrease in the discount rates used to determine plan benefit obligations and a decrease in the long-term expected asset return assumption. The increase in expense was offset somewhat by higher than assumed investment returns, company contributions to the plans and plan changes reducing future benefit accruals.
+
+The funded status (i.e., the dollar amount by which the projected benefit obligations exceeded the market value of pension plan assets) of our U.S. qualified plan, in which most domestic employees participate, improved as of December 31, 2013, compared with December 31, 2012 because asset values increased due to gains in the securities markets. We contributed $18.7 million to our U.S. pension plan during 2013. We expect to contribute between $25.0 million and $35.0 million to our U.S. plan during 2014. The level of 2014 and future contributions will vary, and is dependent on a number of factors including investment returns, interest rate fluctuations, plan demographics, funding regulations and the results of the final actuarial valuation.
+
+We participate in various "multiemployer" pension plans. In the event that we withdraw from participation in one of these plans, then applicable law could require us to make an additional lump-sum contribution to the plan, and we would have to reflect that as an expense in our consolidated statement of operations and as a liability on our consolidated balance sheet. Our withdrawal liability for any multiemployer plan would depend on the extent of the plan's funding of
+
+vested benefits. Our multiemployer plans could have, significant underfunded liabilities. Such underfunding may increase in the event other employers become insolvent or withdraw from the applicable plan or upon the inability or failure of withdrawing employers to pay their withdrawal liability. In addition, such underfunding may increase as a result of lower than expected returns on pension fund assets or other funding deficiencies. The occurrence of any of these events could have a material adverse effect on our consolidated financial position, results of operations or cash flows. For a discussion of the risks associated with our pension plans, see “Item 1A—Risk Factors” in this Annual Report.
+
+During 2012, Hertz completely withdrew employees from an existing multi-employer pension plan with the Central States Pension Fund, or the "Pension Fund," and entered into a new agreement with the Pension Fund. In connection with the complete withdrawal from the Pension Fund, Hertz was subject to a withdrawal liability of approximately $24.1 million, substantially all of which was paid in December 2012.
+
+Effective January 1, 2014, The Hertz Corporation Account Balance Defined Benefit Pension Plan will be amended to provide a maximum annual compensation credit equal to 5.0% of eligible compensation paid to all plan members who are hired or rehired before January 1, 2014, unless as of December 31, 2013 the member has at least 120 months of continuous service, in which case the member continues with an annual credit of 6.5%. All Hertz employees who are hired on or after January 1, 2014 and Dollar Thrifty employees who become plan members on or after January 1, 2014 are eligible for a flat 3.0% annual compensation credit, regardless of the member's number of months of continuous service. This plan change is expected to have a favorable impact on the amount of pension expense recorded in 2013 of $2.8 million.

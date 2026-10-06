@@ -1,0 +1,50 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q2 2013 (three and six months ended 30 Jun 2013), filed 2013-08-02. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 9: Employee Retirement Benefits. https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm
+
+[p. 19]
+
+Note 9—Employee Retirement Benefits
+
+The following table sets forth the net periodic pension and postretirement (including health care, life insurance and auto) expense (in millions of dollars):
+
+Pension Benefits | Postretirement Benefits (U.S.)
+U.S. | Non-U.S.
+Three Months Ended June 30,
+2013 | 2012 | 2013 | 2012 | 2013 | 2012
+Components of Net Periodic
+Benefit Cost:
+Service cost | $7.1 | $7.0 | $0.7 | $0.3 | $— | $0.1
+Interest cost | 6.9 | 7.4 | 2.3 | 2.3 | 0.1 | 0.2
+Expected return on plan assets | (7.5) | (8.0) | (3.2) | (3.0) | — | —
+Net amortizations | 4.0 | 3.2 | 0.1 | (0.1) | 0.1 | —
+Net pension /
+postretirement expense | $10.5 | $9.6 | $(0.1) | $(0.5) | $0.2 | $0.3
+
+Pension Benefits | Postretirement Benefits (U.S.)
+U.S. | Non-U.S.
+Six Months Ended June 30,
+2013 | 2012 | 2013 | 2012 | 2013 | 2012
+Components of Net Periodic
+Benefit Cost:
+Service cost | $14.4 | $13.3 | $1.3 | $0.6 | $0.1 | $0.2
+Interest cost | 13.6 | 13.9 | 4.6 | 4.6 | 0.3 | 0.4
+Expected return on plan assets | (15.0) | (15.3) | (6.3) | (6.0) | — | —
+Net amortizations | 8.3 | 6.0 | 0.2 | (0.1) | 0.1 | —
+Net pension /
+postretirement expense | $21.3 | $17.9 | $(0.2) | $(0.9) | $0.5 | $0.6
+
+Our policy for funded plans is to contribute annually, at a minimum, amounts required by applicable laws, regulations and union agreements. From time to time we make contributions beyond those legally required. For the three and six months ended June 30, 2013, we contributed $6.9 million and $10.6 million, respectively, to our worldwide pension plans. For the three and six months ended June 30, 2012, we contributed $11.8 million and $32.2 million, respectively, to our worldwide pension plans. We expect to contribute between $10 million and $20 million to our U.S. plan during the remainder of 2013. The level of future contributions will vary, and is dependent on a number of factors including investment returns, interest rate fluctuations, plan demographics, funding regulations and the results of the final actuarial valuation.
+
+We also sponsor postretirement health care and life insurance benefits for a limited number of employees with hire dates prior to January 1, 1990. The postretirement health care plan is contributory with participants' contributions adjusted annually. An unfunded liability is recorded. We also have a key officer postretirement car benefit plan that
+
+[p. 20]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+provides the use of a vehicle from our fleet and insurance for the participants' benefit for retired Executive Vice Presidents and above who have a minimum of 20 years of service and who retire at age 58 or above. The assigned car benefit is available for 15 years postretirement or until the participant reaches the age of 80, whichever occurs last.
+
+We participate in various "multiemployer" pension plans. In the event that we withdraw from participation in one of these plans, then applicable law could require us to make an additional lump-sum contribution to the plan, and we would have to reflect that as an expense in our consolidated statement of operations and as a liability on our condensed consolidated balance sheet. Our withdrawal liability for any multiemployer plan would depend on the extent of the plan's funding of vested benefits. At least one multiemployer plan in which we participate is reported to have, and other of our multiemployer plans could have, significant underfunded liabilities. Such underfunding may increase in the event other employers become insolvent or withdraw from the applicable plan or upon the inability or failure of withdrawing employers to pay their withdrawal liability. In addition, such underfunding may increase as a result of lower than expected returns on pension fund assets or other funding deficiencies. The occurrence of any of these events could have a material adverse effect on our consolidated financial position, results of operations or cash flows.
+
+During 2012, Hertz completely withdrew employees from an existing multi-employer pension plan with the Central States Pension Fund, or the "Pension Fund," and entered into a new agreement with the Pension Fund. In connection with the complete withdrawal from the Pension Fund, Hertz was subject to a withdrawal liability of approximately $23.2 million, which was paid in December 2012.

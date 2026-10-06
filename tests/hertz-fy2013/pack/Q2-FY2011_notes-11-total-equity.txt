@@ -1,0 +1,55 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q2 2011 (three and six months ended 30 Jun 2011), filed 2011-08-05. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 11: Total Equity. https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm
+
+[p. 22]
+
+Note 11—Total Equity
+
+Common Stock | Accumulated Other Comprehensive Income (Loss)
+Preferred Stock | Additional Paid-In Capital | Accumulated Deficit | Non- controlling Interest | Total Equity
+(in Millions) | Shares | Amount
+December 31, 2010 | $— | 413.5 | $4.1 | $3,183.2 | $(1,110.4) | $37.9 | $16.5 | $2,131.3
+Net loss attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | (77.6) | (77.6)
+Translation adjustment changes, net of tax | 58.7 | 58.7
+Unrealized holding gains on securities, net of tax | 1.2 | 1.2
+Unrealized gain on Euro-denominated debt, net of tax | (14.9) | (14.9)
+Defined benefit pension plans, net of tax | 14.4 | 14.4
+Total Comprehensive Loss | (18.2)
+Net income relating to noncontrolling interest | 8.7 | 8.7
+Dividend payment to noncontrolling interest | (10.5) | (10.5)
+Employee stock purchase plan | 0.1 | 2.0 | 2.0
+Net settlement on vesting of restricted stock | 1.2 | (11.4) | (11.4)
+Stock-based employee compensation charges, net of tax | 16.6 | 16.6
+Exercise of stock options, net of tax | 1.6 | 0.1 | 11.6 | 11.7
+Common shares issued to Directors | 1.4 | 1.4
+June 30, 2011 | $— | 416.4 | $4.2 | $3,203.4 | $(1,188.0) | $97.3 | $14.7 | $2,131.6
+
+[p. 23]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Accumulated Other Comprehensive Income (Loss)
+Common Stock
+Preferred Stock | Additional Paid-In Capital | Accumulated Deficit | Non- controlling Interest | Total Equity
+(in Millions) | Shares | Amount
+December 31, 2009 | $— | 410.2 | $4.1 | $3,141.7 | $(1,062.3) | $(3.3) | $17.2 | $2,097.4
+Net loss attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | (175.5) | (175.5)
+Change in fair value of derivatives qualifying as cash flow hedges, net of tax | 29.0 | 29.0
+Translation adjustment changes, net of tax | (83.2) | (83.2)
+Unrealized gain on Euro-denominated debt, net of tax | 27.6 | 27.6
+Defined benefit pension plans, net of tax | (0.9) | (0.9)
+Total Comprehensive Loss | (203.0)
+Dividend payment to noncontrolling interest | (7.5) | (7.5)
+Net income relating to noncontrolling interest | 8.2 | 8.2
+Employee stock purchase plan | 0.2 | 1.2 | 1.2
+Net settlement on vesting of restricted stock | 1.5 | (5.7) | (5.7)
+Stock-based employee compensation charges, net of tax | 19.3 | 19.3
+Exercise of stock options, net of tax | 2.3 | 2.3
+Common shares issued to Directors | 1.3 | 1.3
+Phantom shares issued to Directors | 0.1 | 0.1
+Proceeds from disgorgement of stockholder short-swing profits, net of tax | 0.1 | 0.1
+June 30, 2010 | $— | 411.9 | $4.1 | $3,160.3 | $(1,237.8) | $(30.8) | $17.9 | $1,913.7
+
+Accumulated other comprehensive income as of June 30, 2011 and December 31, 2010 includes accumulated translation gains of $173.6 million and $114.9 million, respectively, pension benefits of $(55.8) million and $(70.2) million, respectively, unrealized losses on our Euro-denominated debt of $(21.7) million and $(6.8) million, respectively, and unrealized holding gains of $1.3 million and $0.1 million respectively.

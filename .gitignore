@@ -1,0 +1,17 @@
+# raw EDGAR downloads: re-fetched by the build scripts
+test-data/_build/cache/
+tests/*/build/raw/
+
+# the held-back company and its key never leave this machine
+companies/_held-back/
+tests/_held-back/
+test-data/_held-back/
+
+# secrets and local state
+.env
+.env.*
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+~$*

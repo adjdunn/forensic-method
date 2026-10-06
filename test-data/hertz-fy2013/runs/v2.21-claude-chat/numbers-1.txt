@@ -1,0 +1,159 @@
+=== page 1 ===
+Hertz Global Holdings, Inc.: financial statement scan
+Fiscal years 2010 to 2013 and the fourth quarter of 2013 against the fourth quarter of 2012. Figures in USD millions unless
+stated. These are things to check, not findings.
+Measure
+FY2010
+FY2011
+FY2012
+FY2013
+Q4 2012
+Q4 2013
+Industry
+Days sales outstanding
+65.5
+71.1
+76.5
+51.3
+74.8
+54.4
+42.0
+Days inventory
+5.2
+4.7
+5.6
+4.1
+5.4
+4.1
+Days payable
+56.6
+50.6
+52.7
+42.7
+50.9
+42.8
+Receivables growth − revenue growth (pts)
++9.4
++8.0
+−39.2
++1.6
+−30.0
+Inventory growth − cost growth (pts)
+−9.1
++18.5
+−31.9
++12.0
+−27.9
+Payables growth − cost growth (pts)
+−11.2
++4.0
+−22.3
+−2.6
+−18.3
+Allowance, % of gross receivables
+1.4
+1.2
+1.3
+2.0
+Gross margin, %
+18.7
+22.0
+23.0
+23.2
+22.1
+18.5
+Operating margin, %
+9.9
+13.0
+12.5
+13.7
+7.8
+9.9
+5.9
+Accruals, % of average assets
+−11.6
+−12.1
+−13.5
+Free cash flow, $m
+1,107.0
+347.7
+−82.9
+241.5
+Net income, $m
+−31.3
+195.7
+243.1
+346.2
+−36.8
+−0.6
+Depreciation rate, rental equipment, %
+16.1
+15.2
+14.3
+Depreciation rate, other property, %
+7.6
+7.3
+7.9
+Beneish M-score
+−2.93
+−2.72
+−3.24
+Receivables, % of sales
+17.9
+19.5
+20.9
+14.0
+11.5
+Inventory, % of sales
+1.2
+1.0
+1.2
+0.9
+0.5
+Payables, % of sales
+12.6
+10.8
+11.1
+9.0
+4.5
+Capital spending ÷ depreciation
+0.58
+0.91
+1.21
+1.28
+1.4
+Cost line: direct operating plus depreciation of revenue earning equipment and lease charges. Substitutes: other property at
+cost includes land; the M-score uses total liabilities ÷ total assets for leverage and cash, receivables, inventories and
+prepaid expenses as current assets; both Q4 income statements come from the FY2013 results release (the spreadsheet's
+Q4 2013 is mixed basis); rental depreciation is the Note 8 charge before the disposal adjustment, FY2011–13 as shown in
+the FY2013 report. Industry: Transportation averages (rental and leasing has no row of its own).
+Flags, largest first
+1.  Receivables fell 19.8% in FY2013 while revenue rose 19.4%, taking days sales outstanding from 76.5 to 51.3 (Q4: 74.8 to
+ 54.4) after two years of increases. Vehicle-sale proceeds sitting in receivables fell from $617.3m to $357.3m, and the
+end-2012 balance included Dollar Thrifty, acquired November 2012 (2012 acquisitions outflow $1,904.6m).
+Size: 113% of pre-tax income ($746m: receivables at FY2012 days, $2,258.9m, less the $1,512.6m balance). It has run
+one year.
+2.  Payables are 9.0% of sales against 4.5% for the industry, which is the Transportation group, not rental and leasing.
+ Payables include amounts owed for fleet purchases ($289.1m sat in payables and accrued liabilities at end-2013).
+Size: 73% of pre-tax income ($483m: the $967.9m balance less 4.5% of sales). The share exceeds 4.5% at all four
+year-ends, though the industry figure is for 2013 only.
+3.  Payables fell 3.1% in FY2013 while costs rose 19.2%, taking days payable from 52.7 to 42.7 (Q4: 50.9 to 42.8). The
+ end-2012 balance included Dollar Thrifty's payables against about six weeks of its costs.
+Size: 34% of pre-tax income ($226m: payables at FY2012 days, $1,194.2m, less the $967.9m balance). It has run one
+year, and two Q4 comparisons (52.1, 50.9, 42.8).
+4.  The depreciation rate on rental equipment fell from 16.1% (FY2011) to 15.2% to 14.3%. Note 8 reports rate reductions
+ on U.S. rental cars that cut the charge by $139.4m in 2012 and $44.2m in 2013, and the adjustment on disposal swung
+from a $96.8m gain to a $37.2m loss.
+Size: 23% of pre-tax income ($152m: the charge at the FY2012 rate on average gross rental equipment of $16,878.9m,
+less the $2,407.8m taken). It has run two years.
+5.  Q4 gross margin fell from 22.1% to 18.5% while the full-year margin held (23.0% to 23.2%). Direct operating costs rose
+ from 54.2% to 56.3% of revenue, and depreciation and lease charges from 23.7% to 25.2%.
+Size: 14% of pre-tax income ($90m: the 3.5-point fall times Q4 revenue of $2,556.3m; the quarter's revenue is used, not
+the year's, because the fall is one quarter's). It has run one Q4 comparison.
+Revised figures: the FY2013 annual report lowered pre-tax income by $18.7m for FY2011 (324.3 to 305.6) and $9.1m for
+FY2012 (450.5 to 441.4), net income by $11.9m and $4.5m, and end-2012 equity by $21.1m (2,507.3 to 2,486.2); the
+fiscal-year columns above are as first reported.
+Not calculated: Q4 accruals and free cash flow (the releases give no quarterly operating cash flow and the spreadsheet's
+Q4 2013 cash flow is mixed basis); quarterly depreciation rates (the note is annual); FY2010 growth gaps, accruals,
+depreciation rates and M-score (no 2009 balance sheet); land and construction in progress (not shown separately); industry
+gross margin.

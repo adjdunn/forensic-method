@@ -1,0 +1,1212 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), definitive proxy statement (DEF 14A) filed 2012-04-05. Section "Executive Compensation": named executive officers, Compensation Discussion and Analysis, Compensation Committee Report and compensation tables. https://www.sec.gov/Archives/edgar/data/1364479/000104746912003900/a2208637zdef14a.htm
+
+[p. 31]
+
+EXECUTIVE COMPENSATION
+
+Named Executive Officers
+
+We refer to the following individuals as our "named executive officers":
+
+•
+
+Mark P. Frissora, who is our Chief Executive Officer ("CEO") and the Chairman of our Board;
+
+•
+
+Elyse Douglas, who is our Chief Financial Officer ("CFO") and one of our Executive Vice Presidents;
+
+•
+
+Scott Sider, who is our President, Vehicle Rental and Leasing, The Americas and one of our Executive Vice Presidents;
+
+•
+
+Michel Taride, who is our President, Hertz International and one of our Executive Vice Presidents;
+
+•
+
+J. Jeffrey Zimmerman, who is our General Counsel, Secretary and one of our Senior Vice Presidents; and
+
+•
+
+Michael J. Senackerib, who was our Chief Marketing Officer and one of our Senior Vice Presidents until his resignation on December 6, 2011.
+
+The named executive officers are our CEO and CFO, our three other most highly compensated executive officers, as compensation is determined under the SEC's rules as of December 31, 2011, and one additional individual.
+
+Compensation Discussion and Analysis
+
+Executive Summary
+
+For 2011, we reported record results. Worldwide revenues for fiscal 2011 were $8.3 billion, an increase of 9.7% over the prior year. Worldwide car rental revenues for the year increased 9.2% to $7.1 billion. Revenues from worldwide equipment rental for the year increased 13.0% to $1,209.5 million. Corporate EBITDA for 2011 was $1,389.5 million, an increase of 26.3% from 2010. Full year 2011 net income was $176.2 million or $0.40 per share on a diluted basis, compared with a net loss of $48.7 million, or $0.12 per share on a diluted basis, for 2010. Corporate EBITDA is a non-GAAP financial measure, which is generally consolidated net income before net interest expense (other than interest expense relating to certain car rental fleet financing), consolidated income taxes, consolidated depreciation (other than depreciation related to the car rental fleet) and amortization and before certain other items, in each case as more fully defined in the agreements governing Hertz's senior credit facilities. For a further discussion of Corporate EBITDA and the manner in which our CN&G Committee uses Corporate EBITDA as a performance metric, see "Long-Term Equity Incentives—Performance Stock Units." We disclosed our Corporate EBITDA, as well as detailed reconciliations of this non-GAAP measure, in our quarterly earnings releases.
+
+We believe that a skilled and motivated team of senior executives is essential to building lasting stockholder value. We also understand that our senior executives are highly sought after. Therefore, we have structured our compensation programs to provide our named executive officers and other senior executives with levels of compensation that we believe are necessary to retain their services and to avoid the disruption and expense associated with unintended executive departures. Our short- and long-term incentive programs are also intended to reward our executives for performance measured against established goals that are important to us and to align our executives' interests with those of our stockholders.
+
+With respect to compensation for 2011, we implemented a number of measures intended to: (i) further align our compensation practices with our "pay-for-performance" compensation philosophy,
+
+[p. 32]
+(ii) adapt our compensation structure to the current economic and strategic environment and (iii) reward positive operational and financial performance that we believe enhances stockholder value over time. Specifically:
+
+•
+
+As part of our general salary review, we increased all of our named executive officers' base salaries after an evaluation of each respective officer's performance in 2010 as well as the market compensation paid for comparable roles in the Survey Group in order to maintain internal pay equity among our named executive officers and competitiveness within the Survey Group.
+
+•
+
+Due to our strong operating performance in 2011, EICP awards and performance stock units were earned by our named executive officers in an amount that exceeded the targets established by the former Compensation Committee for these awards.
+
+•
+
+To further support our "pay-for-performance" philosophy, the former Compensation Committee granted Mr. Frissora the contingent right to receive 193,798 performance stock units. For these performance stock units to vest, the trailing average price of our common stock must equal or exceed $20 per share during any 20 day trading period occurring prior to March 2, 2016 and subject to Mr. Frissora's continued employment with the Corporation through the last to occur of either 3 years from the date of grant or when the performance conditions are satisfied. At date of grant, the Corporation's common stock price was $14.60.
+
+•
+
+In order to emphasize the achievement of longer-term results, we revised our approach to the awarding of performance stock units to our named executive officers by making achievement of target (100% payout) awards more difficult by using stretch goals that exceeded our business plan. As explained in more detail below, executive officers will have the ability to increase the performance stock unit awards if the operating results for the combined 2011-2012 years reach a higher performance level than the operating results for 2011. We believe that this change will drive better year-over-year operating results and increase the focus of management on long-term performance. We decided to continue our policy of awarding long-term equity through a mix of 50% stock options and 50% performance stock units to enhance alignment with stockholder returns and to instill accountability for long-term financial results.
+
+•
+
+We increased the amount of weight Economic Value Added, or "EVA®," contributes as a performance metric under the 2011 Executive Incentive Compensation Plan (or "EICP"), because we believe that EVA is a performance metric that is highly correlated with strong stockholder returns, reflecting our ability to earn profits in excess of our capital costs, and its use in our executive compensation program provides cost-effective benefits to our stockholders. We continued to use adjusted pre-tax income ("API") and revenue as EICP performance metrics because we feel that these metrics are important to our continued growth and profitability.
+
+•
+
+We revised strategic performance goals for our business units (Hertz Rent-A-Car Americas, Hertz Rent-A-Car International and Hertz Equipment Rental) to emphasize our most important factors for continued operational success. For Hertz Rent-A-Car Americas and Hertz Rent-A-Car International, our strategic goals were improving the competitiveness of the Hertz classic and Advantage brands, customer satisfaction and employee satisfaction. For Hertz Equipment Rental, the strategic performance goals focused on growth in certain specified equipment services, fleet efficiencies and employee satisfaction.
+
+•
+
+At our 2011 Annual Meeting, our stockholders expressed their approval of our compensation paid to our named executive officers. We received a 91% approval rate for the advisory vote on executive compensation, which we believe is a satisfactory approval rate.
+
+[p. 33]
+Role of the Compensation, Nominating and Governance Committee in Setting Executive Compensation
+
+Our Compensation, Nominating and Governance Committee, which replaced our former Compensation Committee and Executive and Governance Committee on March 31, 2011, performs many of the functions formerly undertaken by our former Compensation Committee and Executive and Governance Committee. In this proxy statement, unless the context indicates otherwise, references to our "CN&G Committee" refer to our Compensation, Nominating and Governance Committee for periods on or subsequent to March 31, 2011 and our former Compensation Committee and Executive and Governance Committee, as appropriate, for periods prior to March 31, 2011.
+
+The CN&G Committee reviews and establishes the compensation structure for our senior executives. To assist it in doing so, the CN&G Committee has the authority to retain outside advisors as it deems appropriate. Since July 2008, the CN&G Committee has engaged Semler Brossy as its compensation consultant to provide advice and information at the CN&G Committee's request. Semler Brossy's main responsibilities include: (i) providing recommendations and criteria regarding our Survey Group (as defined below), (ii) reviewing and advising on total executive compensation, including base salaries, short- and long-term incentive programs and relevant performance goals, (iii) advising on industry trends, important legislation and best practices in executive compensation, (iv) advising on how to best align pay with performance and (v) assisting the CN&G Committee with any other matters related to executive compensation arrangements, including executive officer employment agreements. The CN&G Committee reviews our compensation programs in light of Semler Brossy's recommendations and adjusts compensation as the CN&G Committee sees fit. However, the decisions made by the CN&G Committee are the responsibility of the CN&G Committee, and may reflect factors other than the recommendations and information provided by Semler Brossy. Semler Brossy has neither been engaged by nor advised management on any non-executive compensation matters.
+
+In determining the appropriate levels of our compensation programs, our CEO provides input to the CN&G Committee on topics that he believes are important, such as the appropriate amount of base salary for named executive officers (other than himself), performance criteria, numerical performance goals and appropriate target performance levels. As part of this process, our CEO obtains data from and has discussions with our Chief Human Resources Officer. As described in more detail below, our CEO conducts performance reviews with respect to the other executive officers of the Corporation, the results of which may affect our executive officers' base salaries and annual bonus levels. In addition, the CN&G Committee regularly confers with the Lead Director when making compensation decisions. For additional information, see "—Chairman, Chief Executive Officer and Lead Director Positions." Our CN&G Committee may give weight to our CEO's and Lead Director's input in its discretion, but in all cases, the final determinations with respect to our compensation programs reside with the CN&G Committee or, if requested by the Board, in the case of our CEO, with the independent members of our Board.
+
+Elements of our Compensation Programs
+
+Our compensation programs consist primarily of (i) base salary, (ii) annual performance-based incentive (cash) compensation, (iii) long-term equity incentive compensation and (iv) retirement benefits. We also provide our executives with limited perquisites, and we maintain severance arrangements that would provide our executives with additional compensation in the event of certain qualifying terminations of employment. In order to support our "pay-for-performance" compensation philosophy, a portion of our executive officers' compensation is delivered in the form of performance-dependent, short- and long-term incentive programs. Actual pay varies based upon our corporate performance, business unit performance and individual performance objectives, as more fully described below.
+
+[p. 34]
+When determining the appropriate levels of our compensation programs, we compare the compensation for our senior executives to the compensation of comparable positions at a group of companies (the "Survey Group"). The Survey Group was selected by the CN&G Committee in consultation with Semler Brossy. Because the number of our direct competitors in the global market is limited, we do not limit the Survey Group to only direct competitors in our industry, but also include similarly-sized companies that are in the consumer discretionary, consumer staples, industrials, materials and information technology—software and services sectors. These industries were selected because of the fact that successful companies within these industries frequently bear substantial similarities to the Corporation's business model, including that their businesses (i) are asset-intensive, (ii) require frequent customer contact and (iii) involve the need to maintain favorable brand recognition. Moreover, certain industries with substantially different pay practices, such as financial services, were specifically excluded. The companies in the Survey Group had annual revenues of approximately $6 to $13 billion, as compared to the Corporation's revenue of $8.3 billion. We include a relatively large number (60) of companies in the Survey Group, in part because we believe that doing so helps to reduce the influence of outliers. The data from the Survey Group is also size-adjusted using regression analysis, where appropriate, to account for the differences in revenue among Survey Group members. The following are the companies that comprise our Survey Group against which certain elements of our compensation programs, as more specifically described below, were compared to in 2011:
+
+Air Products and Chemicals Inc. | Masco Corp.
+Automatic Data Processing Inc. | McGraw-Hill Companies (The)
+Avery Denison Corp. | MeadWestvaco Corp.
+Ball Corp. | Monsanto Co.
+BJ's Wholesale Club, Inc. | Mosaic Company (The)
+Cablevision Systems Corp. | Navistar International Corp.
+Campbell Soup Co. | Newmont Mining Corp.
+Carnival Corp. | Norfolk Southern Corp.
+CBS Corp. | Office Depot Inc.
+CH Robinson Worldwide Inc. | Oshkosh Corp
+ConAgra Foods Inc. | Owens-Illinois Inc.
+CSX Corp. | Parker-Hannifin Corp.
+Darden Restaurants Inc. | PPG Industries Inc.
+Dean Foods Co. | Praxair Inc.
+Eastman Kodak Co. | R.R. Donnelley & Sons Co.
+Eaton Corp. | SAIC Inc.
+eBay Inc. | Sherwin-Williams Co. (The)
+Ecolab Inc. | Southwest Airlines Co.
+Fortune Brands Inc. | Starbucks Corp.
+Goodrich Corp. | Textron Inc.
+Great Atlantic & Pacific Tea Co. Inc. (The) | Thomson-Reuters Corp.
+Heinz (HJ) Co. | TRW Automotive Holdings Corp.
+Hormel Foods Corp. | United States Steel Corp.
+Huntsman Corp. | V. F. Corp.
+ITT Corp. | Visa Inc.
+Jacobs Engineering Group Inc. | Visteon Corp.
+KBR Inc. | Waste Management Inc.
+Kellogg Co. | Whole Foods Market Inc.
+Lear Corp. | Yahoo! Inc.
+Marriott International Inc. | YUM! Brands Inc.
+
+When making compensation decisions for our senior executives, our management and our CN&G Committee consider the compensation levels of the Survey Group, as well as industry factors, general business developments, corporate, business unit and individual performance and our overall "pay-for-performance" compensation philosophy. We typically review the base salaries, annual bonus
+
+[p. 35]
+levels and long-term equity awards of our named executive officers and other senior executives every 12 months, and we periodically (but not on a set schedule) review the other elements of their compensation.
+
+Response to 2011 Advisory Vote on Executive Compensation
+
+In 2011, we conducted an advisory vote on executive compensation. This non-binding, advisory vote was supported by our stockholders as set forth below.
+
+•
+
+350,637,338 "For" votes, or approximately 91% of the total votes cast.
+
+•
+
+34,992,080 "Against" votes and 96,651 "Abstain" votes, or approximately 9% of the total votes cast.
+
+•
+
+11,651,466 "Broker Non-Votes", which were not counted in the calculation above.
+
+After reviewing the results of the vote, including our approval rate and general surveys of approval rates among a number of companies, our CN&G Committee determined that no changes to the compensation paid to our named executive officers was required as a direct result of the vote. As set forth in "—2012 Annual Cash Incentives (EICP)" and "—2012 Long-Term Equity Awards", our CN&G Committee is continually examining our compensation paid and compensation philosophies to best align the interests of our senior executives and our stockholders.
+
+The Board values the opinions of our stockholders and is committed to considering their opinions in making decisions. If any stockholder wishes to communicate with the Board regarding executive compensation, the Board can be contacted using the procedures outlined in "—Stockholder Communications with the Board" set forth in this proxy statement.
+
+Base Salary
+
+Base salaries are designed to attract and retain executive officers needed to run our business. Salaries are the basis for other performance-driven programs and retirement programs as discussed below. For the named executive officers, the CN&G Committee awards base salary increases after reviewing individual performance, conducting internal compensation comparisons and reviewing competitive market compensation in the Survey Group. For 2011, we generally tried to set base compensation for each of our senior executive officers between the 50th and 75th percentiles of the base compensation paid for comparable positions at the Survey Group, however, we take into account other factors such as an individual's prior experience, total mix of job responsibilities versus market comparables, internal equity, and individual performance when setting base salaries for our senior executive officers as more specifically described below. Accordingly, some of our senior executives' base salaries may exceed the 75th percentile for comparable positions within the Survey Group, while for others it may be below the 50th percentile.
+
+Our CN&G Committee makes base salary determinations in close consultation with our Lead Director and our CEO (except as to his own compensation). We also review base salaries upon promotion or other changes in job responsibility.
+
+[p. 36]
+As the result of our regular, cyclical review of annual base salaries in February 2011, the annual base salaries for our named executive officers were revised as reflected in the following chart.
+
+Name | Initial Base Salary | Adjusted Base Salary
+Mr. Frissora | $1,150,000 | $1,200,000
+Ms. Douglas | $545,000 | $570,000
+Mr. Sider | $500,000 | $550,000
+Mr. Taride(1) | $529,423 | $571,773
+Mr. Zimmerman | $425,000 | $450,500
+Mr. Senackerib | $390,000 | $402,000
+
+(1)
+
+For Mr. Taride, these amounts have been converted to U.S. dollars from pounds sterling at the 12-month average rate of 1.604068.
+
+Below is a summary of the primary considerations our CN&G Committee (or Board, in the case of our CEO) took into account when determining whether, and to what extent, our named executive officers should receive a base salary increase in 2011:
+
+•
+
+Mr. Frissora's base salary was increased after considering the Corporation's 2010 operating performance and his continued success in managing our worldwide expansion in the car and equipment rental industry.
+
+•
+
+Ms. Douglas's base salary was increased after considering her performance in managing the Corporation's financial standing during an economic transition period and the fact that her base salary was below the median for her position, as compared to the Survey Group.
+
+•
+
+Mr. Sider's base salary was increased as part of his previous promotion to President, Vehicle Rental and Leasing, The Americas and his performance in assuming this role.
+
+•
+
+Mr. Taride's base salary was increased pursuant to an agreement providing for increased salary in exchange for Hertz Europe Limited no longer providing him with subsidized housing, as a result of a general increase for the members of our senior executive team and for his performance in managing our worldwide expansion as President of Hertz International.
+
+•
+
+Mr. Zimmerman's base salary was increased because of his performance in handling the Corporation's complex legal needs in 2010 and the fact that his previous salary was below the median for his position, as compared to the Survey Group.
+
+•
+
+Mr. Senackerib's base salary was increased as a result of a general increase for the members of our senior executive team.
+
+Annual Cash Incentive Program (EICP)
+
+EICP Overview
+
+Our named executive officers' compensation includes an annual cash incentive, or EICP award. EICP awards are designed to reward the named executive officers for three performance factors: (i) overall corporate financial performance, (ii) business unit strategic performance, and (iii) individual performance. EICP awards are intended to align our executives' interests with those of our stockholders and reinforce our key strategic initiatives, while taking into account individual performance. EICP awards for 2011 were made to the named executive officers as detailed in the "Non-Equity Incentive Plan Compensation" column of the Summary Compensation Table below.
+
+[p. 37]
+EICP payments for 2011 were paid to our named executive officers under the Hertz Global Holdings, Inc. Senior Executive Bonus Plan ("Senior Executive Bonus Plan"). This plan was approved by our stockholders at the 2010 annual meeting of stockholders and compensation paid under such plan is designed to qualify as tax-deductible to us under Section 162(m) of the Internal Revenue Code (the "Code"). To qualify for such tax deductibility, the Senior Executive Bonus Plan limits the maximum cash incentive bonus payout for our CEO and other participants. The limit is 1% of our earnings before interest, taxes, depreciation and amortization ("EBITDA") for a performance period for our CEO and 0.5% of our EBITDA for a performance period for other participants. When determining the actual amount of cash incentive bonuses to be paid to our named executive officers, the CN&G Committee considers the factors as more specifically described below, but ultimately used its discretion to make the EICP awards pursuant to the Senior Executive Bonus Plan.
+
+How We Determined the 2011 EICP Awards
+
+In November 2010, our CN&G Committee, with the input of our CEO, CFO, Chief Human Resources Officer, Vice President of Global Compensation and Benefits, Semler Brossy and our other senior executive officers, approved the performance criteria to be used to determine annual bonuses for our named executive officers under our EICP for 2011, the relative weighting of those criteria and the variances for the threshold and high performance from the targets applicable to the corporate and business unit performance goals. In addition, for 2011, our CN&G Committee established a Target Award (explained under "Target Awards for 2011" below) for each named executive officer, which is a percentage of the named executive officer's base salary. EICP payments are determined based upon three performance factors, as follows: (i) our overall corporate financial performance, (ii) business unit strategic performance and (iii) individual performance.
+
+At the beginning of 2012, our CN&G Committee approved the EICP award payments for the named executive officers (other than the CEO), and recommended to the Board for approval the award payment for the CEO. To arrive at a payout number, the Target Award was multiplied by modifiers based on corporate financial performance (the "Corporate Performance Modifier"), business unit strategic performance, for individuals reporting to a particular business unit and the weighted average aggregate business unit performance for our CEO, CFO, General Counsel, former Chief Marketing Officer and, due to the CN&G Committee's discretion, the President of Hertz International (the "Business Unit Modifier"), and individual performance goals (the "Individual Performance Modifier"). The formula is illustrated below:
+
+Target Awards for 2011
+
+The Target Award for 2011 was a percentage of the named executive officer's base salary as of December 31, 2011. In general, the CN&G Committee attempts to set the aggregate total annual cash compensation (that is, Target Award and base salary) for all the executives between the 50th and 75th percentiles of annual cash compensation paid for comparable positions at the companies in the Survey Group. However, the CN&G Committee also takes into account the experience and historical performance of each particular executive when determining Target Awards.
+
+[p. 38]
+The 2011 Target Award as percentage of base salary and the named executive officers' base salary as of December 31, 2011 were as follows:
+
+Named Executive Officer | Target Award as a % of Base Salary | Base Salary as of December 31, 2011 | Target Awards
+Mr. Frissora | 150% | $1,200,000 | $1,800,000
+Ms. Douglas | 80% | $570,000 | $456,000
+Mr. Sider | 80% | $550,000 | $440,000
+Mr. Taride(1) | 80% | $571,773 | $457,418
+Mr. Zimmerman | 65% | $450,500 | $292,825
+Mr. Senackerib | 65% | $402,000 | $261,300
+
+(1)
+
+For Mr. Taride, these amounts have been converted to U.S. dollars from pounds sterling at the 12-month average rate of 1.604068.
+
+Corporate Performance Modifier for 2011
+
+The Corporate Performance Modifier, which is the same for each named executive officer, is determined in reference to financial performance targets selected by our CN&G Committee. For 2011, our CN&G Committee chose API, EVA and revenue as the financial performance criteria. The CN&G Committee determined that, for the 2011 EICP, API would be assigned a 40% weight, EVA would be assigned a 40% weight and revenue would be assigned a 20% weight. The CN&G Committee increased the weighting of EVA within the Corporate Performance Modifier from the 2010 EICP weighting because EVA is a metric which, in determining financial performance, takes into account both the expectations of stockholders and cost of capital, both of which are important factors in the operation and expansion of our business.
+
+API as a Corporate Performance Modifier Element
+
+API is an adjusted pre-tax income statistic equal to our income before purchase accounting charges, non-cash interest items, income taxes, minority interest, restructuring expenses, significant one-time items and non-cash "mark-to-market" income and expense. API is an operating statistic determined by reference to our financial statements, but is not calculated in accordance with GAAP. The CN&G Committee used API as a metric because it allows management to assess the operational performance of our business, exclusive of the items mentioned above that do not reflect our operating performance.
+
+EVA as a Corporate Performance Modifier Element
+
+The CN&G Committee continues to believe that EVA, and specifically EVA improvement, should be utilized in our EICP because it is a performance metric that is highly correlated with strong stockholder returns. EVA, unlike API and revenue, is a metric that has a primary emphasis on stockholder expectations of growth. EVA is calculated as net operating profit after taxes less a capital charge and is a registered trademark of Stern Stewart & Co. The CN&G Committee determined that because EVA represents the value created after all costs, including cost of capital, are met, its improvement should be encouraged. The CN&G Committee also determined that the utilization of EVA, and specifically EVA improvement, with its focus on return on capital investments relative to the cost of capital, is an effective means of evaluating and rewarding executive performance. In connection with using EVA as a performance metric, select individuals were provided intensive training on the EVA model by Stern Stewart & Co., electronic learning EVA modules were made available to over 4,000 managers and webinars and other resources were provided to EICP participants to help them reinforce and sustain their EVA training.
+
+[p. 39]
+Revenue as a Corporate Performance Modifier Element
+
+The CN&G Committee also determined that revenue should be used as a performance metric for the 2011 EICP because, as the economy continues to stabilize and improve relative to the last two fiscal years, revenue remains a strong indicator of how our Corporation is performing overall.
+
+How EICP Targets were Established
+
+The CN&G Committee also decided that as the economy improved, a return to annual performance targets for API and revenue would be appropriate. By adopting annual performance targets, our senior executive officers had incentives to focus on business goals for the entirety of 2011 and the need to assign weights to these metrics to account for the seasonality of our business, as our CN&G Committee had done in the past, was eliminated.
+
+With respect to each of the financial performance criteria, a threshold, target and high performance levels were determined by our CN&G Committee for 2011 based upon our business plan that reflects our targeted operating results for the fiscal year, in the case of API and revenue, and shareholder expectations of future growth and the Corporation's valuation in the case of EVA. The CN&G Committee had the discretion to modify financial performance criteria for unforeseen events in order to determine whether the targets were achieved and to reflect changes in our operations or business and any other one-time events which did not otherwise reflect our Corporation's performance. In addition, the CN&G Committee retained discretion to make adjustments to actual financial performance criteria results if exchange rate fluctuations skewed such results for the purposes of determining the payout. The CN&G Committee then compared our actual financial performance to our targeted financial performance (to the extent adjusted by the CN&G Committee) to determine the annual cash bonuses under our EICP.
+
+Calculation of the Corporate Performance Modifier—Targets and Results
+
+We disclosed our actual API, as well as detailed reconciliations of this non-GAAP measure, in our quarterly earnings releases. Annual threshold, target and high performance API levels were determined by the CN&G Committee using the same formula reflected in these quarterly earnings releases.
+
+As explained above, EVA is calculated as net operating profit after taxes less a capital charge, the latter being the product of our cost of capital and the amount of capital employed in our business. We determine net operating profit after taxes as API plus purchase accounting, but we exclude non-fleet interest and the finance portion of our pension expense. In order to account for taxes, we multiply this amount by .65, which is 1 minus the marginal tax rate of 35%. In order to determine the capital charge, we multiply our cost of capital by an amount equal to (i) average equity, plus (ii) average non-fleet debt, plus (iii) average deferred taxes, plus (iv) the adjustments set forth in the following paragraph.
+
+For 2011, when calculating the capital charge figure, (i) our cost of capital was 10.2%, (ii) non-fleet debt equaled our average "Corporate Debt" as defined in our periodic reports on Forms 10-Q and 10-K less 73.5% of the net book value of Hertz Equipment Rental Corporation rental fleet (this figure we deemed to be covered by fleet debt for our EVA calculation) and (iii) we took the following special adjustments into account: (a) adjustments between pretax and adjusted pretax with the exception of non-cash interest and purchase accounting were capitalized and multiplied by 1 minus our marginal tax rate of 35% and (b) any difference between cash operating taxes and economic taxes.
+
+For the purposes of the preceding sentence, cash operating taxes are equal to cash taxes paid plus the tax benefit from the interest expense associated with corporate debt plus taxes saved (paid) due to non-recurring losses (gains). In addition, economic taxes are equal to API, plus purchase accounting, excluding non-fleet interest and the finance portion of our pension expense plus purchase accounting, multiplied by a marginal tax rate of 35%. The CN&G Committee at the end of each year approves the calculation of EVA results for the year and the EVA change from the previous year.
+
+[p. 40]
+For financial performance criteria, linear interpolation was used to determine the multiplier for results that were between the threshold and target and target and high performance level. However, for API and revenue, if our performance had exceeded the high performance level, then the slope of the payout curve above the high performance level would have been half of the slope of the payout curve between the threshold and high performance level, and for EVA, if our performance level had exceeded the high performance level, the slope of the payout curve above the high performance level would have been equal to the slope of the curve between the threshold and high performance level. There are no caps on the EICP awards, but the overall payouts are subject to the limits discussed in "Annual Cash Incentive Program (EICP)—EICP Overview."
+
+The following were the fiscal 2011 financial performance criteria targets set by the CN&G Committee and our disclosed actual performance as compared to such targets (dollars in millions):
+
+2011 Corporate Performance Modifier
+API (40% Weight) | Revenue (20% Weight) | EVA(1) (40% Weight)
+Threshold(2) | $472.7 | $7,129.0 | $(68.0)
+Target = 100% Multiplier | $525.2 | $7,921.1 | $82.0
+High Performance Level(3) | $604.0 | $9,109.2 | $232.0
+Actual Results | $680.5 | $8,298.4 | $162.0
+Payout Factor | 189.1% | 119.1% | 153.3%
+Total Modifier | 160.8%
+
+(1)
+
+The EVA figures in the above table represent, for Threshold a decrease of EVA by $68 million, for Target an improvement of EVA by $82 million and for the High Performance Level an improvement of EVA by $232 million.
+
+(2)
+
+Any API or revenue results that equal the Threshold receive a 60% multiplier. Any EVA results that equal the Threshold receive a 0% multiplier.
+
+(3)
+
+Any API or revenue results that equal the High Performance Level receive a 160% multiplier. Any EVA results that equal the High Performance Level receive a 200% multiplier.
+
+Business Unit Modifier for 2011
+
+Based upon management's recommendation, our CN&G Committee determined that, for 2011, it was important to continue to incentivize management to achieve strategic initiatives for our Hertz Rent-A-Car Americas, Hertz Rent-A-Car International and Hertz Equipment Rental business units. With the exception of Mr. Taride, executive officers reporting to a specific business unit had their EICP awards adjusted by the Business Unit Modifier relating to their specific business unit. Executive officers in our corporate centers had their EICP awards adjusted by a weighted average of the Business Unit Modifiers, as follows: Hertz Rent-A-Car Americas: 50%, Hertz Rent-A-Car International: 25% and Hertz Equipment Rental: 25%.
+
+For 2011, the CN&G Committee, in the case of Hertz Rent-A-Car Americas, increased the number of strategic modifiers and in the case of Hertz Rent-A-Car International, and Hertz Equipment Rental, decreased the number of strategic modifiers to better align and emphasize the goals of each individual business unit with the goals of the Corporation. In addition, the CN&G Committee departed from subjectively determining the Business Unit Modifier based on its assessment of whether the strategic objectives had been met. Instead, the CN&G Committee determined a target for each strategic objective and then measured the results against the target to determine an objective, statistically-derived performance figure resulting in a specified payout. However, the CN&G Committee could still use its discretion to modify the Business Unit Modifiers if required due to unusual or otherwise unanticipated events. The Target Award for each individual, as modified by the Corporate Performance Modifier
+
+[p. 41]
+(discussed under "Corporate Performance Modifier for 2011" above), was then multiplied by his or her respective Business Unit Modifier, which could have ranged from 75% to 125%.
+
+For the Hertz Rent-A-Car Americas and Hertz Rent-A-Car International business units, the strategic goals approved by our CN&G Committee were improving the competitiveness of the Hertz classic and Advantage brands, customer satisfaction and employee satisfaction. Each strategic goal was weighted at 331/3% of the overall score. To measure the competitiveness of the Hertz classic and Advantage brands, we measured airport market share for the combined Hertz and Advantage brands (where available) against market share for the prior year. Customer satisfaction was by reference to the change in the Net Promoter Score, a customer loyalty metric developed by (and a registered trademark of) Fred Reichheld, Bain & Company, and Satmetrix. Employee satisfaction was measured through an internal employee pulse survey score.
+
+For 2011, the CN&G Committee determined that, pursuant to the payout guidelines described above, the Business Unit Modifiers for the Hertz Rent-A-Car Americas and Hertz Rent-A-Car International were as follows:
+
+•
+
+For Hertz Rent-A-Car Americas, (i) the target for brand competitiveness was an increase of 0.3% and the business unit recorded a decrease of 1.0%, resulting in a below-target payout of 75%; (ii) the target for customer satisfaction was an increase of 1% and the business unit achieved an increase of 3.9%, resulting in a payout of 116.8%; and (iii) the target for employee satisfaction was an increase of 0.05 and the business unit achieved an increase of 0.23, resulting in a payout of 125%. The total Business Unit Modifier for Hertz Rent-A-Car Americas was 105.6%.
+
+•
+
+For Hertz Rent-A-Car International, (i) the target for brand competitiveness was an increase of 0.3% and the business unit achieved an increase of 0.9%, resulting in a payout of 113%; (ii) the target for customer satisfaction was an increase of 1% and the business unit achieved an increase of 4.4%, resulting in a payout of 120.5%; and (iii) the target for employee satisfaction was an increase of 0.05 and the business unit achieved an increase of 0.23, resulting in a payout of 125%. The total Business Unit Modifier for Hertz Rent-A-Car International was 119.5%.
+
+For the Hertz Equipment Rental business unit, the strategic goals approved by our CN&G Committee were: growth in industrial, pump and power and Hertz entertainment services, fleet efficiencies and employee satisfaction. Each strategic goal was weighted at 331/3% of the overall score. To measure growth in industrial, pump and power and Hertz entertainment services, we compared growth in these segments to the growth anticipated in our business plan. Fleet efficiencies were measured in relation to the utilization of equipment. Employee satisfaction was measured through an internal employee pulse survey score.
+
+For 2011, the CN&G Committee determined that, pursuant to the payout guidelines described above, the Business Unit Modifier for Hertz Equipment Rental was as follows:
+
+•
+
+Overall, (i) the target for the growth in industrial, pump and power and Hertz entertainment services strategic goal was growth in line with our strategic plan and the business unit achieved growth of 23%, resulting in a payout of 105.6%; (ii) the target fleet efficiency was 63% and actual fleet efficiency was 62.1%, resulting in a below-target payout of 97%; and (iii) the target payout for the employee satisfaction strategic goal was an increase of 0.05 and the business unit achieved an increase of 0.09, resulting in a payout of 108%. The total Business Unit Modifier for Hertz Equipment Rental was 103.5%.
+
+[p. 42]
+The Corporate-weighted Business Unit Modifier was determined as follows:
+
+Business Unit | Business Unit Modifier | Weight for Corporate Business Unit Modifier
+Hertz Rent-A-Car Americas | 105.6% | 50%
+Hertz Rent-A-Car International | 119.5% | 25%
+Hertz Equipment Rental | 103.5% | 25%
+Corporate (Weighted Average) | 108.6% | N/A
+
+Below is a chart that indicates, for each named executive officer, the business unit to which each executive officer reports and the Business Unit Modifier for the business unit:
+
+Named Executive Officer | Business Unit | Business Unit Modifier
+Mr. Frissora | Corporate-weighted average of business units | 108.6%
+Ms. Douglas | Corporate-weighted average of business units | 108.6%
+Mr. Sider | Hertz Rent-A-Car Americas | 105.6%
+Mr. Taride(1) | Corporate-weighted average of business units | 108.6%
+Mr. Zimmerman | Corporate-weighted average of business units | 108.6%
+Mr. Senackerib | Corporate-weighted average of business units | 108.6%
+
+(1)
+
+The CN&G Committee used its discretion, based on the results of the European division of the Hertz Rent-A-Car Intentional business unit, to use the Corporate-weighted average of the business units rather than the Hertz Rent-A-Car International Business Unit Modifier to better reflect the performance of the areas for which Mr. Taride is primarily responsible. As a result, Mr. Taride's Business Unit Modifier was reduced from 119.5% to 108.6%.
+
+Individual Performance Modifier for 2011
+
+Annually, each named executive officer's performance (other than Mr. Frissora, our CEO) is subjectively evaluated by Mr. Frissora using performance factors established earlier in the year by Mr. Frissora in consultation with each named executive officer. At the end of 2011, Mr. Frissora recommended to the CN&G Committee for its approval an Individual Performance Modifier for each of our named executive officers based on this evaluation. Each of our named executive officer's Target Award (as modified by the Corporate Performance Modifier and the Business Unit Modifier discussed above) was then multiplied by his or her Individual Performance Modifier, which could have ranged from 0% to 150%. Our Board provided the CN&G Committee with a subjective evaluation of our CEO's performance after reviewing Mr. Frissora's self-assessment (facilitated by our Lead Director) and the CN&G Committee approved his Individual Performance Modifier and reported its findings to the Board. Mr. Frissora's Target Award (as modified by the Corporate Performance Modifier and the Business Unit Modifier discussed above) was then multiplied by his Individual Performance Modifier, which could have ranged from 0% to 150%. The CN&G Committee used its discretion in approving the Individual Performance Modifier, placing primary emphasis on our CEO's individual review of our named executive officers and the Board's review of our CEO.
+
+[p. 43]
+2011 EICP Awards
+
+The chart below shows how each named executive officer's 2011 EICP award was calculated. Other than with respect to Mr. Taride's Business Unit Modifier, the CN&G Committee did not use its discretion to modify any EICP awards paid to our named executive officers.
+
+Named Executive Officer | Target Award | Corporate Performance Modifier | Business Unit Modifier | Individual Performance Modifier | Payout
+Mr. Frissora | $1,800,000 | 160.8% | 108.6% | 112% | $3,520,517
+Ms. Douglas | $456,000 | 160.8% | 108.6% | 106% | $844,086
+Mr. Sider | $440,000 | X | 160.8% | X | 105.6% | X | 106% | = | $791,970
+Mr. Taride(1) | $457,418 | 160.8% | 108.6% | 106% | $846,711
+Mr. Zimmerman | $292,825 | 160.8% | 108.6% | 106% | $542,039
+Mr. Senackerib | $261,300 | 160.8% | 108.6% | 100% | $456,305
+
+(1)
+
+For Mr. Taride, these amounts have been converted to U.S. dollars from pounds sterling at the 12-month average rate of 1.604068.
+
+2012 Annual Cash Incentives (EICP)
+
+For 2012, the CN&G Committee engaged its compensation consultant to analyze potential improvements to the EICP. Semler Brossy presented its findings to the CN&G Committee. Based on management's recommendations, and Semler Brossy's subsequent input, our CN&G Committee determined that performance targets for 2012 should continue to emphasize our Corporation's financial results to ensure strong alignment of management's interests with stockholders' interests. The CN&G Committee determined that API, revenue and EVA continue to be appropriate performance metrics on the basis of its belief that rewarding superior achievement in these areas directly increases stockholder value and did not make any changes with respect to the weighting of API, EVA and revenue for 2012. Therefore, the EICP in 2012 will continue to be weighted 40% on API, 40% on EVA and 20% on revenue. In addition, the CN&G Committee believes that annual measurements of such metrics are appropriate and will continue to use the fiscal year as the measurement period.
+
+The business unit performance goals approved by our CN&G Committee for 2012 are substantially the same as in 2011 and, for the business unit leaders of the Hertz Rent-A-Car Americas and Hertz Rent-A-Car International business units, focus on improving the competitiveness of the Hertz classic and Advantage brands, customer satisfaction and employee satisfaction and, for the business unit leaders of Hertz Equipment Rental, focus on growth in industrial, pump and power and Hertz entertainment services, fleet efficiencies and employee satisfaction. Each performance goal for the applicable business unit will continue to be weighted at 331/3% of the overall Business Unit Modifier. Executives in our corporate centers will receive an adjustment to their EICP award bonus based upon a weighted average of the modifiers for the three business units (Hertz Rent-A-Car Americas: 50%, Hertz Rent-A-Car International: 25% and Hertz Equipment Rental: 25%).
+
+Long-Term Equity Incentives
+
+Long-term incentive compensation comprises a significant part of our total compensation for senior executives and in 2011 was awarded under the 2008 Omnibus Plan. Under the 2008 Omnibus Plan, the CN&G Committee has the flexibility to make equity awards, including time- and performance-based awards of stock options, stock appreciation rights, restricted stock, restricted stock units, performance stock units and deferred stock units. The plan also permits us to settle awards in shares or cash. 16,953,010 shares of stock are available for awards under the 2008 Omnibus Plan as of March 30, 2012.
+
+[p. 44]
+In 2011, the CN&G Committee reaffirmed its approach to long-term awards and continued to grant equity awards comprised of 50% stock options and 50% performance stock units. The CN&G Committee chose a balance of stock options and performance stock units to enhance stockholder alignment, create wealth and instill accountability for long-term results. The stock options and performance stock units granted to or earned by all of our named executive officers who received awards in 2011 were intended to bring their long-term incentive compensation to the 75th percentile of that paid to executives in comparable positions at the Survey Group given that the awards will only provide value to executives if there is commensurate stock price and/or financial performance. However, we take into account other factors such as an individual's prior experience, tenure, and individual and company performance when setting long-term equity awards for our senior executive officers. Accordingly, some of our senior executives' long-term equity awards may exceed the 75th percentile for comparable positions within the Survey Group, while for others it may be below the 75th percentile.
+
+Stock Options
+
+In March 2011, we awarded stock options under our 2008 Omnibus Plan to our named executive officers as part of their yearly long-term incentive award. The number of options awarded to each of our named executive officers is listed in the "2011 Grants of Plan-Based Awards" table. The stock options granted in March 2011 vest in four equal (i.e., 25%) annual installments on the first through fourth anniversaries of the date of grant. The CN&G Committee determined that awarding long-term equity awards comprised of 50% stock options was appropriate because stock options are an ideal vehicle to enhance stockholder alignment, while helping retain management through the vesting period. In general, vesting of options requires continued employment and is not subject to the award process as discussed in "—Performance Stock Units" below.
+
+Performance Stock Units
+
+In March 2011, we granted performance stock units under our 2008 Omnibus Plan to our named executive officers as part of their yearly long-term incentive award. Performance stock units represent the right to receive a share of our common stock if certain performance goals are achieved and time periods have passed. The CN&G Committee determined that awarding long-term equity awards comprised of 50% performance stock units was appropriate because performance stock units directly encourage management to improve and enhance our financial performance, while helping retain management through the vesting period. In general, earning performance stock units requires continued employment. The performance goal established by the CN&G Committee for the performance stock units earned in 2011 was Corporate EBITDA. Corporate EBITDA means "EBITDA" as that term is defined under Hertz's senior credit facilities, which is generally consolidated net income before net interest expense (other than interest expense relating to certain car rental fleet financing), consolidated income taxes, consolidated depreciation (other than depreciation related to the car rental fleet) and amortization and before certain other items, in each case as more fully defined in the agreements governing Hertz's senior credit facilities. We disclosed our Corporate EBITDA, as well as detailed reconciliations of this non-GAAP measure, in our quarterly earnings releases, and have indicated in the charts below the extent to which the CN&G Committee used its discretion to modify the actual results disclosed in our quarterly earnings releases. Corporate EBITDA was chosen as a performance metric for the performance stock units because we feel it is useful as an operating performance and liquidity metric for internal monitoring and planning purposes, including the preparation of our annual operating budget and monthly operating reviews, and it is one of the primary metrics we use to facilitate our analysis of investment decisions, profitability and performance trends.
+
+For 2011, the CN&G Committee reassessed its approach to long-term equity awards to incorporate a longer-term focus. In 2010, long-term equity awards were based solely on 2010 Corporate EBIDTA, as modified by the CN&G Committee. However, the CN&G Committee believed that modifying the plan to
+
+[p. 45]
+incorporate longer-term performance measures would be beneficial to the Corporation by encouraging increased senior management performance over more than just one year.
+
+In order for the senior executives to earn target (100%) awards for 2011, they would have to meet higher Corporate EBITDA targets than those used in the business plan. However, to account for the heightened difficulty in achieving such increased targets, the CN&G Committee adopted a design allowing for a two-year Corporate EBITDA measurement (both 2011 and 2012) in the event that the senior executives do not reach the maximum performance level in 2011. Accordingly, if the senior executives did not reach the maximum Corporate EBITDA goals in 2011, they would still have the opportunity to do so by achieving results in 2012 which would meet the two-year maximum performance goal. As a result, the senior executives are incentivized both on the 2011 Corporate EBITDA results and the combined Corporate EBITDA results for 2011 and 2012.
+
+The CN&G Committee established threshold (below which no performance stock units would vest), 80% level, target and maximum Corporate EBITDA metrics, which were determined by the CN&G Committee using the same formula reflected in our quarterly earnings releases. The CN&G Committee had the discretion to modify our actual Corporate EBITDA for unforeseen events in order to determine whether the Corporate EBITDA targets were achieved and to reflect changes in our operations and our business. For 2011 Corporate EBITDA, the threshold amount (50% payout) was set as 90% of the business plan and the 80% payout level was for achievement of 100% of the business plan for 2011. The target, or 100%, payout would be achieved if the stretch plan was achieved, with the maximum, 150% payout set as 125% achievement of the business plan. For two-year Corporate EBITDA, the threshold amount (50% payout) was set as 90% achievement of 2011 and 2012 business plans. The target, or 100% payout was set as 100% of the combined 2011 and 2012 business plans, with the maximum, 150% payout set at the combined achievement of the 2011 and 2012 stretch plans.
+
+The amount of performance stock units eligible to vest would vary based upon actual performance as follows:
+
+Performance vs. Payout Matrix
+2011 Corporate EBITDA | 2011-2012 Corporate EBITDA | Payout
+Threshold | $1,142 million | $2,501 million | 50% payout (no payout below threshold)
+80% Level | $1,269 million | $2,668 million | 80% payout
+Target | $1,389 million | $2,779 million | 100% payout
+Maximum | $1,586 million | $3,079 million | 150% payout
+
+With respect to each of 2011 results and combined 2011 and 2012 results, straight line interpolation is used to determine the payout for Corporate EBITDA results that are between the various levels.
+
+Actual Corporate EBITDA for 2011 was $1,389.5 million, resulting in the named executive officers becoming eligible to receive 100.1% of the performance stock units eligible to be earned for 2011.
+
+Of this amount, 25% of the award earned in 2011 vested on the first anniversary of the grant date for the named executive officers. An additional 25% of the award will vest on the second anniversary of the grant date and the remaining 50% of each award will vest on the third anniversary of the grant date, if the named executive officer is still an employee on each of these dates. Each senior executive may earn more than 100.1% if Corporate EBIDTA achieves a performance level exceeding 100.1% as measured under the two-year (2011 and 2012) plan. A summary of the performance stock units that our named executive officers received in 2011 can be found in the "2011 Grants of Plan Based Awards" table.
+
+[p. 46]
+Other Equity Grants in 2011
+
+On March 1, 2011, the CN&G Committee, after consideration of Mr. Frissora's performance in 2010 and to drive better operating results for the Corporation, granted Mr. Frissora the contingent right to receive 193,798 performance stock units. For these performance stock units to vest, the 20 trading day trailing average price of our common stock must equal or exceed $20 per share by March 2, 2016. Vesting is also contingent on Mr. Frissora's continued employment with us through the last to occur of either the third anniversary of the date of grant (March 1, 2014) or the date upon which the performance criterion above is satisfied. As of the date of grant, the Corporation's common stock price was $14.60.
+
+2012 Long-Term Equity Awards
+
+In February 2012, the CN&G Committee reassessed the structure and balance of equity grants used in the Corporation's Long-Term Incentive Plan. Specifically, the CN&G Committee reviewed the use and mix of performance stock units as well as options, and considered whether, in light of the Corporation's historical operating performance, future performance and market factors, changes were required. After consideration of various award alternatives and in consultation with Semler Brossy, the CN&G Committee revised the Long-Term Incentive Plan to consist of 60% performance stock units and 40% price-vested stock units for 2012.
+
+With respect to the performance stock units, the general terms of the grants and awards will not change except for the vesting schedule as described below. Accordingly, for the award of performance stock units in 2012, the CN&G Committee will use a design that incorporates 2012 Corporate EBITDA targets and combined 2012-2013 Corporate EBITDA targets in the event that the senior executives do not reach the maximum performance level in 2012. The CN&G Committee reviewed the Corporation's experience with the performance stock units and believed that increasing the weighting in the Long-Term Incentive Plan of such units would result in appropriate focus on shareholder returns relative to compensation paid.
+
+In addition, future awards of performance stock units will vest over three years at 331/3% per year, rather than the 25%/25%/50% three-year vesting schedule used during the previous plan years. The CN&G Committee believes that using this revised vesting schedule will result in increased retention because, in tandem with the price-vested stock units described below, a higher percentage of the 2012 equity awards (compared to the 2011 equity awards) will be vested in years three and four from the grant date, as set forth under the revised vesting schedule described below.
+
+With respect to the balance of the equity grants under the Long-Term Incentive Plan, the CN&G Committee replaced options that vested pro rata over four years with price-vested stock units that vest 50% after three years and 50% after four years, as further described below. The CN&G Committee believed that, due to the accounting expense related to stock options based on the Corporation's historical operating performance and the overall structure of the awards, transitioning from options to price-vested stock units would better align senior executive performance with shareholder returns.
+
+To achieve vesting of the price-vested stock units, the senior executives must achieve certain common stock price targets at the end of the applicable measurement periods. The grant price will be the 20-trading day trailing average stock price ending on and including the date of grant. For 50% of the award to completely vest, the average price of the common stock must increase 15% or more from the grant date price over the trailing 20-trading day period ending on and including the third anniversary date of the grant. For the remaining 50% of the award to completely vest, the average price of the common stock must increase 25% or more from the grant date price over the trailing 20-trading day period ending on and including the fourth anniversary date of the grant. Should the senior executives completely satisfy the stock price increase targets, the award will vest three years and four years from the grant date, respectively, subject to continued service by the executives until such times. In the event that the senior executives do not meet the stated 20-trading day trailing price goals as set forth above,
+
+[p. 47]
+the price-vested stock units will proportionally vest, if at all, based on the increase in our common stock price, as measured by the 20-trading day trailing average stock price at the end of each respective measurement period versus the grant date price, and subject to continued service by the executives through such period. Overall, the CN&G Committee believes that this award structure, based on the Corporation's current competitive position, will result in increased retention and drive increased stock performance over a longer period of time.
+
+Assuming that the senior executive met all applicable performance measures under the Long-Term Incentive Plan, the below chart illustrates the revised vesting schedule for 2012.
+
+Vesting Schedule for Grants Made Under 2011 LTIP
+Year | 2012 | 2013 | 2014 | 2015
+PSUs | 25% | 25% | 50% | —
+Options | 25% | 25% | 25% | 25%
+
+Vesting Schedule for Grants Made Under 2012 LTIP
+Year | 2013 | 2014 | 2015 | 2016
+PSUs | 331/3% | 331/3% | 331/3% | —
+PVUs | — | — | 50% | 50%
+
+Policies On Timing of Equity Awards
+
+It is our policy not to issue equity awards with a grant date that occurs during regularly scheduled periods in which we have prohibited trading in our common stock by our executives pursuant to our stock trading policy (such as in the period leading up to a quarterly earnings release). It is our policy not to grant equity awards with effect from, or with an exercise price based on market conditions as they existed on, any date prior to the date on which the party in which granting authority is vested (typically our CN&G Committee, our Board, or our CEO) takes formal action to grant them or such later grant date as may be specified. It is our policy to promptly document any equity awards that we make; we would normally regard documenting to be prompt if we were to communicate the terms of the awards to their recipients, and to obtain signed award agreements governing the grants back from them, within one month of the date formal action is taken to issue them.
+
+Stock Ownership Guidelines
+
+In May 2010, our Board adopted stock ownership guidelines for our executive officers and non-employee directors other than directors designated by our Sponsors. The guidelines contain customary terms and conditions and establish the following target ownership levels:
+
+•
+
+Equity equal to five times salary for our CEO;
+
+•
+
+Equity equal to three times salary for our CFO and business unit heads;
+
+•
+
+Equity equal to one times salary for our other senior executives; and
+
+•
+
+Equity equal to three times annual cash retainer for non-employee directors.
+
+Executive officers and non-employee directors have five years to reach the target ownership levels. Officers subject to the guidelines are permitted to count towards the target ownership levels shares owned outright or in trust, shares owned through our Employee Stock Purchase Plan, the approximate after-tax value of unvested restricted stock units (i.e., 50% of unvested restricted stock units) and the approximate after-tax value of performance stock units if the performance criteria has been met, even if the service requirement has not been met (i.e., 50% of performance stock units if performance criteria is met). Non-employee directors subject to the guidelines are permitted to count towards the target
+
+[p. 48]
+ownership levels shares owned outright or in trust and the approximate after-tax value of phantom shares (i.e., 50% of phantom shares).
+
+Hedging Policy
+
+Pursuant to our written policy regarding trading in the Corporation's securities, senior executives are strongly discouraged from entering into any type of arrangement, contract or transaction which has the effect of hedging the value of our common stock. Any executive wishing to enter into hedging transaction must receive an exemption or otherwise clear the transaction with the Corporation's legal department two weeks before entering into the transaction and provide a justification as to the proposed transaction. Section 16 insiders must submit a request for pre-clearance of any hedging transaction to the Corporation's legal department at least one business day in advance of the proposed transaction. The Corporation's legal department will not approve any hedging transactions proposed to be made by a Section 16 insider without first obtaining the approval of the Chair of the CN&G Committee.
+
+Retirement Benefits
+
+We maintain retirement and savings plans for our named executive officers and other senior executives and key employees, as well as for our employees generally. Two of these plans are tax-qualified and are broadly available to our employees. In addition, we maintain three non-qualified, unfunded pension plans for certain of our U.S.-based executives, including our named executive officers. These three plans are the Hertz Corporation Supplemental Retirement and Savings Plan, or "SERP" (which no named executive officer participates in), the Hertz Corporation Benefit Equalization Plan, or "BEP," and the Hertz Corporation Supplemental Executive Retirement Plan, or "SERP II." We believe these plans promote retention of our key executives and other participants by providing a reasonable level of retirement income reflecting their careers with us. We believe such plans are customary in the industries in which we operate, although we did not in 2011 conduct a formal review of the comparability of the terms of these plans with our Survey Group. We generally have not considered these benefits when setting base salary and annual bonus amounts. The material terms of these plans are summarized below under "—Pension Benefits."
+
+We also maintain a post-retirement assigned car benefit plan under which we provide certain executives who, at the time of retirement, are at least 58 years old and have been an employee of the Corporation for at least 20 years, with a car from our fleet and insurance on the car for the participant's benefit. The assigned car benefit is available for 15 years post-retirement or until the participant reaches the age of 80, whichever occurs last. As of December 31, 2011, Messrs. Taride and Sider had satisfied the minimum service, but not the minimum age, requirement and Messrs. Frissora and Zimmerman and Ms. Douglas had satisfied neither the minimum service nor the minimum age requirement. Mr. Senackerib did not qualify for this benefit at the time of his resignation.
+
+Perquisite Policy
+
+We provide perquisites and other personal benefits to our named executive officers that we and our CN&G Committee believe are reasonable and consistent with our overall compensation program to better enable us to attract and retain superior employees for key positions. The named executive officers are provided use of company- or third party manufacturer-provided cars, financial planning and tax preparation assistance, annual physicals and, in the case of Mr. Frissora, a country club membership. We also maintain a relocation policy that provides for the payment of relocation expenses in certain instances. In addition, our CEO, for security purposes, uses corporate aircraft for personal and business related air travel and is provided with the services of a driver trained in evasive driving techniques employed by us. We also provide Mr. Taride with a housing arrangement pursuant to the agreement described below. Attributed costs of these personal benefits for the named executive officers for the fiscal year ended December 31, 2011 are included in the "All Other Compensation" column of the
+
+[p. 49]
+Summary Compensation Table. The CN&G Committee periodically reviews our perquisite policies as required. We generally have not considered these perquisites when setting base salary and annual bonus amounts.
+
+We use corporate aircraft for the purpose of encouraging and facilitating business travel by our senior executives (primarily our CEO) and directors, generally for travel in the United States and, less frequently, internationally. The pilots who fly our aircraft are our salaried employees. Under our aircraft policy, our CEO uses our aircraft for travel. We believe that this policy provides several business benefits to us. Our policy is intended to facilitate our CEO's access to our locations around the world and maximize his time available for our business. In addition, our policy is intended to ensure the personal safety of our CEO, who maintains a significant public role as the leader of our Corporation. The methodology that we use to value personal use of our aircraft as a perquisite, as reported in footnotes to the Summary Compensation Table, calculates the incremental cost to us of providing the benefits based on the actual cost of fuel, crew expenses, on-board catering and other, small variable costs. Because we use aircraft primarily for business travel, this valuation methodology excludes fixed costs which do not change based on usage, such as pilots' salaries, purchase cost of the aircraft and fixed maintenance costs. In 2011, the CN&G Committee reviewed and evaluated the use of our corporate aircraft. Through using a productivity model, CN&G Committee determined that our 2010 corporate aircraft use resulted in productivity and cost savings exceeding the expense associated with such corporate aircraft usage.
+
+Housing Arrangements with Mr. Taride
+
+In August 2006, Hertz Europe Limited, an indirect wholly owned subsidiary of Hertz that employs Mr. Taride, entered into an agreement with Mr. Taride regarding the provision of living accommodations for Mr. Taride and his family (the "2006 Agreement"). Pursuant to the 2006 Agreement, Hertz Europe Limited purchased a property in London for a purchase price of £2.3 million, made an estimated £100,000 in improvements to it and paid all fees associated with the purchase. The 2006 Agreement provided that the property would be made available to Mr. Taride and his family rent-free for an initial period through June 2011.
+
+In July 2011, Hertz Europe Limited entered into a revised agreement with Mr. Taride regarding the provision of housing which superseded the 2006 Agreement to provide living accommodations for Mr. Taride and his family beyond June 2011. Pursuant to the 2011 Agreement, Mr. Taride and his family will continue to have access to the same house through June 2015, however, Mr. Taride will be responsible for a portion of the £130,000 (approximately $201,500 at the then-current exchange rate of 1.55 £/$) annual market-based rent as follows:
+
+•
+
+10% from July 2011 through June 2012;
+
+•
+
+30% from July 2012 through June 2013;
+
+•
+
+50% from July 2013 through June 2014; and
+
+•
+
+70% from July 2014 through June 2015.
+
+In addition, through June 2015, Mr. Taride has the option to purchase the property from Hertz Europe Limited at its then appraised fair market value, minus one-third of any increase in its value from its current fair market value of £3.5 million (approximately $5.4 million at the then-current exchange rate of 1.55). Hertz Europe Limited will reimburse Mr. Taride's income tax liability for the subsidized rent to June 2015 or until the property is purchased by Mr. Taride.
+
+Employment and Severance Arrangements
+
+We have entered into change in control agreements ("Change in Control Agreements") covering all of our named executive officers, other than Mr. Frissora, whose employment agreement provides
+
+[p. 50]
+severance (described in "—Employment and Change in Control Agreements—Employment Agreement with Mark P. Frissora"), and we have adopted a severance plan. In connection with our entry into these arrangements, our CN&G Committee received advice from its compensation consultant at that time, Frederic W. Cook & Co., Inc., as to market practices for these arrangements among what we then determined to be a peer group of companies. In adopting these arrangements, it was our intention to provide our named executive officers with severance arrangements that they would view as appropriate in light of their existing arrangements, while at the same time not exceeding, to the maximum extent practicable, the terms of arrangements provided by our peer companies.
+
+These arrangements consist of (i) individual Change in Control Agreements with Messrs. Taride, Zimmerman and Senackerib and Ms. Douglas, and (ii) a severance plan (the "Severance Plan for Senior Executives"). Prior to entering into these arrangements, Mr. Taride had been party to change in control agreements with Hertz and Ford. The purpose of the individual Change in Control Agreements is to provide payments and benefits to the covered executives in the event of certain qualifying terminations of their employment following a change in control of us, and the purpose of the Severance Plan for Senior Executives is to provide payments and benefits to the covered executives in the event of certain other qualifying terminations of their employment. The terms of the Change in Control Agreements and Severance Plan for Senior Executives are described in "—Employment and Change in Control Agreements."
+
+The Change in Control Agreements are "double trigger" agreements, meaning that any payments and benefits are paid only if (i) there is a change in control and (ii) the covered executive is terminated by us without "cause" or by the covered executive with "good reason" (as those terms are defined in the Change in Control Agreement), in either case within two years following the change in control. We believe this "double trigger" approach is appropriate because it enhances retention following a change in control and a change in control may require the continued services of an executive officer without a change in that officer's position, role or compensation opportunities. Furthermore, the "double trigger" provisions of the Change in Control Agreements are intended to motivate the covered executives to remain with us, or any successor to us, in spite of any disruptions or dislocations resulting from ownership changes. We believe that such "double trigger" provisions, both presently and prospectively, enhance shareholder value by ensuring business continuity in the event of a change of control and allow us to employ executives who are truly committed to our line of business.
+
+In 2010, the CN&G Committee approved a revised form of the Change in Control Agreement which eliminates our obligations to make payments to the covered executive of all tax gross-ups levied against such executive pursuant to Section 4999 of the Code. Of our named executive officers, only Mr. Sider has entered into this revised Change of Control Agreement. The CN&G Committee revised the Change in Control Agreements as part of our continual evaluation of our compensation programs. We believe that eliminating such tax gross-ups for all future executives and key employees is appropriate in light of current compensation practices and will not affect our future ability to hire and retain exemplary executives and employees.
+
+In addition, we have entered into an employment agreement with our CEO, Mr. Frissora. The terms of the agreement are described in "—Employment and Change in Control Agreements—Employment Agreement with Mark P. Frissora."
+
+In December 2011, we entered into a separation agreement with our former Chief Marketing Officer, Mr. Senackerib. The terms of the agreement are described in "—Employment and Change in Control Agreements—Separation Agreement with Michael J. Senackerib."
+
+Policy on Recovering Bonuses in the Event of a Restatement
+
+Our "claw back" policy for all executive officer annual incentive, long-term incentive, equity-based awards and other performance-based compensation arrangements provides that a repayment
+
+[p. 51]
+obligation is triggered by an award of compensation based on achievement of financial results that were the subject of a restatement, if the CN&G Committee determines that the executive officer's gross negligence, fraud or misconduct caused or contributed to the need for the restatement and the need for a restatement is identified within three years after the first public issuance or filing of financial statements. The CN&G Committee retains discretion as to implementation and interpretation of all matters relating to the "claw back." In addition, Section 304 of the Sarbanes-Oxley Act of 2002 provides for the forfeiture of certain bonuses and profits by our CEO and CFO in connection with certain accounting restatements. Our "claw back" policy will be revised, to the extent necessary, to comply with any rules promulgated by the SEC pursuant to Section 954 of the Dodd-Frank Wall Street Reform and Consumer Protection Act.
+
+In addition, the 2008 Omnibus Plan and Senior Executive Bonus Plan, pursuant to which EICP awards are granted, provide us with the discretion to cause the forfeiture of cash and equity compensation and the recovery of gains from equity compensation awarded under such plans with respect to individuals who engage in misconduct or gross negligence that results in a restatement of our financial statements. In addition, the aforementioned plans provide that awards granted under the plans are subject to the "claw back" provisions in our Standards of Business Conduct that are described above.
+
+Tax and Accounting Considerations
+
+Section 162(m) of the Code operates to disallow public companies from taking a federal tax deduction for compensation in excess of $1 million paid to certain of its executive officers, excluding performance-based compensation that meets requirements mandated by the statute. As part of its role, our CN&G Committee reviews and considers the deductibility of executive compensation under Section 162(m) of the Code. Our stockholders approved our 2008 Omnibus Plan so that awards granted under the plan may qualify as performance-based compensation. In addition, EICP payments for 2011 were generally paid to executive officers under the Senior Executive Bonus Plan, which was approved by our stockholders at the 2010 annual meeting and is designed to qualify as tax-deductible to us under Section 162(m) of the Code. When appropriate, our CN&G Committee intends to preserve deductibility under Section 162(m) of the Code of compensation paid to our named executive officers. However, in certain situations, our CN&G Committee may approve compensation that will not meet these requirements in order to ensure the total compensation for our executive officers is consistent with the policies described above, particularly with regard to our CEO's salary. Accordingly, our CN&G Committee approved a base salary above $1 million for our CEO in 2011, some portion of which may not qualify as performance-based compensation, based on the determination that the benefit of providing compensation to our CEO at a level that we believe necessary to retain and reward his talents outweighs the cost of any lost tax deductibility.
+
+COMPENSATION COMMITTEE REPORT
+
+The Compensation, Nominating and Governance Committee has reviewed and discussed the Compensation Disclosure and Analysis included in this proxy statement with members of management. Based on that review and discussion, the Compensation, Nominating and Governance Committee recommended to the Board that the Compensation Discussion and Analysis be included in the proxy statement.
+
+THE COMPENSATION, NOMINATING AND GOVERANCE COMMITTEE Barry H. Beracha, Chair Carl T. Berquist Linda Fayne Levinson David H. Wasserman
+
+[p. 52]
+2011 Summary Compensation Table
+
+The following table, or the "Summary Compensation Table," summarizes the compensation earned in 2011 by our named executive officers.
+
+Name and Principal Position | Year | Salary | Bonus | Stock Awards(1) | Option Awards(1) | Non-equity incentive plan compensa- tion(2) | Change in pension value and non-qualified deferred compensa- tion earnings(3) | All other compensa- tion(4) | Total
+($) | ($) | ($) | ($) | ($) | ($) | ($) | ($)
+Mark P. Frissora | 2011 | 1,187,500 | — | 4,945,727 | 2,955,619 | 3,834,848 | 1,082,200 | 496,730 | 14,502,624
+Chief Executive Officer | 2010 | 1,131,250 | — | 2,972,420 | 2,938,491 | 2,657,968 | 979,200 | 402,159 | 11,081,488
+2009 | 975,769 | — | 5,586,936 | — | 2,200,000 | 198,200 | 256,985 | 9,217,890
+Elyse Douglas | 2011 | 563,750 | — | 712,086 | 708,410 | 844,086 | 316,400 | 17,194 | 3,161,926
+Chief Financial Officer | 2010 | 536,250 | — | 693,569 | 685,647 | 580,619 | 287,900 | 15,681 | 2,799,666
+2009 | 474,692 | — | 964,833 | — | 463,877 | 103,900 | 10,744 | 2,018,046
+Scott Sider(5) | 2011 | 537,500 | — | 660,212 | 656,801 | 791,970 | 782,000 | 25,803 | 3,454,286
+President, Vehicle Rental | 2010 | 469,039 | — | 495,408 | 489,747 | 499,321 | 500,600 | 17,709 | 2,471,824
+and Leasing, The Americas
+Michel Taride(6) | 2011 | 561,185 | — | 514,022 | 511,368 | 818,171 | — | 284,418 | 2,689,164
+President, Hertz International | 2010 | 499,557 | — | 510,269 | 504,440 | 534,239 | 806,555 | 291,430 | 3,146,490
+2009 | 443,367 | — | 786,128 | — | 412,719 | 534,500 | 310,598 | 2,487,312
+J. Jeffrey Zimmerman | 2011 | 444,125 | — | 452,717 | 450,378 | 542,039 | 183,700 | 19,844 | 2,092,803
+General Counsel, Secretary | 2010 | 418,750 | — | 471,624 | 466,241 | 362,477 | 162,400 | 69,731 | 1,951,223
+2009 | 372,308 | — | 653,450 | — | 315,315 | 123,000 | 10,487 | 1,474,560
+Michael J. Senackerib(7) | 2011 | 383,539 | — | 223,993 | 222,843 | 456,305 | — | 1,262,603 | 2,549,283
+Former Chief Marketing Officer
+
+(1)
+
+On December 16, 2009, the SEC adopted a final rule that requires reporting of all stock and option awards granted during the fiscal year at the full grant date fair value. The value for each of the years in this Summary Compensation Table reflects the full grant date fair value, and with respect to the performance stock units, assumes that all performance conditions will be achieved at the target level. These amounts were computed pursuant to FASB ASC Topic 718. Assumptions used in the calculation of these amounts are included in the note entitled "Stock-Based Compensation" in the notes to the Corporation's consolidated financial statements in our Form 10-K for the fiscal year ended December 31, 2011.
+
+As described in the "Compensation Discussion and Analysis—Performance Stock Units" above, vesting of the performance stock units granted in 2011 were subject to the Corporation's achievement of certain pre-determined financial performance goals during 2011 and subject to upward adjustment based on financial performance goals for combined 2011-2012. The "Stock Awards" column above reflects the grant date fair values of the target number of performance stock units that were eligible to vest based on the Corporation's financial performance goals for 2011, which for accounting purposes is the probable outcome (determined as of the grant date) of the performance-based condition applicable to the grant. The following table below presents the aggregate grant date fair value of these grants assuming that (i) the actual outcome occurred, a 100.1% payout and the awards were not subject to increase based on combined 2011-2012 financial performance and (ii) the highest level of performance condition would be achieved, resulting in a 150% payout.
+
+2011 Performance Stock Unit Awards
+Name: | Aggregate Grant Date Fair Value (Based on Actual Outcome) ($) | Aggregate Grant Date Fair Value (Based on Maximum Performance) ($)
+Frissora | 2,973,896 | 4,456,388
+Douglas | 712,798 | 1,068,129
+Sider | 660,872 | 990,318
+Taride | 514,536 | 771,033
+Zimmerman | 453,170 | 679,076
+Senackerib | 224,217 | 335,990
+
+(2)
+
+Amounts with respect of 2011 reflect EICP awards earned in 2011 for the 2011 performance year that were paid in February 2012. See "Compensation Discussion and Analysis—Annual Cash Incentive Program (EICP)—EICP Overview" above, for a detailed description of EICP awards.
+
+(3)
+
+Amounts include annual changes in the actuarial present value of accumulated pension benefits. The present value was determined using the same assumptions applicable for valuing pension benefits for purposes of our financial statements. See the note entitled "Employee Retirement Benefits" in the notes to the Corporation's consolidated financial statements in our Form 10-K for the fiscal year ended December 31, 2011. Due to a freeze of the Hertz UK 1972 Pension Plan and the Hertz UK Supplementary Unapproved Pension Scheme in 2011, Mr. Taride did not report an increase in pension value in 2011. The change in his pension value was $(249,332) (translated in accordance with footnote 5 of this table) for 2011. Due to Mr. Senackerib's resignation on December 6, 2011, he relinquished all claims to his unvested retirement benefits. Therefore, the change in his pension value was $(152,600) in 2011. No named executive officer received preferential or above-market earnings on deferred compensation.
+
+[p. 53]
+(4)
+
+Includes the following for 2011:
+
+Personal Use of Aircraft | Personal Use of Car and Driver | Financial Planning Assistance | Club Member- ships— Personal Use | Executive Physicals | Housing | Other | Perquisites Subtotal | Life Insurance Premiums | Company Match on 401(k) Plan | Severance and Other | Tax Gross- Ups | Total Perqui- sites and Other Compensation
+(a) | (b)
+Frissora | 374,440 | 47,040 | 4,000 | 17,763 | 2,522 | — | 40,106 | (c) | 485,871 | 3,509 | 7,350 | — | — | 496,730
+Douglas | — | 8,178 | — | — | — | — | — | 8,178 | 1,666 | 7,350 | — | — | 17,194
+Sider | — | 12,250 | 2,365 | — | 2,925 | — | — | 17,540 | 913 | 7,350 | — | — | 25,803
+Taride(d) | — | 18,286 | 12,562 | — | — | 26,130 | (e) | — | 56,978 | 2,451 | — | 52,998 | (f) | 171,991 | (e) | 284,418
+Zimmerman | — | 11,750 | 950 | — | 2,925 | — | — | 15,625 | 754 | 3,465 | — | — | 19,844
+Senackerib | — | 9,250 | — | — | 2,400 | — | — | 11,650 | 367 | 1,250,586 | (g) | — | 1,262,603
+
+(a)
+
+Based on the direct costs of aircraft for each hour of personal use.
+
+(b)
+
+For Mr. Frissora, this amount includes the incremental cost of the driver's time and costs related to Corporation-provided cars. For other executives, none of whom is provided with a driver, this amount reflects the cost of depreciation and interest, if applicable.
+
+(c)
+
+Approximately $2,000 represents the costs to the Corporation to maintain residential security systems for Mr. Frissora and approximately $38,100 represents the cost to the Corporation for the purchase and installation of an emergency home generator for business continuity purposes for Mr. Frissora.
+
+(d)
+
+Amounts for Mr. Taride have been translated from pounds sterling to U.S. dollars at the 12-month average rate of 1.604068.
+
+(e)
+
+Amount includes the incremental cost of housing provided to Mr. Taride in 2011 pursuant to an arrangement with Mr. Taride described under "Compensation Discussion and Analysis—Housing Arrangements with Mr. Taride," and a tax gross up relating to this perquisite.
+
+(f)
+
+Represents the cost to the Corporation of additional medical insurance benefits for Mr. Taride and the Company match on his defined contribution plan.
+
+(g)
+
+For Mr. Senackerib, this includes severance and related costs (including acceleration of performance stock unit and option awards, outplacement assistance, payroll taxes, and extended medical benefits) that have been accrued but not yet paid. For a discussion of Mr. Senackerib's Separation Agreement, see "—Employment and Change in Control Agreements—Other Named Executive Officers—Separation Agreement with Michael J. Senackerib."
+
+(5)
+
+Data not reported for 2009 as Mr. Sider became a named executive officer in 2010.
+
+(6)
+
+Amounts for Mr. Taride have been translated from pounds sterling to U.S. dollars at the 12-month average rate of 1.604068 for 2011, 1.54214 for 2010 and 1.559041 for 2009.
+
+(7)
+
+Data not reported for 2009 and 2010 as Mr. Senackerib became a named executive officer in 2011.
+
+[p. 54]
+2011 Grants of Plan-Based Awards
+
+The following table sets forth, for each named executive officer, possible payouts under all non-equity incentive plan awards granted in 2011, all grants of performance stock units in 2011, all grants of option awards in 2011, the exercise or base price of all such option awards and the grant date fair value of all such awards.
+
+Estimated future payouts under non-equity incentive plan awards(1) | Estimated future payouts under equity incentive plan awards(2) | All other stock awards: Number of shares of stock or units (#) | All other option awards: Number of securities underlying options (#) | Grant Date Fair Value of Stock and Option Awards(3) ($)
+Exercise or base price of option awards ($/Sh)
+Name | Grant date | Compensation Committee Action Date | Threshold ($) | Target ($) | Max ($) | Threshold (#) | Target (#) | Maximum (#)
+Mark P. Frissora | — | — | — | 1,800,000 | —
+Performance Stock Units | March 1, 2011 | Feb. 28, 2011 | — | — | — | 101,744 | 203,488 | 305,232 | — | — | — | 2,970,925
+Performance Stock Units | March 1, 2011 | Feb. 28, 2011 | — | — | — | — | — | — | 193,798 | (4) | 1,974,802
+Stock Options | March 1, 2011 | Feb. 28, 2011 | — | — | — | — | — | — | — | 498,418 | 14.60 | 2,955,619
+Elyse Douglas | — | — | — | 456,000 | —
+Performance Stock Units | March 1, 2011 | Feb. 28, 2011 | — | — | — | 24,387 | 48,773 | 73,160 | — | — | — | 712,086
+Stock Options | March 1, 2011 | Feb. 28, 2011 | — | — | — | — | — | — | — | 119,462 | 14.60 | 708,410
+Scott Sider | — | — | — | 440,000 | —
+Performance Stock Units | March 1, 2011 | Feb. 28, 2011 | — | — | — | 22,610 | 45,220 | 67,830 | — | — | — | 660,212
+Stock Options | March 1, 2011 | Feb. 28, 2011 | — | — | — | — | — | — | — | 110,759 | 14.60 | 656,801
+Michel Taride | — | — | — | 442,000 | —
+Performance Stock Units | March 1, 2011 | Feb. 28, 2011 | — | — | — | 17,604 | 35,207 | 52,811 | — | — | — | 514,022
+Stock Options | March 1, 2011 | Feb. 28, 2011 | — | — | — | — | — | — | — | 86,234 | 14.60 | 511,368
+J. Jeffrey Zimmerman | — | — | — | 292,825 | —
+Performance Stock Units | March 1, 2011 | Feb. 28, 2011 | — | — | — | 15,504 | 31,008 | 46,512 | — | — | — | 452,717
+Stock Options | March 1, 2011 | Feb. 28, 2011 | — | — | — | — | — | — | — | 75,949 | 14.60 | 450,378
+Michael J. Senackerib | — | — | — | 261,300 | —
+Performance Stock Units | March 1, 2011 | Feb. 28, 2011 | — | — | — | 7,671 | 15,342 | 23,013 | — | — | — | 223,993
+Stock Options | March 1, 2011 | Feb. 28, 2011 | — | — | — | — | — | — | — | 37,579 | 14.60 | 222,843
+
+(1)
+
+The amounts in these columns include the "Target" amount for each named executive officer under the EICP at 100% of the target award. The EICP payments are based on API, revenue and EVA goals for the Corporation. The Senior Executive Bonus Plan, under which EICP payments are made, limits the maximum cash incentive bonus payout for our CEO and other participants. The limit is 1% of our EBITDA for a performance period for our CEO and 0.5% of our EBITDA for a performance period for other participants. The Compensation, Nominating and Governance Committee uses its negative discretion to make actual EICP awards using the performance metrics more specifically described in our Compensation Discussion and Analysis as a guide. Actual amounts were determined and paid in early 2012 and are included in the Summary Compensation Table above. We discuss the EICP under the heading "Compensation Discussion and Analysis—Annual Cash Incentive Program (EICP)—EICP Overview."
+
+(2)
+
+Performance stock units were granted to each named executive officer under our 2008 Omnibus Plan. As described in the Compensation Discussion and Analysis above, the amount of performance stock units eligible for vesting is subject in part to our achievement of financial performance goals during 2011 and/or combined 2011-2012. Of the awards actually earned by our named executive officers, 25% of each award of performance stock units vest on the first anniversary of the grant date, 25% of each award of performance stock units vest on the second anniversary, and 50% of each award of performance stock units vest on the third anniversary, in each case if the executive is still an employee on the applicable vesting date. As set forth in "Compensation Discussion and Analysis—Long Term Equity Incentives—Performance Stock Units" above, if combined 2011-2012 Corporate EBITDA performance levels exceed the 2011 Corporate EBITDA performance levels, additional performance stock units will vest on the second and third anniversaries to reflect the achievement of such increased performance levels.
+
+(3)
+
+Represents the aggregate grant date fair value, computed pursuant to FASB ASC Topic 718, with respect to the performance stock units and stock options granted pursuant to the 2008 Omnibus Plan. Please see the note entitled "Stock-Based Compensation" in the notes to the Corporation's consolidated financial statements in our Form 10-K for the fiscal year ended December 31, 2011 for a discussion of the assumptions underlying these calculations. For the performance stock units, the value reported is based upon the probable outcome of the performance objectives as of the grant date.
+
+(4)
+
+On March 1, 2011, the CN&G Committee granted Mr. Frissora the contingent right to receive 193,798 performance stock units. For these performance stock units to vest, the 20 trading day trailing average price of our common stock must equal or exceed $20 per share by March 2, 2016. Vesting is also contingent on Mr. Frissora's continued employment with us through the last to occur of either the third anniversary of the date of grant (March 1, 2014) or the date upon which the performance criterion above is satisfied.
+
+Annual Incentive Plans
+
+Our named executive officers participate in our EICP, which provides awards based on the achievement of corporate, strategic and financial performance objectives. Awards under the EICP are paid in cash. The EICP is more fully described at "Compensation Discussion and Analysis—Annual Cash Incentive Program (EICP)—EICP Overview."
+
+2008 Omnibus Plan
+
+Performance stock units were granted to each named executive officer under our 2008 Omnibus Plan. 25% of each award of performance stock units will vest on the first anniversary of the grant date if our 2011 Corporate EBITDA exceeds the threshold and the executive is still an employee on the first anniversary of the grant date or is otherwise entitled to the performance stock units as a result of other
+
+[p. 55]
+arrangements or agreements. The amount of performance stock units earned by our named executive officers was based on our 2011 Corporate EBITDA. See "Compensation Discussion and Analysis—Long-Term Equity Incentives—Performance Stock Units." If the performance measures described above are satisfied, then 25% of each award will vest on the second anniversary of the grant date and the remaining 50% of each award will vest on the third anniversary of the grant date if the named executive officer is still an employee on each of those anniversaries. However, if combined 2011-2012 Corporate EBITDA performance level exceed the 2011 Corporate EBITDA performance level, then additional performance stock units will vest on the second and third anniversaries of grant to reflect the achievement of such increased performance levels. In addition, stock options were granted to each named executive officer under our 2008 Omnibus Plan. The stock options become vested in four equal annual installments on each of the first through fourth anniversaries of the date of grant, subject to the continuous employment of the named executive or as otherwise provided in an alternative arrangement or agreement with the named executive officer. The 2008 Omnibus Plan is more fully described above under "Compensation Discussion and Analysis—Long-Term Equity Incentives."
+
+2011 Outstanding Equity Awards at Year-End
+
+The following table sets forth, for each named executive officer, details of all options, performance stock units and restricted stock units outstanding on December 31, 2011.
+
+Option awards | Stock awards
+Name | Number of securities underlying unexercised options Exercisable | Number of securities underlying unexercised options Unexercisable | Equity incentive plan awards: number of securities underlying unexercised unearned options | Option exercise price | Option expiration date | Number of shares or units of stock that have not vested | Market value of shares or units of stock that have not vested(1) | Equity incentive plan awards: number of unearned shares, units or other rights that have not vested | Equity incentive plan awards: market or payout value of unearned shares, units or other rights that have not vested(1)
+(#) | (#) | (#) | ($) | (#) | ($) | (#) | ($)
+Mark P. Frissora | 800,000 | — | — | 6.56 | August 15, 2016 | — | — | — | —
+400,000 | — | — | 9.56 | August 15, 2016 | — | — | — | —
+400,000 | — | — | 14.56 | August 15, 2016 | — | — | — | —
+400,000 | — | — | 23.06 | August 14, 2017 | — | — | — | —
+620,988 | 206,997 | (2) | — | 12.97 | February 28, 2018 | — | — | — | —
+185,043 | 555,131 | (3) | — | 9.70 | March 4, 2020 | — | — | — | —
+— | 498,418 | (4) | — | 14.60 | March 1, 2021 | — | — | — | —
+— | — | — | — | — | — | — | 193,798 | (5) | 2,271,313
+— | — | — | — | — | 862,182 | (6) | 10,104,773 | — | —
+— | — | — | — | — | 244,305 | (7) | 2,863,255 | — | —
+— | — | — | — | — | — | — | 203,488 | (8) | 2,384,879
+Elyse Douglas | 110,000 | — | — | 6.56 | August 15, 2016 | — | — | — | —
+50,000 | — | — | 21.22 | November 2, 2017 | — | — | — | —
+139,925 | 46,642 | (2) | — | 12.97 | February 28, 2018 | — | — | — | —
+43,176 | 129,531 | (3) | — | 9.70 | March 4, 2020 | — | — | — | —
+— | 119,462 | (4) | — | 14.60 | March 1, 2021 | — | — | — | —
+— | — | — | — | — | 148,894 | (6) | 1,745,038 | — | —
+— | — | — | — | — | 57,006 | (7) | 668,110 | — | —
+— | — | — | — | — | — | — | 48,773 | (8) | 571,620
+Scott Sider | 24,000 | — | — | 4.56 | May 5, 2016 | — | — | — | —
+155,000 | — | — | 4.56 | May 18, 2016 | — | — | — | —
+7,500 | 2,500 | (9) | — | 8.61 | August 21, 2018 | — | — | — | —
+30,840 | 92,522 | (3) | — | 9.70 | March 4, 2020 | — | — | — | —
+— | 110,759 | (4) | — | 14.60 | March 1, 2021 | — | — | — | —
+— | — | — | — | — | 40,000 | (10) | 468,800 | — | —
+— | — | — | — | — | 40,719 | (7) | 477,227 | — | —
+— | — | — | — | — | — | — | 45,220 | (8) | 529,978
+
+[p. 56]
+Option awards | Stock awards
+Name | Number of securities underlying unexercised options Exercisable | Number of securities underlying unexercised options Unexercisable | Equity incentive plan awards: number of securities underlying unexercised unearned options | Option exercise price | Option expiration date | Number of shares or units of stock that have not vested | Market value of shares or units of stock that have not vested(1) | Equity incentive plan awards: number of unearned shares, units or other rights that have not vested | Equity incentive plan awards: market or payout value of unearned shares, units or other rights that have not vested(1)
+(#) | (#) | (#) | ($) | (#) | ($) | (#) | ($)
+Michel Taride | 100,000 | — | — | 4.56 | May 5, 2016 | — | — | — | —
+300,000 | — | — | 4.56 | May 18, 2016 | — | — | — | —
+200,000 | — | — | 9.56 | May 18, 2016 | — | — | — | —
+200,000 | — | — | 14.56 | May 18, 2016 | — | — | — | —
+83,955 | 27,985 | (2) | — | 12.97 | February 28, 2018 | — | — | — | —
+31,765 | 95,298 | (3) | — | 9.70 | March 4, 2020 | — | — | — | —
+— | 86,234 | (4) | — | 14.60 | March 1, 2021 | — | — | — | —
+— | — | — | — | — | 121,316 | (6) | 1,421,824 | — | —
+— | — | — | — | — | 41,940 | (7) | 491,537 | — | —
+— | — | — | — | — | — | — | 35,207 | (8) | 412,626
+J. Jeffrey Zimmerman | 45,000 | 15,000 | (11) | — | 12.74 | February 25, 2018 | — | — | — | —
+111,940 | 37,314 | (2) | — | 12.97 | February 28, 2018 | — | — | — | —
+29,360 | 88,081 | (3) | — | 9.70 | March 4, 2020 | — | — | — | —
+— | 75,949 | (4) | — | 14.60 | March 1, 2021 | — | — | — | —
+— | — | — | — | — | — | — | — | —
+— | — | — | — | — | 100,841 | (6) | 1,181,857 | — | —
+— | — | — | — | — | 38,763 | (7) | 454,302 | — | —
+— | — | — | — | — | — | — | 31,008 | (8) | 363,414
+Michael J. Senackerib(12) | 150,000 | — | — | 8.61 | June 6, 2012 | — | — | — | —
+29,298 | — | — | 9.70 | June 6, 2012 | — | — | — | —
+9,394 | — | — | 14.60 | June 6, 2012 | — | — | — | —
+— | — | — | — | — | — | — | 3,836 | (8) | 44,958
+
+(1)
+
+Based on the closing market price of the Corporation's common stock on December 30, 2011 of $11.72, the trading day immediately preceding December 31, 2011.
+
+(2)
+
+The unvested options vest on February 28, 2012.
+
+(3)
+
+The unvested options vest in three equal installments on March 4, 2012, 2013 and 2014.
+
+(4)
+
+The unvested options vest in four equal installments on March 1, 2012, 2013, 2014 and 2015.
+
+(5)
+
+On March 1, 2011, the Compensation Committee granted Mr. Frissora the contingent right to receive 193,798 performance stock units. For these performance stock units to vest, the 20 trading day trailing average price of our common stock must equal or exceed $20 per share by March 2, 2016. Vesting is also contingent on Mr. Frissora's continued employment with us through the last to occur of either the third anniversary of the date of grant (March 1, 2014) or the date upon which the performance criterion above is satisfied.
+
+(6)
+
+These performance stock units were granted on February 26, 2009. Each performance stock unit represents a contingent right to receive one share of our common stock. The performance stock units vest in three installments. The first and second 25% of performance stock units vested on the first and second anniversary of the date of grant (February 26, 2010 and 2011, respectively) due to (i) the recipient's continued employment on such date and (ii) satisfaction of the performance criteria applicable to the performance stock units. Because the performance criteria were satisfied, the remainder of the performance stock units vest over time (subject to continued employment). Specifically, the remaining 50% of performance stock units vest on the third anniversary of the date of grant (February 26, 2012) contingent only upon the recipient's continued employment. The amount included in the column "Number of shares or units of stock that have not vested" represents the third installment, which will vest on the third anniversary of the date of grant, contingent only upon the recipient's continued employment.
+
+(7)
+
+These performance stock units were granted on March 4, 2010. Each performance stock unit represents a contingent right to receive one share of our common stock. The performance stock units vest in three installments. The first 25% of performance stock units vested on the first anniversary of the date of grant (March 4, 2011), due to (i) the recipient's continued employment and (ii) satisfaction of the performance criteria applicable to the performance stock units. Because the performance criteria were satisfied, the remainder of the performance stock units vest over time (subject to continued employment). Specifically, the second 25% of performance stock units vest on the second anniversary of the date of grant (March 4, 2012) contingent only upon the recipient's continued employment and the remaining 50% of performance stock units vest on the third anniversary of the date of grant (March 4, 2013) contingent only upon the recipient's continued employment. The amount included in the column "Number of shares or units of stock that have not vested" represents the second and third installment, which will vest on the second and third anniversary of the date of grant, respectively, contingent only upon the recipient's continued employment.
+
+(8)
+
+These performance stock units were granted on February 28, 2011. Each performance stock unit represents a contingent right to receive one share of our common stock. The performance stock units vest in three installments. The first 25% of performance stock units vest on the first anniversary of the date of grant, contingent upon (i) the recipient's continued employment and (ii) satisfaction of Corporate EBITDA thresholds for fiscal 2011. If the first installment vests, the second 25% of performance stock units vest on the second anniversary of the date of grant contingent only upon the recipient's continued employment and the remaining 50% of performance stock units vest on the third anniversary of the date of grant contingent only upon the recipient's continued employment. However, as described in "Compensation Discussion and Analysis—Long Term Equity Incentives—Performance Stock Units" above, if combined 2011-2012 Corporate EBITDA performance levels exceed the 2011 Corporate EBITDA performance level, then additional performance stock units will vest on the second and third anniversaries of to reflect the achievement of such increased performance levels. The amounts shown under "Stock Awards" represent the performance stock units at target; the amount ultimately awarded may range from 0% to 150% of the target award. With respect to Mr. Senackerib, because he forfeited the performance stock units that would have vested on the second and third anniversaries of the grant date pursuant to his Separation Agreement, the amount of performance stock units disclosed for Mr. Senackerib represents 25% of the performance stock units eligible for vesting on the first anniversary of the grant date.
+
+(9)
+
+The unvested options vest on August 18, 2012.
+
+[p. 57]
+(10)
+
+These restricted stock units were granted on February 26, 2009. Each restricted stock unit represents a contingent right to receive one share of our common stock. The restricted stock units vest in three installments, subject to continued employment. The first 25% of restricted stock units vested on the first anniversary of the date of grant (February 26, 2010) due to the recipient's continued employment on such date. The second 25% of restricted stock units vest on the second anniversary of the date of grant (February 26, 2011) contingent only upon the recipient's continued employment and the remaining 50% of restricted stock units vest on the third anniversary of the date of grant (February 26, 2012). The amount included in the column "Number of shares or units of stock that have not vested" represents the second and third installment, which will vest on the second and third anniversary of the date of grant, respectively, contingent only upon the recipient's continued employment.
+
+(11)
+
+The unvested options vest on February 25, 2012.
+
+(12)
+
+Under the terms of Mr. Senackerib's Separation Agreement, any stock options granted pursuant to the Hertz Global Holdings, Inc. Stock Incentive Plan and the 2008 Omnibus Plan (that would have vested on or before March 31, 2012 if Mr. Senackerib had remained employed through that date) vested immediately following the termination of Mr. Senackerib's employment, which was December 6, 2011. All of Mr. Senackerib's vested options are exercisable through June 6, 2012 and all of his unvested options (after taking into account the accelerated vesting provisions described in the preceding sentence) terminated on December 6, 2011. Mr. Senackerib's' performance stock units (that would have otherwise vested by March 31, 2012 had Mr. Senackerib remained employed through that date), vested on the later of the date when the Compensation Committee certified the performance criteria for the vesting of such performance stock units or the date of Mr. Senackerib's termination.
+
+2011 Option Exercises and Stock Vested
+
+The following table sets forth, for each named executive officer, details of any awarded stock options that were exercised and any stock awards that were vested in 2011.
+
+Option Awards | Stock Awards
+Name | Number of shares acquired on exercise (#) | Value realized on exercise ($) | Number of shares acquired on vesting (#) | Value realized on vesting ($)
+Mark P. Frissora | — | N/A | 81,435 | (1) | 1,220,711 | (2)
+431,091 | (3) | 6,526,718 | (4)
+Elyse Douglas | — | N/A | 19,001 | (1) | 284,825 | (2)
+74,447 | (3) | 1,127,128 | (4)
+Michel Taride | — | N/A | 13,979 | (1) | 209,545 | (2)
+60,658 | (3) | 918,362 | (4)
+Scott Sider | — | N/A | 13,572 | (1) | 203,444 | (2)
+20,000 | (5) | 302,800 | (4)
+J. Jeffrey Zimmerman | — | N/A | 12,921 | (1) | 193,686 | (2)
+50,421 | (3) | 763,374 | (4)
+Michael J. Senackerib | — | N/A | 6,446 | (1) | 96,626 | (2)
+28,553 | (3) | 432,292 | (4)
+6,447 | (6) | 77,171 | (7)
+57,107 | (6) | 683,571 | (7)
+
+(1)
+
+Represents the number of shares of common stock received upon vesting of performance stock units that had been previously granted under our 2008 Omnibus Plan. The performance stock units vested on March 4, 2011.
+
+(2)
+
+Value realized upon vesting based on $14.99 per share, the closing price of our common stock on the NYSE on March 4, 2011.
+
+(3)
+
+Represents the number of shares of common stock received upon vesting of performance stock units that had previously been granted under our 2008 Omnibus Plan. The performance stock units vested on February 26, 2011.
+
+(4)
+
+Value realized upon vesting based on $15.14 per share, the closing price of our common stock on the NYSE on February 25, 2011, the immediately preceding trading day before the vesting date of February 26, 2011.
+
+(5)
+
+Represents the number of shares of common stock received upon vesting of restricted stock units that had been previously granted under our 2008 Omnibus plan in November 2009. The remaining restricted stock units vested on February 26, 2011.
+
+(6)
+
+Represents the number of shares of common stock received pursuant to the accelerated vesting provisions contained in Mr. Senackerib's Separation Agreement. The performance stock units which would have otherwise vested by March 31, 2012 had Mr. Senackerib remained employed vested on the later of the CN&G Committee's certification of the achievement of performance objectives or Mr. Senackerib's termination date of December 6, 2011. Because the CN&G Committee had previously certified that the performance conditions in respect of the performance stock units granted in February 2009 and March 2010 have been met, these performance stock units vested on December 6, 2011.
+
+(7)
+
+Value realized upon vesting based on $11.97 per share, the closing price of our common stock on the NYSE on December 6, 2011.
+
+[p. 58]
+2011 Pension Plan Table
+
+The following table sets forth, for each named executive officer, the plans in which he or she participated in 2011, the number of years of credited service in each such plan he or she had at December 31, 2011, the present value of the accumulated benefit in each such plan at December 31, 2011, and the payments received from such plan during 2011:
+
+Name | Plan name | Number of years credited service | Present value of accumulated benefit(1) | Payments during last fiscal year
+(#) | ($) | ($)
+Mark P. Frissora | The Hertz Corporation Account Balance Defined Benefit Pension Plan (the "Hertz Retirement Plan") | 5 | 37,700
+The Hertz Corporation Benefit Equalization Plan (the "BEP") | 5 | 337,200
+The Hertz Corporation Supplemental Executive Retirement Plan (the "SERP II") | 5 | 2,796,500
+Elyse Douglas | Hertz Retirement Plan | 5 | 35,300
+BEP | 5 | 82,900
+SERP II | 5 | 840,500
+Scott Sider(2) | Hertz Retirement Plan | 25 | 300,000
+BEP | 16 | 177,800
+SERP II | 25 | 1,761,700
+Michel Taride(3) | Hertz UK Pension Plan | 11 | 1,338,492
+Hertz UK Supplemental Plan | 11 | 1,949,571
+J. Jeffrey Zimmerman | Hertz Retirement Plan | 4 | 21,900
+BEP | 4 | 37,700
+SERP II | 4 | 409,500
+Michael J. Senackerib(4) | Hertz Retirement Plan | 3 | 18,300
+BEP | 3 | 25,500
+SERP II | 3 | —
+
+(1)
+
+The present value calculations use the same assumptions (except for retirement and pre-retirement decrements) used for financial reporting purposes and reflect current compensation levels. The assumptions used in the calculations are as follows:
+
+•
+
+Discount Rates—
+
+•
+
+For The Hertz Retirement Plan: 4.7% as of December 31, 2011, 5.1% as of December 31, 2010 and 5.4% as of December 31, 2009.
+
+[p. 59]
+•
+
+For the BEP and SERP II: 4.8% as of December 31, 2011, 5.2% as of December 31, 2010 and 5.6% as of December 31, 2009.
+
+•
+
+For the Hertz UK Pension Plan: 4.7% as of December 31, 2011, 5.3% as of December 31, 2010 and 5.7% as of December 31, 2009.
+
+•
+
+For the Hertz UK Supplemental Plan: 4.7% as of December 31, 2011, 5.3% as of December 31, 2010 and 5.7% as of December 31, 2009.
+
+•
+
+Mortality Table = RP2000 Mortality Table projected to 2017.
+
+•
+
+Retirement Age = 60 or current age if older (earliest unreduced retirement age).
+
+•
+
+Pre-retirement Decrements = None assumed.
+
+•
+
+Payment Form = Five year certain and life annuity.
+
+Please see the note "Employee Retirement Benefits" in the notes to the Corporation's consolidated financial statements in our Form 10-K for the fiscal year ended December 31, 2011, for a discussion of these assumptions.
+
+(2)
+
+Mr. Sider's number of actual years of service with us is 29.
+
+(3)
+
+Amounts for Mr. Taride have been translated from pounds sterling to U.S. dollars at the 12-month average rate of 1.604068. Mr. Taride's number of actual years of service with us is 25.
+
+(4)
+
+Due to Mr. Senackerib's termination on December 6, 2011, he relinquished all claims to his unvested retirement plan benefits under the SERP II.
+
+Pension Benefits
+
+Our retirement plan for U.S.-based employees, The Hertz Corporation Account Balance Defined Benefit Pension Plan (the "Hertz Retirement Plan"), is a tax-qualified pension plan for which we pay the entire cost. Full and part-time employees who work more than 1,000 hours in a 12-month period, and who have completed one year of continuous employment with the Corporation, including the named executive officers, with the exception of Mr. Taride, earn the right to receive benefits upon retirement at the normal retirement age of 65 or upon early retirement at or after age 55 and the completion of three years of vesting service. The benefit an employee receives is based on a combination of the following factors:
+
+•
+
+A percentage of final average compensation (using the highest five consecutive of the last ten years of eligible compensation);
+
+•
+
+Years of credited service up to July 1, 1987; and
+
+•
+
+The accrued value of a cash account after July 1, 1987, which gets credited each year at a predetermined percentage of eligible compensation.
+
+We maintain three non-qualified, unfunded pension plans for certain of our U.S.-based executives: the BEP, the SERP II and the SERP. None of our named executive officers participates in the SERP and Mr. Taride does not participate in any of these plans. These plans provide benefits in excess of the qualified plans as follows:
+
+•
+
+The BEP provides equalization benefits in lieu of benefits that cannot be provided under the Hertz Retirement Plan due to limitations on tax-qualified retirement plans imposed by the Code. Eligibility for the BEP is limited to members of a select group of management or highly compensated employees whose benefits under the Hertz Retirement Plan are limited by the Code and who do not participate in the SERP. Messrs. Frissora, Sider, Zimmerman and Senackerib and Ms. Douglas participate or participated in the BEP. Benefits under the BEP are fully vested after the earlier of three years of vesting service or at age 65.
+
+•
+
+The SERP II provides benefits to participants that, when combined with benefits paid to them under the Hertz Retirement Plan, the BEP and the SERP would cause them to receive overall
+
+[p. 60]
+benefits generally similar to those that would have been provided if the pre-July 1, 1987 benefit formula for the Hertz Retirement Plan had remained in effect until their normal retirement date, but had the Hertz Retirement Plan computed their final average compensation on the basis of the highest five in the last ten years of eligible compensation, whether or not those five years were consecutive. Eligibility for the SERP II is discretionary. Messrs. Frissora, Sider, Zimmerman and Senackerib and Ms. Douglas participate or participated in the SERP II. Benefits under the SERP II are generally payable only to participants who, upon the termination of their employment, have been credited with five vesting years of service under the pension plan and whose employment terminates due to death or disability or after attainment of age 55. Those benefits are also payable to participants who have not attained age 55 if their employment is terminated (other than voluntarily or for cause) within thirty days prior to, or one year after, certain changes in control of Hertz or its subsidiaries.
+
+Mr. Taride participates in two retirement plans applicable to certain of our employees in Europe, the Hertz UK 1972 Pension Plan and the Hertz UK Supplementary Unapproved Pension Scheme, or the "Hertz UK Supplementary Plan." These two plans are similar defined benefit plans that provide for, in the case of Mr. Taride, 1/30th of his final salary for each year of service in the plans subject to a maximum of two-thirds of his final salary at the time of his retirement. Under these plans, Mr. Taride has a right to retire at age 60.
+
+On June 30, 2011, we transitioned from the two defined benefit plans mentioned above to a defined contribution plan, the Hertz Group Personal Pension, for Mr. Taride and all U.K.-based employees. As a result, Mr. Taride, in addition to all other U.K.-based employees, are still entitled to the benefits under the plans, but we will make no further contributions on their behalf to either plan and all accrued benefits will be paid when the beneficiaries are eligible for such benefits.
+
+We also maintain a tax-qualified defined contribution plan in which the named executive officers, except for Mr. Taride, are eligible to participate. We also maintain a post-retirement assigned car benefit plan under which we provide certain executives who, at the time of retirement, are at least 58 years old and have been an employee of the Corporation for at least 20 years, with a car from our fleet and insurance on the car for the participant's benefit. The assigned car benefit is available for 15 years post-retirement or until the participant reaches the age of 80, whichever occurs last. As of December 31, 2011, Messrs. Sider and Taride had satisfied the minimum service, but not the minimum age, requirement and Messrs. Frissora and Zimmerman and Ms. Douglas had satisfied neither the minimum service nor the minimum age requirement. Mr. Senackerib did not qualify for this benefit at the time of his resignation.
+
+Employment and Change in Control Agreements
+
+The Corporation and its subsidiaries have entered into employment agreements and Change in Control Agreements with certain key employees, including the named executive officers, to promote stability and continuity of senior management. Information about such agreements is set forth below.
+
+Employment Agreement with Mark P. Frissora
+
+We entered into an employment agreement with Mr. Frissora in connection with his becoming our CEO, and a director of the Corporation and of Hertz, in July 2006, which agreement was amended and restated in December 2008. The agreement with Mr. Frissora provides for an annual base salary of not less than $950,000 and an annual bonus opportunity of 100% of such base salary. In addition, Mr. Frissora is entitled to receive the benefits and perquisites we provide to our senior executives.
+
+[p. 61]
+In addition, the agreement provides that if Mr. Frissora's employment terminates because of his death, "Disability" or "Retirement," (as those terms are defined in the employment agreement) he will be entitled to receive his base salary through the date of termination plus a pro rata bonus for the year of termination based on the achievement of performance goals for that year. If his employment is terminated by the Corporation without "Cause" or by Mr. Frissora for "Good Reason" (as those terms are defined in the employment agreement), Mr. Frissora is, if he executes a release of claims against us, entitled to severance. Severance in this case would be equal to two and a half times his then-current base salary and the bonus awarded for the preceding year, continuation of health care coverage for two years, and a pro rata bonus for the year in which his termination occurs, based on actual performance. If Mr. Frissora's employment is terminated for Cause, he is only entitled to his base salary through the date of termination. If Mr. Frissora's employment is terminated by Mr. Frissora without Good Reason, he is entitled to his base salary through the date of termination and his earned but unpaid annual bonus for the year preceding the year in which the date of termination occurs. Upon termination of Mr. Frissora's employment for any reason, he will be subject to non-competition and non-solicitation provisions for two years following the termination. In the event that Mr. Frissora's severance benefits constitute "excess parachute payments" (as defined by Section 280G of the Code), he will be entitled to a gross-up for any excise tax, more commonly known as golden parachute tax, imposed on him by Section 4999 of the Code in connection with his severance benefits.
+
+The following chart sets forth, for Mr. Frissora, the payments and benefits he would receive if his employment were to have terminated under the specified circumstances on December 31, 2011. For purposes of determining the amount of the excise tax gross-up, we have assumed that a change in control occurred on December 31, 2011 and that the vesting of all of the unvested stock options held by Mr. Frissora would have accelerated upon the change in control. In addition, because we have assumed that the termination occurred on December 31, 2011, we have further assumed that Mr. Frissora would be paid a bonus payment equal to 100% of the bonus earned.
+
+Benefit | Termination For Cause ($) | Termination without Cause/with Good Reason ($) | Termination by reason of Death or Disability ($) | Termination following a Change in Control ($)(1)
+Severance payment | 0 | 9,644,920 | — | 9,644,920
+Pro rata bonus | 0 | 3,520,517 | 3,520,517 | 3,520,517
+Continued healthcare benefits | 0 | 11,712 | — | 11,712
+Outplacement | 0 | — | — | —
+Excise tax gross up | 0 | — | — | —
+Total | 0 | 13,177,149 | 3,520,517 | 13,177,149
+
+(1)
+
+Assumes termination of Mr. Frissora after the Corporation's failure, within 15 days after a merger, consolidation, sale or similar transaction, to obtain a satisfactory agreement from any successor to all or substantially all of the assets or business of the Corporation to assume and agree to perform Mr. Frissora's employment agreement.
+
+Other Named Executive Officers
+
+Separation Agreement with Michael J. Senackerib
+
+On December 6, 2011, we entered into a Separation Agreement and General Release with Michael J. Senackerib, our former Chief Marketing Officer. Mr. Senackerib's employment with us ended on December 6, 2011. As part of his Separation Agreement and General Release, Mr. Senackerib was paid 1.5 times his base salary plus bonus, for a total of $1,123,295, with such amount to be paid over an 18-month period. Mr. Senackerib's stock options granted by the Hertz Global Holdings, Inc. Stock Incentive Plan and 2008 Omnibus Plan that would have vested on or before March 31, 2012 if Mr. Senackerib had remained employed through that date vested immediately following the termination
+
+[p. 62]
+of Mr. Senackerib's employment. All of Mr. Senackerib's vested options are exercisable through June 6, 2012 and all of his unvested options (after taking into account the accelerated vesting provisions described in the preceding sentence) terminated on December 6, 2011. Mr. Senackerib's performance stock units which would have otherwise vested by March 31, 2012 had Mr. Senackerib remained employed, vested on the later of the date when the Compensation Committee certified the performance criteria for the vesting of such performance stock units or the date of Mr. Senackerib's termination. Mr. Senackerib will be provided car privileges through December 31, 2012 and continued health and other certain benefits under Hertz's benefits plans for the same cost 18 months after his separation. In exchange, Mr. Senackerib agreed to a waiver and release of claims against us, not to compete against us or solicit any Hertz employees for 18 months after his termination and not to disparage us.
+
+Change in Control Agreements
+
+The named executive officers, other than Mr. Frissora have entered into Change in Control Agreements. The Change in Control Agreements will continue to automatically renew for one-year extensions unless we give 15-months' notice. In the event of a change in control during the term of the Change in Control Agreements, the agreement will remain in effect for two years following the change in control.
+
+If a change in control occurs and the covered executive's employment is terminated by us without "Cause" or by the covered executive with "Good Reason" (as those terms are defined in the Change in Control Agreement), in either case within two years following the change in control, the covered executive will be entitled to the following payments and benefits:
+
+•
+
+A lump sum cash payment reflecting accrued but unpaid compensation equal to the sum of (i) the executive's annual base salary earned but not paid through the date of termination, (ii) one-twelfth of the target annual bonus payable to the executive, including any amounts deferred at the election of the executive multiplied by the number of full and partial months from the beginning of the calendar year during which the termination occurs, and (iii) all other amounts to which the executive is entitled under any compensation plan applicable to the executive, payable no later than the thirtieth day following the date of the executive's termination;
+
+•
+
+A lump sum cash payment equal to a multiple (the "severance multiple") of the sum of the executive's annual base salary in effect immediately prior to the termination and the average actual bonuses paid to the covered executive for the three years prior to the year in which the termination occurs, or, for executives without a three-year bonus history, by reference to target levels. The severance multiples are: for Mr. Taride, 2.5, for Ms. Douglas and Mr. Sider, 2.0 and for Mr. Zimmerman, 1.5;
+
+•
+
+Credit of an additional number of years equal to the severance multiple to the executive's years of age and "Years of Service" for all purposes under our SERP II (described at "—Pension Benefits") and, to the extent such covered executive does not have at least 5 "years of service", the covered executive shall be fully vested in the benefit under our SERP II as increased pursuant to the credit referred to above;
+
+•
+
+Continuation of all life, medical, dental and other welfare benefit plans (other than disability plans) until the earlier of the end of a number of years following the executive's termination of employment equal to the severance multiple and the date on which the executive becomes eligible to participate in welfare plans of another employer;
+
+•
+
+Within the period of time from the date of the executive's termination through the end of the year following the date of termination, outplacement assistance up to a maximum of $25,000; and
+
+•
+
+With respect to Mr. Taride, eligibility to immediately participate in the retiree car plan (described at "—Retiree Car Plan").
+
+[p. 63]
+The foregoing are intended to be in lieu of any other payments and benefits to be made in connection with a covered executive's termination of employment while the agreements are in effect. Covered executives must execute a general release of claims to receive the foregoing severance payments and benefits. After a change in control, in the event the covered executive's employment is terminated by reason of death, "Disability," or "Retirement" (as those terms are defined in the Change in Control Agreement) then the executive will be entitled to his or her benefits in accordance with the retirement or benefit plans of the Corporation in effect. After a change in control, in the event the covered executive's employment is terminated by reason of "Cause" or by the executive without "Good Reason" (as those terms are defined in the Change in Control Agreement) then the Corporation shall pay the executive his or her full base salary at the rate in effect at the time notice of termination was given and shall pay any other amounts according to any other compensation plans or programs in effect.
+
+In the event of a dispute over the agreement, the covered executive is entitled to payment of his or her legal fees and expenses reasonably incurred so long as the covered executive prevails on at least one material claim in the dispute. In the event that compensation provided for in the agreement or in any other plan or arrangement covering the named executive is subject to the golden parachute excise tax, all named executive officers other than Messrs. Sider and Taride will be entitled to receive a gross-up payment in an amount such that after payment by the executive of all taxes on the gross-up payment, the executive shall retain a portion of the gross-up payment equal to the excise tax. However, to the extent compensation paid to the executive in connection with the change in control does not exceed 110% of the specified statutory threshold amount giving rise to excise tax, then no additional payment will be paid and the compensation will be reduced below such statutory threshold. As more specifically described in "Compensation Discussion and Analysis—Employment and Severance Arrangements," and below, Mr. Sider entered into a revised form of the Change in Control Agreement that does not contain a tax gross-up and accordingly is not entitled to the aforementioned benefit.
+
+The agreement also contains a confidentiality covenant that extends for 24 months following the executive's termination of employment and noncompetition and nonsolicitation covenants that extend for 12 months following the executive's termination of employment. In the event that the executive breaches these covenants, the Corporation is entitled to stop making payments to the executive and seek injunctive relief in certain circumstances.
+
+In addition, Hertz Europe Limited and Mr. Taride have entered into a non-compete agreement which provides that for the 12 months after the termination of his employment with us, Mr. Taride will not (i) compete with us in the countries in which we operated or actively made arrangements to plan to operate during the 12 months preceding such termination of employment or (ii) solicit or entice away any key employees from us. Hertz Europe Limited would be required to give Mr. Taride 12-months' notice to terminate his employment for any reason other than misconduct.
+
+In March 2010, Scott Sider entered into our revised form of the Change in Control Agreement as part of his promotion to President, Vehicle Rental and Leasing, The Americas. The revised form that Mr. Sider entered into eliminates the provision for a tax gross-up under Section 4999 of the Code in the event that there is an event satisfying the "double trigger" provisions in the agreement. Mr. Sider is the only named executive officer to have entered into such revised Change in Control Agreement.
+
+The table below sets forth, for each of Ms. Douglas and Messrs. Sider, Taride and Zimmerman the severance benefits that would have been payable under the executive's Change in Control Agreement if his or her employment had been terminated by us without cause or by the executive for good reason (each as defined in the relevant agreement), as of December 31, 2011. The increase in the SERP II value reflects the difference between the payment to which the executive would have been entitled had his or her employment been terminated assuming a change in control had occurred and if his or her employment had been terminated assuming no change in control. In addition, because we have assumed that the terminations occurred on December 31, 2011, we have further assumed that each of
+
+[p. 64]
+the executives would be paid a bonus payment equal to 100% of target and for this purpose. In addition, for purposes of calculating the excise-tax gross-up, we have assumed that the vesting of all unvested stock options held by these individuals accelerated on that date.
+
+Benefit | Name(1) | Value of Benefit ($)
+Severance payment | Ms. Douglas | 1,792,678 | (2)
+Mr. Sider | 1,608,041
+Mr. Taride | 2,296,504 | (3)
+Mr. Zimmerman | 1,070,546
+Pro-rata bonus payment | Ms. Douglas | 456,000
+Mr. Sider | 440,000
+Mr. Taride | 441,721 | (3)
+Mr. Zimmerman | 292,825
+SERP II value(4) | Ms. Douglas | 700,100
+Mr. Sider | 2,586,300
+Mr. Taride | N/A
+Mr. Zimmerman | 562,600
+Continued health and welfare benefits | Ms. Douglas | 15,796
+Mr. Sider | 14,685
+Mr. Taride | 52,657 | (3)
+Mr. Zimmerman | 10,189
+Outplacement | Ms. Douglas | 25,000
+Mr. Sider | 25,000
+Mr. Taride | 25,000
+Mr. Zimmerman | 25,000
+Excise tax gross up | Ms. Douglas | 0
+Mr. Sider | 0
+Mr. Taride | N/A
+Mr. Zimmerman | 0
+Retiree Car Benefit | Ms. Douglas | N/A
+Mr. Sider | N/A
+Mr. Taride | 237,000
+Mr. Zimmerman | N/A
+
+(1)
+
+Information is not included for Mr. Senackerib because his employment ended on December 6, 2011 and payments were made to him pursuant to his Separation Agreement. See "—Employment and Change in Control Agreements—Other Named Executive Officers—Separation Agreement with Michael J. Senackerib".
+
+(2)
+
+Ms. Douglas' severance payment was reduced by $153,302 to reflect an amount that otherwise would be subject to 280G excise tax. Because Ms. Douglas' total Change in Control payments are within 110% of the specified statutory threshold amount giving rise to the excise tax, under the terms of her Change in Control Agreement, the excess amount was deducted from her severance payment.
+
+(3)
+
+Amounts for Mr. Taride have been translated from pounds sterling to U.S. dollars at the spot exchange rate on December 31, 2011 of 1.54902.
+
+(4)
+
+Amounts for Messrs. Sider and Zimmerman and Ms. Douglas reflect (i) the value of the SERP II benefits as set forth in "—2011 Pension Plan Table" plus (ii) a credit of an additional number of years equal to the respective executive officer's severance multiple to the executive's years of age and "Years of Service" under the SERP II.
+
+[p. 65]
+Severance Plan for Senior Executives
+
+We have a severance plan for senior executives. The severance plan provides benefits to senior executives whose employment is terminated other than terminations of employment that qualify for benefits under the Change in Control Agreements. Messrs. Sider, Taride and Zimmerman and Ms. Douglas were designated as participants in the plan. If any covered executive is terminated for death, "Cause," "Permanent Disability" or "Retirement" (as those terms are defined in the severance plan) the executive will not be entitled to any benefits under the severance plan. However, if the covered executive is terminated for any other reason (other than described in the preceding sentence), the executive will be or was entitled to the following payments and benefits:
+
+•
+
+A pro rata portion of the annual bonus that would have been payable to the participant;
+
+•
+
+Cash payments in the aggregate equal to a multiple (the "severance multiple"), based on the executive's position, of the executive's annual base salary in effect immediately prior to the date of termination and the average of the annual bonuses payable to the executive, including any amounts deferred at the election of the executive, with respect to the three calendar years preceding the year in which the termination occurs; or, for executives without a three-year bonus history, by reference to target levels; or, if no target annual bonus has yet been established for such fiscal year, the average actual bonus the executive received in the most recent years; or, if an executive has not had an opportunity to earn or be awarded one full year's bonus as of his or her termination of employment, the executive's target bonus for the year of termination, payable in equal installments over a period of whole and/or partial years equal to the severance multiple. The severance multiples are: for Messrs. Sider and Taride, 2.0 and for Mr. Zimmerman and Ms. Douglas, 1.5;
+
+•
+
+Continuation of all life, medical, dental and other welfare benefit plans (other than disability plans) until the earlier of the end of a number of years following the executive's termination of employment equal to the severance multiple and the date on which the executive becomes eligible to participate in welfare plans of another employer; and
+
+•
+
+Within the period of time from the date of executive's termination through the end of the year following the date of termination, outplacement assistance up to a maximum of $25,000.
+
+Executives must execute a general release of claims to receive the foregoing severance payments and benefits. The severance plan also contains a confidentiality covenant that extends for 24 months following the executive's termination of employment and non-competition and non-solicitation covenants that extend for a period of years following the executive's termination of employment equal to the severance multiple. If an executive is entitled to severance payments and benefits under the severance plan and a Change in Control Agreement, payments and benefits will be made under the Change in Control Agreement rather than the severance plan.
+
+The severance plan is administered by one or more individuals appointed by our Compensation, Nominating and Governance Committee or (in the absence of an appointment) by the Senior Vice President of Human Resources. The severance plan may be amended or terminated at any time other than with respect to executives then receiving payments and benefits under the plan.
+
+The following chart sets forth the estimated payments that the named executive officers covered under the severance plan would receive upon a termination by us without cause, assuming that (i) the
+
+[p. 66]
+severance plan was in place on December 31, 2011 and (ii) the covered executives' termination of employment occurred on that date.
+
+Benefit | Name(1) | Value of Benefit ($)
+Severance payment | Ms. Douglas | 1,459,485
+Mr. Sider | 1,608,041
+Mr. Taride | 1,837,203 | (2)
+Mr. Zimmerman | 1,070,546
+Pro-rata bonus payment | Ms. Douglas | 456,000
+Mr. Sider | 440,000
+Mr. Taride | 441,721 | (2)
+Mr. Zimmerman | 292,825
+Continued health and welfare benefits | Ms. Douglas | 11,847
+Mr. Sider | 14,685
+Mr. Taride | 42,126 | (2)
+Mr. Zimmerman | 10,189
+Outplacement | Ms. Douglas | 25,000
+Mr. Sider | 25,000
+Mr. Taride | 25,000
+Mr. Zimmerman | 25,000
+
+(1)
+
+Information is not included for Mr. Senackerib because his employment ended on December 6, 2011 and payments were made to him pursuant to his Separation Agreement. See "—Employment and Change in Control Agreements—Other Named Executive Officers—Separation Agreement with Michael J. Senackerib".
+
+(2)
+
+Amounts for Mr. Taride have been translated from pounds sterling to U.S. dollars at the spot exchange rate on December 31, 2011 of 1.54902.
+
+Treatment of Equity Compensation upon a Termination or a Change in Control
+
+Our named executive officers currently hold outstanding equity issued under two equity incentive plans, the Hertz Global Holdings Stock Incentive Plan ("SIP") and the 2008 Omnibus Plan. The 2008 Omnibus Plan, which replaced the SIP, was approved by our stockholders at our 2010 annual meeting (and amended and restated the original equity incentive plan approved at our 2008 annual meeting).
+
+Stock Incentive Plan
+
+With respect to options granted to our named executive officers pursuant to the SIP, other than certain options granted to Messrs. Frissora and Senackerib, if the executive's employment is terminated by reason of death or disability, all of the executive's unvested stock options issued will vest. If the executive's employment is terminated for any reason other than death or disability, all unvested options will immediately be canceled. Options that vest or are vested at the time of the executive's termination of employment will remain outstanding and exercisable until the earlier of the tenth anniversary of the grant date or 60 days (or in the case of termination by reason of death or disability, 180 days) following the executive's termination. In the event of a termination for cause, all vested and unvested options held by the executive are forfeited.
+
+Different provisions apply to stock options granted pursuant to the SIP to Mr. Frissora at the time of his commencement of employment with the Corporation in July 2006. For those options, if Mr. Frissora's employment is terminated without "Cause" or for "Good Reason" (as those terms are defined in his employment agreement), a pro rata portion of his options that would have vested on the next vesting date will vest. Options that vest or are vested at the time of Mr. Frissora's termination of employment will remain outstanding and exercisable until the earlier of the tenth anniversary of the grant date or the following: (i) 60 days following a termination by Mr. Frissora without Good Reason; (ii) 90 days following
+
+[p. 67]
+a termination by Mr. Frissora for Good Reason or by the Corporation without Cause; or (iii) 180 days following a termination by reason of death or disability or retirement on or after Mr. Frissora reaches normal retirement age. In addition, if Mr. Frissora's employment is terminated by Mr. Frissora for Good Reason or by the Corporation without Cause in the six months prior to a change in control, these options will be treated as if his employment was terminated immediately after the change in control. Mr. Frissora's other options granted under the SIP have the same terms as those of our other named executive officers.
+
+Similarly, different provisions apply to stock options granted to Mr. Senackerib. Pursuant to his Separation Agreement, Mr. Senackerib's stock options granted pursuant to the SIP and the 2008 Omnibus Plan that would have vested on or before March 31, 2012 if Mr. Senackerib had remained employed through that date vested immediately following the termination of Mr. Senackerib's employment. All of Mr. Senackerib's vested options are exercisable through June 6, 2012 and all of his unvested options (after taking into account the accelerated vesting provisions described in the preceding sentence) terminated on December 6, 2011.
+
+Under the SIP, if a change in control occurs, unless outstanding options are exchanged for substitute awards in connection with the change in control, each option will be canceled in exchange for a payment equal to the excess, if any, of the price per share paid in the change in control over the option's exercise price.
+
+2008 Omnibus Plan
+
+Stock Options—In March 2011, we made stock option grants to the named executive officers pursuant to the 2008 Omnibus Plan. With respect to these stock options (other than the options granted to Mr. Senackerib, the treatment of which is described at "—Employment and Change in Control Agreements—Other Named Executive Officers—Separation Agreement with Michael J. Senackerib."), if the employment of any of our named executive officers is terminated by reason of death or disability, any options shall be exercisable at any time prior to the first anniversary of the named executive officer's death or disability or the expiration of the term of the options, whichever period is shorter, and thereafter any options and that have not been exercised are canceled. If the employment of any of our named executive officers is terminated as a result of his or her retirement, or without cause, then the named executive officer may exercise any options that are exercisable on the date of such retirement or termination without cause until the earlier of (i) the 90th day following the date of such retirement or termination or, if later, the 90th day following expiration of any blackout period in effect with respect to such options and (ii) the expiration of the term of such options. Any options that are not exercisable upon the named executive officer's retirement or termination shall be forfeited and canceled as of the date of such retirement or termination If a named executive officer's employment is terminated for cause, all outstanding options shall be immediately forfeited and canceled.
+
+Performance Stock Units—In March 2011, we made performance stock units grants to the named executive officers pursuant to the 2008 Omnibus Plan. With respect to performance stock units granted to our named executive officers (other than the performance stock units granted to Mr. Senackerib, the treatment of which is described at "—Employment and Change in Control Agreements—Other Named Executive Officers—Separation Agreement with Michael J. Senackerib", and the performance stock units granted to Mr. Frissora on March 1, 2011, the treatment of which is described in the following paragraph), if the employment of any of our named executive officers is terminated by reason of death or disability on or prior to the first anniversary of the date performance stock units were awarded, the officer will retain a pro rata portion of the performance stock units, based on the number of days elapsed since the date of grant, and the remaining performance stock units will be forfeited. The retained performance stock units will be eligible to vest if the performance goal is achieved for the first performance year and will be forfeited if the performance goal is not achieved. If the employment of a named executive officer is terminated by reason of death or disability after the first anniversary of the date that the performance
+
+[p. 68]
+stock units were awarded, then, based on the applicable achievement of the performance goals in the first year and the cumulative two-year period, a pro rata portion of the performance stock units will vest, based on the number of days elapsed since the first anniversary of the grant date. If the employment of a named executive officer is terminated by reason of death or disability after the second anniversary of the date that the performance stock units were awarded, then, based on the applicable achievement of the performance goals in the first year and the cumulative two-year period, a pro rata portion of the performance stock units will vest, based on the number of days elapsed since the second anniversary of the grant date. If a named executive officer's employment is terminated for any other reason, performance stock units will be forfeited.
+
+With respect to the performance stock units granted to Mr. Frissora on March 1, 2011, if the employment of Mr. Frissora is terminated by reason of death or disability, Mr. Frissora will retain a pro rata portion of the performance stock units, based on the number of whole months elapsed from the date of grant to termination of employment (or the third anniversary of the date of grant if earlier), and the remaining performance stock units will be forfeited. The retained performance stock units will be eligible to vest if the performance goal is achieved during the performance period and will be forfeited if the performance goal is not achieved. If Mr. Frissora's employment is terminated for any other reason, the performance stock units will be forfeited.
+
+Effect of a Change in Control—Under the 2008 Omnibus Plan, if a change in control occurs, all options shall immediately become exercisable, the restriction period on all restricted stock units shall lapse immediately prior to such change in control, and outstanding performance stock units issued to our named executive officers generally vest, unless the options or units are exchanged for or replaced by substitute awards in connection with the change in control.
+
+The following chart sets forth the cash payments to which the named executive officers would have been entitled assuming a change in control occurred on December 31, 2011 and all of the named executive officers' options were canceled in exchange for a cash payment equal to the difference between the per share exercise price of the option and $11.72, which was the closing price of our common stock on December 30, 2011, the trading day immediately preceding December 31, 2011. In addition, the following chart sets forth the cash payments to which they would be entitled if each of their performance stock units and restricted stock units were cancelled in exchange for a cash payment equal to $11.72, which was the closing price of our common stock on December 30, 2011, the trading day immediately preceding December 31, 2011. The chart assumes that the options or units would not have been exchanged for or replaced by substitute awards in connection with the change in control. Information is not included for Mr. Senackerib because upon his separation from the Corporation on December 6, 2011, he was compensated pursuant to his Separation Agreement. See "—Employment and Change in Control Agreements—Other Named Executive Officers—Separation Agreement with Michael J. Senackerib."
+
+Name | Cash Payment for Vested Options ($) | Cash Payment for Unvested Options ($) | Cash Payment for Performance Stock Units ($)
+Mr. Frissora | 5,365,787 | 1,121,364 | 17,624,214
+Ms. Douglas | 654,816 | 261,653 | 2,984,759
+Mr. Sider | 1,367,262 | 194,669 | 1,475,996
+Mr. Taride | 3,360,165 | 192,502 | 2,325,978
+Mr. Zimmerman | 59,307 | 177,923 | 1,999,573
+
+Supplemental Retirement Benefits upon a Termination or Change in Control
+
+Messrs. Frissora, Sider, Zimmerman and Senackerib and Ms. Douglas participated in the SERP II in 2011. The SERP II is described above under "—Pension Benefits." Under the SERP II, if any of these
+
+[p. 69]
+executives' employment is terminated other than for cause or a voluntary resignation within 30 days before or one year following a change in control, then the executive will become immediately vested in the entire benefit accumulated under the SERP II even if he or she has not attained age 55 at the time of termination.
+
+Retiree Car Benefit
+
+As described at "Compensation Discussion and Analysis—Retirement Benefits," we also maintain a post-retirement assigned car benefit plan under which we provide certain executives who, at the time of retirement, are at least 58 years old and have been an employee of the Corporation for at least 20 years, with a car from our fleet and insurance on the car for the participant's benefit. The assigned car benefit is available for 15 years post-retirement or until the participant reaches the age of 80, whichever occurs last. As of December 31, 2011, Messrs. Sider and Taride had satisfied the minimum service, but not the minimum age, requirement and Messrs. Frissora and Zimmerman and Ms. Douglas had satisfied neither the minimum service nor the minimum age requirement. Mr. Senackerib did not qualify for this benefit at the time of his resignation.
+
+In the event of a termination following a change in control as described in "—Change in Control Agreements", Mr. Taride will be entitled to the retiree car benefit as set forth above.

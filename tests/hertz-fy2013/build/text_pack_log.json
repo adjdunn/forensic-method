@@ -1,0 +1,5912 @@
+{
+ "files": [
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "business",
+   "what": "Item 1. Business",
+   "file": "AR-FY2011_business.txt",
+   "chars": 80890
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "risk-factors",
+   "what": "Item 1A. Risk Factors",
+   "file": "AR-FY2011_risk-factors.txt",
+   "chars": 47729
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "mdna",
+   "what": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+   "file": "AR-FY2011_mdna.txt",
+   "chars": 119784
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "critical-estimates",
+   "what": "Item 7, Critical Accounting Policies and Estimates (also contained in the mdna file)",
+   "file": "AR-FY2011_critical-estimates.txt",
+   "chars": 17964
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "market-risk",
+   "what": "Item 7A, plus the Item 7 Market Risks subsection it cross-refers to",
+   "file": "AR-FY2011_market-risk.txt",
+   "chars": 6206
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "financial-statements",
+   "what": "Item 8. Financial Statements and Supplementary Data (audit report, statements, notes, Schedule I, Schedule II)",
+   "file": "AR-FY2011_financial-statements.txt",
+   "chars": 203754
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "auditor-report",
+   "what": "Item 8, Report of Independent Registered Public Accounting Firm",
+   "file": "AR-FY2011_auditor-report.txt",
+   "chars": 5468
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-01-background",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 1: Background",
+   "file": "AR-FY2011_notes-01-background.txt",
+   "chars": 2767
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-02-summary-of-significant-accounting-policies",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 2: Summary of Significant Accounting Policies",
+   "file": "AR-FY2011_notes-02-summary-of-significant-accounting-policies.txt",
+   "chars": 23395
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-03-goodwill-and-other-intangible-assets",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 3: Goodwill and Other Intangible Assets",
+   "file": "AR-FY2011_notes-03-goodwill-and-other-intangible-assets.txt",
+   "chars": 8685
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-04-debt",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 4: Debt",
+   "file": "AR-FY2011_notes-04-debt.txt",
+   "chars": 37744
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-05-employee-retirement-benefits",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 5: Employee Retirement Benefits",
+   "file": "AR-FY2011_notes-05-employee-retirement-benefits.txt",
+   "chars": 19681
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-06-stock-based-compensation",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 6: Stock-Based Compensation",
+   "file": "AR-FY2011_notes-06-stock-based-compensation.txt",
+   "chars": 12976
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-07-depreciation-of-revenue-earning-equipment-and",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 7: Depreciation of Revenue Earning Equipment and Lease Charges",
+   "file": "AR-FY2011_notes-07-depreciation-of-revenue-earning-equipment-and.txt",
+   "chars": 2503
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-08-taxes-on-income",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 8: Taxes on Income",
+   "file": "AR-FY2011_notes-08-taxes-on-income.txt",
+   "chars": 9985
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-09-lease-and-concession-agreements",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 9: Lease and Concession Agreements",
+   "file": "AR-FY2011_notes-09-lease-and-concession-agreements.txt",
+   "chars": 3014
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-10-segment-information",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 10: Segment Information",
+   "file": "AR-FY2011_notes-10-segment-information.txt",
+   "chars": 8230
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-11-contingencies-and-off-balance-sheet-commitments",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 11: Contingencies and Off-Balance Sheet Commitments",
+   "file": "AR-FY2011_notes-11-contingencies-and-off-balance-sheet-commitments.txt",
+   "chars": 15529
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-12-restructuring",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 12: Restructuring",
+   "file": "AR-FY2011_notes-12-restructuring.txt",
+   "chars": 5094
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-13-financial-instruments",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 13: Financial Instruments",
+   "file": "AR-FY2011_notes-13-financial-instruments.txt",
+   "chars": 12458
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-14-related-party-transactions",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 14: Related Party Transactions",
+   "file": "AR-FY2011_notes-14-related-party-transactions.txt",
+   "chars": 8317
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-15-earnings-loss-per-share",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 15: Earnings (Loss) Per Share",
+   "file": "AR-FY2011_notes-15-earnings-loss-per-share.txt",
+   "chars": 2318
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-16-quarterly-financial-information-unaudited",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 16: Quarterly Financial Information (Unaudited)",
+   "file": "AR-FY2011_notes-16-quarterly-financial-information-unaudited.txt",
+   "chars": 1772
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-17-subsequent-events",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 17: Subsequent Events",
+   "file": "AR-FY2011_notes-17-subsequent-events.txt",
+   "chars": 536
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "legal",
+   "what": "Item 3, plus the contingencies note",
+   "file": "AR-FY2011_legal.txt",
+   "chars": 26606
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "schedule-ii",
+   "what": "Item 8 / Item 15, Schedule II Valuation and Qualifying Accounts",
+   "file": "AR-FY2011_schedule-ii.txt",
+   "chars": 1122
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "controls",
+   "what": "Item 9A. Controls and Procedures",
+   "file": "AR-FY2011_controls.txt",
+   "chars": 3935
+  },
+  {
+   "filing": "AR-FY2011",
+   "form": "10-K",
+   "filed": "2012-02-27",
+   "period": "FY2011 (year ended 31 Dec 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_mode": "printed",
+   "section": "related-parties",
+   "what": "Item 13, plus the related-party note",
+   "file": "AR-FY2011_related-parties.txt",
+   "chars": 8866
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "business",
+   "what": "Item 1. Business",
+   "file": "AR-FY2012_business.txt",
+   "chars": 89108
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "risk-factors",
+   "what": "Item 1A. Risk Factors",
+   "file": "AR-FY2012_risk-factors.txt",
+   "chars": 56487
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "mdna",
+   "what": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+   "file": "AR-FY2012_mdna.txt",
+   "chars": 125716
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "critical-estimates",
+   "what": "Item 7, Critical Accounting Policies and Estimates (also contained in the mdna file)",
+   "file": "AR-FY2012_critical-estimates.txt",
+   "chars": 18819
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "market-risk",
+   "what": "Item 7A, plus the Item 7 Market Risks subsection it cross-refers to",
+   "file": "AR-FY2012_market-risk.txt",
+   "chars": 6327
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "financial-statements",
+   "what": "Item 8. Financial Statements and Supplementary Data (audit report, statements, notes, Schedule I, Schedule II)",
+   "file": "AR-FY2012_financial-statements.txt",
+   "chars": 231504
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "auditor-report",
+   "what": "Item 8, Report of Independent Registered Public Accounting Firm",
+   "file": "AR-FY2012_auditor-report.txt",
+   "chars": 5422
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-01-background",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 1: Background",
+   "file": "AR-FY2012_notes-01-background.txt",
+   "chars": 3276
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-02-summary-of-significant-accounting-policies",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 2: Summary of Significant Accounting Policies",
+   "file": "AR-FY2012_notes-02-summary-of-significant-accounting-policies.txt",
+   "chars": 23909
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-03-goodwill-and-other-intangible-assets",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 3: Goodwill and Other Intangible Assets",
+   "file": "AR-FY2012_notes-03-goodwill-and-other-intangible-assets.txt",
+   "chars": 7732
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-04-business-combinations-and-divestitures",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 4: Business Combinations and Divestitures",
+   "file": "AR-FY2012_notes-04-business-combinations-and-divestitures.txt",
+   "chars": 17807
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-05-debt",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 5: Debt",
+   "file": "AR-FY2012_notes-05-debt.txt",
+   "chars": 43047
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-06-employee-retirement-benefits",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 6: Employee Retirement Benefits",
+   "file": "AR-FY2012_notes-06-employee-retirement-benefits.txt",
+   "chars": 20276
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-07-stock-based-compensation",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 7: Stock-Based Compensation",
+   "file": "AR-FY2012_notes-07-stock-based-compensation.txt",
+   "chars": 15575
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-08-depreciation-of-revenue-earning-equipment-and",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 8: Depreciation of Revenue Earning Equipment and Lease Charges",
+   "file": "AR-FY2012_notes-08-depreciation-of-revenue-earning-equipment-and.txt",
+   "chars": 2442
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-09-taxes-on-income",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 9: Taxes on Income",
+   "file": "AR-FY2012_notes-09-taxes-on-income.txt",
+   "chars": 10045
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-10-lease-and-concession-agreements",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 10: Lease and Concession Agreements",
+   "file": "AR-FY2012_notes-10-lease-and-concession-agreements.txt",
+   "chars": 3023
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-11-segment-information",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 11: Segment Information",
+   "file": "AR-FY2012_notes-11-segment-information.txt",
+   "chars": 8103
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-12-contingencies-and-off-balance-sheet-commitments",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 12: Contingencies and Off-Balance Sheet Commitments",
+   "file": "AR-FY2012_notes-12-contingencies-and-off-balance-sheet-commitments.txt",
+   "chars": 17704
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-13-restructuring",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 13: Restructuring",
+   "file": "AR-FY2012_notes-13-restructuring.txt",
+   "chars": 5260
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-14-financial-instruments",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 14: Financial Instruments",
+   "file": "AR-FY2012_notes-14-financial-instruments.txt",
+   "chars": 9703
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-15-related-party-transactions",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 15: Related Party Transactions",
+   "file": "AR-FY2012_notes-15-related-party-transactions.txt",
+   "chars": 8878
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-16-earnings-per-share",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 16: Earnings Per Share",
+   "file": "AR-FY2012_notes-16-earnings-per-share.txt",
+   "chars": 1967
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-17-quarterly-financial-information-unaudited",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 17: Quarterly Financial Information (Unaudited)",
+   "file": "AR-FY2012_notes-17-quarterly-financial-information-unaudited.txt",
+   "chars": 1767
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-18-subsequent-events",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 18: Subsequent Events",
+   "file": "AR-FY2012_notes-18-subsequent-events.txt",
+   "chars": 1727
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "legal",
+   "what": "Item 3, plus the contingencies note",
+   "file": "AR-FY2012_legal.txt",
+   "chars": 31145
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "schedule-ii",
+   "what": "Item 8 / Item 15, Schedule II Valuation and Qualifying Accounts",
+   "file": "AR-FY2012_schedule-ii.txt",
+   "chars": 1135
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "controls",
+   "what": "Item 9A. Controls and Procedures",
+   "file": "AR-FY2012_controls.txt",
+   "chars": 3974
+  },
+  {
+   "filing": "AR-FY2012",
+   "form": "10-K",
+   "filed": "2013-03-04",
+   "period": "FY2012 (year ended 31 Dec 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_mode": "printed",
+   "section": "related-parties",
+   "what": "Item 13, plus the related-party note",
+   "file": "AR-FY2012_related-parties.txt",
+   "chars": 9427
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "business",
+   "what": "Item 1. Business",
+   "file": "AR-FY2013_business.txt",
+   "chars": 88950
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "risk-factors",
+   "what": "Item 1A. Risk Factors",
+   "file": "AR-FY2013_risk-factors.txt",
+   "chars": 53371
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "mdna",
+   "what": "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+   "file": "AR-FY2013_mdna.txt",
+   "chars": 143627
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "critical-estimates",
+   "what": "Item 7, Critical Accounting Policies and Estimates (also contained in the mdna file)",
+   "file": "AR-FY2013_critical-estimates.txt",
+   "chars": 19796
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "market-risk",
+   "what": "Item 7A, plus the Item 7 Market Risks subsection it cross-refers to",
+   "file": "AR-FY2013_market-risk.txt",
+   "chars": 6365
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "financial-statements",
+   "what": "Item 8. Financial Statements and Supplementary Data (audit report, statements, notes, Schedule I, Schedule II)",
+   "file": "AR-FY2013_financial-statements.txt",
+   "chars": 274195
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "auditor-report",
+   "what": "Item 8, Report of Independent Registered Public Accounting Firm",
+   "file": "AR-FY2013_auditor-report.txt",
+   "chars": 4775
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-01-background",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 1: Background",
+   "file": "AR-FY2013_notes-01-background.txt",
+   "chars": 4338
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-02-summary-of-significant-accounting-policies",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 2: Summary of Significant Accounting Policies",
+   "file": "AR-FY2013_notes-02-summary-of-significant-accounting-policies.txt",
+   "chars": 38450
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-03-goodwill-and-other-intangible-assets",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 3: Goodwill and Other Intangible Assets",
+   "file": "AR-FY2013_notes-03-goodwill-and-other-intangible-assets.txt",
+   "chars": 8118
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-04-business-combinations-and-divestitures",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 4: Business Combinations and Divestitures",
+   "file": "AR-FY2013_notes-04-business-combinations-and-divestitures.txt",
+   "chars": 18450
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-05-debt",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 5: Debt",
+   "file": "AR-FY2013_notes-05-debt.txt",
+   "chars": 57378
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-06-employee-retirement-benefits",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 6: Employee Retirement Benefits",
+   "file": "AR-FY2013_notes-06-employee-retirement-benefits.txt",
+   "chars": 21648
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-07-stock-based-compensation",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 7: Stock-Based Compensation",
+   "file": "AR-FY2013_notes-07-stock-based-compensation.txt",
+   "chars": 14364
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-08-depreciation-of-revenue-earning-equipment-and",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 8: Depreciation of Revenue Earning Equipment and Lease Charges",
+   "file": "AR-FY2013_notes-08-depreciation-of-revenue-earning-equipment-and.txt",
+   "chars": 3340
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-09-taxes-on-income",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 9: Taxes on Income",
+   "file": "AR-FY2013_notes-09-taxes-on-income.txt",
+   "chars": 9532
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-10-lease-and-concession-agreements",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 10: Lease and Concession Agreements",
+   "file": "AR-FY2013_notes-10-lease-and-concession-agreements.txt",
+   "chars": 3044
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-11-segment-information",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 11: Segment Information",
+   "file": "AR-FY2013_notes-11-segment-information.txt",
+   "chars": 12287
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-12-accumulated-other-comprehensive-income-loss",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 12: Accumulated Other Comprehensive Income (Loss)",
+   "file": "AR-FY2013_notes-12-accumulated-other-comprehensive-income-loss.txt",
+   "chars": 3410
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-13-contingencies-and-off-balance-sheet-commitments",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 13: Contingencies and Off-Balance Sheet Commitments",
+   "file": "AR-FY2013_notes-13-contingencies-and-off-balance-sheet-commitments.txt",
+   "chars": 16645
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-14-restructuring",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 14: Restructuring",
+   "file": "AR-FY2013_notes-14-restructuring.txt",
+   "chars": 5574
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-15-financial-instruments-and-fair-value",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 15: Financial Instruments and Fair Value Measurements",
+   "file": "AR-FY2013_notes-15-financial-instruments-and-fair-value.txt",
+   "chars": 17309
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-16-related-party-transactions",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 16: Related Party Transactions",
+   "file": "AR-FY2013_notes-16-related-party-transactions.txt",
+   "chars": 4414
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-17-earnings-per-share",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 17: Earnings Per Share",
+   "file": "AR-FY2013_notes-17-earnings-per-share.txt",
+   "chars": 4477
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-18-quarterly-financial-information-unaudited",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 18: Quarterly Financial Information (Unaudited)",
+   "file": "AR-FY2013_notes-18-quarterly-financial-information-unaudited.txt",
+   "chars": 1802
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "notes-19-subsequent-events",
+   "what": "Item 8, Notes to Consolidated Financial Statements, Note 19: Subsequent Events",
+   "file": "AR-FY2013_notes-19-subsequent-events.txt",
+   "chars": 1253
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "legal",
+   "what": "Item 3, plus the contingencies note",
+   "file": "AR-FY2013_legal.txt",
+   "chars": 17000
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "schedule-ii",
+   "what": "Item 8 / Item 15, Schedule II Valuation and Qualifying Accounts",
+   "file": "AR-FY2013_schedule-ii.txt",
+   "chars": 1382
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "controls",
+   "what": "Item 9A. Controls and Procedures",
+   "file": "AR-FY2013_controls.txt",
+   "chars": 3824
+  },
+  {
+   "filing": "AR-FY2013",
+   "form": "10-K",
+   "filed": "2014-03-19",
+   "period": "FY2013 (year ended 31 Dec 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_mode": "printed",
+   "section": "related-parties",
+   "what": "Item 13, plus the related-party note",
+   "file": "AR-FY2013_related-parties.txt",
+   "chars": 4963
+  },
+  {
+   "filing": "Q1-FY2011",
+   "form": "10-Q",
+   "filed": "2011-05-06",
+   "period": "Q1 2011 (three months ended 31 Mar 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm",
+   "page_mode": "printed",
+   "section": "financial-statements",
+   "what": "Part I, Item 1. Condensed Consolidated Financial Statements (Unaudited), with notes",
+   "file": "Q1-FY2011_financial-statements.txt",
+   "chars": 78268
+  },
+  {
+   "filing": "Q1-FY2011",
+   "form": "10-Q",
+   "filed": "2011-05-06",
+   "period": "Q1 2011 (three months ended 31 Mar 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-01-background",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 1: Background",
+   "file": "Q1-FY2011_notes-01-background.txt",
+   "chars": 2425
+  },
+  {
+   "filing": "Q1-FY2011",
+   "form": "10-Q",
+   "filed": "2011-05-06",
+   "period": "Q1 2011 (three months ended 31 Mar 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-02-basis-of-presentation",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 2: Basis of Presentation",
+   "file": "Q1-FY2011_notes-02-basis-of-presentation.txt",
+   "chars": 2339
+  },
+  {
+   "filing": "Q1-FY2011",
+   "form": "10-Q",
+   "filed": "2011-05-06",
+   "period": "Q1 2011 (three months ended 31 Mar 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-03-cash-and-cash-equivalents-and-restricted-cash",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 3: Cash and Cash Equivalents and Restricted Cash and Cash Equivalents",
+   "file": "Q1-FY2011_notes-03-cash-and-cash-equivalents-and-restricted-cash.txt",
+   "chars": 1843
+  },
+  {
+   "filing": "Q1-FY2011",
+   "form": "10-Q",
+   "filed": "2011-05-06",
+   "period": "Q1 2011 (three months ended 31 Mar 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-04-goodwill-and-other-intangible-assets",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 4: Goodwill and Other Intangible Assets",
+   "file": "Q1-FY2011_notes-04-goodwill-and-other-intangible-assets.txt",
+   "chars": 4220
+  },
+  {
+   "filing": "Q1-FY2011",
+   "form": "10-Q",
+   "filed": "2011-05-06",
+   "period": "Q1 2011 (three months ended 31 Mar 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-05-taxes-on-income",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 5: Taxes on Income",
+   "file": "Q1-FY2011_notes-05-taxes-on-income.txt",
+   "chars": 756
+  },
+  {
+   "filing": "Q1-FY2011",
+   "form": "10-Q",
+   "filed": "2011-05-06",
+   "period": "Q1 2011 (three months ended 31 Mar 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-06-depreciation-of-revenue-earning-equipment-and",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 6: Depreciation of Revenue Earning Equipment and Lease Charges",
+   "file": "Q1-FY2011_notes-06-depreciation-of-revenue-earning-equipment-and.txt",
+   "chars": 2455
+  },
+  {
+   "filing": "Q1-FY2011",
+   "form": "10-Q",
+   "filed": "2011-05-06",
+   "period": "Q1 2011 (three months ended 31 Mar 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-07-debt",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 7: Debt",
+   "file": "Q1-FY2011_notes-07-debt.txt",
+   "chars": 17864
+  },
+  {
+   "filing": "Q1-FY2011",
+   "form": "10-Q",
+   "filed": "2011-05-06",
+   "period": "Q1 2011 (three months ended 31 Mar 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-08-employee-retirement-benefits",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 8: Employee Retirement Benefits",
+   "file": "Q1-FY2011_notes-08-employee-retirement-benefits.txt",
+   "chars": 4001
+  },
+  {
+   "filing": "Q1-FY2011",
+   "form": "10-Q",
+   "filed": "2011-05-06",
+   "period": "Q1 2011 (three months ended 31 Mar 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-09-stock-based-compensation",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 9: Stock-Based Compensation",
+   "file": "Q1-FY2011_notes-09-stock-based-compensation.txt",
+   "chars": 2615
+  },
+  {
+   "filing": "Q1-FY2011",
+   "form": "10-Q",
+   "filed": "2011-05-06",
+   "period": "Q1 2011 (three months ended 31 Mar 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-10-segment-information",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 10: Segment Information",
+   "file": "Q1-FY2011_notes-10-segment-information.txt",
+   "chars": 4449
+  },
+  {
+   "filing": "Q1-FY2011",
+   "form": "10-Q",
+   "filed": "2011-05-06",
+   "period": "Q1 2011 (three months ended 31 Mar 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-11-total-equity",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 11: Total Equity",
+   "file": "Q1-FY2011_notes-11-total-equity.txt",
+   "chars": 3201
+  },
+  {
+   "filing": "Q1-FY2011",
+   "form": "10-Q",
+   "filed": "2011-05-06",
+   "period": "Q1 2011 (three months ended 31 Mar 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-12-restructuring",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 12: Restructuring",
+   "file": "Q1-FY2011_notes-12-restructuring.txt",
+   "chars": 4892
+  },
+  {
+   "filing": "Q1-FY2011",
+   "form": "10-Q",
+   "filed": "2011-05-06",
+   "period": "Q1 2011 (three months ended 31 Mar 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-13-financial-instruments",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 13: Financial Instruments",
+   "file": "Q1-FY2011_notes-13-financial-instruments.txt",
+   "chars": 9508
+  },
+  {
+   "filing": "Q1-FY2011",
+   "form": "10-Q",
+   "filed": "2011-05-06",
+   "period": "Q1 2011 (three months ended 31 Mar 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-14-related-party-transactions",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 14: Related Party Transactions",
+   "file": "Q1-FY2011_notes-14-related-party-transactions.txt",
+   "chars": 2321
+  },
+  {
+   "filing": "Q1-FY2011",
+   "form": "10-Q",
+   "filed": "2011-05-06",
+   "period": "Q1 2011 (three months ended 31 Mar 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-15-contingencies-and-off-balance-sheet-commitments",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 15: Contingencies and Off-Balance Sheet Commitments",
+   "file": "Q1-FY2011_notes-15-contingencies-and-off-balance-sheet-commitments.txt",
+   "chars": 8006
+  },
+  {
+   "filing": "Q1-FY2011",
+   "form": "10-Q",
+   "filed": "2011-05-06",
+   "period": "Q1 2011 (three months ended 31 Mar 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-16-earnings-loss-per-share",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 16: Earnings (Loss) Per Share",
+   "file": "Q1-FY2011_notes-16-earnings-loss-per-share.txt",
+   "chars": 1905
+  },
+  {
+   "filing": "Q1-FY2011",
+   "form": "10-Q",
+   "filed": "2011-05-06",
+   "period": "Q1 2011 (three months ended 31 Mar 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-17-subsequent-events",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 17: Subsequent Events",
+   "file": "Q1-FY2011_notes-17-subsequent-events.txt",
+   "chars": 675
+  },
+  {
+   "filing": "Q1-FY2011",
+   "form": "10-Q",
+   "filed": "2011-05-06",
+   "period": "Q1 2011 (three months ended 31 Mar 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm",
+   "page_mode": "printed",
+   "section": "mdna",
+   "what": "Part I, Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+   "file": "Q1-FY2011_mdna.txt",
+   "chars": 78268
+  },
+  {
+   "filing": "Q1-FY2011",
+   "form": "10-Q",
+   "filed": "2011-05-06",
+   "period": "Q1 2011 (three months ended 31 Mar 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm",
+   "page_mode": "printed",
+   "section": "risk-factors",
+   "what": "Part II, Item 1A. Risk Factors",
+   "file": "Q1-FY2011_risk-factors.txt",
+   "chars": 6136
+  },
+  {
+   "filing": "Q2-FY2011",
+   "form": "10-Q",
+   "filed": "2011-08-05",
+   "period": "Q2 2011 (three and six months ended 30 Jun 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm",
+   "page_mode": "printed",
+   "section": "financial-statements",
+   "what": "Part I, Item 1. Condensed Consolidated Financial Statements (Unaudited), with notes",
+   "file": "Q2-FY2011_financial-statements.txt",
+   "chars": 89477
+  },
+  {
+   "filing": "Q2-FY2011",
+   "form": "10-Q",
+   "filed": "2011-08-05",
+   "period": "Q2 2011 (three and six months ended 30 Jun 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-01-background",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 1: Background",
+   "file": "Q2-FY2011_notes-01-background.txt",
+   "chars": 2433
+  },
+  {
+   "filing": "Q2-FY2011",
+   "form": "10-Q",
+   "filed": "2011-08-05",
+   "period": "Q2 2011 (three and six months ended 30 Jun 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-02-basis-of-presentation",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 2: Basis of Presentation",
+   "file": "Q2-FY2011_notes-02-basis-of-presentation.txt",
+   "chars": 3218
+  },
+  {
+   "filing": "Q2-FY2011",
+   "form": "10-Q",
+   "filed": "2011-08-05",
+   "period": "Q2 2011 (three and six months ended 30 Jun 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-03-cash-and-cash-equivalents-and-restricted-cash",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 3: Cash and Cash Equivalents and Restricted Cash and Cash Equivalents",
+   "file": "Q2-FY2011_notes-03-cash-and-cash-equivalents-and-restricted-cash.txt",
+   "chars": 1816
+  },
+  {
+   "filing": "Q2-FY2011",
+   "form": "10-Q",
+   "filed": "2011-08-05",
+   "period": "Q2 2011 (three and six months ended 30 Jun 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-04-goodwill-and-other-intangible-assets",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 4: Goodwill and Other Intangible Assets",
+   "file": "Q2-FY2011_notes-04-goodwill-and-other-intangible-assets.txt",
+   "chars": 4411
+  },
+  {
+   "filing": "Q2-FY2011",
+   "form": "10-Q",
+   "filed": "2011-08-05",
+   "period": "Q2 2011 (three and six months ended 30 Jun 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-05-taxes-on-income",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 5: Taxes on Income",
+   "file": "Q2-FY2011_notes-05-taxes-on-income.txt",
+   "chars": 1137
+  },
+  {
+   "filing": "Q2-FY2011",
+   "form": "10-Q",
+   "filed": "2011-08-05",
+   "period": "Q2 2011 (three and six months ended 30 Jun 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-06-depreciation-of-revenue-earning-equipment-and",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 6: Depreciation of Revenue Earning Equipment and Lease Charges",
+   "file": "Q2-FY2011_notes-06-depreciation-of-revenue-earning-equipment-and.txt",
+   "chars": 3533
+  },
+  {
+   "filing": "Q2-FY2011",
+   "form": "10-Q",
+   "filed": "2011-08-05",
+   "period": "Q2 2011 (three and six months ended 30 Jun 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-07-debt",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 7: Debt",
+   "file": "Q2-FY2011_notes-07-debt.txt",
+   "chars": 18733
+  },
+  {
+   "filing": "Q2-FY2011",
+   "form": "10-Q",
+   "filed": "2011-08-05",
+   "period": "Q2 2011 (three and six months ended 30 Jun 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-08-employee-retirement-benefits",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 8: Employee Retirement Benefits",
+   "file": "Q2-FY2011_notes-08-employee-retirement-benefits.txt",
+   "chars": 5042
+  },
+  {
+   "filing": "Q2-FY2011",
+   "form": "10-Q",
+   "filed": "2011-08-05",
+   "period": "Q2 2011 (three and six months ended 30 Jun 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-09-stock-based-compensation",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 9: Stock-Based Compensation",
+   "file": "Q2-FY2011_notes-09-stock-based-compensation.txt",
+   "chars": 2817
+  },
+  {
+   "filing": "Q2-FY2011",
+   "form": "10-Q",
+   "filed": "2011-08-05",
+   "period": "Q2 2011 (three and six months ended 30 Jun 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-10-segment-information",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 10: Segment Information",
+   "file": "Q2-FY2011_notes-10-segment-information.txt",
+   "chars": 5640
+  },
+  {
+   "filing": "Q2-FY2011",
+   "form": "10-Q",
+   "filed": "2011-08-05",
+   "period": "Q2 2011 (three and six months ended 30 Jun 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-11-total-equity",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 11: Total Equity",
+   "file": "Q2-FY2011_notes-11-total-equity.txt",
+   "chars": 3409
+  },
+  {
+   "filing": "Q2-FY2011",
+   "form": "10-Q",
+   "filed": "2011-08-05",
+   "period": "Q2 2011 (three and six months ended 30 Jun 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-12-restructuring",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 12: Restructuring",
+   "file": "Q2-FY2011_notes-12-restructuring.txt",
+   "chars": 5590
+  },
+  {
+   "filing": "Q2-FY2011",
+   "form": "10-Q",
+   "filed": "2011-08-05",
+   "period": "Q2 2011 (three and six months ended 30 Jun 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-13-financial-instruments",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 13: Financial Instruments",
+   "file": "Q2-FY2011_notes-13-financial-instruments.txt",
+   "chars": 11538
+  },
+  {
+   "filing": "Q2-FY2011",
+   "form": "10-Q",
+   "filed": "2011-08-05",
+   "period": "Q2 2011 (three and six months ended 30 Jun 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-14-related-party-transactions",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 14: Related Party Transactions",
+   "file": "Q2-FY2011_notes-14-related-party-transactions.txt",
+   "chars": 2294
+  },
+  {
+   "filing": "Q2-FY2011",
+   "form": "10-Q",
+   "filed": "2011-08-05",
+   "period": "Q2 2011 (three and six months ended 30 Jun 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-15-contingencies-and-off-balance-sheet-commitments",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 15: Contingencies and Off-Balance Sheet Commitments",
+   "file": "Q2-FY2011_notes-15-contingencies-and-off-balance-sheet-commitments.txt",
+   "chars": 8757
+  },
+  {
+   "filing": "Q2-FY2011",
+   "form": "10-Q",
+   "filed": "2011-08-05",
+   "period": "Q2 2011 (three and six months ended 30 Jun 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-16-earnings-loss-per-share",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 16: Earnings (Loss) Per Share",
+   "file": "Q2-FY2011_notes-16-earnings-loss-per-share.txt",
+   "chars": 2939
+  },
+  {
+   "filing": "Q2-FY2011",
+   "form": "10-Q",
+   "filed": "2011-08-05",
+   "period": "Q2 2011 (three and six months ended 30 Jun 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-17-subsequent-events",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 17: Subsequent Events",
+   "file": "Q2-FY2011_notes-17-subsequent-events.txt",
+   "chars": 937
+  },
+  {
+   "filing": "Q2-FY2011",
+   "form": "10-Q",
+   "filed": "2011-08-05",
+   "period": "Q2 2011 (three and six months ended 30 Jun 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm",
+   "page_mode": "printed",
+   "section": "mdna",
+   "what": "Part I, Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+   "file": "Q2-FY2011_mdna.txt",
+   "chars": 104919
+  },
+  {
+   "filing": "Q2-FY2011",
+   "form": "10-Q",
+   "filed": "2011-08-05",
+   "period": "Q2 2011 (three and six months ended 30 Jun 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm",
+   "page_mode": "printed",
+   "section": "risk-factors",
+   "what": "Part II, Item 1A. Risk Factors",
+   "file": "Q2-FY2011_risk-factors.txt",
+   "chars": 3320
+  },
+  {
+   "filing": "Q3-FY2011",
+   "form": "10-Q",
+   "filed": "2011-11-07",
+   "period": "Q3 2011 (three and nine months ended 30 Sep 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm",
+   "page_mode": "printed",
+   "section": "financial-statements",
+   "what": "Part I, Item 1. Condensed Consolidated Financial Statements (Unaudited), with notes",
+   "file": "Q3-FY2011_financial-statements.txt",
+   "chars": 101656
+  },
+  {
+   "filing": "Q3-FY2011",
+   "form": "10-Q",
+   "filed": "2011-11-07",
+   "period": "Q3 2011 (three and nine months ended 30 Sep 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-01-background",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 1: Background",
+   "file": "Q3-FY2011_notes-01-background.txt",
+   "chars": 2635
+  },
+  {
+   "filing": "Q3-FY2011",
+   "form": "10-Q",
+   "filed": "2011-11-07",
+   "period": "Q3 2011 (three and nine months ended 30 Sep 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-02-basis-of-presentation-and-recently-issued",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 2: Basis of Presentation and Recently Issued Accounting Pronouncements",
+   "file": "Q3-FY2011_notes-02-basis-of-presentation-and-recently-issued.txt",
+   "chars": 9534
+  },
+  {
+   "filing": "Q3-FY2011",
+   "form": "10-Q",
+   "filed": "2011-11-07",
+   "period": "Q3 2011 (three and nine months ended 30 Sep 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-03-cash-and-cash-equivalents-and-restricted-cash",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 3: Cash and Cash Equivalents and Restricted Cash and Cash Equivalents",
+   "file": "Q3-FY2011_notes-03-cash-and-cash-equivalents-and-restricted-cash.txt",
+   "chars": 1830
+  },
+  {
+   "filing": "Q3-FY2011",
+   "form": "10-Q",
+   "filed": "2011-11-07",
+   "period": "Q3 2011 (three and nine months ended 30 Sep 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-04-goodwill-and-other-intangible-assets",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 4: Goodwill and Other Intangible Assets",
+   "file": "Q3-FY2011_notes-04-goodwill-and-other-intangible-assets.txt",
+   "chars": 8549
+  },
+  {
+   "filing": "Q3-FY2011",
+   "form": "10-Q",
+   "filed": "2011-11-07",
+   "period": "Q3 2011 (three and nine months ended 30 Sep 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-05-taxes-on-income",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 5: Taxes on Income",
+   "file": "Q3-FY2011_notes-05-taxes-on-income.txt",
+   "chars": 1344
+  },
+  {
+   "filing": "Q3-FY2011",
+   "form": "10-Q",
+   "filed": "2011-11-07",
+   "period": "Q3 2011 (three and nine months ended 30 Sep 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-06-depreciation-of-revenue-earning-equipment-and",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 6: Depreciation of Revenue Earning Equipment and Lease Charges",
+   "file": "Q3-FY2011_notes-06-depreciation-of-revenue-earning-equipment-and.txt",
+   "chars": 3570
+  },
+  {
+   "filing": "Q3-FY2011",
+   "form": "10-Q",
+   "filed": "2011-11-07",
+   "period": "Q3 2011 (three and nine months ended 30 Sep 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-07-debt",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 7: Debt",
+   "file": "Q3-FY2011_notes-07-debt.txt",
+   "chars": 19586
+  },
+  {
+   "filing": "Q3-FY2011",
+   "form": "10-Q",
+   "filed": "2011-11-07",
+   "period": "Q3 2011 (three and nine months ended 30 Sep 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-08-employee-retirement-benefits",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 8: Employee Retirement Benefits",
+   "file": "Q3-FY2011_notes-08-employee-retirement-benefits.txt",
+   "chars": 4922
+  },
+  {
+   "filing": "Q3-FY2011",
+   "form": "10-Q",
+   "filed": "2011-11-07",
+   "period": "Q3 2011 (three and nine months ended 30 Sep 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-09-stock-based-compensation",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 9: Stock-Based Compensation",
+   "file": "Q3-FY2011_notes-09-stock-based-compensation.txt",
+   "chars": 2603
+  },
+  {
+   "filing": "Q3-FY2011",
+   "form": "10-Q",
+   "filed": "2011-11-07",
+   "period": "Q3 2011 (three and nine months ended 30 Sep 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-10-segment-information",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 10: Segment Information",
+   "file": "Q3-FY2011_notes-10-segment-information.txt",
+   "chars": 5875
+  },
+  {
+   "filing": "Q3-FY2011",
+   "form": "10-Q",
+   "filed": "2011-11-07",
+   "period": "Q3 2011 (three and nine months ended 30 Sep 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-11-total-equity",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 11: Total Equity",
+   "file": "Q3-FY2011_notes-11-total-equity.txt",
+   "chars": 3625
+  },
+  {
+   "filing": "Q3-FY2011",
+   "form": "10-Q",
+   "filed": "2011-11-07",
+   "period": "Q3 2011 (three and nine months ended 30 Sep 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-12-restructuring",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 12: Restructuring",
+   "file": "Q3-FY2011_notes-12-restructuring.txt",
+   "chars": 5847
+  },
+  {
+   "filing": "Q3-FY2011",
+   "form": "10-Q",
+   "filed": "2011-11-07",
+   "period": "Q3 2011 (three and nine months ended 30 Sep 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-13-financial-instruments",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 13: Financial Instruments",
+   "file": "Q3-FY2011_notes-13-financial-instruments.txt",
+   "chars": 12333
+  },
+  {
+   "filing": "Q3-FY2011",
+   "form": "10-Q",
+   "filed": "2011-11-07",
+   "period": "Q3 2011 (three and nine months ended 30 Sep 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-14-related-party-transactions",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 14: Related Party Transactions",
+   "file": "Q3-FY2011_notes-14-related-party-transactions.txt",
+   "chars": 2180
+  },
+  {
+   "filing": "Q3-FY2011",
+   "form": "10-Q",
+   "filed": "2011-11-07",
+   "period": "Q3 2011 (three and nine months ended 30 Sep 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-15-contingencies-and-off-balance-sheet-commitments",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 15: Contingencies and Off-Balance Sheet Commitments",
+   "file": "Q3-FY2011_notes-15-contingencies-and-off-balance-sheet-commitments.txt",
+   "chars": 9042
+  },
+  {
+   "filing": "Q3-FY2011",
+   "form": "10-Q",
+   "filed": "2011-11-07",
+   "period": "Q3 2011 (three and nine months ended 30 Sep 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-16-earnings-loss-per-share",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 16: Earnings (Loss) Per Share",
+   "file": "Q3-FY2011_notes-16-earnings-loss-per-share.txt",
+   "chars": 2605
+  },
+  {
+   "filing": "Q3-FY2011",
+   "form": "10-Q",
+   "filed": "2011-11-07",
+   "period": "Q3 2011 (three and nine months ended 30 Sep 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm",
+   "page_mode": "printed",
+   "section": "mdna",
+   "what": "Part I, Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+   "file": "Q3-FY2011_mdna.txt",
+   "chars": 106876
+  },
+  {
+   "filing": "Q3-FY2011",
+   "form": "10-Q",
+   "filed": "2011-11-07",
+   "period": "Q3 2011 (three and nine months ended 30 Sep 2011)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm",
+   "page_mode": "printed",
+   "section": "risk-factors",
+   "what": "Part II, Item 1A. Risk Factors",
+   "file": "Q3-FY2011_risk-factors.txt",
+   "chars": 4877
+  },
+  {
+   "filing": "Q1-FY2012",
+   "form": "10-Q",
+   "filed": "2012-05-04",
+   "period": "Q1 2012 (three months ended 31 Mar 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm",
+   "page_mode": "printed",
+   "section": "financial-statements",
+   "what": "Part I, Item 1. Condensed Consolidated Financial Statements (Unaudited), with notes",
+   "file": "Q1-FY2012_financial-statements.txt",
+   "chars": 76102
+  },
+  {
+   "filing": "Q1-FY2012",
+   "form": "10-Q",
+   "filed": "2012-05-04",
+   "period": "Q1 2012 (three months ended 31 Mar 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-01-background",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 1: Background",
+   "file": "Q1-FY2012_notes-01-background.txt",
+   "chars": 2719
+  },
+  {
+   "filing": "Q1-FY2012",
+   "form": "10-Q",
+   "filed": "2012-05-04",
+   "period": "Q1 2012 (three months ended 31 Mar 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-02-basis-of-presentation-and-recently-issued",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 2: Basis of Presentation and Recently Issued Accounting Pronouncements",
+   "file": "Q1-FY2012_notes-02-basis-of-presentation-and-recently-issued.txt",
+   "chars": 2994
+  },
+  {
+   "filing": "Q1-FY2012",
+   "form": "10-Q",
+   "filed": "2012-05-04",
+   "period": "Q1 2012 (three months ended 31 Mar 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-03-cash-and-cash-equivalents-and-restricted-cash",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 3: Cash and Cash Equivalents and Restricted Cash and Cash Equivalents",
+   "file": "Q1-FY2012_notes-03-cash-and-cash-equivalents-and-restricted-cash.txt",
+   "chars": 1810
+  },
+  {
+   "filing": "Q1-FY2012",
+   "form": "10-Q",
+   "filed": "2012-05-04",
+   "period": "Q1 2012 (three months ended 31 Mar 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-04-goodwill-and-other-intangible-assets",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 4: Goodwill and Other Intangible Assets",
+   "file": "Q1-FY2012_notes-04-goodwill-and-other-intangible-assets.txt",
+   "chars": 5251
+  },
+  {
+   "filing": "Q1-FY2012",
+   "form": "10-Q",
+   "filed": "2012-05-04",
+   "period": "Q1 2012 (three months ended 31 Mar 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-05-taxes-on-income",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 5: Taxes on Income",
+   "file": "Q1-FY2012_notes-05-taxes-on-income.txt",
+   "chars": 815
+  },
+  {
+   "filing": "Q1-FY2012",
+   "form": "10-Q",
+   "filed": "2012-05-04",
+   "period": "Q1 2012 (three months ended 31 Mar 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-06-depreciation-of-revenue-earning-equipment-and",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 6: Depreciation of Revenue Earning Equipment and Lease Charges",
+   "file": "Q1-FY2012_notes-06-depreciation-of-revenue-earning-equipment-and.txt",
+   "chars": 2840
+  },
+  {
+   "filing": "Q1-FY2012",
+   "form": "10-Q",
+   "filed": "2012-05-04",
+   "period": "Q1 2012 (three months ended 31 Mar 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-07-debt",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 7: Debt",
+   "file": "Q1-FY2012_notes-07-debt.txt",
+   "chars": 12150
+  },
+  {
+   "filing": "Q1-FY2012",
+   "form": "10-Q",
+   "filed": "2012-05-04",
+   "period": "Q1 2012 (three months ended 31 Mar 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-08-employee-retirement-benefits",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 8: Employee Retirement Benefits",
+   "file": "Q1-FY2012_notes-08-employee-retirement-benefits.txt",
+   "chars": 4660
+  },
+  {
+   "filing": "Q1-FY2012",
+   "form": "10-Q",
+   "filed": "2012-05-04",
+   "period": "Q1 2012 (three months ended 31 Mar 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-09-stock-based-compensation",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 9: Stock-Based Compensation",
+   "file": "Q1-FY2012_notes-09-stock-based-compensation.txt",
+   "chars": 2840
+  },
+  {
+   "filing": "Q1-FY2012",
+   "form": "10-Q",
+   "filed": "2012-05-04",
+   "period": "Q1 2012 (three months ended 31 Mar 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-10-segment-information",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 10: Segment Information",
+   "file": "Q1-FY2012_notes-10-segment-information.txt",
+   "chars": 4285
+  },
+  {
+   "filing": "Q1-FY2012",
+   "form": "10-Q",
+   "filed": "2012-05-04",
+   "period": "Q1 2012 (three months ended 31 Mar 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-11-total-equity",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 11: Total Equity",
+   "file": "Q1-FY2012_notes-11-total-equity.txt",
+   "chars": 2593
+  },
+  {
+   "filing": "Q1-FY2012",
+   "form": "10-Q",
+   "filed": "2012-05-04",
+   "period": "Q1 2012 (three months ended 31 Mar 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-12-restructuring",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 12: Restructuring",
+   "file": "Q1-FY2012_notes-12-restructuring.txt",
+   "chars": 4426
+  },
+  {
+   "filing": "Q1-FY2012",
+   "form": "10-Q",
+   "filed": "2012-05-04",
+   "period": "Q1 2012 (three months ended 31 Mar 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-13-financial-instruments",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 13: Financial Instruments",
+   "file": "Q1-FY2012_notes-13-financial-instruments.txt",
+   "chars": 9288
+  },
+  {
+   "filing": "Q1-FY2012",
+   "form": "10-Q",
+   "filed": "2012-05-04",
+   "period": "Q1 2012 (three months ended 31 Mar 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-14-related-party-transactions",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 14: Related Party Transactions",
+   "file": "Q1-FY2012_notes-14-related-party-transactions.txt",
+   "chars": 1805
+  },
+  {
+   "filing": "Q1-FY2012",
+   "form": "10-Q",
+   "filed": "2012-05-04",
+   "period": "Q1 2012 (three months ended 31 Mar 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-15-contingencies-and-off-balance-sheet-commitments",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 15: Contingencies and Off-Balance Sheet Commitments",
+   "file": "Q1-FY2012_notes-15-contingencies-and-off-balance-sheet-commitments.txt",
+   "chars": 9308
+  },
+  {
+   "filing": "Q1-FY2012",
+   "form": "10-Q",
+   "filed": "2012-05-04",
+   "period": "Q1 2012 (three months ended 31 Mar 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-16-earnings-loss-per-share",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 16: Earnings (Loss) Per Share",
+   "file": "Q1-FY2012_notes-16-earnings-loss-per-share.txt",
+   "chars": 1903
+  },
+  {
+   "filing": "Q1-FY2012",
+   "form": "10-Q",
+   "filed": "2012-05-04",
+   "period": "Q1 2012 (three months ended 31 Mar 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-17-subsequent-events",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 17: Subsequent Events",
+   "file": "Q1-FY2012_notes-17-subsequent-events.txt",
+   "chars": 524
+  },
+  {
+   "filing": "Q1-FY2012",
+   "form": "10-Q",
+   "filed": "2012-05-04",
+   "period": "Q1 2012 (three months ended 31 Mar 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm",
+   "page_mode": "printed",
+   "section": "mdna",
+   "what": "Part I, Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+   "file": "Q1-FY2012_mdna.txt",
+   "chars": 81979
+  },
+  {
+   "filing": "Q2-FY2012",
+   "form": "10-Q",
+   "filed": "2012-08-03",
+   "period": "Q2 2012 (three and six months ended 30 Jun 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912007702/a2210414z10-q.htm",
+   "page_mode": "printed",
+   "section": "financial-statements",
+   "what": "Part I, Item 1. Condensed Consolidated Financial Statements (Unaudited), with notes",
+   "file": "Q2-FY2012_financial-statements.txt",
+   "chars": 87732
+  },
+  {
+   "filing": "Q2-FY2012",
+   "form": "10-Q",
+   "filed": "2012-08-03",
+   "period": "Q2 2012 (three and six months ended 30 Jun 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912007702/a2210414z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-01-background",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 1: Background",
+   "file": "Q2-FY2012_notes-01-background.txt",
+   "chars": 2582
+  },
+  {
+   "filing": "Q2-FY2012",
+   "form": "10-Q",
+   "filed": "2012-08-03",
+   "period": "Q2 2012 (three and six months ended 30 Jun 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912007702/a2210414z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-02-basis-of-presentation-and-recently-issued",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 2: Basis of Presentation and Recently Issued Accounting Pronouncements",
+   "file": "Q2-FY2012_notes-02-basis-of-presentation-and-recently-issued.txt",
+   "chars": 3004
+  },
+  {
+   "filing": "Q2-FY2012",
+   "form": "10-Q",
+   "filed": "2012-08-03",
+   "period": "Q2 2012 (three and six months ended 30 Jun 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912007702/a2210414z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-03-cash-and-cash-equivalents-and-restricted-cash",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 3: Cash and Cash Equivalents and Restricted Cash and Cash Equivalents",
+   "file": "Q2-FY2012_notes-03-cash-and-cash-equivalents-and-restricted-cash.txt",
+   "chars": 1817
+  },
+  {
+   "filing": "Q2-FY2012",
+   "form": "10-Q",
+   "filed": "2012-08-03",
+   "period": "Q2 2012 (three and six months ended 30 Jun 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912007702/a2210414z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-04-goodwill-and-other-intangible-assets",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 4: Goodwill and Other Intangible Assets",
+   "file": "Q2-FY2012_notes-04-goodwill-and-other-intangible-assets.txt",
+   "chars": 5850
+  },
+  {
+   "filing": "Q2-FY2012",
+   "form": "10-Q",
+   "filed": "2012-08-03",
+   "period": "Q2 2012 (three and six months ended 30 Jun 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912007702/a2210414z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-05-taxes-on-income",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 5: Taxes on Income",
+   "file": "Q2-FY2012_notes-05-taxes-on-income.txt",
+   "chars": 1271
+  },
+  {
+   "filing": "Q2-FY2012",
+   "form": "10-Q",
+   "filed": "2012-08-03",
+   "period": "Q2 2012 (three and six months ended 30 Jun 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912007702/a2210414z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-06-depreciation-of-revenue-earning-equipment-and",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 6: Depreciation of Revenue Earning Equipment and Lease Charges",
+   "file": "Q2-FY2012_notes-06-depreciation-of-revenue-earning-equipment-and.txt",
+   "chars": 2871
+  },
+  {
+   "filing": "Q2-FY2012",
+   "form": "10-Q",
+   "filed": "2012-08-03",
+   "period": "Q2 2012 (three and six months ended 30 Jun 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912007702/a2210414z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-07-debt",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 7: Debt",
+   "file": "Q2-FY2012_notes-07-debt.txt",
+   "chars": 14578
+  },
+  {
+   "filing": "Q2-FY2012",
+   "form": "10-Q",
+   "filed": "2012-08-03",
+   "period": "Q2 2012 (three and six months ended 30 Jun 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912007702/a2210414z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-08-employee-retirement-benefits",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 8: Employee Retirement Benefits",
+   "file": "Q2-FY2012_notes-08-employee-retirement-benefits.txt",
+   "chars": 5750
+  },
+  {
+   "filing": "Q2-FY2012",
+   "form": "10-Q",
+   "filed": "2012-08-03",
+   "period": "Q2 2012 (three and six months ended 30 Jun 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912007702/a2210414z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-09-stock-based-compensation",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 9: Stock-Based Compensation",
+   "file": "Q2-FY2012_notes-09-stock-based-compensation.txt",
+   "chars": 3064
+  },
+  {
+   "filing": "Q2-FY2012",
+   "form": "10-Q",
+   "filed": "2012-08-03",
+   "period": "Q2 2012 (three and six months ended 30 Jun 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912007702/a2210414z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-10-segment-information",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 10: Segment Information",
+   "file": "Q2-FY2012_notes-10-segment-information.txt",
+   "chars": 5665
+  },
+  {
+   "filing": "Q2-FY2012",
+   "form": "10-Q",
+   "filed": "2012-08-03",
+   "period": "Q2 2012 (three and six months ended 30 Jun 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912007702/a2210414z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-11-total-equity",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 11: Total Equity",
+   "file": "Q2-FY2012_notes-11-total-equity.txt",
+   "chars": 2688
+  },
+  {
+   "filing": "Q2-FY2012",
+   "form": "10-Q",
+   "filed": "2012-08-03",
+   "period": "Q2 2012 (three and six months ended 30 Jun 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912007702/a2210414z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-12-restructuring",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 12: Restructuring",
+   "file": "Q2-FY2012_notes-12-restructuring.txt",
+   "chars": 5026
+  },
+  {
+   "filing": "Q2-FY2012",
+   "form": "10-Q",
+   "filed": "2012-08-03",
+   "period": "Q2 2012 (three and six months ended 30 Jun 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912007702/a2210414z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-13-financial-instruments",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 13: Financial Instruments",
+   "file": "Q2-FY2012_notes-13-financial-instruments.txt",
+   "chars": 10352
+  },
+  {
+   "filing": "Q2-FY2012",
+   "form": "10-Q",
+   "filed": "2012-08-03",
+   "period": "Q2 2012 (three and six months ended 30 Jun 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912007702/a2210414z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-14-related-party-transactions",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 14: Related Party Transactions",
+   "file": "Q2-FY2012_notes-14-related-party-transactions.txt",
+   "chars": 1936
+  },
+  {
+   "filing": "Q2-FY2012",
+   "form": "10-Q",
+   "filed": "2012-08-03",
+   "period": "Q2 2012 (three and six months ended 30 Jun 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912007702/a2210414z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-15-contingencies-and-off-balance-sheet-commitments",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 15: Contingencies and Off-Balance Sheet Commitments",
+   "file": "Q2-FY2012_notes-15-contingencies-and-off-balance-sheet-commitments.txt",
+   "chars": 10565
+  },
+  {
+   "filing": "Q2-FY2012",
+   "form": "10-Q",
+   "filed": "2012-08-03",
+   "period": "Q2 2012 (three and six months ended 30 Jun 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912007702/a2210414z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-16-earnings-loss-per-share",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 16: Earnings (Loss) Per Share",
+   "file": "Q2-FY2012_notes-16-earnings-loss-per-share.txt",
+   "chars": 2577
+  },
+  {
+   "filing": "Q2-FY2012",
+   "form": "10-Q",
+   "filed": "2012-08-03",
+   "period": "Q2 2012 (three and six months ended 30 Jun 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912007702/a2210414z10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-17-subsequent-events",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 17: Subsequent Events",
+   "file": "Q2-FY2012_notes-17-subsequent-events.txt",
+   "chars": 695
+  },
+  {
+   "filing": "Q2-FY2012",
+   "form": "10-Q",
+   "filed": "2012-08-03",
+   "period": "Q2 2012 (three and six months ended 30 Jun 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912007702/a2210414z10-q.htm",
+   "page_mode": "printed",
+   "section": "mdna",
+   "what": "Part I, Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+   "file": "Q2-FY2012_mdna.txt",
+   "chars": 109607
+  },
+  {
+   "filing": "Q3-FY2012",
+   "form": "10-Q",
+   "filed": "2012-11-02",
+   "period": "Q3 2012 (three and nine months ended 30 Sep 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm",
+   "page_mode": "printed",
+   "section": "financial-statements",
+   "what": "Part I, Item 1. Condensed Consolidated Financial Statements (Unaudited), with notes",
+   "file": "Q3-FY2012_financial-statements.txt",
+   "chars": 97040
+  },
+  {
+   "filing": "Q3-FY2012",
+   "form": "10-Q",
+   "filed": "2012-11-02",
+   "period": "Q3 2012 (three and nine months ended 30 Sep 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-01-background",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 1: Background",
+   "file": "Q3-FY2012_notes-01-background.txt",
+   "chars": 4999
+  },
+  {
+   "filing": "Q3-FY2012",
+   "form": "10-Q",
+   "filed": "2012-11-02",
+   "period": "Q3 2012 (three and nine months ended 30 Sep 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-02-basis-of-presentation-and-recently-issued",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 2: Basis of Presentation and Recently Issued Accounting Pronouncements",
+   "file": "Q3-FY2012_notes-02-basis-of-presentation-and-recently-issued.txt",
+   "chars": 5064
+  },
+  {
+   "filing": "Q3-FY2012",
+   "form": "10-Q",
+   "filed": "2012-11-02",
+   "period": "Q3 2012 (three and nine months ended 30 Sep 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-03-cash-and-cash-equivalents-and-restricted-cash",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 3: Cash and Cash Equivalents and Restricted Cash and Cash Equivalents",
+   "file": "Q3-FY2012_notes-03-cash-and-cash-equivalents-and-restricted-cash.txt",
+   "chars": 1618
+  },
+  {
+   "filing": "Q3-FY2012",
+   "form": "10-Q",
+   "filed": "2012-11-02",
+   "period": "Q3 2012 (three and nine months ended 30 Sep 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-04-goodwill-and-other-intangible-assets",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 4: Goodwill and Other Intangible Assets",
+   "file": "Q3-FY2012_notes-04-goodwill-and-other-intangible-assets.txt",
+   "chars": 8369
+  },
+  {
+   "filing": "Q3-FY2012",
+   "form": "10-Q",
+   "filed": "2012-11-02",
+   "period": "Q3 2012 (three and nine months ended 30 Sep 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-05-taxes-on-income",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 5: Taxes on Income",
+   "file": "Q3-FY2012_notes-05-taxes-on-income.txt",
+   "chars": 1172
+  },
+  {
+   "filing": "Q3-FY2012",
+   "form": "10-Q",
+   "filed": "2012-11-02",
+   "period": "Q3 2012 (three and nine months ended 30 Sep 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-06-depreciation-of-revenue-earning-equipment-and",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 6: Depreciation of Revenue Earning Equipment and Lease Charges",
+   "file": "Q3-FY2012_notes-06-depreciation-of-revenue-earning-equipment-and.txt",
+   "chars": 3105
+  },
+  {
+   "filing": "Q3-FY2012",
+   "form": "10-Q",
+   "filed": "2012-11-02",
+   "period": "Q3 2012 (three and nine months ended 30 Sep 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-07-debt",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 7: Debt",
+   "file": "Q3-FY2012_notes-07-debt.txt",
+   "chars": 16724
+  },
+  {
+   "filing": "Q3-FY2012",
+   "form": "10-Q",
+   "filed": "2012-11-02",
+   "period": "Q3 2012 (three and nine months ended 30 Sep 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-08-employee-retirement-benefits",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 8: Employee Retirement Benefits",
+   "file": "Q3-FY2012_notes-08-employee-retirement-benefits.txt",
+   "chars": 5765
+  },
+  {
+   "filing": "Q3-FY2012",
+   "form": "10-Q",
+   "filed": "2012-11-02",
+   "period": "Q3 2012 (three and nine months ended 30 Sep 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-09-stock-based-compensation",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 9: Stock-Based Compensation",
+   "file": "Q3-FY2012_notes-09-stock-based-compensation.txt",
+   "chars": 3012
+  },
+  {
+   "filing": "Q3-FY2012",
+   "form": "10-Q",
+   "filed": "2012-11-02",
+   "period": "Q3 2012 (three and nine months ended 30 Sep 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-10-segment-information",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 10: Segment Information",
+   "file": "Q3-FY2012_notes-10-segment-information.txt",
+   "chars": 5936
+  },
+  {
+   "filing": "Q3-FY2012",
+   "form": "10-Q",
+   "filed": "2012-11-02",
+   "period": "Q3 2012 (three and nine months ended 30 Sep 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-11-total-equity",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 11: Total Equity",
+   "file": "Q3-FY2012_notes-11-total-equity.txt",
+   "chars": 2741
+  },
+  {
+   "filing": "Q3-FY2012",
+   "form": "10-Q",
+   "filed": "2012-11-02",
+   "period": "Q3 2012 (three and nine months ended 30 Sep 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-12-restructuring",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 12: Restructuring",
+   "file": "Q3-FY2012_notes-12-restructuring.txt",
+   "chars": 5298
+  },
+  {
+   "filing": "Q3-FY2012",
+   "form": "10-Q",
+   "filed": "2012-11-02",
+   "period": "Q3 2012 (three and nine months ended 30 Sep 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-13-financial-instruments",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 13: Financial Instruments",
+   "file": "Q3-FY2012_notes-13-financial-instruments.txt",
+   "chars": 10388
+  },
+  {
+   "filing": "Q3-FY2012",
+   "form": "10-Q",
+   "filed": "2012-11-02",
+   "period": "Q3 2012 (three and nine months ended 30 Sep 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-14-related-party-transactions",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 14: Related Party Transactions",
+   "file": "Q3-FY2012_notes-14-related-party-transactions.txt",
+   "chars": 1952
+  },
+  {
+   "filing": "Q3-FY2012",
+   "form": "10-Q",
+   "filed": "2012-11-02",
+   "period": "Q3 2012 (three and nine months ended 30 Sep 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-15-contingencies-and-off-balance-sheet-commitments",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 15: Contingencies and Off-Balance Sheet Commitments",
+   "file": "Q3-FY2012_notes-15-contingencies-and-off-balance-sheet-commitments.txt",
+   "chars": 8694
+  },
+  {
+   "filing": "Q3-FY2012",
+   "form": "10-Q",
+   "filed": "2012-11-02",
+   "period": "Q3 2012 (three and nine months ended 30 Sep 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-16-earnings-per-share",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 16: Earnings Per Share",
+   "file": "Q3-FY2012_notes-16-earnings-per-share.txt",
+   "chars": 2337
+  },
+  {
+   "filing": "Q3-FY2012",
+   "form": "10-Q",
+   "filed": "2012-11-02",
+   "period": "Q3 2012 (three and nine months ended 30 Sep 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-17-subsequent-events",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 17: Subsequent Events",
+   "file": "Q3-FY2012_notes-17-subsequent-events.txt",
+   "chars": 2316
+  },
+  {
+   "filing": "Q3-FY2012",
+   "form": "10-Q",
+   "filed": "2012-11-02",
+   "period": "Q3 2012 (three and nine months ended 30 Sep 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm",
+   "page_mode": "printed",
+   "section": "mdna",
+   "what": "Part I, Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+   "file": "Q3-FY2012_mdna.txt",
+   "chars": 117941
+  },
+  {
+   "filing": "Q3-FY2012",
+   "form": "10-Q",
+   "filed": "2012-11-02",
+   "period": "Q3 2012 (three and nine months ended 30 Sep 2012)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm",
+   "page_mode": "printed",
+   "section": "risk-factors",
+   "what": "Part II, Item 1A. Risk Factors",
+   "file": "Q3-FY2012_risk-factors.txt",
+   "chars": 19358
+  },
+  {
+   "filing": "Q1-FY2013",
+   "form": "10-Q",
+   "filed": "2013-05-02",
+   "period": "Q1 2013 (three months ended 31 Mar 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm",
+   "page_mode": "printed",
+   "section": "financial-statements",
+   "what": "Part I, Item 1. Condensed Consolidated Financial Statements (Unaudited), with notes",
+   "file": "Q1-FY2013_financial-statements.txt",
+   "chars": 95586
+  },
+  {
+   "filing": "Q1-FY2013",
+   "form": "10-Q",
+   "filed": "2013-05-02",
+   "period": "Q1 2013 (three months ended 31 Mar 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-01-background",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 1: Background",
+   "file": "Q1-FY2013_notes-01-background.txt",
+   "chars": 3011
+  },
+  {
+   "filing": "Q1-FY2013",
+   "form": "10-Q",
+   "filed": "2013-05-02",
+   "period": "Q1 2013 (three months ended 31 Mar 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-02-basis-of-presentation-and-recently-issued",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 2: Basis of Presentation and Recently Issued Accounting Pronouncements",
+   "file": "Q1-FY2013_notes-02-basis-of-presentation-and-recently-issued.txt",
+   "chars": 4358
+  },
+  {
+   "filing": "Q1-FY2013",
+   "form": "10-Q",
+   "filed": "2013-05-02",
+   "period": "Q1 2013 (three months ended 31 Mar 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-03-cash-and-cash-equivalents-and-restricted-cash",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 3: Cash and Cash Equivalents and Restricted Cash and Cash Equivalents",
+   "file": "Q1-FY2013_notes-03-cash-and-cash-equivalents-and-restricted-cash.txt",
+   "chars": 1733
+  },
+  {
+   "filing": "Q1-FY2013",
+   "form": "10-Q",
+   "filed": "2013-05-02",
+   "period": "Q1 2013 (three months ended 31 Mar 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-04-goodwill-and-other-intangible-assets",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 4: Goodwill and Other Intangible Assets",
+   "file": "Q1-FY2013_notes-04-goodwill-and-other-intangible-assets.txt",
+   "chars": 4078
+  },
+  {
+   "filing": "Q1-FY2013",
+   "form": "10-Q",
+   "filed": "2013-05-02",
+   "period": "Q1 2013 (three months ended 31 Mar 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-05-business-combinations-and-divestitures",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 5: Business Combinations and Divestitures",
+   "file": "Q1-FY2013_notes-05-business-combinations-and-divestitures.txt",
+   "chars": 6712
+  },
+  {
+   "filing": "Q1-FY2013",
+   "form": "10-Q",
+   "filed": "2013-05-02",
+   "period": "Q1 2013 (three months ended 31 Mar 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-06-taxes-on-income",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 6: Taxes on Income",
+   "file": "Q1-FY2013_notes-06-taxes-on-income.txt",
+   "chars": 888
+  },
+  {
+   "filing": "Q1-FY2013",
+   "form": "10-Q",
+   "filed": "2013-05-02",
+   "period": "Q1 2013 (three months ended 31 Mar 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-07-depreciation-of-revenue-earning-equipment-and",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 7: Depreciation of Revenue Earning Equipment and Lease Charges",
+   "file": "Q1-FY2013_notes-07-depreciation-of-revenue-earning-equipment-and.txt",
+   "chars": 2247
+  },
+  {
+   "filing": "Q1-FY2013",
+   "form": "10-Q",
+   "filed": "2013-05-02",
+   "period": "Q1 2013 (three months ended 31 Mar 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-08-debt",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 8: Debt",
+   "file": "Q1-FY2013_notes-08-debt.txt",
+   "chars": 16022
+  },
+  {
+   "filing": "Q1-FY2013",
+   "form": "10-Q",
+   "filed": "2013-05-02",
+   "period": "Q1 2013 (three months ended 31 Mar 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-09-employee-retirement-benefits",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 9: Employee Retirement Benefits",
+   "file": "Q1-FY2013_notes-09-employee-retirement-benefits.txt",
+   "chars": 4358
+  },
+  {
+   "filing": "Q1-FY2013",
+   "form": "10-Q",
+   "filed": "2013-05-02",
+   "period": "Q1 2013 (three months ended 31 Mar 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-10-stock-based-compensation",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 10: Stock-Based Compensation",
+   "file": "Q1-FY2013_notes-10-stock-based-compensation.txt",
+   "chars": 3189
+  },
+  {
+   "filing": "Q1-FY2013",
+   "form": "10-Q",
+   "filed": "2013-05-02",
+   "period": "Q1 2013 (three months ended 31 Mar 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-11-segment-information",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 11: Segment Information",
+   "file": "Q1-FY2013_notes-11-segment-information.txt",
+   "chars": 4502
+  },
+  {
+   "filing": "Q1-FY2013",
+   "form": "10-Q",
+   "filed": "2013-05-02",
+   "period": "Q1 2013 (three months ended 31 Mar 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-12-other-comprehensive-income-loss",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 12: Other Comprehensive Income (Loss)",
+   "file": "Q1-FY2013_notes-12-other-comprehensive-income-loss.txt",
+   "chars": 2233
+  },
+  {
+   "filing": "Q1-FY2013",
+   "form": "10-Q",
+   "filed": "2013-05-02",
+   "period": "Q1 2013 (three months ended 31 Mar 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-13-restructuring",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 13: Restructuring",
+   "file": "Q1-FY2013_notes-13-restructuring.txt",
+   "chars": 4564
+  },
+  {
+   "filing": "Q1-FY2013",
+   "form": "10-Q",
+   "filed": "2013-05-02",
+   "period": "Q1 2013 (three months ended 31 Mar 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-14-financial-instruments",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 14: Financial Instruments",
+   "file": "Q1-FY2013_notes-14-financial-instruments.txt",
+   "chars": 11715
+  },
+  {
+   "filing": "Q1-FY2013",
+   "form": "10-Q",
+   "filed": "2013-05-02",
+   "period": "Q1 2013 (three months ended 31 Mar 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-15-related-party-transactions",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 15: Related Party Transactions",
+   "file": "Q1-FY2013_notes-15-related-party-transactions.txt",
+   "chars": 1498
+  },
+  {
+   "filing": "Q1-FY2013",
+   "form": "10-Q",
+   "filed": "2013-05-02",
+   "period": "Q1 2013 (three months ended 31 Mar 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-16-contingencies-and-off-balance-sheet-commitments",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 16: Contingencies and Off-Balance Sheet Commitments",
+   "file": "Q1-FY2013_notes-16-contingencies-and-off-balance-sheet-commitments.txt",
+   "chars": 10820
+  },
+  {
+   "filing": "Q1-FY2013",
+   "form": "10-Q",
+   "filed": "2013-05-02",
+   "period": "Q1 2013 (three months ended 31 Mar 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-17-earnings-loss-per-share",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 17: Earnings (Loss) Per Share",
+   "file": "Q1-FY2013_notes-17-earnings-loss-per-share.txt",
+   "chars": 3968
+  },
+  {
+   "filing": "Q1-FY2013",
+   "form": "10-Q",
+   "filed": "2013-05-02",
+   "period": "Q1 2013 (three months ended 31 Mar 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-18-subsequent-events",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 18: Subsequent Events",
+   "file": "Q1-FY2013_notes-18-subsequent-events.txt",
+   "chars": 3001
+  },
+  {
+   "filing": "Q1-FY2013",
+   "form": "10-Q",
+   "filed": "2013-05-02",
+   "period": "Q1 2013 (three months ended 31 Mar 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm",
+   "page_mode": "printed",
+   "section": "mdna",
+   "what": "Part I, Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+   "file": "Q1-FY2013_mdna.txt",
+   "chars": 85639
+  },
+  {
+   "filing": "Q1-FY2013",
+   "form": "10-Q",
+   "filed": "2013-05-02",
+   "period": "Q1 2013 (three months ended 31 Mar 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm",
+   "page_mode": "printed",
+   "section": "risk-factors",
+   "what": "Part II, Item 1A. Risk Factors",
+   "file": "Q1-FY2013_risk-factors.txt",
+   "chars": 1938
+  },
+  {
+   "filing": "Q2-FY2013",
+   "form": "10-Q",
+   "filed": "2013-08-02",
+   "period": "Q2 2013 (three and six months ended 30 Jun 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm",
+   "page_mode": "printed",
+   "section": "financial-statements",
+   "what": "Part I, Item 1. Condensed Consolidated Financial Statements (Unaudited), with notes",
+   "file": "Q2-FY2013_financial-statements.txt",
+   "chars": 108615
+  },
+  {
+   "filing": "Q2-FY2013",
+   "form": "10-Q",
+   "filed": "2013-08-02",
+   "period": "Q2 2013 (three and six months ended 30 Jun 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-01-background",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 1: Background",
+   "file": "Q2-FY2013_notes-01-background.txt",
+   "chars": 1961
+  },
+  {
+   "filing": "Q2-FY2013",
+   "form": "10-Q",
+   "filed": "2013-08-02",
+   "period": "Q2 2013 (three and six months ended 30 Jun 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-02-basis-of-presentation-and-recently-issued",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 2: Basis of Presentation and Recently Issued Accounting Pronouncements",
+   "file": "Q2-FY2013_notes-02-basis-of-presentation-and-recently-issued.txt",
+   "chars": 6209
+  },
+  {
+   "filing": "Q2-FY2013",
+   "form": "10-Q",
+   "filed": "2013-08-02",
+   "period": "Q2 2013 (three and six months ended 30 Jun 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-03-cash-and-cash-equivalents-and-restricted-cash",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 3: Cash and Cash Equivalents and Restricted Cash and Cash Equivalents",
+   "file": "Q2-FY2013_notes-03-cash-and-cash-equivalents-and-restricted-cash.txt",
+   "chars": 1578
+  },
+  {
+   "filing": "Q2-FY2013",
+   "form": "10-Q",
+   "filed": "2013-08-02",
+   "period": "Q2 2013 (three and six months ended 30 Jun 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-04-goodwill-and-other-intangible-assets",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 4: Goodwill and Other Intangible Assets",
+   "file": "Q2-FY2013_notes-04-goodwill-and-other-intangible-assets.txt",
+   "chars": 4241
+  },
+  {
+   "filing": "Q2-FY2013",
+   "form": "10-Q",
+   "filed": "2013-08-02",
+   "period": "Q2 2013 (three and six months ended 30 Jun 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-05-business-combinations-and-divestitures",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 5: Business Combinations and Divestitures",
+   "file": "Q2-FY2013_notes-05-business-combinations-and-divestitures.txt",
+   "chars": 7653
+  },
+  {
+   "filing": "Q2-FY2013",
+   "form": "10-Q",
+   "filed": "2013-08-02",
+   "period": "Q2 2013 (three and six months ended 30 Jun 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-06-taxes-on-income",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 6: Taxes on Income",
+   "file": "Q2-FY2013_notes-06-taxes-on-income.txt",
+   "chars": 1485
+  },
+  {
+   "filing": "Q2-FY2013",
+   "form": "10-Q",
+   "filed": "2013-08-02",
+   "period": "Q2 2013 (three and six months ended 30 Jun 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-07-depreciation-of-revenue-earning-equipment-and",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 7: Depreciation of Revenue Earning Equipment and Lease Charges",
+   "file": "Q2-FY2013_notes-07-depreciation-of-revenue-earning-equipment-and.txt",
+   "chars": 3127
+  },
+  {
+   "filing": "Q2-FY2013",
+   "form": "10-Q",
+   "filed": "2013-08-02",
+   "period": "Q2 2013 (three and six months ended 30 Jun 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-08-debt",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 8: Debt",
+   "file": "Q2-FY2013_notes-08-debt.txt",
+   "chars": 18966
+  },
+  {
+   "filing": "Q2-FY2013",
+   "form": "10-Q",
+   "filed": "2013-08-02",
+   "period": "Q2 2013 (three and six months ended 30 Jun 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-09-employee-retirement-benefits",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 9: Employee Retirement Benefits",
+   "file": "Q2-FY2013_notes-09-employee-retirement-benefits.txt",
+   "chars": 4738
+  },
+  {
+   "filing": "Q2-FY2013",
+   "form": "10-Q",
+   "filed": "2013-08-02",
+   "period": "Q2 2013 (three and six months ended 30 Jun 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-10-stock-based-compensation",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 10: Stock-Based Compensation",
+   "file": "Q2-FY2013_notes-10-stock-based-compensation.txt",
+   "chars": 3544
+  },
+  {
+   "filing": "Q2-FY2013",
+   "form": "10-Q",
+   "filed": "2013-08-02",
+   "period": "Q2 2013 (three and six months ended 30 Jun 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-11-segment-information",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 11: Segment Information",
+   "file": "Q2-FY2013_notes-11-segment-information.txt",
+   "chars": 5519
+  },
+  {
+   "filing": "Q2-FY2013",
+   "form": "10-Q",
+   "filed": "2013-08-02",
+   "period": "Q2 2013 (three and six months ended 30 Jun 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-12-accumulated-other-comprehensive-loss",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 12: Accumulated Other Comprehensive Loss",
+   "file": "Q2-FY2013_notes-12-accumulated-other-comprehensive-loss.txt",
+   "chars": 2905
+  },
+  {
+   "filing": "Q2-FY2013",
+   "form": "10-Q",
+   "filed": "2013-08-02",
+   "period": "Q2 2013 (three and six months ended 30 Jun 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-13-restructuring",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 13: Restructuring",
+   "file": "Q2-FY2013_notes-13-restructuring.txt",
+   "chars": 4992
+  },
+  {
+   "filing": "Q2-FY2013",
+   "form": "10-Q",
+   "filed": "2013-08-02",
+   "period": "Q2 2013 (three and six months ended 30 Jun 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-14-financial-instruments",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 14: Financial Instruments",
+   "file": "Q2-FY2013_notes-14-financial-instruments.txt",
+   "chars": 15278
+  },
+  {
+   "filing": "Q2-FY2013",
+   "form": "10-Q",
+   "filed": "2013-08-02",
+   "period": "Q2 2013 (three and six months ended 30 Jun 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-15-related-party-transactions",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 15: Related Party Transactions",
+   "file": "Q2-FY2013_notes-15-related-party-transactions.txt",
+   "chars": 4275
+  },
+  {
+   "filing": "Q2-FY2013",
+   "form": "10-Q",
+   "filed": "2013-08-02",
+   "period": "Q2 2013 (three and six months ended 30 Jun 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-16-contingencies-and-off-balance-sheet-commitments",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 16: Contingencies and Off-Balance Sheet Commitments",
+   "file": "Q2-FY2013_notes-16-contingencies-and-off-balance-sheet-commitments.txt",
+   "chars": 9969
+  },
+  {
+   "filing": "Q2-FY2013",
+   "form": "10-Q",
+   "filed": "2013-08-02",
+   "period": "Q2 2013 (three and six months ended 30 Jun 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-17-earnings-per-share",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 17: Earnings Per Share",
+   "file": "Q2-FY2013_notes-17-earnings-per-share.txt",
+   "chars": 4363
+  },
+  {
+   "filing": "Q2-FY2013",
+   "form": "10-Q",
+   "filed": "2013-08-02",
+   "period": "Q2 2013 (three and six months ended 30 Jun 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-18-subsequent-events",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 18: Subsequent Events",
+   "file": "Q2-FY2013_notes-18-subsequent-events.txt",
+   "chars": 643
+  },
+  {
+   "filing": "Q2-FY2013",
+   "form": "10-Q",
+   "filed": "2013-08-02",
+   "period": "Q2 2013 (three and six months ended 30 Jun 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm",
+   "page_mode": "printed",
+   "section": "mdna",
+   "what": "Part I, Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+   "file": "Q2-FY2013_mdna.txt",
+   "chars": 115552
+  },
+  {
+   "filing": "Q3-FY2013",
+   "form": "10-Q",
+   "filed": "2013-11-07",
+   "period": "Q3 2013 (three and nine months ended 30 Sep 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm",
+   "page_mode": "printed",
+   "section": "financial-statements",
+   "what": "Part I, Item 1. Condensed Consolidated Financial Statements (Unaudited), with notes",
+   "file": "Q3-FY2013_financial-statements.txt",
+   "chars": 126722
+  },
+  {
+   "filing": "Q3-FY2013",
+   "form": "10-Q",
+   "filed": "2013-11-07",
+   "period": "Q3 2013 (three and nine months ended 30 Sep 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-01-background",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 1: Background",
+   "file": "Q3-FY2013_notes-01-background.txt",
+   "chars": 1962
+  },
+  {
+   "filing": "Q3-FY2013",
+   "form": "10-Q",
+   "filed": "2013-11-07",
+   "period": "Q3 2013 (three and nine months ended 30 Sep 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-02-basis-of-presentation-and-recently-issued",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 2: Basis of Presentation and Recently Issued Accounting Pronouncements",
+   "file": "Q3-FY2013_notes-02-basis-of-presentation-and-recently-issued.txt",
+   "chars": 5944
+  },
+  {
+   "filing": "Q3-FY2013",
+   "form": "10-Q",
+   "filed": "2013-11-07",
+   "period": "Q3 2013 (three and nine months ended 30 Sep 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-03-cash-and-cash-equivalents-and-restricted-cash",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 3: Cash and Cash Equivalents and Restricted Cash and Cash Equivalents",
+   "file": "Q3-FY2013_notes-03-cash-and-cash-equivalents-and-restricted-cash.txt",
+   "chars": 1588
+  },
+  {
+   "filing": "Q3-FY2013",
+   "form": "10-Q",
+   "filed": "2013-11-07",
+   "period": "Q3 2013 (three and nine months ended 30 Sep 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-04-goodwill-and-other-intangible-assets",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 4: Goodwill and Other Intangible Assets",
+   "file": "Q3-FY2013_notes-04-goodwill-and-other-intangible-assets.txt",
+   "chars": 4639
+  },
+  {
+   "filing": "Q3-FY2013",
+   "form": "10-Q",
+   "filed": "2013-11-07",
+   "period": "Q3 2013 (three and nine months ended 30 Sep 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-05-business-combinations-and-divestitures",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 5: Business Combinations and Divestitures",
+   "file": "Q3-FY2013_notes-05-business-combinations-and-divestitures.txt",
+   "chars": 7674
+  },
+  {
+   "filing": "Q3-FY2013",
+   "form": "10-Q",
+   "filed": "2013-11-07",
+   "period": "Q3 2013 (three and nine months ended 30 Sep 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-06-taxes-on-income",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 6: Taxes on Income",
+   "file": "Q3-FY2013_notes-06-taxes-on-income.txt",
+   "chars": 1345
+  },
+  {
+   "filing": "Q3-FY2013",
+   "form": "10-Q",
+   "filed": "2013-11-07",
+   "period": "Q3 2013 (three and nine months ended 30 Sep 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-07-depreciation-of-revenue-earning-equipment-and",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 7: Depreciation of Revenue Earning Equipment and Lease Charges",
+   "file": "Q3-FY2013_notes-07-depreciation-of-revenue-earning-equipment-and.txt",
+   "chars": 3788
+  },
+  {
+   "filing": "Q3-FY2013",
+   "form": "10-Q",
+   "filed": "2013-11-07",
+   "period": "Q3 2013 (three and nine months ended 30 Sep 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-08-debt",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 8: Debt",
+   "file": "Q3-FY2013_notes-08-debt.txt",
+   "chars": 22090
+  },
+  {
+   "filing": "Q3-FY2013",
+   "form": "10-Q",
+   "filed": "2013-11-07",
+   "period": "Q3 2013 (three and nine months ended 30 Sep 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-09-employee-retirement-benefits",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 9: Employee Retirement Benefits",
+   "file": "Q3-FY2013_notes-09-employee-retirement-benefits.txt",
+   "chars": 5504
+  },
+  {
+   "filing": "Q3-FY2013",
+   "form": "10-Q",
+   "filed": "2013-11-07",
+   "period": "Q3 2013 (three and nine months ended 30 Sep 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-10-stock-based-compensation",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 10: Stock-Based Compensation",
+   "file": "Q3-FY2013_notes-10-stock-based-compensation.txt",
+   "chars": 3893
+  },
+  {
+   "filing": "Q3-FY2013",
+   "form": "10-Q",
+   "filed": "2013-11-07",
+   "period": "Q3 2013 (three and nine months ended 30 Sep 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-11-segment-information",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 11: Segment Information",
+   "file": "Q3-FY2013_notes-11-segment-information.txt",
+   "chars": 8640
+  },
+  {
+   "filing": "Q3-FY2013",
+   "form": "10-Q",
+   "filed": "2013-11-07",
+   "period": "Q3 2013 (three and nine months ended 30 Sep 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-12-accumulated-other-comprehensive-loss",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 12: Accumulated Other Comprehensive Loss",
+   "file": "Q3-FY2013_notes-12-accumulated-other-comprehensive-loss.txt",
+   "chars": 2927
+  },
+  {
+   "filing": "Q3-FY2013",
+   "form": "10-Q",
+   "filed": "2013-11-07",
+   "period": "Q3 2013 (three and nine months ended 30 Sep 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-13-restructuring",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 13: Restructuring",
+   "file": "Q3-FY2013_notes-13-restructuring.txt",
+   "chars": 5530
+  },
+  {
+   "filing": "Q3-FY2013",
+   "form": "10-Q",
+   "filed": "2013-11-07",
+   "period": "Q3 2013 (three and nine months ended 30 Sep 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-14-financial-instruments-and-fair-value",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 14: Financial Instruments and Fair Value Measurements",
+   "file": "Q3-FY2013_notes-14-financial-instruments-and-fair-value.txt",
+   "chars": 18410
+  },
+  {
+   "filing": "Q3-FY2013",
+   "form": "10-Q",
+   "filed": "2013-11-07",
+   "period": "Q3 2013 (three and nine months ended 30 Sep 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-15-related-party-transactions",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 15: Related Party Transactions",
+   "file": "Q3-FY2013_notes-15-related-party-transactions.txt",
+   "chars": 6285
+  },
+  {
+   "filing": "Q3-FY2013",
+   "form": "10-Q",
+   "filed": "2013-11-07",
+   "period": "Q3 2013 (three and nine months ended 30 Sep 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-16-contingencies-and-off-balance-sheet-commitments",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 16: Contingencies and Off-Balance Sheet Commitments",
+   "file": "Q3-FY2013_notes-16-contingencies-and-off-balance-sheet-commitments.txt",
+   "chars": 9642
+  },
+  {
+   "filing": "Q3-FY2013",
+   "form": "10-Q",
+   "filed": "2013-11-07",
+   "period": "Q3 2013 (three and nine months ended 30 Sep 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-17-earnings-per-share",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 17: Earnings Per Share",
+   "file": "Q3-FY2013_notes-17-earnings-per-share.txt",
+   "chars": 5121
+  },
+  {
+   "filing": "Q3-FY2013",
+   "form": "10-Q",
+   "filed": "2013-11-07",
+   "period": "Q3 2013 (three and nine months ended 30 Sep 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm",
+   "page_mode": "printed",
+   "section": "notes-18-subsequent-events",
+   "what": "Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 18: Subsequent Events",
+   "file": "Q3-FY2013_notes-18-subsequent-events.txt",
+   "chars": 4172
+  },
+  {
+   "filing": "Q3-FY2013",
+   "form": "10-Q",
+   "filed": "2013-11-07",
+   "period": "Q3 2013 (three and nine months ended 30 Sep 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm",
+   "page_mode": "printed",
+   "section": "mdna",
+   "what": "Part I, Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations",
+   "file": "Q3-FY2013_mdna.txt",
+   "chars": 142484
+  },
+  {
+   "filing": "Q3-FY2013",
+   "form": "10-Q",
+   "filed": "2013-11-07",
+   "period": "Q3 2013 (three and nine months ended 30 Sep 2013)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm",
+   "page_mode": "printed",
+   "section": "risk-factors",
+   "what": "Part II, Item 1A. Risk Factors",
+   "file": "Q3-FY2013_risk-factors.txt",
+   "chars": 2564
+  },
+  {
+   "filing": "OTHER-2011-01-25",
+   "form": "8-K",
+   "filed": "2011-01-25",
+   "period": "",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465911002763/a11-4542_1ex99d1.htm",
+   "section": "release",
+   "what": "Item 2.02 8-K exhibit",
+   "page_mode": "count,count",
+   "exhibits": [
+    "EX-99.1 a11-4542_1ex99d1.htm",
+    "EX-99.2 a11-4542_1ex99d2.htm"
+   ],
+   "accession": "0001104659-11-002763",
+   "file": "releases/OTHER-2011-01-25.txt",
+   "chars": 16483
+  },
+  {
+   "filing": "ER-Q4-FY2010",
+   "form": "8-K",
+   "filed": "2011-02-23",
+   "period": "Q4-FY2010",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465911009018/a11-6463_1ex99d1.htm",
+   "section": "release",
+   "what": "Earnings release (Exhibit 99.1) for Q4-FY2010",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a11-6463_1ex99d1.htm"
+   ],
+   "accession": "0001104659-11-009018",
+   "file": "releases/ER-Q4-FY2010.txt",
+   "chars": 71049
+  },
+  {
+   "filing": "OTHER-2011-02-25",
+   "form": "8-K",
+   "filed": "2011-02-25",
+   "period": "",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465911009986/a11-6594_1ex99d1.htm",
+   "section": "release",
+   "what": "Item 2.02 8-K exhibit",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a11-6594_1ex99d1.htm"
+   ],
+   "accession": "0001104659-11-009986",
+   "file": "releases/OTHER-2011-02-25.txt",
+   "chars": 77246
+  },
+  {
+   "filing": "ER-Q1-FY2011",
+   "form": "8-K",
+   "filed": "2011-04-26",
+   "period": "Q1-FY2011",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465911022448/a11-10916_1ex99d1.htm",
+   "section": "release",
+   "what": "Earnings release (Exhibit 99.1) for Q1-FY2011",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a11-10916_1ex99d1.htm"
+   ],
+   "accession": "0001104659-11-022448",
+   "file": "releases/ER-Q1-FY2011.txt",
+   "chars": 55295
+  },
+  {
+   "filing": "OTHER-2011-05-02",
+   "form": "8-K",
+   "filed": "2011-05-02",
+   "period": "",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465911024726/a11-11171_1ex99d1.htm",
+   "section": "release",
+   "what": "Item 2.02 8-K exhibit",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a11-11171_1ex99d1.htm"
+   ],
+   "accession": "0001104659-11-024726",
+   "file": "releases/OTHER-2011-05-02.txt",
+   "chars": 54263
+  },
+  {
+   "filing": "ER-Q2-FY2011",
+   "form": "8-K",
+   "filed": "2011-08-02",
+   "period": "Q2-FY2011",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465911042686/a11-23373_1ex99d1.htm",
+   "section": "release",
+   "what": "Earnings release (Exhibit 99.1) for Q2-FY2011",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a11-23373_1ex99d1.htm"
+   ],
+   "accession": "0001104659-11-042686",
+   "file": "releases/ER-Q2-FY2011.txt",
+   "chars": 64145
+  },
+  {
+   "filing": "OTHER-2011-08-08",
+   "form": "8-K",
+   "filed": "2011-08-08",
+   "period": "",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465911044526/a11-23907_1ex99d1.htm",
+   "section": "release",
+   "what": "Item 2.02 8-K exhibit",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a11-23907_1ex99d1.htm"
+   ],
+   "accession": "0001104659-11-044526",
+   "file": "releases/OTHER-2011-08-08.txt",
+   "chars": 60737
+  },
+  {
+   "filing": "ER-Q3-FY2011",
+   "form": "8-K",
+   "filed": "2011-11-02",
+   "period": "Q3-FY2011",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465911059608/a11-28921_1ex99d1.htm",
+   "section": "release",
+   "what": "Earnings release (Exhibit 99.1) for Q3-FY2011",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a11-28921_1ex99d1.htm"
+   ],
+   "accession": "0001104659-11-059608",
+   "file": "releases/ER-Q3-FY2011.txt",
+   "chars": 64009
+  },
+  {
+   "filing": "OTHER-2011-11-07",
+   "form": "8-K",
+   "filed": "2011-11-07",
+   "period": "",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465911061644/a11-29234_1ex99d1.htm",
+   "section": "release",
+   "what": "Item 2.02 8-K exhibit",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a11-29234_1ex99d1.htm"
+   ],
+   "accession": "0001104659-11-061644",
+   "file": "releases/OTHER-2011-11-07.txt",
+   "chars": 59815
+  },
+  {
+   "filing": "ER-Q4-FY2011",
+   "form": "8-K",
+   "filed": "2012-02-22",
+   "period": "Q4-FY2011",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465912011716/a12-5504_1ex99d1.htm",
+   "section": "release",
+   "what": "Earnings release (Exhibit 99.1) for Q4-FY2011",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a12-5504_1ex99d1.htm"
+   ],
+   "accession": "0001104659-12-011716",
+   "file": "releases/ER-Q4-FY2011.txt",
+   "chars": 68484
+  },
+  {
+   "filing": "OTHER-2012-02-27",
+   "form": "8-K",
+   "filed": "2012-02-27",
+   "period": "",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465912013279/a12-5817_1ex99d1.htm",
+   "section": "release",
+   "what": "Item 2.02 8-K exhibit",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a12-5817_1ex99d1.htm"
+   ],
+   "accession": "0001104659-12-013279",
+   "file": "releases/OTHER-2012-02-27.txt",
+   "chars": 60740
+  },
+  {
+   "filing": "ER-Q1-FY2012",
+   "form": "8-K",
+   "filed": "2012-05-02",
+   "period": "Q1-FY2012",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465912032105/a12-10955_1ex99d1.htm",
+   "section": "release",
+   "what": "Earnings release (Exhibit 99.1) for Q1-FY2012",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a12-10955_1ex99d1.htm"
+   ],
+   "accession": "0001104659-12-032105",
+   "file": "releases/ER-Q1-FY2012.txt",
+   "chars": 55577
+  },
+  {
+   "filing": "OTHER-2012-05-07",
+   "form": "8-K",
+   "filed": "2012-05-07",
+   "period": "",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465912033808/a12-11292_1ex99d1.htm",
+   "section": "release",
+   "what": "Item 2.02 8-K exhibit",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a12-11292_1ex99d1.htm"
+   ],
+   "accession": "0001104659-12-033808",
+   "file": "releases/OTHER-2012-05-07.txt",
+   "chars": 50634
+  },
+  {
+   "filing": "ER-Q2-FY2012",
+   "form": "8-K",
+   "filed": "2012-07-30",
+   "period": "Q2-FY2012",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465912052234/a12-17068_1ex99d1.htm",
+   "section": "release",
+   "what": "Earnings release (Exhibit 99.1) for Q2-FY2012",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a12-17068_1ex99d1.htm"
+   ],
+   "accession": "0001104659-12-052234",
+   "file": "releases/ER-Q2-FY2012.txt",
+   "chars": 64419
+  },
+  {
+   "filing": "OTHER-2012-08-01",
+   "form": "8-K",
+   "filed": "2012-08-01",
+   "period": "",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465912053215/a12-17381_1ex99d1.htm",
+   "section": "release",
+   "what": "Item 2.02 8-K exhibit",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a12-17381_1ex99d1.htm"
+   ],
+   "accession": "0001104659-12-053215",
+   "file": "releases/OTHER-2012-08-01.txt",
+   "chars": 61431
+  },
+  {
+   "filing": "ER-Q3-FY2012",
+   "form": "8-K",
+   "filed": "2012-10-31",
+   "period": "Q3-FY2012",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465912072771/a12-25255_1ex99d1.htm",
+   "section": "release",
+   "what": "Earnings release (Exhibit 99.1) for Q3-FY2012",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a12-25255_1ex99d1.htm"
+   ],
+   "accession": "0001104659-12-072771",
+   "file": "releases/ER-Q3-FY2012.txt",
+   "chars": 64038
+  },
+  {
+   "filing": "OTHER-2012-11-06",
+   "form": "8-K",
+   "filed": "2012-11-06",
+   "period": "",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465912074719/a12-26134_1ex99d1.htm",
+   "section": "release",
+   "what": "Item 2.02 8-K exhibit",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a12-26134_1ex99d1.htm"
+   ],
+   "accession": "0001104659-12-074719",
+   "file": "releases/OTHER-2012-11-06.txt",
+   "chars": 61212
+  },
+  {
+   "filing": "ER-Q4-FY2012",
+   "form": "8-K",
+   "filed": "2013-02-25",
+   "period": "Q4-FY2012",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465913013602/a13-5843_1ex99d1.htm",
+   "section": "release",
+   "what": "Earnings release (Exhibit 99.1) for Q4-FY2012",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a13-5843_1ex99d1.htm"
+   ],
+   "accession": "0001104659-13-013602",
+   "file": "releases/ER-Q4-FY2012.txt",
+   "chars": 72167
+  },
+  {
+   "filing": "OTHER-2013-02-28",
+   "form": "8-K",
+   "filed": "2013-02-28",
+   "period": "",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465913016239/a13-6154_1ex99d1.htm",
+   "section": "release",
+   "what": "Item 2.02 8-K exhibit",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a13-6154_1ex99d1.htm"
+   ],
+   "accession": "0001104659-13-016239",
+   "file": "releases/OTHER-2013-02-28.txt",
+   "chars": 65758
+  },
+  {
+   "filing": "ER-Q1-FY2013",
+   "form": "8-K",
+   "filed": "2013-04-29",
+   "period": "Q1-FY2013",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465913034509/a13-11021_1ex99d1.htm",
+   "section": "release",
+   "what": "Earnings release (Exhibit 99.1) for Q1-FY2013",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a13-11021_1ex99d1.htm"
+   ],
+   "accession": "0001104659-13-034509",
+   "file": "releases/ER-Q1-FY2013.txt",
+   "chars": 51514
+  },
+  {
+   "filing": "OTHER-2013-05-03",
+   "form": "8-K",
+   "filed": "2013-05-03",
+   "period": "",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465913037133/a13-11422_1ex99d1.htm",
+   "section": "release",
+   "what": "Item 2.02 8-K exhibit",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a13-11422_1ex99d1.htm"
+   ],
+   "accession": "0001104659-13-037133",
+   "file": "releases/OTHER-2013-05-03.txt",
+   "chars": 47414
+  },
+  {
+   "filing": "ER-Q2-FY2013",
+   "form": "8-K",
+   "filed": "2013-07-29",
+   "period": "Q2-FY2013",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465913057165/a13-17419_1ex99d1.htm",
+   "section": "release",
+   "what": "Earnings release (Exhibit 99.1) for Q2-FY2013",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a13-17419_1ex99d1.htm"
+   ],
+   "accession": "0001104659-13-057165",
+   "file": "releases/ER-Q2-FY2013.txt",
+   "chars": 61829
+  },
+  {
+   "filing": "OTHER-2013-07-30",
+   "form": "8-K",
+   "filed": "2013-07-30",
+   "period": "",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465913057427/a13-17419_2ex99d1.htm",
+   "section": "release",
+   "what": "Item 2.02 8-K exhibit",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a13-17419_2ex99d1.htm"
+   ],
+   "accession": "0001104659-13-057427",
+   "file": "releases/OTHER-2013-07-30.txt",
+   "chars": 45222
+  },
+  {
+   "filing": "OTHER-2013-08-01-a",
+   "form": "8-K",
+   "filed": "2013-08-01",
+   "period": "",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465913058484/a13-17571_2ex99d1.htm",
+   "section": "release",
+   "what": "Item 2.02 8-K exhibit",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a13-17571_2ex99d1.htm"
+   ],
+   "accession": "0001104659-13-058484",
+   "file": "releases/OTHER-2013-08-01-a.txt",
+   "chars": 46724
+  },
+  {
+   "filing": "OTHER-2013-08-01-b",
+   "form": "8-K",
+   "filed": "2013-08-01",
+   "period": "",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465913058599/a13-17571_1ex99d1.htm",
+   "section": "release",
+   "what": "Item 2.02 8-K exhibit",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a13-17571_1ex99d1.htm"
+   ],
+   "accession": "0001104659-13-058599",
+   "file": "releases/OTHER-2013-08-01-b.txt",
+   "chars": 54599
+  },
+  {
+   "filing": "ER-Q3-FY2013",
+   "form": "8-K",
+   "filed": "2013-11-05",
+   "period": "Q3-FY2013",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465913080717/a13-23490_1ex99d1.htm",
+   "section": "release",
+   "what": "Earnings release (Exhibit 99.1) for Q3-FY2013",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a13-23490_1ex99d1.htm"
+   ],
+   "accession": "0001104659-13-080717",
+   "file": "releases/ER-Q3-FY2013.txt",
+   "chars": 75853
+  },
+  {
+   "filing": "OTHER-2013-11-06",
+   "form": "8-K",
+   "filed": "2013-11-06",
+   "period": "",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465913081737/a13-23665_1ex99d1.htm",
+   "section": "release",
+   "what": "Item 2.02 8-K exhibit",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a13-23665_1ex99d1.htm"
+   ],
+   "accession": "0001104659-13-081737",
+   "file": "releases/OTHER-2013-11-06.txt",
+   "chars": 64609
+  },
+  {
+   "filing": "ER-Q4-FY2013",
+   "form": "8-K",
+   "filed": "2014-03-18",
+   "period": "Q4-FY2013",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465914020429/a14-2349_5ex99d1.htm",
+   "section": "release",
+   "what": "Earnings release (Exhibit 99.1) for Q4-FY2013",
+   "page_mode": "printed",
+   "exhibits": [
+    "EX-99.1 a14-2349_5ex99d1.htm"
+   ],
+   "accession": "0001104659-14-020429",
+   "file": "releases/ER-Q4-FY2013.txt",
+   "chars": 79812
+  },
+  {
+   "filing": "OTHER-2014-03-20",
+   "form": "8-K",
+   "filed": "2014-03-20",
+   "period": "",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000110465914021372/a14-8452_1ex99d1.htm",
+   "section": "release",
+   "what": "Item 2.02 8-K exhibit",
+   "page_mode": "count",
+   "exhibits": [
+    "EX-99.1 a14-8452_1ex99d1.htm"
+   ],
+   "accession": "0001104659-14-021372",
+   "file": "releases/OTHER-2014-03-20.txt",
+   "chars": 68552
+  },
+  {
+   "filing": "PROXY-2012",
+   "form": "DEF 14A",
+   "filed": "2012-04-05",
+   "period": "Compensation for fiscal 2011",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912003900/a2208637zdef14a.htm",
+   "section": "proxy",
+   "what": "Executive compensation section (CD&A and tables)",
+   "page_mode": "printed",
+   "file": "proxy/PROXY-2012.txt",
+   "chars": 149966
+  },
+  {
+   "filing": "PROXY-2013",
+   "form": "DEF 14A",
+   "filed": "2013-03-28",
+   "period": "Compensation for fiscal 2012",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746913003592/a2214087zdef14a.htm",
+   "section": "proxy",
+   "what": "Executive compensation section (CD&A and tables)",
+   "page_mode": "printed",
+   "file": "proxy/PROXY-2013.txt",
+   "chars": 120124
+  }
+ ],
+ "filings": {
+  "AR-FY2011": {
+   "form": "10-K",
+   "accession": "0001047469-12-001623",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm",
+   "page_info": {
+    "pages": 173,
+    "printed": 171,
+    "mode": "printed",
+    "unnumbered_after_first": 0
+   },
+   "sections": {
+    "business": {
+     "lines": [
+      218,
+      667
+     ]
+    },
+    "risk-factors": {
+     "lines": [
+      667,
+      895
+     ]
+    },
+    "mdna": {
+     "lines": [
+      1165,
+      2193
+     ]
+    },
+    "critical-estimates": {
+     "lines": [
+      1260,
+      1336
+     ]
+    },
+    "financial-statements": {
+     "lines": [
+      2198,
+      4507
+     ]
+    },
+    "auditor-report": {
+     "lines": [
+      2200,
+      2223
+     ]
+    },
+    "notes-01-background": {
+     "lines": [
+      2491,
+      2523
+     ]
+    },
+    "notes-02-summary-of-significant-accounting-policies": {
+     "lines": [
+      2523,
+      2681
+     ]
+    },
+    "notes-03-goodwill-and-other-intangible-assets": {
+     "lines": [
+      2681,
+      2822
+     ]
+    },
+    "notes-04-debt": {
+     "lines": [
+      2822,
+      3153
+     ]
+    },
+    "notes-05-employee-retirement-benefits": {
+     "lines": [
+      3153,
+      3433
+     ]
+    },
+    "notes-06-stock-based-compensation": {
+     "lines": [
+      3433,
+      3570
+     ]
+    },
+    "notes-07-depreciation-of-revenue-earning-equipment-and": {
+     "lines": [
+      3570,
+      3587
+     ]
+    },
+    "notes-08-taxes-on-income": {
+     "lines": [
+      3587,
+      3697
+     ]
+    },
+    "notes-09-lease-and-concession-agreements": {
+     "lines": [
+      3697,
+      3749
+     ]
+    },
+    "notes-10-segment-information": {
+     "lines": [
+      3749,
+      3924
+     ]
+    },
+    "notes-11-contingencies-and-off-balance-sheet-commitments": {
+     "lines": [
+      3924,
+      4006
+     ]
+    },
+    "notes-12-restructuring": {
+     "lines": [
+      4006,
+      4071
+     ]
+    },
+    "notes-13-financial-instruments": {
+     "lines": [
+      4071,
+      4170
+     ]
+    },
+    "notes-14-related-party-transactions": {
+     "lines": [
+      4170,
+      4220
+     ]
+    },
+    "notes-15-earnings-loss-per-share": {
+     "lines": [
+      4220,
+      4246
+     ]
+    },
+    "notes-16-quarterly-financial-information-unaudited": {
+     "lines": [
+      4246,
+      4271
+     ]
+    },
+    "notes-17-subsequent-events": {
+     "lines": [
+      4271,
+      4275
+     ]
+    },
+    "schedule-ii": {
+     "lines": [
+      4483,
+      4507
+     ]
+    },
+    "controls": {
+     "lines": [
+      4511,
+      4531
+     ]
+    }
+   },
+   "units": "thousands",
+   "notes": {
+    "count": 17,
+    "distinct_headings": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ],
+    "titles": [
+     "Background",
+     "Summary of Significant Accounting Policies",
+     "Goodwill and Other Intangible Assets",
+     "Debt",
+     "Employee Retirement Benefits",
+     "Stock-Based Compensation",
+     "Depreciation of Revenue Earning Equipment and Lease Charges",
+     "Taxes on Income",
+     "Lease and Concession Agreements",
+     "Segment Information",
+     "Contingencies and Off-Balance Sheet Commitments",
+     "Restructuring",
+     "Financial Instruments",
+     "Related Party Transactions",
+     "Earnings (Loss) Per Share",
+     "Quarterly Financial Information (Unaudited)",
+     "Subsequent Events"
+    ]
+   }
+  },
+  "AR-FY2012": {
+   "form": "10-K",
+   "accession": "0001445305-13-000446",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm",
+   "page_info": {
+    "pages": 159,
+    "printed": 157,
+    "mode": "printed",
+    "unnumbered_after_first": 0
+   },
+   "sections": {
+    "business": {
+     "lines": [
+      167,
+      648
+     ]
+    },
+    "risk-factors": {
+     "lines": [
+      648,
+      900
+     ]
+    },
+    "mdna": {
+     "lines": [
+      1140,
+      2107
+     ]
+    },
+    "critical-estimates": {
+     "lines": [
+      1231,
+      1308
+     ]
+    },
+    "financial-statements": {
+     "lines": [
+      2112,
+      4580
+     ]
+    },
+    "auditor-report": {
+     "lines": [
+      2114,
+      2134
+     ]
+    },
+    "notes-01-background": {
+     "lines": [
+      2408,
+      2438
+     ]
+    },
+    "notes-02-summary-of-significant-accounting-policies": {
+     "lines": [
+      2438,
+      2595
+     ]
+    },
+    "notes-03-goodwill-and-other-intangible-assets": {
+     "lines": [
+      2595,
+      2698
+     ]
+    },
+    "notes-04-business-combinations-and-divestitures": {
+     "lines": [
+      2698,
+      2856
+     ]
+    },
+    "notes-05-debt": {
+     "lines": [
+      2856,
+      3244
+     ]
+    },
+    "notes-06-employee-retirement-benefits": {
+     "lines": [
+      3244,
+      3490
+     ]
+    },
+    "notes-07-stock-based-compensation": {
+     "lines": [
+      3490,
+      3620
+     ]
+    },
+    "notes-08-depreciation-of-revenue-earning-equipment-and": {
+     "lines": [
+      3620,
+      3635
+     ]
+    },
+    "notes-09-taxes-on-income": {
+     "lines": [
+      3635,
+      3744
+     ]
+    },
+    "notes-10-lease-and-concession-agreements": {
+     "lines": [
+      3744,
+      3796
+     ]
+    },
+    "notes-11-segment-information": {
+     "lines": [
+      3796,
+      3954
+     ]
+    },
+    "notes-12-contingencies-and-off-balance-sheet-commitments": {
+     "lines": [
+      3954,
+      4023
+     ]
+    },
+    "notes-13-restructuring": {
+     "lines": [
+      4023,
+      4095
+     ]
+    },
+    "notes-14-financial-instruments": {
+     "lines": [
+      4095,
+      4236
+     ]
+    },
+    "notes-15-related-party-transactions": {
+     "lines": [
+      4236,
+      4286
+     ]
+    },
+    "notes-16-earnings-per-share": {
+     "lines": [
+      4286,
+      4307
+     ]
+    },
+    "notes-17-quarterly-financial-information-unaudited": {
+     "lines": [
+      4307,
+      4332
+     ]
+    },
+    "notes-18-subsequent-events": {
+     "lines": [
+      4332,
+      4340
+     ]
+    },
+    "schedule-ii": {
+     "lines": [
+      4556,
+      4580
+     ]
+    },
+    "controls": {
+     "lines": [
+      4584,
+      4604
+     ]
+    }
+   },
+   "units": "thousands",
+   "notes": {
+    "count": 18,
+    "distinct_headings": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18
+    ],
+    "titles": [
+     "Background",
+     "Summary of Significant Accounting Policies",
+     "Goodwill and Other Intangible Assets",
+     "Business Combinations and Divestitures",
+     "Debt",
+     "Employee Retirement Benefits",
+     "Stock-Based Compensation",
+     "Depreciation of Revenue Earning Equipment and Lease Charges",
+     "Taxes on Income",
+     "Lease and Concession Agreements",
+     "Segment Information",
+     "Contingencies and Off-Balance Sheet Commitments",
+     "Restructuring",
+     "Financial Instruments",
+     "Related Party Transactions",
+     "Earnings Per Share",
+     "Quarterly Financial Information (Unaudited)",
+     "Subsequent Events"
+    ]
+   }
+  },
+  "AR-FY2013": {
+   "form": "10-K",
+   "accession": "0001364479-14-000006",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447914000006/hgh2013form10-k.htm",
+   "page_info": {
+    "pages": 177,
+    "printed": 175,
+    "mode": "printed",
+    "unnumbered_after_first": 0
+   },
+   "sections": {
+    "business": {
+     "lines": [
+      169,
+      698
+     ]
+    },
+    "risk-factors": {
+     "lines": [
+      698,
+      935
+     ]
+    },
+    "mdna": {
+     "lines": [
+      1166,
+      2332
+     ]
+    },
+    "critical-estimates": {
+     "lines": [
+      1287,
+      1373
+     ]
+    },
+    "financial-statements": {
+     "lines": [
+      2337,
+      5283
+     ]
+    },
+    "auditor-report": {
+     "lines": [
+      2339,
+      2355
+     ]
+    },
+    "notes-01-background": {
+     "lines": [
+      2633,
+      2674
+     ]
+    },
+    "notes-02-summary-of-significant-accounting-policies": {
+     "lines": [
+      2674,
+      3035
+     ]
+    },
+    "notes-03-goodwill-and-other-intangible-assets": {
+     "lines": [
+      3035,
+      3138
+     ]
+    },
+    "notes-04-business-combinations-and-divestitures": {
+     "lines": [
+      3138,
+      3299
+     ]
+    },
+    "notes-05-debt": {
+     "lines": [
+      3299,
+      3778
+     ]
+    },
+    "notes-06-employee-retirement-benefits": {
+     "lines": [
+      3778,
+      4031
+     ]
+    },
+    "notes-07-stock-based-compensation": {
+     "lines": [
+      4031,
+      4165
+     ]
+    },
+    "notes-08-depreciation-of-revenue-earning-equipment-and": {
+     "lines": [
+      4165,
+      4180
+     ]
+    },
+    "notes-09-taxes-on-income": {
+     "lines": [
+      4180,
+      4282
+     ]
+    },
+    "notes-10-lease-and-concession-agreements": {
+     "lines": [
+      4282,
+      4334
+     ]
+    },
+    "notes-11-segment-information": {
+     "lines": [
+      4334,
+      4533
+     ]
+    },
+    "notes-12-accumulated-other-comprehensive-income-loss": {
+     "lines": [
+      4533,
+      4578
+     ]
+    },
+    "notes-13-contingencies-and-off-balance-sheet-commitments": {
+     "lines": [
+      4578,
+      4647
+     ]
+    },
+    "notes-14-restructuring": {
+     "lines": [
+      4647,
+      4722
+     ]
+    },
+    "notes-15-financial-instruments-and-fair-value": {
+     "lines": [
+      4722,
+      4943
+     ]
+    },
+    "notes-16-related-party-transactions": {
+     "lines": [
+      4943,
+      4968
+     ]
+    },
+    "notes-17-earnings-per-share": {
+     "lines": [
+      4968,
+      5004
+     ]
+    },
+    "notes-18-quarterly-financial-information-unaudited": {
+     "lines": [
+      5004,
+      5029
+     ]
+    },
+    "notes-19-subsequent-events": {
+     "lines": [
+      5029,
+      5041
+     ]
+    },
+    "schedule-ii": {
+     "lines": [
+      5257,
+      5283
+     ]
+    },
+    "controls": {
+     "lines": [
+      5287,
+      5307
+     ]
+    }
+   },
+   "units": "millions",
+   "notes": {
+    "count": 19,
+    "distinct_headings": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18,
+     19
+    ],
+    "titles": [
+     "Background",
+     "Summary of Significant Accounting Policies",
+     "Goodwill and Other Intangible Assets",
+     "Business Combinations and Divestitures",
+     "Debt",
+     "Employee Retirement Benefits",
+     "Stock-Based Compensation",
+     "Depreciation of Revenue Earning Equipment and Lease Charges",
+     "Taxes on Income",
+     "Lease and Concession Agreements",
+     "Segment Information",
+     "Accumulated Other Comprehensive Income (Loss)",
+     "Contingencies and Off-Balance Sheet Commitments",
+     "Restructuring",
+     "Financial Instruments and Fair Value Measurements",
+     "Related Party Transactions",
+     "Earnings Per Share",
+     "Quarterly Financial Information (Unaudited)",
+     "Subsequent Events"
+    ]
+   }
+  },
+  "Q1-FY2011": {
+   "form": "10-Q",
+   "accession": "0001047469-11-004720",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm",
+   "page_info": {
+    "pages": 61,
+    "printed": 59,
+    "mode": "printed",
+    "unnumbered_after_first": 0
+   },
+   "sections": {
+    "financial-statements": {
+     "lines": [
+      76,
+      1083
+     ]
+    },
+    "notes-01-background": {
+     "lines": [
+      285,
+      313
+     ]
+    },
+    "notes-02-basis-of-presentation": {
+     "lines": [
+      313,
+      336
+     ]
+    },
+    "notes-03-cash-and-cash-equivalents-and-restricted-cash": {
+     "lines": [
+      336,
+      351
+     ]
+    },
+    "notes-04-goodwill-and-other-intangible-assets": {
+     "lines": [
+      351,
+      440
+     ]
+    },
+    "notes-05-taxes-on-income": {
+     "lines": [
+      440,
+      444
+     ]
+    },
+    "notes-06-depreciation-of-revenue-earning-equipment-and": {
+     "lines": [
+      444,
+      468
+     ]
+    },
+    "notes-07-debt": {
+     "lines": [
+      468,
+      659
+     ]
+    },
+    "notes-08-employee-retirement-benefits": {
+     "lines": [
+      659,
+      693
+     ]
+    },
+    "notes-09-stock-based-compensation": {
+     "lines": [
+      693,
+      716
+     ]
+    },
+    "notes-10-segment-information": {
+     "lines": [
+      716,
+      775
+     ]
+    },
+    "notes-11-total-equity": {
+     "lines": [
+      775,
+      823
+     ]
+    },
+    "notes-12-restructuring": {
+     "lines": [
+      823,
+      893
+     ]
+    },
+    "notes-13-financial-instruments": {
+     "lines": [
+      893,
+      987
+     ]
+    },
+    "notes-14-related-party-transactions": {
+     "lines": [
+      987,
+      1010
+     ]
+    },
+    "notes-15-contingencies-and-off-balance-sheet-commitments": {
+     "lines": [
+      1010,
+      1058
+     ]
+    },
+    "notes-16-earnings-loss-per-share": {
+     "lines": [
+      1058,
+      1076
+     ]
+    },
+    "notes-17-subsequent-events": {
+     "lines": [
+      1076,
+      1083
+     ]
+    },
+    "mdna": {
+     "lines": [
+      1083,
+      1898
+     ]
+    },
+    "risk-factors": {
+     "lines": [
+      1924,
+      1951
+     ]
+    }
+   },
+   "units": "thousands",
+   "notes": {
+    "count": 17,
+    "distinct_headings": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ],
+    "titles": [
+     "Background",
+     "Basis of Presentation",
+     "Cash and Cash Equivalents and Restricted Cash and Cash Equivalents",
+     "Goodwill and Other Intangible Assets",
+     "Taxes on Income",
+     "Depreciation of Revenue Earning Equipment and Lease Charges",
+     "Debt",
+     "Employee Retirement Benefits",
+     "Stock-Based Compensation",
+     "Segment Information",
+     "Total Equity",
+     "Restructuring",
+     "Financial Instruments",
+     "Related Party Transactions",
+     "Contingencies and Off-Balance Sheet Commitments",
+     "Earnings (Loss) Per Share",
+     "Subsequent Events"
+    ]
+   },
+   "risk_factors_chars": 5835
+  },
+  "Q2-FY2011": {
+   "form": "10-Q",
+   "accession": "0001047469-11-007031",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911007031/a2205046z10-q.htm",
+   "page_info": {
+    "pages": 74,
+    "printed": 72,
+    "mode": "printed",
+    "unnumbered_after_first": 0
+   },
+   "sections": {
+    "financial-statements": {
+     "lines": [
+      76,
+      1200
+     ]
+    },
+    "notes-01-background": {
+     "lines": [
+      285,
+      313
+     ]
+    },
+    "notes-02-basis-of-presentation": {
+     "lines": [
+      313,
+      338
+     ]
+    },
+    "notes-03-cash-and-cash-equivalents-and-restricted-cash": {
+     "lines": [
+      338,
+      353
+     ]
+    },
+    "notes-04-goodwill-and-other-intangible-assets": {
+     "lines": [
+      353,
+      442
+     ]
+    },
+    "notes-05-taxes-on-income": {
+     "lines": [
+      442,
+      446
+     ]
+    },
+    "notes-06-depreciation-of-revenue-earning-equipment-and": {
+     "lines": [
+      446,
+      484
+     ]
+    },
+    "notes-07-debt": {
+     "lines": [
+      484,
+      682
+     ]
+    },
+    "notes-08-employee-retirement-benefits": {
+     "lines": [
+      682,
+      734
+     ]
+    },
+    "notes-09-stock-based-compensation": {
+     "lines": [
+      734,
+      757
+     ]
+    },
+    "notes-10-segment-information": {
+     "lines": [
+      757,
+      848
+     ]
+    },
+    "notes-11-total-equity": {
+     "lines": [
+      848,
+      900
+     ]
+    },
+    "notes-12-restructuring": {
+     "lines": [
+      900,
+      974
+     ]
+    },
+    "notes-13-financial-instruments": {
+     "lines": [
+      974,
+      1092
+     ]
+    },
+    "notes-14-related-party-transactions": {
+     "lines": [
+      1092,
+      1115
+     ]
+    },
+    "notes-15-contingencies-and-off-balance-sheet-commitments": {
+     "lines": [
+      1115,
+      1167
+     ]
+    },
+    "notes-16-earnings-loss-per-share": {
+     "lines": [
+      1167,
+      1195
+     ]
+    },
+    "notes-17-subsequent-events": {
+     "lines": [
+      1195,
+      1200
+     ]
+    },
+    "mdna": {
+     "lines": [
+      1200,
+      2366
+     ]
+    },
+    "risk-factors": {
+     "lines": [
+      2397,
+      2418
+     ]
+    }
+   },
+   "units": "thousands",
+   "notes": {
+    "count": 17,
+    "distinct_headings": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ],
+    "titles": [
+     "Background",
+     "Basis of Presentation",
+     "Cash and Cash Equivalents and Restricted Cash and Cash Equivalents",
+     "Goodwill and Other Intangible Assets",
+     "Taxes on Income",
+     "Depreciation of Revenue Earning Equipment and Lease Charges",
+     "Debt",
+     "Employee Retirement Benefits",
+     "Stock-Based Compensation",
+     "Segment Information",
+     "Total Equity",
+     "Restructuring",
+     "Financial Instruments",
+     "Related Party Transactions",
+     "Contingencies and Off-Balance Sheet Commitments",
+     "Earnings (Loss) Per Share",
+     "Subsequent Events"
+    ]
+   },
+   "risk_factors_chars": 3011
+  },
+  "Q3-FY2011": {
+   "form": "10-Q",
+   "accession": "0001047469-11-009145",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm",
+   "page_info": {
+    "pages": 80,
+    "printed": 78,
+    "mode": "printed",
+    "unnumbered_after_first": 0
+   },
+   "sections": {
+    "financial-statements": {
+     "lines": [
+      76,
+      1333
+     ]
+    },
+    "notes-01-background": {
+     "lines": [
+      285,
+      315
+     ]
+    },
+    "notes-02-basis-of-presentation-and-recently-issued": {
+     "lines": [
+      315,
+      405
+     ]
+    },
+    "notes-03-cash-and-cash-equivalents-and-restricted-cash": {
+     "lines": [
+      405,
+      422
+     ]
+    },
+    "notes-04-goodwill-and-other-intangible-assets": {
+     "lines": [
+      422,
+      566
+     ]
+    },
+    "notes-05-taxes-on-income": {
+     "lines": [
+      566,
+      579
+     ]
+    },
+    "notes-06-depreciation-of-revenue-earning-equipment-and": {
+     "lines": [
+      579,
+      610
+     ]
+    },
+    "notes-07-debt": {
+     "lines": [
+      610,
+      817
+     ]
+    },
+    "notes-08-employee-retirement-benefits": {
+     "lines": [
+      817,
+      861
+     ]
+    },
+    "notes-09-stock-based-compensation": {
+     "lines": [
+      861,
+      884
+     ]
+    },
+    "notes-10-segment-information": {
+     "lines": [
+      884,
+      983
+     ]
+    },
+    "notes-11-total-equity": {
+     "lines": [
+      983,
+      1041
+     ]
+    },
+    "notes-12-restructuring": {
+     "lines": [
+      1041,
+      1117
+     ]
+    },
+    "notes-13-financial-instruments": {
+     "lines": [
+      1117,
+      1236
+     ]
+    },
+    "notes-14-related-party-transactions": {
+     "lines": [
+      1236,
+      1252
+     ]
+    },
+    "notes-15-contingencies-and-off-balance-sheet-commitments": {
+     "lines": [
+      1252,
+      1311
+     ]
+    },
+    "notes-16-earnings-loss-per-share": {
+     "lines": [
+      1311,
+      1333
+     ]
+    },
+    "mdna": {
+     "lines": [
+      1333,
+      2515
+     ]
+    },
+    "risk-factors": {
+     "lines": [
+      2547,
+      2568
+     ]
+    }
+   },
+   "units": "thousands",
+   "notes": {
+    "count": 16,
+    "distinct_headings": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16
+    ],
+    "titles": [
+     "Background",
+     "Basis of Presentation and Recently Issued Accounting Pronouncements",
+     "Cash and Cash Equivalents and Restricted Cash and Cash Equivalents",
+     "Goodwill and Other Intangible Assets",
+     "Taxes on Income",
+     "Depreciation of Revenue Earning Equipment and Lease Charges",
+     "Debt",
+     "Employee Retirement Benefits",
+     "Stock-Based Compensation",
+     "Segment Information",
+     "Total Equity",
+     "Restructuring",
+     "Financial Instruments",
+     "Related Party Transactions",
+     "Contingencies and Off-Balance Sheet Commitments",
+     "Earnings (Loss) Per Share"
+    ]
+   },
+   "risk_factors_chars": 4567
+  },
+  "Q1-FY2012": {
+   "form": "10-Q",
+   "accession": "0001047469-12-005385",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm",
+   "page_info": {
+    "pages": 59,
+    "printed": 57,
+    "mode": "printed",
+    "unnumbered_after_first": 0
+   },
+   "sections": {
+    "financial-statements": {
+     "lines": [
+      77,
+      1076
+     ]
+    },
+    "notes-01-background": {
+     "lines": [
+      311,
+      343
+     ]
+    },
+    "notes-02-basis-of-presentation-and-recently-issued": {
+     "lines": [
+      343,
+      368
+     ]
+    },
+    "notes-03-cash-and-cash-equivalents-and-restricted-cash": {
+     "lines": [
+      368,
+      383
+     ]
+    },
+    "notes-04-goodwill-and-other-intangible-assets": {
+     "lines": [
+      383,
+      482
+     ]
+    },
+    "notes-05-taxes-on-income": {
+     "lines": [
+      482,
+      486
+     ]
+    },
+    "notes-06-depreciation-of-revenue-earning-equipment-and": {
+     "lines": [
+      486,
+      519
+     ]
+    },
+    "notes-07-debt": {
+     "lines": [
+      519,
+      695
+     ]
+    },
+    "notes-08-employee-retirement-benefits": {
+     "lines": [
+      695,
+      727
+     ]
+    },
+    "notes-09-stock-based-compensation": {
+     "lines": [
+      727,
+      748
+     ]
+    },
+    "notes-10-segment-information": {
+     "lines": [
+      748,
+      804
+     ]
+    },
+    "notes-11-total-equity": {
+     "lines": [
+      804,
+      842
+     ]
+    },
+    "notes-12-restructuring": {
+     "lines": [
+      842,
+      902
+     ]
+    },
+    "notes-13-financial-instruments": {
+     "lines": [
+      902,
+      980
+     ]
+    },
+    "notes-14-related-party-transactions": {
+     "lines": [
+      980,
+      994
+     ]
+    },
+    "notes-15-contingencies-and-off-balance-sheet-commitments": {
+     "lines": [
+      994,
+      1053
+     ]
+    },
+    "notes-16-earnings-loss-per-share": {
+     "lines": [
+      1053,
+      1071
+     ]
+    },
+    "notes-17-subsequent-events": {
+     "lines": [
+      1071,
+      1076
+     ]
+    },
+    "mdna": {
+     "lines": [
+      1076,
+      1918
+     ]
+    }
+   },
+   "units": "thousands",
+   "notes": {
+    "count": 17,
+    "distinct_headings": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ],
+    "titles": [
+     "Background",
+     "Basis of Presentation and Recently Issued Accounting Pronouncements",
+     "Cash and Cash Equivalents and Restricted Cash and Cash Equivalents",
+     "Goodwill and Other Intangible Assets",
+     "Taxes on Income",
+     "Depreciation of Revenue Earning Equipment and Lease Charges",
+     "Debt",
+     "Employee Retirement Benefits",
+     "Stock-Based Compensation",
+     "Segment Information",
+     "Total Equity",
+     "Restructuring",
+     "Financial Instruments",
+     "Related Party Transactions",
+     "Contingencies and Off-Balance Sheet Commitments",
+     "Earnings (Loss) Per Share",
+     "Subsequent Events"
+    ]
+   },
+   "risk_factors_chars": 216,
+   "risk_factors_text": "There is no material change in the information reported under \"Part I\u2014Item 1A\u2014Risk Factors\" contained in our Annual Report on Form 10-K for the fiscal year ended December 31, 2011 and \"Part II, Item 1A\u2014Risk Factors.\""
+  },
+  "Q2-FY2012": {
+   "form": "10-Q",
+   "accession": "0001047469-12-007702",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000104746912007702/a2210414z10-q.htm",
+   "page_info": {
+    "pages": 71,
+    "printed": 69,
+    "mode": "printed",
+    "unnumbered_after_first": 0
+   },
+   "sections": {
+    "financial-statements": {
+     "lines": [
+      77,
+      1195
+     ]
+    },
+    "notes-01-background": {
+     "lines": [
+      328,
+      356
+     ]
+    },
+    "notes-02-basis-of-presentation-and-recently-issued": {
+     "lines": [
+      356,
+      381
+     ]
+    },
+    "notes-03-cash-and-cash-equivalents-and-restricted-cash": {
+     "lines": [
+      381,
+      396
+     ]
+    },
+    "notes-04-goodwill-and-other-intangible-assets": {
+     "lines": [
+      396,
+      496
+     ]
+    },
+    "notes-05-taxes-on-income": {
+     "lines": [
+      496,
+      507
+     ]
+    },
+    "notes-06-depreciation-of-revenue-earning-equipment-and": {
+     "lines": [
+      507,
+      536
+     ]
+    },
+    "notes-07-debt": {
+     "lines": [
+      536,
+      726
+     ]
+    },
+    "notes-08-employee-retirement-benefits": {
+     "lines": [
+      726,
+      782
+     ]
+    },
+    "notes-09-stock-based-compensation": {
+     "lines": [
+      782,
+      803
+     ]
+    },
+    "notes-10-segment-information": {
+     "lines": [
+      803,
+      888
+     ]
+    },
+    "notes-11-total-equity": {
+     "lines": [
+      888,
+      927
+     ]
+    },
+    "notes-12-restructuring": {
+     "lines": [
+      927,
+      989
+     ]
+    },
+    "notes-13-financial-instruments": {
+     "lines": [
+      989,
+      1081
+     ]
+    },
+    "notes-14-related-party-transactions": {
+     "lines": [
+      1081,
+      1102
+     ]
+    },
+    "notes-15-contingencies-and-off-balance-sheet-commitments": {
+     "lines": [
+      1102,
+      1167
+     ]
+    },
+    "notes-16-earnings-loss-per-share": {
+     "lines": [
+      1167,
+      1188
+     ]
+    },
+    "notes-17-subsequent-events": {
+     "lines": [
+      1188,
+      1195
+     ]
+    },
+    "mdna": {
+     "lines": [
+      1195,
+      2388
+     ]
+    }
+   },
+   "units": "thousands",
+   "notes": {
+    "count": 17,
+    "distinct_headings": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ],
+    "titles": [
+     "Background",
+     "Basis of Presentation and Recently Issued Accounting Pronouncements",
+     "Cash and Cash Equivalents and Restricted Cash and Cash Equivalents",
+     "Goodwill and Other Intangible Assets",
+     "Taxes on Income",
+     "Depreciation of Revenue Earning Equipment and Lease Charges",
+     "Debt",
+     "Employee Retirement Benefits",
+     "Stock-Based Compensation",
+     "Segment Information",
+     "Total Equity",
+     "Restructuring",
+     "Financial Instruments",
+     "Related Party Transactions",
+     "Contingencies and Off-Balance Sheet Commitments",
+     "Earnings (Loss) Per Share",
+     "Subsequent Events"
+    ]
+   },
+   "risk_factors_chars": 180,
+   "risk_factors_text": "There is no material change in the information reported under \"Part I\u2014Item 1A\u2014Risk Factors\" contained in our Annual Report on Form 10-K for the fiscal year ended December 31, 2011."
+  },
+  "Q3-FY2012": {
+   "form": "10-Q",
+   "accession": "0001445305-12-003378",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm",
+   "page_info": {
+    "pages": 70,
+    "printed": 68,
+    "mode": "printed",
+    "unnumbered_after_first": 0
+   },
+   "sections": {
+    "financial-statements": {
+     "lines": [
+      80,
+      1264
+     ]
+    },
+    "notes-01-background": {
+     "lines": [
+      355,
+      386
+     ]
+    },
+    "notes-02-basis-of-presentation-and-recently-issued": {
+     "lines": [
+      386,
+      425
+     ]
+    },
+    "notes-03-cash-and-cash-equivalents-and-restricted-cash": {
+     "lines": [
+      425,
+      433
+     ]
+    },
+    "notes-04-goodwill-and-other-intangible-assets": {
+     "lines": [
+      433,
+      548
+     ]
+    },
+    "notes-05-taxes-on-income": {
+     "lines": [
+      548,
+      552
+     ]
+    },
+    "notes-06-depreciation-of-revenue-earning-equipment-and": {
+     "lines": [
+      552,
+      588
+     ]
+    },
+    "notes-07-debt": {
+     "lines": [
+      588,
+      786
+     ]
+    },
+    "notes-08-employee-retirement-benefits": {
+     "lines": [
+      786,
+      842
+     ]
+    },
+    "notes-09-stock-based-compensation": {
+     "lines": [
+      842,
+      856
+     ]
+    },
+    "notes-10-segment-information": {
+     "lines": [
+      856,
+      934
+     ]
+    },
+    "notes-11-total-equity": {
+     "lines": [
+      934,
+      987
+     ]
+    },
+    "notes-12-restructuring": {
+     "lines": [
+      987,
+      1059
+     ]
+    },
+    "notes-13-financial-instruments": {
+     "lines": [
+      1059,
+      1144
+     ]
+    },
+    "notes-14-related-party-transactions": {
+     "lines": [
+      1144,
+      1165
+     ]
+    },
+    "notes-15-contingencies-and-off-balance-sheet-commitments": {
+     "lines": [
+      1165,
+      1213
+     ]
+    },
+    "notes-16-earnings-per-share": {
+     "lines": [
+      1213,
+      1238
+     ]
+    },
+    "notes-17-subsequent-events": {
+     "lines": [
+      1238,
+      1264
+     ]
+    },
+    "mdna": {
+     "lines": [
+      1264,
+      2349
+     ]
+    },
+    "risk-factors": {
+     "lines": [
+      2377,
+      2458
+     ]
+    }
+   },
+   "units": "thousands",
+   "notes": {
+    "count": 17,
+    "distinct_headings": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ],
+    "titles": [
+     "Background",
+     "Basis of Presentation and Recently Issued Accounting Pronouncements",
+     "Cash and Cash Equivalents and Restricted Cash and Cash Equivalents",
+     "Goodwill and Other Intangible Assets",
+     "Taxes on Income",
+     "Depreciation of Revenue Earning Equipment and Lease Charges",
+     "Debt",
+     "Employee Retirement Benefits",
+     "Stock-Based Compensation",
+     "Segment Information",
+     "Total Equity",
+     "Restructuring",
+     "Financial Instruments",
+     "Related Party Transactions",
+     "Contingencies and Off-Balance Sheet Commitments",
+     "Earnings Per Share",
+     "Subsequent Events"
+    ]
+   },
+   "risk_factors_chars": 18988
+  },
+  "Q1-FY2013": {
+   "form": "10-Q",
+   "accession": "0001445305-13-001076",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000144530513001076/hghq12013form10-q.htm",
+   "page_info": {
+    "pages": 58,
+    "printed": 56,
+    "mode": "printed",
+    "unnumbered_after_first": 0
+   },
+   "sections": {
+    "financial-statements": {
+     "lines": [
+      82,
+      1253
+     ]
+    },
+    "notes-01-background": {
+     "lines": [
+      339,
+      365
+     ]
+    },
+    "notes-02-basis-of-presentation-and-recently-issued": {
+     "lines": [
+      365,
+      392
+     ]
+    },
+    "notes-03-cash-and-cash-equivalents-and-restricted-cash": {
+     "lines": [
+      392,
+      407
+     ]
+    },
+    "notes-04-goodwill-and-other-intangible-assets": {
+     "lines": [
+      407,
+      490
+     ]
+    },
+    "notes-05-business-combinations-and-divestitures": {
+     "lines": [
+      490,
+      541
+     ]
+    },
+    "notes-06-taxes-on-income": {
+     "lines": [
+      541,
+      545
+     ]
+    },
+    "notes-07-depreciation-of-revenue-earning-equipment-and": {
+     "lines": [
+      545,
+      567
+     ]
+    },
+    "notes-08-debt": {
+     "lines": [
+      567,
+      753
+     ]
+    },
+    "notes-09-employee-retirement-benefits": {
+     "lines": [
+      753,
+      787
+     ]
+    },
+    "notes-10-stock-based-compensation": {
+     "lines": [
+      787,
+      808
+     ]
+    },
+    "notes-11-segment-information": {
+     "lines": [
+      808,
+      853
+     ]
+    },
+    "notes-12-other-comprehensive-income-loss": {
+     "lines": [
+      853,
+      880
+     ]
+    },
+    "notes-13-restructuring": {
+     "lines": [
+      880,
+      948
+     ]
+    },
+    "notes-14-financial-instruments": {
+     "lines": [
+      948,
+      1125
+     ]
+    },
+    "notes-15-related-party-transactions": {
+     "lines": [
+      1125,
+      1141
+     ]
+    },
+    "notes-16-contingencies-and-off-balance-sheet-commitments": {
+     "lines": [
+      1141,
+      1195
+     ]
+    },
+    "notes-17-earnings-loss-per-share": {
+     "lines": [
+      1195,
+      1233
+     ]
+    },
+    "notes-18-subsequent-events": {
+     "lines": [
+      1233,
+      1253
+     ]
+    },
+    "mdna": {
+     "lines": [
+      1253,
+      1999
+     ]
+    },
+    "risk-factors": {
+     "lines": [
+      2027,
+      2037
+     ]
+    }
+   },
+   "units": "thousands",
+   "notes": {
+    "count": 18,
+    "distinct_headings": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18
+    ],
+    "titles": [
+     "Background",
+     "Basis of Presentation and Recently Issued Accounting Pronouncements",
+     "Cash and Cash Equivalents and Restricted Cash and Cash Equivalents",
+     "Goodwill and Other Intangible Assets",
+     "Business Combinations and Divestitures",
+     "Taxes on Income",
+     "Depreciation of Revenue Earning Equipment and Lease Charges",
+     "Debt",
+     "Employee Retirement Benefits",
+     "Stock-Based Compensation",
+     "Segment Information",
+     "Other Comprehensive Income (Loss)",
+     "Restructuring",
+     "Financial Instruments",
+     "Related Party Transactions",
+     "Contingencies and Off-Balance Sheet Commitments",
+     "Earnings (Loss) Per Share",
+     "Subsequent Events"
+    ]
+   },
+   "risk_factors_chars": 1661
+  },
+  "Q2-FY2013": {
+   "form": "10-Q",
+   "accession": "0001364479-13-000006",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000006/hghq22013form10-q.htm",
+   "page_info": {
+    "pages": 70,
+    "printed": 68,
+    "mode": "printed",
+    "unnumbered_after_first": 0
+   },
+   "sections": {
+    "financial-statements": {
+     "lines": [
+      81,
+      1387
+     ]
+    },
+    "notes-01-background": {
+     "lines": [
+      350,
+      360
+     ]
+    },
+    "notes-02-basis-of-presentation-and-recently-issued": {
+     "lines": [
+      360,
+      393
+     ]
+    },
+    "notes-03-cash-and-cash-equivalents-and-restricted-cash": {
+     "lines": [
+      393,
+      406
+     ]
+    },
+    "notes-04-goodwill-and-other-intangible-assets": {
+     "lines": [
+      406,
+      489
+     ]
+    },
+    "notes-05-business-combinations-and-divestitures": {
+     "lines": [
+      489,
+      543
+     ]
+    },
+    "notes-06-taxes-on-income": {
+     "lines": [
+      543,
+      547
+     ]
+    },
+    "notes-07-depreciation-of-revenue-earning-equipment-and": {
+     "lines": [
+      547,
+      578
+     ]
+    },
+    "notes-08-debt": {
+     "lines": [
+      578,
+      782
+     ]
+    },
+    "notes-09-employee-retirement-benefits": {
+     "lines": [
+      782,
+      829
+     ]
+    },
+    "notes-10-stock-based-compensation": {
+     "lines": [
+      829,
+      854
+     ]
+    },
+    "notes-11-segment-information": {
+     "lines": [
+      854,
+      931
+     ]
+    },
+    "notes-12-accumulated-other-comprehensive-loss": {
+     "lines": [
+      931,
+      971
+     ]
+    },
+    "notes-13-restructuring": {
+     "lines": [
+      971,
+      1030
+     ]
+    },
+    "notes-14-financial-instruments": {
+     "lines": [
+      1030,
+      1245
+     ]
+    },
+    "notes-15-related-party-transactions": {
+     "lines": [
+      1245,
+      1286
+     ]
+    },
+    "notes-16-contingencies-and-off-balance-sheet-commitments": {
+     "lines": [
+      1286,
+      1340
+     ]
+    },
+    "notes-17-earnings-per-share": {
+     "lines": [
+      1340,
+      1380
+     ]
+    },
+    "notes-18-subsequent-events": {
+     "lines": [
+      1380,
+      1387
+     ]
+    },
+    "mdna": {
+     "lines": [
+      1387,
+      2463
+     ]
+    }
+   },
+   "units": "millions",
+   "notes": {
+    "count": 18,
+    "distinct_headings": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18
+    ],
+    "titles": [
+     "Background",
+     "Basis of Presentation and Recently Issued Accounting Pronouncements",
+     "Cash and Cash Equivalents and Restricted Cash and Cash Equivalents",
+     "Goodwill and Other Intangible Assets",
+     "Business Combinations and Divestitures",
+     "Taxes on Income",
+     "Depreciation of Revenue Earning Equipment and Lease Charges",
+     "Debt",
+     "Employee Retirement Benefits",
+     "Stock-Based Compensation",
+     "Segment Information",
+     "Accumulated Other Comprehensive Loss",
+     "Restructuring",
+     "Financial Instruments",
+     "Related Party Transactions",
+     "Contingencies and Off-Balance Sheet Commitments",
+     "Earnings Per Share",
+     "Subsequent Events"
+    ]
+   },
+   "risk_factors_chars": 180,
+   "risk_factors_text": "There is no material change in the information reported under \"Part I\u2014Item 1A\u2014Risk Factors\" contained in our Annual Report on Form 10-K for the fiscal year ended December 31, 2012."
+  },
+  "Q3-FY2013": {
+   "form": "10-Q",
+   "accession": "0001364479-13-000011",
+   "url": "https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm",
+   "page_info": {
+    "pages": 80,
+    "printed": 78,
+    "mode": "printed",
+    "unnumbered_after_first": 0
+   },
+   "sections": {
+    "financial-statements": {
+     "lines": [
+      81,
+      1494
+     ]
+    },
+    "notes-01-background": {
+     "lines": [
+      350,
+      360
+     ]
+    },
+    "notes-02-basis-of-presentation-and-recently-issued": {
+     "lines": [
+      360,
+      391
+     ]
+    },
+    "notes-03-cash-and-cash-equivalents-and-restricted-cash": {
+     "lines": [
+      391,
+      404
+     ]
+    },
+    "notes-04-goodwill-and-other-intangible-assets": {
+     "lines": [
+      404,
+      487
+     ]
+    },
+    "notes-05-business-combinations-and-divestitures": {
+     "lines": [
+      487,
+      545
+     ]
+    },
+    "notes-06-taxes-on-income": {
+     "lines": [
+      545,
+      549
+     ]
+    },
+    "notes-07-depreciation-of-revenue-earning-equipment-and": {
+     "lines": [
+      549,
+      578
+     ]
+    },
+    "notes-08-debt": {
+     "lines": [
+      578,
+      805
+     ]
+    },
+    "notes-09-employee-retirement-benefits": {
+     "lines": [
+      805,
+      854
+     ]
+    },
+    "notes-10-stock-based-compensation": {
+     "lines": [
+      854,
+      881
+     ]
+    },
+    "notes-11-segment-information": {
+     "lines": [
+      881,
+      988
+     ]
+    },
+    "notes-12-accumulated-other-comprehensive-loss": {
+     "lines": [
+      988,
+      1028
+     ]
+    },
+    "notes-13-restructuring": {
+     "lines": [
+      1028,
+      1092
+     ]
+    },
+    "notes-14-financial-instruments-and-fair-value": {
+     "lines": [
+      1092,
+      1334
+     ]
+    },
+    "notes-15-related-party-transactions": {
+     "lines": [
+      1334,
+      1379
+     ]
+    },
+    "notes-16-contingencies-and-off-balance-sheet-commitments": {
+     "lines": [
+      1379,
+      1435
+     ]
+    },
+    "notes-17-earnings-per-share": {
+     "lines": [
+      1435,
+      1477
+     ]
+    },
+    "notes-18-subsequent-events": {
+     "lines": [
+      1477,
+      1494
+     ]
+    },
+    "mdna": {
+     "lines": [
+      1494,
+      2765
+     ]
+    },
+    "risk-factors": {
+     "lines": [
+      2793,
+      2803
+     ]
+    }
+   },
+   "units": "millions",
+   "notes": {
+    "count": 18,
+    "distinct_headings": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18
+    ],
+    "titles": [
+     "Background",
+     "Basis of Presentation and Recently Issued Accounting Pronouncements",
+     "Cash and Cash Equivalents and Restricted Cash and Cash Equivalents",
+     "Goodwill and Other Intangible Assets",
+     "Business Combinations and Divestitures",
+     "Taxes on Income",
+     "Depreciation of Revenue Earning Equipment and Lease Charges",
+     "Debt",
+     "Employee Retirement Benefits",
+     "Stock-Based Compensation",
+     "Segment Information",
+     "Accumulated Other Comprehensive Loss",
+     "Restructuring",
+     "Financial Instruments and Fair Value Measurements",
+     "Related Party Transactions",
+     "Contingencies and Off-Balance Sheet Commitments",
+     "Earnings Per Share",
+     "Subsequent Events"
+    ]
+   },
+   "risk_factors_chars": 2278
+  }
+ },
+ "gaps": []
+}

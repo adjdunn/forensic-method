@@ -1,0 +1,58 @@
+=== page 1 ===
+Hertz Global Holdings, Inc.: review for reading time
+FY2013 against FY2012, with Q4 2013 against Q4 2012.
+Documents: FY2012 and FY2013 annual reports, both Q4 results releases, the statements spreadsheet, the statement scan and flag
+explanations, and the two text-track assessments. Sizes are shares of FY2013 pre-tax income of $663.1M.
+Items to investigate
+1. Rental car depreciation: rates cut while cars sold at a loss
+ Shown: Note 8 says the U.S. rate cuts were "indicative of the residual values experienced" in 2013, yet the same note shows a
+$48.2M loss on U.S. disposals after a $100.6M gain (FY2013 p. 126). The top of the car holding range moved from 28 to 36 months
+(FY2012 p. 81; FY2013 p. 91), "strong" was dropped, and the company-wide rate fell from 15.2% to 14.3%. Size: 6.7% (the
+company's stated U.S. cut of $44.2M, the income effect) or 6.0% net company-wide; the scan's charge not taken at the FY2012 rate is
+$152M, 23%, mostly offset by the disposal swing. Evidence level 1.
+ Reading: Both tracks read this as the reporting stretched on top of a weakening used-car market; the text track says "most likely", the
+numbers track "possibly". It would turn ordinary if the cut applied to Dollar Thrifty cars held longer and the losses came from one-off
+sales timing.
+ Next: The 2013 10-Qs for a quarterly split of rate changes and disposal results, and Q1 2014 U.S. depreciation per vehicle.
+2. Adjusted pre-tax income: recurring costs called one-time
+ Shown: The measure excludes "certain one-time charges" (FY2013 p. 50), but restructuring was charged in every year shown and
+totals $645.4M over 2007–2013 (p. 140). Integration, relocation and impairment are new exclusions (13.8%), and a litigation accrual is
+excluded in both years. Size: 14.9% (restructuring and related, $98.8M); all exclusions 73.9%. Evidence level 1.
+ Reading: Most likely the measure is stretched rather than the business weakening. It would shift toward ordinary if the 2013 charge
+proved mostly the headquarters move and integration, and the charges then stopped.
+ Next: Adjusted pre-tax income with restructuring left in ($1,054.4M against $1,153.2M), tracked across years.
+3. Fourth-quarter margin: 22.1% to 18.5%
+ Shown: Q4 gross margin fell while the full-year margin held; U.S. fleet rose 22.4% against transaction days up 16.1% (FY2013
+release p. 3). The company's "$0.12 impact" of pricing and extra fleet (p. 2) is measured against expectations, so it can't be tested as
+stated. Size: 14% ($90M). Evidence level 2.
+ Reading: Most likely the business weakening. Fleet back in line with demand and a recovered margin in early 2014 would make it a
+one-quarter event.
+ Next: Q1 2014 results: U.S. fleet against transaction days, and depreciation as a share of U.S. revenue.
+4. Controls: called effective beside errors in several years
+ Shown: Out-of-period errors of $46.3M were corrected by revising prior years, though they "would have been material to the fourth
+quarter" (FY2013 p. 83), while controls were "effective" (p. 159). A debt requirement was "unknowingly not being met" (p. 150), and
+the release gives the total as $47.9M. The revision lifts pre-tax growth from 47.2% to 50.2%. Size: 5.2% ($34.7M moved to prior
+years); 7.0% in total. Evidence level 2.
+ Reading: Possibly the control conclusion is generous. One isolated process, already fixed, would point to ordinary.
+ Next: 2014 quarterly filings for further revisions or a changed control conclusion.
+5. Payables: down 3.5% while costs rose 19.4%
+ Shown: Days payable fell from 52.9 to 42.7 (revised basis). The company says nothing about the balance; its nearest sentence,
+"timing of our payments" (FY2013 p. 64), covers 4.5% of the cash flow rise it describes, and Dollar Thrifty covers 18% of the gap.
+Accounts payable modules were replaced in the same year (p. 159). Size: a balance gap of $233M, 35% of pre-tax income, not an
+income effect; it is larger than items 3 and 4 but ranks below them as a balance. Evidence level 2.
+ Reading: Can't tell from these documents; suppliers were most likely paid faster. A split showing the fall sits in fleet payables would
+point to ordinary purchase timing.
+ Next: Ask for trade against fleet payables; read the supplemental cash flow lines (p. 81).
+Also noted
+ Nevada fee case: a judgment "could potentially exceed $40.0 million", with no material reserve (pp. 137–138); exposure 6.0%, leans
+aggressive, level 3. A securities class action is new.
+ Receivables allowance: write-offs rose 37.5% against 5.1% for the allowance, and the provision differs by $4.0M between the cash
+flow statement and Schedule II.
+ Not explained, not quantified: goodwill headroom and self-insurance movements are not disclosed; the pricing measure changed;
+2012 cars sold were restated 7.1% higher; "fewer program cars" no longer fits.
+Checked and explained: Receivables fell 19.5% while revenue rose, most likely ordinary: 71% is vehicle-sale timing and 2012 was
+inflated by the acquisition, though $105.8M is unexplained. Payables at 9.0% of sales against 4.5% reflects a poorly matched industry
+group. The 2012 rate cut sat beside disposal gains that support it.
+Not examined: The documents give no quarterly or brand split of the rate cuts, no payables or receivables breakdown, no critical audit
+matters and no proxy statement.
+Items to investigate, not conclusions. The verdicts are the analyst's.

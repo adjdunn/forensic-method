@@ -1,0 +1,655 @@
+CAE Inc.
+Fourth-quarter and full-year results release for the year ended 2025-03-31 (6-K exhibit)
+Filed with the SEC 2025-05-13, accession 0001173382-25-000009
+Source: https://www.sec.gov/Archives/edgar/data/1173382/000117338225000009/pressreleaseq4fy25.htm
+Converted from the filed HTML to text for testing. [p. N] marks the start of printed page N.
+================================================================================
+
+[p. 1]
+Press Release
+
+CAE reports fourth quarter and full fiscal year 2025 results
+
+Q4 FY2025
+
+•Revenue of $1,275.4 million vs. $1,126.3 million in Q4 last year
+
+•Earnings per share (EPS) from continuing operations of $0.42 vs. negative $1.58 in Q4 last year
+
+•Adjusted EPS(1) of $0.47 vs. $0.12 in Q4 last year
+
+•Operating income of $239.9 million vs. operating loss of $533.0 million in Q4 last year
+
+•Adjusted segment operating income(1) of $258.8 million vs. $125.7 million in Q4 last year
+
+•Free cash flow(1) of $289.4 million vs. $191.1 million in Q4 last year
+
+•Adjusted order intake(1) of $1.3 billion for 1.05x book-to-sales ratio(1)
+
+•Net debt-to-adjusted EBITDA(1) of 2.77x vs. 3.36x at the end of the preceding quarter
+
+Annual FY2025
+
+•Revenue of $4.7 billion vs. $4.3 billion last year
+
+•EPS from continuing operations of $1.27 vs. negative $1.02 last year
+
+•Adjusted EPS of $1.21 vs. $0.87 last year
+
+•Operating income of $729.2 million vs. operating loss of $185.4 million last year
+
+•Adjusted segment operating income of $732.0 million vs. $549.7 million last year
+
+•Free cash flow of a record $813.9 million for 211% cash conversion(1)
+
+•Adjusted order intake of $7.7 billion for $20.1 billion adjusted backlog(1) and 1.64x book-to-sales ratio
+
+Montreal, Canada, May 13, 2025 - (NYSE: CAE; TSX: CAE) - CAE Inc. (CAE or the Company) today reported its financial results for the fourth quarter ended March 31, 2025.
+
+Strong performance driven by disciplined execution and efficient capital management
+
+“We delivered an exceptional fourth quarter, capping a strong year across all key financial and operational metrics,” said Marc Parent, CAE’s President and Chief Executive Officer. “Disciplined execution and efficient capital management drove $289.4 million in free cash flow for the quarter and a record $813.9 million for the year, reflecting a robust cash conversion rate of 211 percent. This performance allowed us to meet our year-end leverage target, further strengthening our balance sheet. We also continued to build momentum for long-term growth and profitability, securing $1.3 billion in adjusted order intake for the quarter and closing with an adjusted backlog of $20.1 billion, up 65% from last year.”
+
+Executing strategy with focus and operational rigour
+
+On CAE’s segmented performance, Mr. Parent added, “I’m extremely proud of what the team has accomplished by executing CAE’s strategy with strong focus and operational rigour. We accelerated our path to greater profitability in Defense, delivering an adjusted segment operating income margin of 9.2 percent in the quarter and 7.5 percent for the full year, driven by solid program execution and a near-doubling of the adjusted Defense backlog to $11.3 billion. In Civil, despite the headwind of constrained aircraft availability and drop in U.S. pilot hiring, we delivered strong results, demonstrating the resilience of our business model and the strength of our global franchise. Civil achieved a record adjusted segment margin of 28.6 percent in the fourth quarter and 21.5 percent for the year, with annual adjusted segment operating income growing to $581.5 million. Civil adjusted backlog grew nearly 40 percent to a record $8.8 billion, supported by $3.7 billion in adjusted order intake, including 56 full-flight simulators.”
+
+Poised for continued growth, margin expansion and strong free cash flow
+
+“We expect continued growth in fiscal 2026, supported by higher margins and strong free cash flow. With CAE’s highly cash-generative business and the completion of a significant multiyear investment cycle, we are well positioned to further deleverage the balance sheet and enhance our financial flexibility,” said Mr. Parent. “In Civil, our outlook reflects a position of strength, even as we take a measured view of first-half performance amid macroeconomic dynamics. In Defense, CAE is well-positioned for long-term growth and profitability. A sustained up-cycle in defence spending across NATO and allied nations is driving increased demand for CAE’s advanced training and simulation solutions. In Canada, where we are the country’s largest public defence contractor, we
+
+[p. 2]
+were recently named a strategic partner by the Government of Canada to design and co-develop the Royal Canadian Air Force’s Future Fighter Lead-in Training program, a critical initiative to prepare pilots for next-generation fighter operations.”
+
+Structural resilience and secular tailwinds across Civil and Defense
+
+“CAE’s business model remains inherently resilient, supported by structural strengths across its Civil and Defense segments,” added Mr. Parent. “In Civil, resiliency is driven by a high proportion of recurring revenue within the highly regulated aviation training market, which mandates both initial and recurrent training for active and new pilots. The segment continues to benefit from long-term secular growth factors, including rising global passenger traffic, mandatory pilot retirements, and the need to train over 280,000 new pilots over the next decade. These dynamics have historically supported Civil’s relative stability through economic cycles and market disruptions. Defense further contributes to the Company’s overall resiliency by providing exposure outside the commercial cycle. The segment is well-positioned for secular growth, supported by increasing defence budgets across NATO and allied nations. Together, these factors reinforce the strength and durability of CAE’s business model and underpin our confidence in the Company’s long-term growth prospects, notwithstanding current macroeconomic dynamics.”
+
+Consolidated results
+
+Fourth quarter fiscal 2025 revenue was $1,275.4 million, compared to $1,126.3 million last year. Fourth quarter EPS from continuing operations was $0.42 compared to negative $1.58 last year. Adjusted EPS was $0.47 compared to $0.12 last year. Operating income this quarter was $239.9 million (18.8% of revenue(1)), compared to an operating loss of $533.0 million last year, which included an impairment of goodwill of $568.0 million and an impairment of technology and other non-financial assets of $35.7 million. Fourth quarter adjusted segment operating income was $258.8 million (20.3% of revenue(1)) compared to $125.7 million (11.2% of revenue) last year.
+
+Annual fiscal 2025 revenue was $4.7 billion, compared to $4.3 billion last year. Annual EPS from continuing operations was $1.27 compared to negative $1.02 in fiscal 2024. Annual adjusted EPS was $1.21 this year compared to $0.87 last year. Annual operating income was $729.2 million (15.5% of revenue), compared to an operating loss of $185.4 million last year. Adjusted segment operating income was $732.0 million (15.5% of revenue) compared to $549.7 million (12.8% of revenue) last year. All financial information is in Canadian dollars and results are presented on a continuing operations basis, unless otherwise indicated.
+
+Summary of consolidated results
+
+(amounts in millions, except per share amounts) | FY2025 | FY2024 | Variance % | Q4-2025 | Q4-2024 | Variance %
+Revenue | $4,707.9 | 4,282.8 | 10% | 1,275.4 | 1,126.3 | 13%
+Operating income (loss) | $729.2 | (185.4) | 239.9 | (533.0)
+Adjusted segment operating income(1) | $732.0 | 549.7 | 33% | 258.8 | 125.7 | 106%
+As a % of revenue(1)% | 15.5 | 12.8 | 20.3 | 11.2
+Net income (loss) attributable to equity
+holders of the Company | $405.3 | (325.3) | 135.9 | (504.7)
+Earnings (loss) per share (EPS) | $1.27 | (1.02) | 0.42 | (1.58)
+Adjusted EPS(1) | $1.21 | 0.87 | 39% | 0.47 | 0.12 | 292%
+Adjusted order intake(1) | $7,703.5 | 4,937.4 | 56% | 1,337.5 | 1,550.5 | (14%)
+Adjusted backlog(1) | $20,142.2 | 12,183.9 | 65% | 20,142.2 | 12,183.9 | 65%
+
+(1) This press release includes non-IFRS financial measures, non-IFRS ratios, capital management measures and supplementary financial measures. These measures are not standardized financial measures prescribed under IFRS and therefore should not be confused with, or used as an alternative for, performance measures calculated according to IFRS. Furthermore, these measures should not be compared with similarly titled measures provided or used by other issuers. Refer to the Non-IFRS and other financial measures section of this press release for the definitions and a reconciliation of these measures to the most directly comparable measure under IFRS.
+
+[p. 3]
+Civil Aviation (Civil)
+
+Fourth quarter Civil revenue was $728.4 million, up 4% compared to the same quarter last year. Operating income was $197.4 million (27.1% of revenue) compared to $147.0 million (21.0% of revenue) in the fourth quarter last year. Fourth quarter Civil adjusted segment operating income was $208.4 million (28.6% of revenue), compared to $191.4 million (27.3% of revenue) in the fourth quarter last year. In the fourth quarter, Civil training centre utilization was 75% and 15 full-flight simulators (FFSs) were delivered to customers.
+
+Annual Civil revenue was $2,709.3 million, up 11% compared to last year. Annual operating income was $605.3 million (22.3% of revenue) compared to $442.0 million (18.1% of revenue) last year, and annual adjusted segment operating income was $581.5 million (21.5% of revenue) compared to $548.9 million (22.5% of revenue) last year. For the year, Civil training centre utilization was 74% and 61 FFSs were delivered to customers.
+
+During the quarter, Civil signed training and operational support solutions contracts valued at $741.8 million. These included the sale of 14 FFSs and long-term training and digital flight services contracts.
+
+For the year, Civil booked orders for a record $3.7 billion, underscoring CAE’s position as the partner of choice for airlines, business jet operators, aircraft OEMs and pilots worldwide. These included 56 FFS sales (vs. 64 in the prior fiscal year) and comprehensive, long-term training agreements with customers worldwide.
+
+The Civil book-to-sales ratio was 1.02x for the quarter and 1.37x for the last 12 months. The Civil adjusted backlog at the end of the year was a record $8.8 billion, which is up 37% from the prior year period.
+
+Summary of Civil Aviation results
+
+(amounts in millions) | FY2025 | FY2024 | Variance % | Q4-2025 | Q4-2024 | Variance %
+Revenue | $2,709.3 | 2,435.8 | 11% | 728.4 | 700.8 | 4%
+Operating income | $605.3 | 442.0 | 37% | 197.4 | 147.0 | 34%
+Adjusted segment operating income | $581.5 | 548.9 | 6% | 208.4 | 191.4 | 9%
+As a % of revenue% | 21.5 | 22.5 | 28.6 | 27.3
+Adjusted order intake | $3,717.4 | 3,025.5 | 23% | 741.8 | 832.1 | (11%)
+Adjusted backlog | $8,846.6 | 6,440.4 | 37% | 8,846.6 | 6,440.4 | 37%
+Supplementary non-financial information
+Simulator equivalent unit | 286 | 272 | 5% | 298 | 279 | 7%
+FFSs in CAE's network | 363 | 343 | 6% | 363 | 343 | 6%
+FFS deliveries | 61 | 47 | 30% | 15 | 17 | (12%)
+Utilization rate% | 74 | 76 | 75 | 78
+
+Defense and Security (Defense)
+
+Fourth quarter Defense revenue was $547.0 million, up 29% compared to the same quarter last year. Operating income was $42.5 million (7.8% of revenue), compared to an operating loss of $680.0 million in the fourth quarter last year. Fourth quarter Defense adjusted segment operating income was $50.4 million (9.2% of revenue), compared to an adjusted segment operating loss of $65.7 million in the fourth quarter last year.
+
+Annual Defense revenue was $1,998.6 million, 8% higher compared to last year. Annual operating income was $123.9 million (6.2% of revenue) compared to an operating loss of $627.4 million last year, and annual adjusted segment operating income was $150.5 million (7.5% of revenue), compared to $0.8 million last year.
+
+During the quarter, Defense booked orders for $595.7 million, bringing the full-year total to a record $4.0 billion.
+
+The Defense book-to-sales ratio was 1.09x for the quarter and 1.99x for the last 12 months. The Defense adjusted backlog at the end of the year was $11.3 billion. In addition, the Defense pipeline remained robust with some $7.0 billion of bids and proposals pending customer decisions.
+
+[p. 4]
+CAE was also ranked as Canada’s top defence company by Canadian Defence Review magazine, marking the third time that CAE has received this honour. This recognition highlights CAE’s commitment to advancing global defence capabilities through cutting-edge training solutions, ensuring it remains a trusted ally in the pursuit of security and operational readiness.
+
+Summary of Defense and Security results
+
+(amounts in millions) | FY2025 | FY2024 | Variance % | Q4-2025 | Q4-2024 | Variance %
+Revenue | $1,998.6 | 1,847.0 | 8% | 547.0 | 425.5 | 29%
+Operating (loss) income | $123.9 | (627.4) | 42.5 | (680.0)
+Adjusted segment operating income (loss) | $150.5 | 0.8 | 18,713% | 50.4 | (65.7)
+As a % of revenue% | 7.5 | — | 9.2 | —
+Adjusted order intake | $3,986.1 | 1,911.9 | 108% | 595.7 | 718.4 | (17%)
+Adjusted backlog | $11,295.6 | 5,743.5 | 97% | 11,295.6 | 5,743.5 | 97%
+
+Additional financial highlights
+
+Net finance expense this quarter amounted to $56.5 million, compared to $56.6 million in the preceding quarter and $52.4 million in the fourth quarter last year. The increase was mainly due to higher finance expense on lease liabilities in support of training network expansions and additional finance expense on borrowings to finance the SIMCOM transaction last quarter. The increase was partially offset by lower finance expense on long-term debt due to a decreased level of borrowings during the period aligned with CAE's ongoing deleveraging objectives.
+
+Income tax expense this quarter was $45.2 million, representing an effective tax rate of 25%, compared to an effective tax rate of 14% in the fourth quarter last year. The adjusted effective tax rate(1), which is the income tax rate used to determine adjusted net income and adjusted EPS, was 25% this quarter compared to 47% in the fourth quarter of last year. The decrease in the adjusted effective tax rate was mainly attributable to last year's derecognition of tax assets previously recorded in Europe and the change in the mix of income from various jurisdictions.
+
+Net cash provided by operating activities was $322.7 million for the quarter compared to $215.2 million in the fourth quarter last year. Free cash flow was $289.4 million for the quarter compared to $191.1 million in the fourth quarter last year. For the year, net cash provided by operating activities was $896.5 million compared to $566.9 million last year and free cash flow was $813.9 million, compared to $418.2 million in the same period last year. The cash conversion rate(1) for fiscal year 2025 was 211%.
+
+Growth and maintenance capital expenditures(1) totaled $109.0 million this quarter and $356.2 million for the year.
+
+Net debt(1) at the end of the year was $3,176.7 million for a net debt-to-adjusted EBITDA(1) of 2.77 times. This compares to net debt of $3,352.9 million, for a net debt-to-adjusted EBITDA of 3.36 times at the end of the preceding quarter.
+
+Adjusted return on capital employed (ROCE)(1) was 7.2% this quarter compared to 5.7% last quarter and 5.9% in the fourth quarter last year.
+
+During the quarter, no common shares were repurchased under our normal course issuer bid (NCIB), which began on May 30, 2024.
+
+(1) This press release includes non-IFRS financial measures, non-IFRS ratios, capital management measures and supplementary financial measures. These measures are not standardized financial measures prescribed under IFRS and therefore should not be confused with, or used as an alternative for, performance measures calculated according to IFRS. Furthermore, these measures should not be compared with similarly titled measures provided or used by other issuers. Refer to the Non-IFRS and other financial measures section of this press release for the definitions and a reconciliation of these measures to the most directly comparable measure under IFRS.
+
+[p. 5]
+Sustainability
+
+In the fourth quarter of fiscal 2025, CAE received an award from Sustainalytics for top sustainability practices. CAE's S&P Global sustainability score increased, and the company was again the only aerospace and defence sector (A&D) firm in S&P's Sustainability Yearbook, highlighting our mature sustainable business practices. CAE's EcoVadis score also improved, earning an award for best supplier engagement in the A&D sector. These achievements show CAE's commitment to responsible operations and long-term value creation. Additionally, CAE made strides on its Canadian Defense reconciliation journey by hosting a meeting with its Indigenous Advisory Board, emphasizing positive relationships with Indigenous communities and economic reconciliation. To learn more about CAE’s corporate sustainability roadmap and achievements, the report can be downloaded at https://www.cae.com/social-responsibility/.
+
+Management outlook for fiscal year 2026
+
+Civil
+
+With a record $8.8 billion adjusted Civil backlog, the outlook for civil aviation training solutions remains highly compelling, supported by strong and durable fundamentals in a secular growth market. Chief among these is the global regulatory requirement that pilots and crew maintain certification for each aircraft type in the active commercial and business jet fleet. Regulations worldwide consistently mandate recurrent training—typically every six months—for pilots to retain their certifications. This built-in regulatory cadence helps make CAE’s Civil business inherently less cyclical, providing a stable and recurring demand base. Additional growth is driven by the ongoing need to train new pilots, fueled by both fleet expansion and retirements, as well as transition training for existing pilots moving between aircraft platforms. While supply constraints from aircraft OEMs have continued to weigh on airline pilot hiring and related training activity, this portion of demand is poised to strengthen over the long-term as aircraft production and delivery rates improve. Airlines and business aircraft operators have adopted a more cautious tone in light of recent macroeconomic dynamics. Notwithstanding the impacts of tariffs, the broader geopolitical environment, and related economic pressures on CAE's aviation customers, the Company expects Civil’s adjusted segment operating income (aSOI) to grow in the mid- to high-single-digit percentage range in fiscal 2026, along with modest expansion in annual aSOI margin. This outlook reflects the inherent resilience of Civil’s business model and incorporates a measured view of performance in the first half of the fiscal year. The expected weighting of Civil's performance to the second half remains consistent with prior fiscal years.
+
+Defense
+
+Management believes CAE is well-positioned for long-term growth and enhanced profitability in Defense, backed by an $11.3 billion adjusted backlog and a prolonged up-cycle driven by increased budgets across NATO and allied nations. Escalating geopolitical tensions—focusing militaries on peer threats, modernization, and readiness—are fueling robust demand for CAE’s training and simulation solutions. A global shortage of uniformed personnel further amplifies this demand prompting armed forces to partner with CAE to sustain operational readiness. With the Defense foundation now solidified, evidenced by significant margin improvement driven by last fiscal year’s high-cadence, high-quality execution, management expects low-double-digit percentage annual aSOI growth and an annual aSOI margin in the 8% to 8.5% range in fiscal 2026.
+
+Free cash flow
+
+CAE’s business is highly cash-generative and with the completion of a significant multiyear investment cycle, Management anticipates strong free cash flow in fiscal 2026, driven by robust operating cash flows, lower investments including CAPEX, and further optimization of non-cash working capital. This performance is expected to translate into a conversion rate of approximately 150% of adjusted net income attributable to the Company’s equity holders for this fiscal year—and beyond.
+
+Finance expense and tax expense
+
+Management expects quarterly run-rate finance expense of approximately $55 million on higher lease expense related to recently opened training centres in its global training network in support of growth and additional finance expense on borrowings to finance the SIMCOM transaction. The annual effective income tax rate is expected to be approximately 25%, considering the income expected from various jurisdictions and the implementation of global minimum tax policies.
+
+Balanced capital allocation priorities, accretive growth investments
+
+The Company expects total CAPEX in fiscal 2026 to be modestly lower than fiscal 2025, which totaled $356.2 million. Most of this relates to organic growth investments in simulator capacity to be deployed to CAE’s global network of aviation training centres and backed by multiyear customer contracts.
+
+[p. 6]
+Solid financial position
+
+A tenet of CAE’s capital management priorities includes the maintenance of a solid financial position, and it expects to continue to bolster its balance sheet through ongoing deleveraging, commensurate with its investment grade profile. Having met its fiscal 2025 leverage target, CAE now expects to reach a net debt-to-adjusted EBITDA ratio of two-and-a-half times (2.5x) by fiscal year-end.
+
+Current returns to shareholders
+
+A NCIB was established in fiscal 2025 as part of CAE's capital management strategy and is intended to be used opportunistically over time with excess free cash flow.
+
+Trade tariffs impact
+
+CAE remains relatively well insulated from direct tariff impacts. Approximately 70% of the Company’s revenues come from services delivered within our customers' own countries, which significantly limits exposure to cross-border trade tariffs—particularly for products sold into the United States. Furthermore, CAE’s flagship product, the FFS, is exempt from tariffs under the United States-Mexico-Canada Agreement (USMCA). With approximately one-third of CAE’s workforce based in the U.S., a substantial operational footprint, and a significant proportion of U.S.-sourced components in its bill of materials, CAE has the operational flexibility to effectively manage residual tariff-related risk.
+
+Management’s outlook for fiscal year 2026 and the above targets and expectations constitute forward-looking statements within the meaning of applicable securities laws, and are based on a number of assumptions, including in relation to prevailing market conditions, macroeconomic and geopolitical factors, supply chains and labour markets. Expectations are also subject to a number of risks and uncertainties and based on assumptions about customer receptivity to CAE’s training solutions and operational support solutions as well as material assumptions contained in this press release and in CAE’s fiscal 2025 MD&A, all available on our website (www.cae.com), SEDAR+ (www.SEDARplus.ca) and EDGAR (www.sec.gov). Please see the sections below entitled: “Caution concerning forward-looking statements”, “Material assumptions” and “Material risks”.
+
+Detailed information
+
+Readers are strongly advised to view a more detailed discussion of our results by segment in the MD&A and CAE’s consolidated financial statements for the year ended March 31, 2025, which are available on our website (www.cae.com), SEDAR+ (www.SEDARplus.ca) and EDGAR (www.sec.gov). Holders of CAE’s securities may also request a printed copy of the Company's consolidated financial statements and MD&A free of charge by contacting Investor Relations (investor.relations@cae.com).
+
+Conference call Q4 and full FY2025
+
+Marc Parent, CAE President and CEO; Nick Leontidis, COO; Constantino Malatesta, interim CFO; and Andrew Arnovitz, Senior Vice President, Investor Relations and Enterprise Risk Management, will conduct an earnings conference call tomorrow at 8:00 a.m. ET. The call is intended for analysts and institutional investors. Participants can listen to the conference by dialing + 1 833 821 3259 or + 1 647 846 2590. The conference call will also be audio webcast live at www.cae.com.
+
+At CAE, we exist to make the world safer. We deliver cutting-edge training, simulation, and critical operations solutions to prepare aviation professionals and defence forces for the moments that matter. Every day, we empower pilots, cabin crew, maintenance technicians, airlines, business aviation operators, and defence and security personnel to perform at their best and when the stakes are the highest. Around the globe, we’re everywhere customers need us to be with approximately 13,000 employees at around 240 sites and training locations in over 40 countries. For nearly 80 years, CAE has been at the forefront of innovation, consistently seeking to set the standard by delivering excellence in high-fidelity flight simulators and training solutions, while embedding sustainability at the heart of everything we do. By harnessing technology and enhancing human performance, we strive to be the trusted partner in advancing safety and mission readiness—today and tomorrow.
+
+[p. 7]
+Caution concerning limitations of summary earnings press release
+
+This summary earnings press release contains limited information meant to assist the reader in assessing CAE’s performance, but it is not a suitable source of information for readers who are unfamiliar with CAE and is not in any way a substitute for the Company’s financial statements, notes to the financial statements, and MD&A reports.
+
+Caution concerning forward-looking statements
+
+This press release includes forward-looking statements about our activities, events and developments that we expect to or anticipate may occur in the future including, for example, statements about our vision, strategies, market trends and outlook, future revenues, earnings, cash flow growth, profit trends, growth capital spending, expansions and new initiatives, including initiatives that pertain to sustainability matters, financial obligations, available liquidities, expected sales, general economic and political outlook, inflation trends, prospects and trends of an industry, expected annual recurring cost savings from operational excellence programs, our management of the supply chain, estimated addressable markets, demands for CAE’s products and services, our access to capital resources, our financial position, the expected accretion in various financial metrics, the expected capital returns to shareholders, our business outlook, business opportunities, objectives, development, plans, growth strategies and other strategic priorities, our competitive and leadership position in our markets, the expansion of our market shares, CAE's ability and preparedness to respond to demand for new technologies, the sustainability of our operations, our ability to retire the Legacy Contracts as expected and to manage and mitigate the risks associated therewith, the impact of the retirement of the Legacy Contracts, and other statements that are not historical facts.
+
+Since forward-looking statements and information relate to future events or future performance and reflect current expectations or beliefs regarding future events, they are typically identified by words such as “anticipate”, “believe”, “could”, “estimate”, “expect”, “intend”, “likely”, “may”, “plan”, “seek”, “should”, “will”, “strategy”, “future” or the negative thereof or other variations thereon suggesting future outcomes or statements regarding an outlook. All such statements constitute "forward-looking statements" within the meaning of applicable Canadian securities legislation and “forward-looking statements” within the meaning of the “safe harbor” provisions of the United States Private Securities Litigation Reform Act of 1995.
+
+By their nature, forward-looking statements require us to make assumptions and are subject to inherent risks and uncertainties associated with our business which may cause actual results in future periods to differ materially from results indicated in forward-looking statements. While these statements are based on management’s expectations and assumptions regarding historical trends, current conditions and expected future developments, as well as other factors that we believe are reasonable and appropriate in the circumstances, readers are cautioned not to place undue reliance on these forward-looking statements as there is a risk that they may not be accurate. The forward-looking statements contained in this press release describe our expectations as of May 13, 2025 and, accordingly, are subject to change after such date. Except as required by law, we disclaim any intention or obligation to update or revise any forward-looking statements whether as a result of new information, future events or otherwise. The forward-looking information and statements contained in this press release are expressly qualified by this cautionary statement. In addition, statements that “we believe” and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based on information available to us as of the date of this press release. While we believe that information provides a reasonable basis for these statements, that information may be limited or incomplete. Our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all relevant information. These statements are inherently uncertain, and investors are cautioned not to unduly rely on these statements. Except as otherwise indicated by CAE, forward-looking statements do not reflect the potential impact of any special items or of any dispositions, monetizations, mergers, acquisitions, other business combinations or other transactions that may occur after May 13, 2025.The financial impact of these transactions and special items can be complex and depends on the facts particular to each of them. We therefore cannot describe the expected impact in a meaningful way or in the same way we present known risks affecting our business. Forward-looking statements are presented in this press release for the purpose of assisting investors and others in understanding certain key elements of our expected fiscal 2026 financial results and in obtaining a better understanding of our anticipated operating environment. Readers are cautioned that such information may not be appropriate for other purposes.
+
+[p. 8]
+Material assumptions
+
+The forward-looking statements set out in this press release are based on certain assumptions including, without limitation: the prevailing market conditions, geopolitical instability including the rapidly evolving trade and tariff environment, the customer receptivity to our training and operational support solutions, the accuracy of our estimates of addressable markets and market opportunity, the realization of anticipated annual recurring cost savings and other intended benefits from restructuring initiatives and operational excellence programs, the ability to respond to anticipated inflationary pressures and our ability to pass along rising costs through increased prices, the actual impact to supply, production levels, and costs from global supply chain logistics challenges, the stability of foreign exchange rates, the ability to hedge exposures to fluctuations in interest rates and foreign exchange rates, the availability of borrowings to be drawn down under, and the utilization, of one or more of our senior credit agreements, our available liquidity from cash and cash equivalents, undrawn amounts on our revolving credit facility, the balance available under our receivable purchase facility, the assumption that our cash flows from operations and continued access to debt funding will be sufficient to meet financial requirements in the foreseeable future, access to expected capital resources within anticipated timeframes, no material financial, operational or competitive consequences from changes in regulations affecting our business, our ability to retain and attract new business, our ability to effectively execute and retire the remaining Legacy Contracts while managing the risks associated therewith, our ability to defend our position in the dispute with the buyer of the CAE Healthcare business, and the realization of the expected strategic, financial and other benefits of the increase of our ownership stake in SIMCOM Aviation Training in the timeframe anticipated. Air travel is a major driver for CAE's business and management relies on analysis from the International Air Transport Association (IATA) to inform its assumptions about the rate and profile of growth in its key civil aviation market. Accordingly, the assumptions outlined in this press release and, consequently, the forward‑looking statements based on such assumptions, may turn out to be inaccurate. For additional information, including with respect to other assumptions underlying the forward-looking statements made in this press release, refer to the applicable reportable segment in CAE’s MD&A for the year ended March 31, 2025 available on our website (www.cae.com), SEDAR+ (www.SEDARplus.ca) and EDGAR (www.sec.gov).
+
+Material risks
+
+Important risks that could cause actual results or events to differ materially from those expressed in or implied by our forward-looking statements are set out in CAE’s MD&A for the fiscal year ended March 31, 2025, available on our website (www.cae.com), SEDAR+ (www.SEDARplus.ca) and EDGAR (www.sec.gov). Readers are cautioned that any of the disclosed risks could have a material adverse effect on our forward-looking statements. We caution that the disclosed list of risk factors is not exhaustive and other factors could also adversely affect our results.
+
+Non-IFRS and other financial measure definitions
+
+This press release includes non-IFRS financial measures, non-IFRS ratios, capital management measures and supplementary financial measures. These measures are not standardized financial measures prescribed under IFRS and therefore should not be confused with, or used as an alternative for, performance measures calculated according to IFRS. Furthermore, these measures should not be compared with similarly titled measures provided or used by other issuers. Management believes that these measures provide additional insight into our operating performance and trends and facilitate comparisons across reporting periods.
+
+Certain non-IFRS and other financial measures are provided on a consolidated basis and separately for each of our segments (Civil Aviation and Defense and Security) since we analyze their results and performance separately.
+
+Reconciliations and calculations of non-IFRS measures to the most directly comparable measures under IFRS are also set forth below in the section Reconciliations and Calculations of this press release.
+
+Performance measures
+
+Gross profit margin (or gross profit as a % of revenue)
+
+Gross profit margin is a supplementary financial measure calculated by dividing our gross profit by revenue for a given period. We track it because we believe it provides an enhanced understanding of our operating performance and facilitates the comparison across reporting periods.
+
+[p. 9]
+Operating income margin (or operating income as a % of revenue)
+
+Operating income margin is a supplementary financial measure calculated by dividing our operating income by revenue for a given period. We track it because we believe it provides an enhanced understanding of our operating performance and facilitates the comparison across reporting periods.
+
+Adjusted segment operating income or loss
+
+Adjusted segment operating income or loss is a non-IFRS financial measure that gives us an indication of the profitability of each segment because it does not include the impact of any items not specifically related to the segment’s performance. We calculate adjusted segment operating income by taking operating income and adjusting for restructuring, integration and acquisition costs, and impairments and other gains and losses arising from significant strategic transactions or specific events. Impairments and other gains and losses arising from significant strategic transactions or specific events consist of the gain on fair value remeasurement of SIMCOM (as described in Note 7 of our consolidated financial statements for the year ended March 31, 2025), the shareholder matters (as described in Section 5.5 of the MD&A for the year ended March 31, 2025), the executive management transition costs (as described in Section 5.6 of the MD&A for the year ended March 31, 2025), the impairment of goodwill (as described in Note 14 of our consolidated financial statements for the year ended March 31, 2024), the impairment of technology and other non-financial assets (as described in Note 5 of our consolidated financial statements for the year ended March 31, 2024) and the impairment reversal of non-financial assets following their repurposing and optimization (as described in Note 5 of our consolidated financial statements for the year ended March 31, 2023). We track adjusted segment operating income because we believe it provides an enhanced understanding of our operating performance and facilitates the comparison across reporting periods. Adjusted segment operating income on a consolidated basis is a total of segments measure since it is the profitability measure employed by management for making decisions about allocating resources to segments and assessing segment performance.
+
+Adjusted segment operating income margin (or adjusted segment operating income as a % of revenue)
+
+Adjusted segment operating income margin is a non-IFRS ratio calculated by dividing our adjusted segment operating income by revenue for a given period. We track it because we believe it provides an enhanced understanding of our operating performance and facilitates the comparison across reporting periods.
+
+Adjusted effective tax rate
+
+Adjusted effective tax rate is a supplementary financial measure that represents the effective tax rate on adjusted net income or loss. It is calculated by dividing our income tax expense by our earnings before income taxes, adjusting for the same items used to determine adjusted net income or loss. We track it because we believe it provides an enhanced understanding of the impact of changes in income tax rates and the mix of income on our operating performance and facilitates the comparison across reporting periods.
+
+Adjusted net income or loss
+
+Adjusted net income or loss is a non-IFRS financial measure we use as an alternate view of our operating results. We calculate it by taking our net income attributable to equity holders of the Company from continuing operations and adjusting for restructuring, integration and acquisition costs, and impairments and other gains and losses arising from significant strategic transactions or specific events, after tax, as well as significant one-time tax items. Impairments and other gains and losses arising from significant strategic transactions or specific events consist of the gain on fair value remeasurement of SIMCOM (as described in Note 7 of our consolidated financial statements for the year ended March 31, 2025), the shareholder matters (as described in Section 5.5 of the MD&A for the year ended March 31, 2025), the executive management transition costs (as described in Section 5.6 of the MD&A for the year ended March 31, 2025) the impairment of goodwill (as described in Note 14 of our consolidated financial statements for the year ended March 31, 2024), the impairment of technology and other non-financial assets (as described in Note 5 of our consolidated financial statements for the year ended March 31, 2024) and the impairment reversal of non-financial assets following their repurposing and optimization (as described in Note 5 of our consolidated financial statements for the year ended March 31, 2023). We track adjusted net income because we believe it provides an enhanced understanding of our operating performance and facilitates the comparison across reporting periods.
+
+Adjusted earnings or loss per share (EPS)
+
+Adjusted earnings or loss per share is a non-IFRS ratio calculated by dividing adjusted net income or loss by the weighted average number of diluted shares. We track it because we believe it provides an enhanced understanding of our operating performance on a per share basis and facilitates the comparison across reporting periods.
+
+EBITDA and Adjusted EBITDA
+
+EBITDA is a non-IFRS financial measure which comprises net income or loss from continuing operations before income taxes, finance expense – net, depreciation and amortization. Adjusted EBITDA further adjusts for restructuring, integration and acquisition costs, and impairments and other gains and losses arising from significant strategic transactions or specific events. Impairments and other gains and losses arising from significant strategic transactions or specific events consist of the gain on fair value remeasurement of SIMCOM (as described in Note 7 of our consolidated financial statements for the year ended March 31, 2025), the shareholder matters (as described in Section 5.5 of the MD&A for the year ended March 31, 2025), the executive management transition costs (as described in Section 5.6 of the MD&A for the year ended March 31, 2025), the
+
+[p. 10]
+impairment of goodwill (as described in Note 14 of our consolidated financial statements for the year ended March 31, 2024) and the impairment of technology and other non-financial assets (as described in Note 5 of our consolidated financial statements for the year ended March 31, 2024), the impairment reversal of non-financial assets following their repurposing and optimization (as described in Note 5 of our consolidated financial statements for the year ended March 31, 2023). We use EBITDA and adjusted EBITDA to evaluate our operating performance, by eliminating the impact of non-operational or non-cash items.
+
+Free cash flow
+
+Free cash flow is a non-IFRS financial measure that shows us how much cash we have available to invest in growth opportunities, repay debt and meet ongoing financial obligations. We use it as an indicator of our financial strength and liquidity. We calculate it by taking the net cash generated by our continuing operating activities, subtracting maintenance capital expenditures, intangible assets expenditures excluding capitalized development costs, other investing activities not related to growth and dividends paid and adding proceeds from the disposal of property, plant and equipment, dividends received from equity accounted investees and proceeds, net of payments, from equity accounted investees.
+
+Cash conversion rate
+
+Cash conversion rate is a non-IFRS ratio calculated by dividing free cash flow by adjusted net income. We use it to assess our performance in cash flow generation and as a basis for evaluating our capitalization structure.
+
+Liquidity and Capital Structure measures
+
+Adjusted return on capital employed (ROCE)
+
+Adjusted ROCE is a non-IFRS ratio calculated over a rolling four-quarter period by taking net income attributable to equity holders of the Company from continuing operations adjusting for net finance expense, after tax, restructuring, integration and acquisition costs, and impairments and other gains and losses arising from significant strategic transactions or specific events divided by the average capital employed from continuing operations. Impairments and other gains and losses arising from significant strategic transactions or specific events consist of the gain on fair value remeasurement of SIMCOM (as described in Note 7 of our consolidated financial statements for the year ended March 31, 2025), the shareholder matters (as described in Section 5.5 of the MD&A for the year ended March 31, 2025), the executive management transition costs (as described in Section 5.6 of the MD&A for the year ended March 31, 2025), the impairment of goodwill (as described in Note 14 of our consolidated financial statements for the year ended March 31, 2024), the impairment of technology and other non-financial assets (as described in Note 5 of our consolidated financial statements for the year ended March 31, 2024) and the impairment reversal of non-financial assets following their repurposing and optimization (as described in Note 5 of our consolidated financial statements for the year ended March 31, 2023). We use adjusted ROCE to evaluate the profitability of our invested capital.
+
+Net debt
+
+Net debt is a capital management measure we use to monitor how much debt we have after taking into account cash and cash equivalents. We use it as an indicator of our overall financial position, and calculate it by taking our total long-term debt, including the current portion of long-term debt, and subtracting cash and cash equivalents.
+
+Net debt-to EBITDA and net debt-to-adjusted EBITDA
+
+Net debt-to EBITDA and net debt-to-adjusted EBITDA are non-IFRS ratios calculated as net debt divided by the last twelve months EBITDA (or adjusted EBITDA). We use net debt-to EBITDA and net debt-to-adjusted EBITDA because they reflect our ability to service our debt obligations.
+
+Maintenance and growth capital expenditures
+
+Maintenance capital expenditure is a supplementary financial measure we use to calculate the investment needed to sustain the current level of economic activity. Growth capital expenditure is a supplementary financial measure we use to calculate the investment needed to increase the current level of economic activity. The sum of maintenance capital expenditures and growth capital expenditures represents our total property, plant and equipment expenditures.
+
+Growth measures
+
+Adjusted order intake
+
+Adjusted order intake is a supplementary financial measure that represents the expected value of orders we have received:
+
+–For the Civil Aviation segment, we consider an item part of our adjusted order intake when we have a legally binding commercial agreement with a client that includes enough detail about each party’s obligations to form the basis for a contract. Additionally, expected future revenues from customers under short-term and long-term training contracts are included when these customers commit to pay us training fees, or when we reasonably expect the revenue to be generated;
+
+–For the Defense and Security segment, we consider an item part of our adjusted order intake when we have a legally binding commercial agreement with a client that includes enough detail about each party’s obligations to form the basis for a contract. Defense and Security contracts are usually executed over a long-term period but some of them
+
+[p. 11]
+must be renewed each year. For this segment, we only include a contract item in adjusted order intake when the customer has authorized the contract item and has received funding for it.
+
+Adjusted backlog
+
+Adjusted backlog is a supplementary financial measure that represents expected future revenues and includes obligated backlog, joint venture backlog and unfunded backlog and options:
+
+–Obligated backlog represents the value of our adjusted order intake not yet executed and is calculated by adding the adjusted order intake of the current period to the balance of the obligated backlog at the end of the previous fiscal year, subtracting the revenue recognized in the current period and adding or subtracting backlog adjustments. If the amount of an order already recognized in a previous fiscal year is modified, the backlog is revised through adjustments;
+
+–Joint venture backlog is obligated backlog that represents the expected value of our share of orders that our joint ventures have received but have not yet executed. Joint venture backlog is determined on the same basis as obligated backlog described above, but excludes any portion of orders that have been directly subcontracted to a CAE subsidiary, which are already reflected in the determination of obligated backlog;
+
+–Unfunded backlog represents legally binding Defense and Security orders with the U.S. government that we have received but have not yet executed and for which funding authorization has not yet been obtained. The uncertainty relates to the timing of the funding authorization, which is influenced by the government’s budget cycle, based on a September year-end. Options are included in adjusted backlog when there is a high probability of being exercised, which we define as at least 80% probable, but multi-award indefinite-delivery/indefinite-quantity (ID/IQ) contracts are excluded. When an option is exercised, it is considered adjusted order intake in that period, and it is removed from unfunded backlog and options.
+
+Book-to-sales ratio
+
+The book-to-sales ratio is a supplementary financial measure calculated by dividing adjusted order intake by revenue in a given period. We use it to monitor the level of future growth of the business over time.
+
+Supplementary non-financial information definitions
+
+Full-flight simulators (FFSs) in CAE's network
+
+A FFS is a full-size replica of a specific make, model and series of an aircraft cockpit, including a motion system. In our count of FFSs in the network, we generally only include FFSs that are of the highest fidelity and do not include any fixed based training devices, or other lower-level devices, as these are typically used in addition to FFSs in the same approved training programs.
+
+Simulator equivalent unit (SEU)
+
+SEU is a measure we use to show the total average number of FFSs available to generate earnings during the period. For example, in the case of a 50/50 flight training joint venture, we will report only 50% of the FFSs under this joint venture as a SEU. If a FFS is being powered down and relocated, it will not be included as a SEU until the FFS is re-installed and available to generate earnings.
+
+Utilization rate
+
+Utilization rate is a measure we use to assess the performance of our Civil simulator training network. While utilization rate does not perfectly correlate to revenue recognized, we track it, together with other measures, because we believe it is an indicator of our operating performance. We calculate it by taking the number of training hours sold on our simulators during the period divided by the practical training capacity available for the same period.
+
+[p. 12]
+Reconciliations and Calculations
+
+Reconciliation of adjusted segment operating income
+
+Defense
+(amounts in millions) | Civil Aviation | and Security | Total
+Three months ended March 31 | 2025 | 2024 | 2025 | 2024 | 2025 | 2024
+Operating income (loss) | $197.4 | $147.0 | $42.5 | $(680.0) | $239.9 | $(533.0)
+Restructuring, integration and acquisition costs | — | 44.4 | — | 10.6 | — | 55.0
+Impairments and other gains and losses arising from
+significant strategic transactions or specific events:
+Shareholder matters | 6.3 | — | 4.3 | — | 10.6 | —
+Executive management transition costs | 4.7 | — | 3.6 | — | 8.3 | —
+Impairment of goodwill | — | — | — | 568.0 | — | 568.0
+Impairment of technology and other non-financial assets | — | — | — | 35.7 | — | 35.7
+Adjusted segment operating income (loss) | $208.4 | $191.4 | $50.4 | $(65.7) | $258.8 | $125.7
+
+Defense
+(amounts in millions) | Civil Aviation | and Security | Total
+Years ended March 31 | 2025 | 2024 | 2025 | 2024 | 2025 | 2024
+Operating income (loss) | $605.3 | $442.0 | $123.9 | $(627.4) | $729.2 | $(185.4)
+Restructuring, integration and acquisition costs | 37.8 | 106.9 | 18.7 | 24.5 | 56.5 | 131.4
+Impairments and other gains and losses arising from
+significant strategic transactions or specific events:
+Gain on fair value remeasurement of SIMCOM | (72.6) | — | — | — | (72.6) | —
+Shareholder matters | 6.3 | — | 4.3 | — | 10.6 | —
+Executive management transition costs | 4.7 | — | 3.6 | — | 8.3 | —
+Impairment of goodwill | — | — | — | 568.0 | — | 568.0
+Impairment of technology and other non-financial assets | — | — | — | 35.7 | — | 35.7
+Adjusted segment operating income | $581.5 | $548.9 | $150.5 | $0.8 | $732.0 | $549.7
+
+Reconciliation of adjusted net income and adjusted EPS
+
+Three months ended | Years ended
+March 31 | March 31
+(amounts in millions, except per share amounts) | 2025 | 2024 | 2025 | 2024
+Net income attributable to equity holders of the Company | $135.9 | $(484.2) | $405.3 | $(304.0)
+Net loss (income) from discontinued operations | — | (20.5) | — | (21.3)
+Restructuring, integration and acquisition costs, after tax | — | 42.3 | 43.2 | 101.0
+Impairments and other gains and losses arising from
+significant strategic transactions or specific events:
+Gain on fair value remeasurement of SIMCOM, after tax | — | — | (76.7) | —
+Shareholder matters, after tax | 7.6 | — | 7.6 | —
+Executive management transition costs, after tax | 6.1 | — | 6.1 | —
+Impairment of goodwill, after tax | — | 473.7 | — | 473.7
+Impairment technology and other non-financial assets, after tax | — | 27.4 | — | 27.4
+Adjusted net income | $149.6 | $38.7 | $385.5 | $276.8
+Average number of shares outstanding (diluted) | 321.1 | 318.3 | 319.7 | 318.2
+Adjusted EPS | $0.47 | $0.12 | $1.21 | $0.87
+
+[p. 13]
+Reconciliation of free cash flow
+
+Three months ended | Years ended
+March 31 | March 31
+(amounts in millions) | 2025 | 2024 | 2025 | 2024
+Cash provided by operating activities* | $233.8 | $46.7 | $699.4 | $438.8
+Changes in non-cash working capital | 88.9 | 168.5 | 197.1 | 128.1
+Net cash provided by operating activities | $322.7 | $215.2 | $896.5 | $566.9
+Maintenance capital expenditures | (27.6) | (23.2) | (84.2) | (102.5)
+Intangible assets expenditures excluding capitalized development costs | (3.8) | (7.6) | (20.9) | (33.4)
+Proceeds from the disposal of property, plant and equipment | 16.1 | 0.3 | 19.4 | 4.0
+Net payments to equity accounted investees | (14.0) | (3.4) | (19.0) | (43.9)
+Dividends received from equity accounted investees | — | 6.8 | 28.7 | 37.1
+Other investing activities | (4.0) | (0.8) | (6.6) | (10.2)
+Impact of discontinued operations | — | 3.8 | — | 0.2
+Free cash flow | $289.4 | $191.1 | $813.9 | $418.2
+* before changes in non-cash working capital
+
+Reconciliation of EBITDA, adjusted EBITDA, net debt-to-EBITDA and net debt-to-adjusted EBITDA
+
+Last twelve months ended
+March 31
+(amounts in millions, except net debt-to-EBITDA ratios) | 2025 | 2024
+Operating income (loss) | $729.2 | $(185.4)
+Depreciation and amortization | 414.7 | 368.7
+EBITDA | $1,143.9 | $183.3
+Restructuring, integration and acquisition costs | 56.5 | 131.4
+Impairments and other gains and losses arising from
+significant strategic transactions or specific events:
+Gain on fair value remeasurement of SIMCOM | (72.6) | —
+Shareholder matters | 10.6 | —
+Executive management transition costs | 8.3 | —
+Impairment of goodwill | — | 568.0
+Impairment of technology and other non-financial assets | — | 35.7
+Adjusted EBITDA | $1,146.7 | $918.4
+Net debt | $3,176.7 | $2,914.2
+Net debt-to-EBITDA | 2.78 | 15.90
+Net debt-to-adjusted EBITDA | 2.77 | 3.17
+
+[p. 14]
+Reconciliation of capital employed and net debt
+
+As at March 31 | As at March 31
+(amounts in millions) | 2025 | 2024
+Use of capital:
+Current assets | $2,143.6 | $2,006.5
+Less: cash and cash equivalents | (293.7) | (160.1)
+Current liabilities | (2,686.5) | (2,358.4)
+Less: current portion of long-term debt | 399.0 | 308.9
+Non-cash working capital | $(437.6) | $(203.1)
+Property, plant and equipment | 2,989.5 | 2,515.6
+Intangible assets | 3,871.0 | 3,271.9
+Other long-term assets | 2,209.7 | 2,040.1
+Other long-term liabilities | (479.9) | (407.7)
+Capital employed | $8,152.7 | $7,216.8
+Source of capital:
+Current portion of long-term debt | $399.0 | $308.9
+Long-term debt | 3,071.4 | 2,765.4
+Less: cash and cash equivalents | (293.7) | (160.1)
+Net debt | $3,176.7 | $2,914.2
+Equity attributable to equity holders of the Company | 4,891.5 | 4,224.9
+Non-controlling interests | 84.5 | 77.7
+Capital employed | $8,152.7 | $7,216.8
+
+For non-IFRS and other financial measures monitored by CAE, and a reconciliation of such measures to the most directly comparable measure under IFRS, please refer to Section 13 of CAE’s MD&A for the year ended March 31, 2025 (which is incorporated by reference into this press release) available on our website (www.cae.com), SEDAR+ (www.SEDARplus.ca) and EDGAR (www.sec.gov).
+
+[p. 15]
+Consolidated Income Statement
+
+Years ended March 31
+(amounts in millions of Canadian dollars, except per share amounts) | 2025 | 2024
+Continuing operations
+Revenue | $4,707.9 | $4,282.8
+Cost of sales | 3,407.8 | 3,128.3
+Gross profit | $1,300.1 | $1,154.5
+Research and development expenses | 123.2 | 149.8
+Selling, general and administrative expenses | 565.4 | 535.0
+Other (gains) and losses | (13.3) | 27.9
+Share of after-tax profit of equity accounted investees | (88.3) | (72.2)
+Restructuring, integration and acquisition costs | 56.5 | 131.4
+Impairment of goodwill | — | 568.0
+Gain on remeasurement of previously held equity interest | (72.6) | —
+Operating income (loss) | $729.2 | $(185.4)
+Finance expense – net | 215.5 | 205.0
+Earnings (loss) before income taxes | $513.7 | $(390.4)
+Income tax expense (recovery) | 98.7 | (72.8)
+Net income (loss) from continuing operations | 415.0 | (317.6)
+Net income from discontinued operations | — | 21.3
+Net income (loss) | $415.0 | $(296.3)
+Attributable to:
+Equity holders of the Company | $405.3 | $(304.0)
+Non-controlling interests | 9.7 | 7.7
+Earnings (loss) per share attributable to equity holders of the Company
+Basic and diluted – continuing operations | $1.27 | $(1.02)
+Basic and diluted – discontinued operations | $— | $0.07
+
+[p. 16]
+Consolidated Statement of Comprehensive Income
+
+Years ended March 31
+(amounts in millions of Canadian dollars) | 2025 | 2024
+Net income (loss) from continuing operations | $415.0 | $(317.6)
+Items that may be reclassified to net income (loss)
+Foreign currency exchange differences on translation of foreign operations | $381.9 | $(4.7)
+Net (loss) gain on hedges of net investment in foreign operations | (125.2) | 8.0
+Reclassification to income of gains on foreign currency exchange differences | (10.1) | (1.6)
+Net loss on cash flow hedges | (41.4) | (11.9)
+Reclassification to income of losses on cash flow hedges | 20.6 | 5.0
+Income taxes | 5.9 | (1.0)
+$231.7 | $(6.2)
+Items that will never be reclassified to net income (loss)
+Remeasurement of defined benefit pension plan obligations | $(54.3) | $16.0
+Income taxes | 14.4 | (4.2)
+$(39.9) | $11.8
+Other comprehensive income from continuing operations | $191.8 | $5.6
+Net income from discontinued operations | — | 21.3
+Other comprehensive loss from discontinued operations | — | (7.0)
+Total comprehensive income (loss) | $606.8 | $(297.7)
+Attributable to:
+Equity holders of the Company | $593.2 | $(305.4)
+Non-controlling interests | 13.6 | 7.7
+
+[p. 17]
+Consolidated Statement of Financial Position
+
+As at March 31
+(amounts in millions of Canadian dollars) | 2025 | 2024
+Assets
+Cash and cash equivalents | $293.7 | $160.1
+Accounts receivable | 612.0 | 624.7
+Contract assets | 482.2 | 537.6
+Inventories | 595.0 | 573.6
+Prepayments | 78.2 | 68.0
+Income taxes recoverable | 59.0 | 35.3
+Derivative financial assets | 23.5 | 7.2
+Total current assets | $2,143.6 | $2,006.5
+Property, plant and equipment | 2,989.5 | 2,515.6
+Right-of-use assets | 788.0 | 545.8
+Intangible assets | 3,871.0 | 3,271.9
+Investment in equity accounted investees | 559.1 | 588.8
+Employee benefits assets | 11.6 | 65.7
+Deferred tax assets | 191.8 | 233.3
+Derivative financial assets | 1.4 | 4.2
+Other non-current assets | 657.8 | 602.3
+Total assets | $11,213.8 | $9,834.1
+Liabilities and equity
+Accounts payable and accrued liabilities | $1,190.8 | $1,035.3
+Provisions | 34.5 | 42.6
+Income taxes payable | 18.4 | 31.1
+Contract liabilities | 1,001.6 | 911.7
+Current portion of long-term debt | 399.0 | 308.9
+Derivative financial liabilities | 42.2 | 28.8
+Total current liabilities | $2,686.5 | $2,358.4
+Provisions | 14.3 | 14.0
+Long-term debt | 3,071.4 | 2,765.4
+Employee benefits obligations | 134.1 | 98.7
+Deferred tax liabilities | 40.7 | 36.6
+Derivative financial liabilities | 22.4 | 2.9
+Other non-current liabilities | 268.4 | 255.5
+Total liabilities | $6,237.8 | $5,531.5
+Equity
+Share capital | $2,327.1 | $2,252.9
+Contributed surplus | 69.8 | 55.4
+Accumulated other comprehensive income | 381.8 | 154.0
+Retained earnings | 2,112.8 | 1,762.6
+Equity attributable to equity holders of the Company | $4,891.5 | $4,224.9
+Non-controlling interests | 84.5 | 77.7
+Total equity | $4,976.0 | $4,302.6
+Total liabilities and equity | $11,213.8 | $9,834.1
+
+[p. 18]
+Consolidated Statement of Changes in Equity
+
+Attributable to equity holders of the Company
+Common shares | Accumulated other | Non-
+(amounts in millions of Canadian dollars, | Number of | Stated | Contributed | comprehensive | Retained | controlling | Total
+except number of shares) | shares | value | surplus | income | earnings | Total | interests | equity
+Balances as at March 31, 2023 | 317,906,290 | $2,243.6 | $42.1 | $167.2 | $2,054.8 | $4,507.7 | $81.2 | $4,588.9
+Net (loss) income | — | $— | $— | $— | $(304.0) | $(304.0) | $7.7 | $(296.3)
+Other comprehensive (loss) income | — | — | — | (13.2) | 11.8 | (1.4) | — | (1.4)
+Total comprehensive (loss) income | — | $— | $— | $(13.2) | $(292.2) | $(305.4) | $7.7 | $(297.7)
+Exercise of stock options | 405,943 | 9.3 | (1.5) | — | — | 7.8 | — | 7.8
+Equity-settled share-based payments expense | — | — | 14.8 | — | — | 14.8 | — | 14.8
+Transactions with non-controlling interests | — | — | — | — | — | — | (11.2) | (11.2)
+Balances as at March 31, 2024 | 318,312,233 | $2,252.9 | $55.4 | $154.0 | $1,762.6 | $4,224.9 | $77.7 | $4,302.6
+Net income | — | $— | $— | $— | $405.3 | $405.3 | $9.7 | $415.0
+Other comprehensive income (loss) | — | — | — | 227.8 | (39.9) | 187.9 | 3.9 | 191.8
+Total comprehensive income | — | $— | $— | $227.8 | $365.4 | $593.2 | $13.6 | $606.8
+Exercise of stock options | 2,763,675 | 79.0 | (11.9) | — | — | 67.1 | — | 67.1
+Settlement of equity-settled awards | 45,430 | 1.3 | (1.3) | — | — | — | — | —
+Repurchase and cancellation of common shares | (856,230) | (6.1) | — | — | (15.2) | (21.3) | — | (21.3)
+Equity-settled share-based payments expense, after tax | — | — | 27.6 | — | — | 27.6 | — | 27.6
+Transactions with non-controlling interests | — | — | — | — | — | — | (6.8) | (6.8)
+Balances as at March 31, 2025 | 320,265,108 | $2,327.1 | $69.8 | $381.8 | $2,112.8 | $4,891.5 | $84.5 | $4,976.0
+
+[p. 19]
+Consolidated Statement of Cash Flows
+
+Years ended March 31
+(amounts in millions of Canadian dollars) | 2025 | 2024
+Operating activities
+Net income (loss) | $415.0 | $(296.3)
+Adjustments for:
+Depreciation and amortization | 414.7 | 374.8
+Impairment of goodwill | — | 568.0
+Impairment of non-financial assets – net | 7.1 | 57.3
+Share of after-tax profit of equity accounted investees | (88.3) | (72.2)
+Deferred income taxes | 44.9 | (166.5)
+Investment tax credits | (10.1) | (14.8)
+Equity-settled share-based payments expense | 25.2 | 14.8
+Defined benefit pension plans | 34.6 | 8.3
+Other non-current liabilities | (5.3) | (9.7)
+Derivative financial assets and liabilities – net | (39.8) | (12.7)
+After-tax gain on disposal of discontinued operations | — | (16.5)
+Gain on remeasurement of previously held equity interest | (72.6) | —
+Other | (26.0) | 4.3
+Changes in non-cash working capital | 197.1 | 128.1
+Net cash provided by operating activities | $896.5 | $566.9
+Investing activities
+Business combinations, net of cash acquired | $(308.0) | $—
+Proceeds from disposal of discontinued operations | — | 275.3
+Property, plant and equipment expenditures | (356.2) | (329.8)
+Proceeds from disposal of property, plant and equipment | 19.4 | 4.0
+Intangible assets expenditures | (87.9) | (147.9)
+Net payments to equity accounted investees | (19.0) | (43.9)
+Dividends received from equity accounted investees | 28.7 | 37.1
+Other | (9.3) | (10.2)
+Net cash used in investing activities | $(732.3) | $(215.4)
+Financing activities
+Net repayment of borrowing under revolving credit facilities | $(45.0) | $(396.7)
+Proceeds from long-term debt | 331.5 | 433.5
+Repayment of long-term debt | (321.3) | (370.4)
+Repayment of lease liabilities | (59.9) | (69.5)
+Net proceeds from the issuance of common shares | 67.1 | 7.8
+Repurchase and cancellation of common shares | (21.3) | —
+Other | (0.9) | —
+Net cash used in financing activities | $(49.8) | $(395.3)
+Effect of foreign currency exchange differences on cash and cash equivalents | $19.2 | $(13.7)
+Net increase (decrease) in cash and cash equivalents | $133.6 | $(57.5)
+Cash and cash equivalents, beginning of year | 160.1 | 217.6
+Cash and cash equivalents, end of year | $293.7 | $160.1
+
+[p. 20]
+ABOUT CAE
+
+At CAE, we exist to make the world safer. We deliver cutting-edge training, simulation, and critical operations solutions to prepare aviation professionals and defence forces for the moments that matter. Every day, we empower pilots, cabin crew, maintenance technicians, airlines, business aviation operators, and defence and security personnel to perform at their best and when the stakes are the highest. Around the globe, we’re everywhere customers need us to be with approximately 13,000 employees at around 240 sites and training locations in over 40 countries. For nearly 80 years, CAE has been at the forefront of innovation, consistently seeking to set the standard by delivering excellence in high-fidelity flight simulators and training solutions, while embedding sustainability at the heart of everything we do. By harnessing technology and enhancing human performance, we strive to be the trusted partner in advancing safety and mission readiness—today and tomorrow.
+
+Read our FY24 Global Annual Activity and Sustainability Report (https://www.cae.com).
+
+Contacts
+
+General Media:
+
+Samantha Golinski, Vice President, Public Affairs & Global Communications, +1-438-805-5856, samantha.golinski@cae.com
+
+Investor Relations:
+
+Andrew Arnovitz, Senior Vice President, Investor Relations and Enterprise Risk Management, +1-514-734-5760, andrew.arnovitz@cae.com

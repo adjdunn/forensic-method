@@ -1,0 +1,118 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q3 2012 (three and nine months ended 30 Sep 2012), filed 2012-11-02. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 4: Goodwill and Other Intangible Assets. https://www.sec.gov/Archives/edgar/data/1364479/000144530512003378/hghq32012form10-q.htm
+
+[p. 9]
+
+Note 4—Goodwill and Other Intangible Assets
+
+The following summarizes the changes in our goodwill, by segment (in millions of dollars):
+
+Car Rental | Equipment Rental | Total
+Balance as of January 1, 2012
+Goodwill | $419.3 | $693.8 | $1,113.1
+Accumulated impairment losses | (46.1) | (674.9) | (721.0)
+373.2 | 18.9 | 392.1
+Goodwill acquired during the period | — | 79.4 | 79.4
+Adjustments to previously recorded purchase price allocation | (15.3) | — | (15.3)
+Other changes during the period(1) | (1.0) | (0.5) | (1.5)
+(16.3) | 78.9 | 62.6
+Balance as of September 30, 2012
+Goodwill | 403.0 | 772.7 | 1,175.7
+Accumulated impairment losses | (46.1) | (674.9) | (721.0)
+$356.9 | $97.8 | $454.7
+
+[p. 10]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Car Rental | Equipment Rental | Total
+Balance as of January 1, 2011
+Goodwill | $367.9 | $681.7 | $1,049.6
+Accumulated impairment losses | (46.1) | (674.9) | (721.0)
+321.8 | 6.8 | 328.6
+Goodwill acquired during the year | 53.1 | 12.3 | 65.4
+Adjustments to previously recorded purchase price allocation | (0.9) | (0.1) | (1.0)
+Other changes during the year(1) | (0.8) | (0.1) | (0.9)
+51.4 | 12.1 | 63.5
+Balance as of December 31, 2011
+Goodwill | 419.3 | 693.8 | 1,113.1
+Accumulated impairment losses | (46.1) | (674.9) | (721.0)
+$373.2 | $18.9 | $392.1
+
+_______________________________________________________________________________
+
+(1) | Primarily consists of changes resulting from disposals and the translation of foreign currencies at different exchange rates from the beginning of the period to the end of the period.
+
+Other intangible assets, net, consisted of the following major classes (in millions of dollars):
+
+September 30, 2012
+Gross Carrying Amount | Accumulated Amortization | Net Carrying Value
+Amortizable intangible assets:
+Customer-related | $694.6 | $(416.5) | $278.1
+Other(1) | 81.0 | (35.8) | 45.2
+Total | 775.6 | (452.3) | 323.3
+Indefinite-lived intangible assets:
+Trade name | 2,190.0 | — | 2,190.0
+Other(2) | 18.2 | — | 18.2
+Total | 2,208.2 | — | 2,208.2
+Total other intangible assets, net | $2,983.8 | $(452.3) | $2,531.5
+
+[p. 11]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+December 31, 2011
+Gross Carrying Amount | Accumulated Amortization | Net Carrying Value
+Amortizable intangible assets:
+Customer-related | $672.6 | $(365.5) | $307.1
+Other(1) | 74.7 | (27.8) | 46.9
+Total | 747.3 | (393.3) | 354.0
+Indefinite-lived intangible assets:
+Trade name | 2,190.0 | — | 2,190.0
+Other(2) | 18.2 | — | 18.2
+Total | 2,208.2 | — | 2,208.2
+Total other intangible assets, net | $2,955.5 | $(393.3) | $2,562.2
+
+_______________________________________________________________________________
+
+(1) | Other amortizable intangible assets primarily consist of our Advantage trade name and concession rights, Donlen trade name, reacquired franchise rights, non-compete agreements and technology-related intangibles.
+
+(2) | Other indefinite-lived intangible assets primarily consist of reacquired franchise rights.
+
+Amortization of other intangible assets for the three months ended September 30, 2012 and 2011 was approximately $19.9 million and $17.5 million, respectively, and for the nine months ended September 30, 2012 and 2011 was approximately $58.9 million and $51.2 million, respectively. Based on our amortizable intangible assets as of September 30, 2012, we expect amortization expense to be approximately $18.5 million for the remainder of 2012, $77.2 million in 2013, $72.8 million in 2014, $70.5 million in 2015, $21.7 million in 2016 and $8.7 million in 2017.
+
+On September 1, 2011, Hertz acquired 100% of the equity interest in Donlen, a leading provider of fleet leasing and management services. The amount of revenue and earnings of the combined entity had the acquisition date been January 1, 2010, are as follows (in millions):
+
+Revenue | Earnings
+2011 supplemental pro forma for the third quarter of 2011 (combined entity) | $2,500.8 | $209.3
+2011 supplemental pro forma for the first nine months of 2011 (combined entity) | 6,545.8 | 137.2
+
+2011 supplemental pro forma revenue for the three months ended September 30, 2011 excludes $0.6 million related to deferred revenue which was eliminated as part of acquisition accounting. 2011 supplemental pro forma earnings for the three months ended September 30, 2011 excludes $0.4 million related to deferred income which was eliminated as part of acquisition accounting. 2011 supplemental pro forma revenue for the nine months ended September 30, 2011 excludes $3.2 million related to deferred revenue which was eliminated as part of acquisition accounting. 2011 supplemental pro forma earnings for the nine months ended September 30, 2011 excludes $2.0 million related to deferred income which was eliminated as part of acquisition accounting.
+
+This transaction has been accounted for using the acquisition method of accounting in accordance with GAAP and operating results of Donlen from the date of acquisition are included in our consolidated statements of operations. The allocation of the purchase price to the tangible and intangible net assets acquired is complete.
+
+Advantage Divestiture
+
+On August 26, 2012, Hertz Holdings entered into a Merger Agreement with HDTMS, Inc., a Delaware corporation and an indirect wholly owned subsidiary of Hertz Holdings, and Dollar Thrifty pursuant to which Hertz Holdings has agreed to acquire Dollar Thrifty. The Merger Agreement provides that, with respect to obtaining antitrust approval of the acquisition, Hertz Holdings is required to, among other actions, divest its Advantage Rent A Car, or "Advantage," business, together with certain additional assets and airport concessions, pursuant to a proposed consent agreement currently under discussion between Hertz Holdings and the United States Federal Trade Commission, or the "FTC;" provided, however, that any such divestitures shall be conditioned upon the consummation of the Merger. To that end,
+
+[p. 12]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Hertz Holdings has reached a definitive agreement with Adreca Holdings Corp., a subsidiary of Macquarie Capital which is expected to be operated by Franchise Services of North America Inc., providing for the divestiture of its Advantage business, or the "Advantage Divestiture," selected Dollar Thrifty airport concessions and certain other assets, contingent on a successful acquisition of Dollar Thrifty.
+
+As of September 30, 2012, the Advantage business was classified as held and used as the sale transaction was not probable and was contingent upon acquisition of Dollar Thrifty as of such date. Hertz's agreement to divest its Advantage business, which if consummated would result in a loss, triggered an interim impairment analysis. The assets were evaluated for impairment under a probability-weighted approach for developing estimates of future cash flows used to test a long-lived asset for recoverability. The sum of future undiscounted cash flows of the Advantage business exceeds the carrying value as of September 30, 2012. Accordingly, no impairment has been recognized at September 30, 2012.
+
+Hertz estimates that the occurrence of the Advantage Divestiture would cause Hertz to realize a loss (before income taxes) in the range of approximately $30 million to $35 million. This estimated loss associated with the Advantage Divestiture is preliminary and subject to further adjustments. We can offer no assurance that the Merger Agreement will be consummated.
+
+Other Acquisitions
+
+During the nine months ended September 30, 2012, we added nineteen domestic equipment rental locations through external acquisitions. These acquisitions are not material to the consolidated amounts presented within our statement of operations for the three-month and nine-month periods ended September 30, 2012.

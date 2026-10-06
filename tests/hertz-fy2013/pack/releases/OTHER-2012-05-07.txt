@@ -1,0 +1,683 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 8-K filed 2012-05-07, items 2.02,9.01, accession 0001104659-12-033808. https://www.sec.gov/Archives/edgar/data/1364479/000110465912033808/a12-11292_18k.htm
+
+8-K text of Item 2.02:
+ITEM 2.02 RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+On May 3, 2012, Hertz Global Holdings, Inc. (“Hertz Holdings”) conducted its earnings conference call relating to the three months ended March 31, 2012. The earnings call was made available to the public via conference call and audio webcast and the slides that accompanied the presentation were available to the public at the time of the earnings call and webcast through the website of Hertz Holdings’ subsidiary, The Hertz Corporation. Certain financial information relating to completed fiscal periods that was part of the earnings call is included in the set of slides that accompanied the earnings call, a copy of which is attached hereto as Exhibit 99.1.
+The earnings call included certain non-GAAP financial measures. Reconciliations of these non-GAAP financial measures to the comparable measures calculated and presented in accordance with GAAP are attached hereto as part of Exhibit 99.1. The reasons why management believes that the presentation of the non-GAAP financial measures included in the earnings call provide useful information regarding its financial condition and results of operations, and additional purposes why management utilizes the non-GAAP financial measures, are also attached hereto as part of Exhibit 99.1.
+
+=== EX-99.1 (a12-11292_1ex99d1.htm) https://www.sec.gov/Archives/edgar/data/1364479/000110465912033808/a12-11292_1ex99d1.htm ===
+
+[p. 1]
+Exhibit 99.1
+
+1Q 2012 Earnings Call May 3, 2012 10:00 am ET Dial in: (800) 288-8975 (US) (612) 332-0430 (International) Passcode: 245862 Replay available until March 8: (800) 475-6701; (320) 365-3844 international passcode: 245862
+
+[p. 2]
+Safe Harbor Statement Certain statements made within this presentation contain forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are not guarantees of performance and by their nature are subject to inherent uncertainties. Actual results may differ materially. Any forward-looking information relayed in this presentation speaks only as of May 2, 2012, and the Company undertakes no obligation to update that information to reflect changed circumstances. Additional information concerning these statements is contained in the Company’s press release regarding its First Quarter 2012 results issued on May 2, 2012, and the Risk Factors and Forward-Looking Statements sections of the Company’s 2011 Form 10-K and Quarterly Reports on Form 10-Q. Copies of these filings are available from the SEC, the Hertz web site or the Company’s Investor Relations Department.
+
+[p. 3]
+Definitions and reconciliations of these non-GAAP measures are provided at the end of the presentation. The following non-GAAP measures will be used in the presentation: Non-GAAP Measures EBITDA Corporate EBITDA Adjusted Pre-Tax Income Adjusted Net Income Adjusted Diluted Earnings Per Share (Adjusted EPS) Net Corporate Debt Net Fleet Debt Total Net Debt Adjusted Interest Expense Adjusted Direct Operating Expense Adjusted Selling, General and Administrative Adjusted Depreciation of Revenue Earning Equipment Levered After-Tax Cash-Flow Before Fleet Growth Corporate Cash Flow
+
+[p. 4]
+Q1:12 Drivers Mark Frissora, Chairman and CEO Q1:12 Financial Overview Elyse Douglas, Executive VP and CFO 2012 Outlook & Guidance Mark Frissora, Chairman and CEO Questions & Answers Session Today’s Agenda
+
+[p. 5]
+Opening Comments
+
+[p. 6]
+2012 Off to Strong Start * Definitions and reconciliations of these non-GAAP measures are provided at the end of the presentation. GAAP Q1:12 Results Q1:11 Results YoY Change Revenue $1,960.9 $1,780.0 10.2% Loss before income taxes ($36.8) ($158.9) 76.8% Loss per share ($0.13) ($0.32) 59.4% Shares outstanding 418.1 414.1 1.0% Non-GAAP* Corporate EBITDA $208.0 $166.4 25.0% Adjusted pre-tax income $29.4 ($16.0) 283.8% Adjusted EPS $0.05 ($0.03) 266.7% Highest revenue of any Q1 on record for WW RAC Record Q1 adjusted pre-tax income Total company consolidated WW RAC 11th consecutive quarter with consolidated Corp. EBITDA YoY improvement ($ in millions, except per share amounts)
+
+[p. 7]
+Q3:11 Headwinds U.S. Rental Car $22 Billion Market Rental car revenue +5.3%, supported in part by an increase in inbound revenue to the U.S. Adjusted pre-tax margin 10.7% Q1 record high +240 bps over Q1:11
+
+[p. 8]
+U.S. rental car volume +10%; fleet up only 8.4% Airport transaction days for Hertz Classic and Advantage brands +9% Off airport transaction days +11% Average rental length +1.5% due to more leisure & insurance replacement business U.S. RAC Performance Drivers
+
+[p. 9]
+Q1:12 U.S. Rent-A-Car RPD Incl. Ancillary Sales Hertz Classic airport leisure total RPD -2.4% YoY Advantage RPD reflecting Tier 3 competitor share growth Corporate pricing remains under pressure
+
+[p. 10]
+Q1:12 U.S. RAC Total Revenue +5.3% YoY Rev. +$54.3 million Total Revenue ($ in millions) 21.4% 39.4% 39.2% % of total increase Airport Advantage Off-Airport % Change in Total Revenue On-Airport 73.6% of U.S. RAC Revenue Off-Airport 26.4% of U.S. RAC Revenue RPD * $55.88 $34.18 $35.20 Trans Days +6.1% +41.0% +10.9% Rental length +1.2% +3.2% -0.3% U.S. RAC Growth Drivers Q1:12 vs. Q1:11 Note: Advantage RAC acquired April 2009 Advantage $11.6 Off Airport $21.4 Airport $21.3 * RPD calculated using Total Revenue
+
+[p. 11]
+U.S. RAC Monthly Depreciation p/Unit Q2:11 gained $30M due to tsunami-related OEM supply chain disruption Q3:11 generated an incremental $10M tsunami benefit Annual rates Quarterly rates
+
+[p. 12]
+U.S. RAC Depreciation Improvement Total Q1 2012 net depreciation per unit reduction: $32/unit Q1:12
+
+[p. 13]
+Europe Rental Car Q1:12 Revenue down 8.7%; excluding FX impact, down 5.3% Volume down 3.2% due to weak leisure travel trends Total revenue per day down 5.6% Lower leisure rates more than offset increase in commercial rates Excluding Advantage, RPD down 3.7% Advantage EU locations now 26 vs. 4 the prior year International (non-North America) Q1:12 results Europe, Australia, Brazil, New Zealand, Puerto Rico, China Revenue down 3.4%, or down 1.8% excluding FX Transaction days flat YoY Total RPD down 3.5%, but only down 1.9% excluding FX
+
+[p. 14]
+HERC Q1:12 WW rental rate revenue +14% YoY NA rental rate revenue +17% U.S. rental rate revenue +20% Positive pricing environment continues National Account base grows to 55% of HERC domestic rental rate revenue Higher volume, larger equipment, more resilient to cycles Due to length of contracts, pace of rate increases less flexible than non-contract business WW volume +9.3%; NA volume +10.5% Industry non-residential construction spending -25% Q1:12 Source: McGraw Hill HERC non-residential construction revenue up double digits Corporate EBITDA +17.4%, 150 bps margin expansion Note: pricing and volume data excludes Cinelease due to the nature of the business
+
+[p. 15]
+FY 2012 Financial Guidance Increased Revised Guidance Prior Guidance % high end % YoY Revenue $8.90 to $9.00 bil $8.85 to $8.95 bil +0.6% Corporate EBITDA $1.60 to $1.66 bil $1.52 to $1.59 bil +4.4% Adj. Pre-Tax Income $870 to $940 mil $790 to $860 mil +9.3% Adj. Net Income $570 to $620 mil $520 to $570 mil +8.8% Adjusted Diluted EPS* $1.28 to $1.38 $1.16 to $1.26 +9.5% * Share count FY:12 = 450 mil RISKS: US political election; EU/China economies; Middle East unrest Cost savings target now $300M (includes depreciation savings) Cash interest expense now expected to be flat to +$10M YoY
+
+[p. 16]
+Elyse Douglas CFO Financial Results Cash Flow Review Balance Sheet Review
+
+[p. 17]
+Consolidated Results Q1:12 Q1:11 % var Car rental $1,658.2 $1,510.3 9.8% Equipment rental 302.1 268.2 12.6% Other reconciling items 0.6 1.5 Consolidated revenue $1,960.9 $1,780.0 10.2% Consolidated adjusted pre-tax $29.4 $(16.0) 283.8% Consolidated loss before taxes $(36.8) $(158.9) 76.8% Consolidated loss per share $(0.13) $(0.32) 59.4% Adjusted pre-tax margin improved 240bps Pre-tax income (GAAP) improved 76.8% in Q1 Q1 improved loss per share (GAAP) +59.4% to $(0.13)
+
+[p. 18]
+2012 COST SAVINGS Efficiency & cost management programs continue support profit growth FY2012 goal now $300 million $100 million achieved Q1:12 Lean/Six Sigma “Lighthouse”: Completed in Q1:12 – N.A. RAC: 2 // Int’1 RAC: 5 // HERC: 5 Completed thru 3/31/12 – N.A. RAC: 36 // Int’1 RAC: 29 // HERC: 33 Completed Lighthouse locations represent ~40% of total revenue Cost Savings
+
+[p. 19]
+DOE Contributes to Q1:12 $100M Savings ($ in millions) Q1:12 Q1:11 % chg Revenues $1,960.9 $1,780.0 10.2% Reported DOE: Fleet related $251.1 $249.9 0.5% Personnel related 381.4 366.0 4.2% Other 482.6 457.8 5.4% Total DOE $1,115.1 $1,073.7 3.9% % of revenue 56.9% 60.3% Improvements driven by: Benefit of Donlen’s low expense structure Improved damage collections Favorable vendor negotiations Milder weather Reduced employee costs Direct Operating Expenses
+
+[p. 20]
+Rent-A-Car Metrics: Q1:12 vs. Q1:11 % of WW RAC total revenue Q1:12 vs. Q1:12 Total Revenue Rental Rate Revenue* Total Revenue Per Day (RPD) Trans. Days Revenue Per Transaction Transactions Trans Length (days) 65% U.S. 5.3% 4.8% -3.9% 9.6% -2.9% 8.0% 1.5% Mix adjusted -3.0% 27% International -3.4% -2.1% -3.5% 0.1% -2.2% 0.1% 0.0% 18% Europe -8.7% -5.9% -5.6% -3.2% -4.7% -1.3% -1.9% Mix adjusted -3.7% Worldwide 2.5% 2.7% -4.0% 6.8% -3.1% 6.0% 0.8% *Rental rate revenue excludes the effects of foreign currency. Rental rate revenue consists of all revenue net of discounts, associated with the rental of cars including charges for optional insurance products, but excludes revenue derived from fueling and concession and other expense pass-throughs, NeverLost units in the U.S. and certain ancillary revenue. WW Adj. pre-tax income: Q1:12 +49.4% YoY; margin 5.5%; +140 bps WW revenue flow-through to adjusted pre-tax 53%, excluding Donlen WW Corporate EBITDA: Q1:12 +32.2%YoY; margin 7.4%, +130 bps (Excluding Donlen) (Excludes Canada, but includes EU)
+
+[p. 21]
+U.S. Off Airport (OAP) – leisure, local business, monthly, insurance replacement Opened 69 net new locations in Q1 Total locations = 2,244; +14.3% YoY Total OAP revenue +8.2% Transaction days +10.9%; +17.2% leisure; +9.7% insurance replacement Revenue increased on average 24% with top 5 national insurance agencies Worldwide Advantage brand Q1 revenue +40.5% YoY Added 6 U.S. locations & 1 EU location in Q1:12; WW Total = 88 locations U.S. Advantage fleet efficiency record 91% for first quarter Worldwide adjusted pre-tax margin +180 basis points YoY RAC Growth Drivers
+
+[p. 22]
+Worldwide Rent A Car Q1:12 WW RAC = 85% of total company revenue Q1:12 WW RAC total revenue ~$1.7 billion; +9.8% YoY Unit Fleet Mix 3/31/12 3/31/11 U.S. Risk% 84% 77% Europe Risk% 66% 56% WW Risk % 81% 73% Strategically increasing U.S. mix of risk vehicles to capitalize on more profitable resale channels As of: Q1:12Total Revenue by Business U.S. & EU Airport Commercial 23% U.S. & EU Airport Leisure 33% U.S. & EU Off-Airport 27% Other Int’1 10% Donlen 7%
+
+[p. 23]
+Q1:12 Revenue – WW HERC Revenue WW total revenue +12.6% = price +3.7%; volume +9.3% National account base growing, but contract rates increasing slower than non-contract rates due to terms NA revenue +15.8% = price +4.0%; volume +10.5% Revenue excludes used equipment sales Q1:12 Q1:11 Construction 35% 35% Industrial 28% 30% Fragmented 37% 35% N.A. Revenue Mix Note: pricing and volume data excludes Cinelease due to the nature of that business
+
+[p. 24]
+HERC Key Metrics Now using American Rental Association (ARA) calculations for: Pricing Fleet Age Time utilization Dollar utilization Updated historical metrics for proper YoY comparison Dollar utilization: lower for higher cost equipment (earthmoving) impacted by level of refurbishments ARA pricing improved +80bps vs. traditional HERC calculations
+
+[p. 25]
+Q1:12 adjusted pre-tax income of $25.9M up 153.9% vs. Q1:11; margin of 8.6% up 480bps YoY DOE and SG&A down 180 bps as % of revenue Q1:12 Corporate EBITDA improved 17.4% YoY, margin up 150bps Corp. EBITDA incremental revenue flow through ~47% Q1:12 Estimated 4%-5% drag on flow-through from recent acquisitions Q1 lowest revenue generating quarter Reflects planned investments in people [sales force, drivers, operations] and facilities Continue to incur maintenance costs associated with the older fleet, and incremental delivery charges as we grow the business Q1:12 Profit – WW HERC
+
+[p. 26]
+Q1:12 HERC Fleet Statistics ($ in millions) WW HERC Fleet – Cash Basis ** ($ in millions) Excludes FX Q1:12 Q1:11 Fleet Expenditures $124.0 $171.6 Disposal Proceeds $58.3 $52.3 Net Capital Expenditures $65.7 $119.3 (cash basis) ** Above amounts are on a cash flow basis, consistent with our GAAP statement of cash flows. Purchases* Disposals 1st Cost* Net Fleet Capital Expenditures* * Includes non-cash purchases and sales. Q1:12 average fleet age under 47 months vs. 50 months in Q1:11
+
+[p. 27]
+U.S. Equipment Rental Residual Values Industry residual values continue to improve Retail values almost back to 2007 levels; 50 bps below peak Q3:07 HERC sales channels Q1:12 = retail / wholesale 75%; auction 10%; manufacturer buyback 15% Fair Market Value (Retail) Forced Liquidation Value (Auction) Source: Rouse Asset Management Services Average Residual Values As % of Original Cost
+
+[p. 28]
+Interest Expense Summary GAAP Total Interest Expense Q1:12 Q1:11 $162.3M $196.9M Q1:12 Q1:11 $137.1M $137.0M Cash Interest Expense Savings $34.6 Million Increase only $0.1 Million Q1:11 inflated by non-cash debt charges related to the write-offs associated with $4.4 billion of refinancing activity Reflects higher fleet levels and Donlen offset by benefit of lower rates from refinancing
+
+[p. 29]
+Restructuring & restructuring-related charges Q1:12 was $10.0M vs. Q1:11 of $5.4M Primarily to streamline HERC business, rationalize the workforce, and properly align European businesses Related cash payments in Q1:12 were $7.3M vs. $4.6M in the prior year Taxes Q1:12 GAAP effective income tax rate (53.0%) vs. 18.8% in Q1:11 Annual adjusted tax rate normalized = 34% Q1:12 cash taxes paid: $22.4M vs. $11.6M in Q1:11 FY:12 cash taxes estimated to be ~ $75M to $80M Q1:12 Restructuring | Taxes
+
+[p. 30]
+Cash Flow Cash Provided by Operating Activities ($ in millions) Q1:12 Q1:11 $ Net Cash Provided by Operating Activities $492.0 $165.6 $326.4 Corporate Cash Flow $(280.2) $(353.6) $73.4 Acquisitions $(185.3) $(9.8) $(175.5) Corporate Cash Flow excluding Acquisitions $(94.9) $(343.8) $248.9 Note: The presentation of the Corporate Cash Flow was updated in Q1:11 Conceptually same as Levered After Tax Cash Flow After Fleet Growth Corporate Cash Flow now incorporates changes in FX rates HERC maintenance & growth capex were consolidated Improvement from operating cash flow primarily due to higher earnings and timing of 2011 refinancing activities Corporate cash flow excluding acquisitions reflects higher earnings, improved fleet working capital, and better advance rates
+
+[p. 31]
+Liquidity at $1.5 billion Liquidity & Debt Corporate Liquidity @ 3/31/12 ($ in millions) ABL Availability: $ 954 Unrestricted Cash: 595 Corporate Liquidity: $1,549 Total net corporate debt $3.96 billion Total net fleet debt $6.65 billion Net corporate debt / corporate EBITDA ratio 2.8x
+
+[p. 32]
+OUTLOOK
+
+[p. 33]
+U.S. Rental Car Q2:12 volume growth continues; fleets in line Q2:12 airport leisure RPD for both premium and value brands improving sequentially Rental car residual values continue strong FY:12 monthly depreciation per unit now expected down 2%-5% EU Rental Car Stabilizing at low rate, comps improve Still tough resale market Restructuring continues HERC End of 2H:12 est.: 60% of $700M fleet buy completed FY:12 revenue est.: +15% YoY, excl FX +16% Outlook
+
+[p. 34]
+2012 Sensitivity to Adjusted Pre-tax Income 1 Percent change over FY:11 2 Excludes Donlen 3 Excludes 2012 acquisitions 4 1% change = $25 million in revenue 5 Assumes all foreign currency forecasts move in the same proportion as the Euro estimate Revised Guidance Assumptions Prior Guidance Assumptions Annual Pre-Tax Opportunity with 1% Improvement1 WWRAC2 Pricing -0.5% to -1.5% -0.5% to -1.5% $54 Volume (Days) 5.5% to 6.5% 5.5% to 6.5% $18 Net Depr per Unit* -2.0% to -3.0% 1.0% to 2.0% $16 WWHERC3 Pricing 2.0% to 3.0% 2.0% to 3.0% $9 Volume 10.0% to 11.0% 9.0% to 10.0% $3 FX rates4 Euro rate5 1.32 1.32 $1 ($ in millions) See slides 35 & 36 for methodology
+
+[p. 35]
+Depreciation Update Strategy Depreciation rates reviewed every quarter by vehicle make & model Depreciation Objective: At time of sale, every vehicle will achieve Book Value = Market Value Instances that can drive difference between market value and book value: Selling more/less vehicles through alternative channels Holding vehicles longer or shorter than planned Market movement beyond forecast
+
+[p. 36]
+Residual Value Methodology HTZ Updates Depreciation Forecasts Quarterly: Sources: Historical actual sales (effective rates) & various third-party sources are used to project residuals: Black Book NADA/AuctionNet Manheim Market Report (MMR) Seasonality applied based on industry observations Mileage assumptions re-analyzed and residual values adjusted to consider trending mileage
+
+[p. 37]
+Table 1
+
+HERTZ GLOBAL HOLDINGS, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(In millions, except per share amounts)
+
+Unaudited
+
+Three Months Ended | As a Percentage
+March 31, | of Total Revenues
+2012 | 2011 | 2012 | 2011
+Total revenues | $1,960.9 | $1,780.0 | 100.0% | 100.0%
+Expenses:
+Direct operating | 1,115.1 | 1,073.7 | 56.9% | 60.3%
+Depreciation of revenue earning equipment and lease charges | 514.1 | 436.1 | 26.2% | 24.5%
+Selling, general and administrative | 207.8 | 182.2 | 10.6% | 10.2%
+Interest expense | 162.3 | 196.9 | 8.3% | 11.1%
+Interest income | (1.1) | (1.9) | (0.1)% | (0.1)%
+Other (income) expense, net | (0.5) | 51.9 | —% | 2.9%
+Total expenses | 1,997.7 | 1,938.9 | 101.9% | 108.9%
+Loss before income taxes | (36.8) | (158.9) | (1.9)% | (8.9)%
+(Provision) benefit for taxes on income | (19.5) | 30.0 | (1.0)% | 1.7%
+Net loss | (56.3) | (128.9) | (2.9)% | (7.2)%
+Less: Net income attributable to noncontrolling interest | — | (3.7) | —% | (0.2)%
+Net loss attributable to Hertz Global Holdings, Inc. and Subsidiaries’ common stockholders | $(56.3) | $(132.6) | (2.9)% | (7.4)%
+Weighted average number of shares outstanding:
+Basic | 418.1 | 414.1
+Diluted | 418.1 | 414.1
+Loss per share attributable to Hertz Global Holdings, Inc. and Subsidiaries’ common stockholders:
+Basic | $(0.13) | $(0.32)
+Diluted | $(0.13) | $(0.32)
+
+[p. 38]
+Table 2
+
+HERTZ GLOBAL HOLDINGS, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(In millions)
+
+Unaudited
+
+Three Months Ended March 31, 2012 | Three Months Ended March 31, 2011
+As | As | As | As
+Reported | Adjustments | Adjusted | Reported | Adjustments | Adjusted
+Total revenues | $1,960.9 | $— | $1,960.9 | $1,780.0 | $— | $1,780.0
+Expenses:
+Direct operating | 1,115.1 | (28.7 | )(a) | 1,086.4 | 1,073.7 | (22.8 | )(a) | 1,050.9
+Depreciation of revenue earning equipment and lease charges | 514.1 | (2.9 | )(b) | 511.2 | 436.1 | (2.3 | )(b) | 433.8
+Selling, general and administrative | 207.8 | (9.4 | )(c) | 198.4 | 182.2 | (6.2 | )(c) | 176.0
+Interest expense | 162.3 | (25.2 | )(d) | 137.1 | 196.9 | (59.9 | )(d) | 137.0
+Interest income | (1.1) | — | (1.1) | (1.9) | — | (1.9)
+Other (income) expense, net | (0.5) | — | (0.5) | 51.9 | (51.7 | )(e) | 0.2
+Total expenses | 1,997.7 | (66.2) | 1,931.5 | 1,938.9 | (142.9) | 1,796.0
+Income (loss) before income taxes | (36.8) | 66.2 | 29.4 | (158.9) | 142.9 | (16.0)
+Benefit (provision) for taxes on income | (19.5) | 9.5 | (f) | (10.0) | 30.0 | (24.5 | )(f) | 5.5
+Net income (loss) | (56.3) | 75.7 | 19.4 | (128.9) | 118.4 | (10.5)
+Less: Net income attributable to noncontrolling interest | — | — | — | (3.7) | — | (3.7)
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries’ common stockholders | $(56.3) | $75.7 | $19.4 | $(132.6) | $118.4 | $(14.2)
+
+(a) Represents the increase in amortization of other intangible assets, depreciation of property and equipment and accretion of certain revalued liabilities relating to purchase accounting. For the three months ended March 31, 2012 and 2011, also includes restructuring and restructuring related charges of $8.1 million and $4.5 million, respectively.
+
+(b) Represents the increase in depreciation of revenue earning equipment based upon its revaluation relating to purchase accounting.
+
+(c) Represents an increase in depreciation of property and equipment relating to purchase accounting. For the three months ended March 31, 2012 and 2011, also includes restructuring and restructuring related charges of $1.9 million and $0.8 million, respectively. For all periods presented, also includes other adjustments which are detailed in Table 5.
+
+(d) Represents non-cash debt charges relating to the amortization of deferred debt financing costs and debt discounts.
+
+(e) Represents premiums paid to redeem our 10.5% Senior Subordinated Notes and a portion of our 8.875% Senior Notes.
+
+(f) Represents a provision for income taxes derived utilizing a normalized income tax rate (34% for 2012 and 2011).
+
+[p. 39]
+Table 3
+
+HERTZ GLOBAL HOLDINGS, INC.
+
+SEGMENT AND OTHER INFORMATION
+
+(In millions, except per share amounts)
+
+Unaudited
+
+Three Months Ended
+March 31,
+2012 | 2011
+Revenues:
+Car Rental | $1,658.2 | $1,510.3
+Equipment Rental | 302.1 | 268.2
+Other reconciling items | 0.6 | 1.5
+$1,960.9 | $1,780.0
+Depreciation of property and equipment:
+Car Rental | $30.8 | $27.5
+Equipment Rental | 8.4 | 8.3
+Other reconciling items | 3.1 | 1.9
+$42.3 | $37.7
+Amortization of other intangible assets:
+Car Rental | $9.3 | $7.6
+Equipment Rental | 9.5 | 8.9
+Other reconciling items | 0.4 | 0.3
+$19.2 | $16.8
+Income (loss) before income taxes:
+Car Rental | $61.5 | $41.0
+Equipment Rental | 10.2 | (7.8)
+Other reconciling items | (108.5) | (192.1)
+$(36.8) | $(158.9)
+Corporate EBITDA (a):
+Car Rental | $122.4 | $92.6
+Equipment Rental | 107.4 | 91.5
+Other reconciling items | (21.8) | (17.7)
+$208.0 | $166.4
+Adjusted pre-tax income (loss) (a):
+Car Rental | $91.6 | $61.3
+Equipment Rental | 25.9 | 10.2
+Other reconciling items | (88.1) | (87.5)
+$29.4 | $(16.0)
+Adjusted net income (loss) (a):
+Car Rental | $60.4 | $40.5
+Equipment Rental | 17.1 | 6.7
+Other reconciling items | (58.1) | (61.4)
+$19.4 | $(14.2)
+Adjusted diluted number of shares outstanding (a) | 418.1 | 413.0
+Adjusted diluted income (loss) per share (a) | $0.05 | $(0.03)
+
+(a) Represents a non-GAAP measure, see the accompanying reconciliations and definitions.
+
+Note: “Other Reconciling Items” includes general corporate expenses, certain interest expense (including net interest on corporate debt), as well as other business activities such as our third-party claim management services. See Tables 5 and 6.
+
+[p. 40]
+Table 4
+
+HERTZ GLOBAL HOLDINGS, INC.
+
+SELECTED OPERATING AND FINANCIAL DATA
+
+Unaudited
+
+Three | Percent
+Months | change
+Ended, or as | from
+of Mar. 31, | prior year
+2012 | period
+Selected Car Rental Operating Data
+Worldwide number of transactions (in thousands) | 6,388 | 6.0%
+Domestic (Hertz) | 4,837 | 8.0%
+International (Hertz) | 1,551 | 0.1%
+Worldwide transaction days (in thousands) | 31,669 | 6.8%
+Domestic (Hertz) | 22,825 | 9.6%
+International (Hertz) | 8,844 | 0.2%
+Worldwide rental rate revenue per transaction day (a) | $40.36 | (3.9)%
+Domestic (Hertz) | $39.54 | (4.4)%
+International (Hertz) (b) | $42.48 | (2.4)%
+Worldwide average number of cars during period | 595,300 | 39.3%
+Domestic (Hertz company-operated) | 320,500 | 8.4%
+International (Hertz company-operated) | 133,300 | 1.2%
+Donlen (under lease and maintenance) | 141,500 | N/A
+Worldwide revenue earning equipment, net (in millions) | $9,354.1 | 21.3%
+Selected Worldwide Equipment Rental Operating Data
+Rental and rental related revenue (in millions) (a) (b) | $274.3 | 13.6%
+Same store revenue growth , including initiatives (a) (b) | 8.9% | N/M
+Average acquisition cost of revenue earning equipment operated during period (in millions) | $2,902.0 | 5.3%
+Worldwide revenue earning equipment, net (in millions) | $1,911.1 | 13.3%
+Other Financial Data (in millions)
+Cash flows provided by operating activities | $492.0 | 197.1%
+Corporate cash flow (a) | (280.2) | 20.8%
+EBITDA (a) | 700.2 | 33.7%
+Corporate EBITDA (a) | 208.0 | 25.0%
+
+Selected Balance Sheet Data (in millions)
+
+March 31, | December 31,
+2012 | 2011
+Cash and cash equivalents | $594.7 | $931.8
+Total revenue earning equipment, net | 11,265.2 | 10,105.4
+Total assets | 18,280.1 | 17,673.5
+Total debt | 11,425.7 | 11,317.1
+Net corporate debt (a) | 3,965.1 | 3,678.6
+Net fleet debt (a) | 6,654.0 | 6,398.7
+Total net debt (a) | 10,619.1 | 10,077.3
+Total equity | 2,205.5 | 2,234.7
+
+(a) Represents a non-GAAP measure, see the accompanying reconciliations and definitions.
+
+(b) Based on 12/31/11 foreign exchange rates.
+
+N/M Percentage change not meaningful.
+
+[p. 41]
+Table 5
+
+HERTZ GLOBAL HOLDINGS, INC.
+
+RECONCILIATION OF GAAP TO NON-GAAP EARNINGS MEASURES
+
+(In millions, except per share amounts)
+
+Unaudited
+
+ADJUSTED PRE-TAX INCOME (LOSS), ADJUSTED NET INCOME (LOSS) AND ADJUSTED DILUTED EARNINGS (LOSS) PER SHARE
+
+Three Months Ended March 31, 2012
+Other
+Car | Equipment | Reconciling
+Rental | Rental | Items | Total
+Total revenues: | $1,658.2 | $302.1 | $0.6 | $1,960.9
+Expenses:
+Direct operating and selling, general and administrative | 1,065.4 | 217.3 | 40.2 | 1,322.9
+Depreciation of revenue earning equipment and lease charges | 451.7 | 62.4 | — | 514.1
+Interest expense | 80.5 | 12.8 | 69.0 | 162.3
+Interest income | (0.9) | (0.1) | (0.1) | (1.1)
+Other (income) expense, net | — | (0.5) | — | (0.5)
+Total expenses | 1,596.7 | 291.9 | 109.1 | 1,997.7
+Income (loss) before income taxes | 61.5 | 10.2 | (108.5) | (36.8)
+Adjustments:
+Purchase accounting (a):
+Direct operating and selling, general and administrative | 10.2 | 10.0 | 1.0 | 21.2
+Depreciation of revenue earning equipment | 2.9 | — | — | 2.9
+Non-cash debt charges (b) | 11.2 | 1.5 | 12.5 | 25.2
+Restructuring charges (c) | 5.2 | 4.2 | — | 9.4
+Restructuring related charges (c) | 0.6 | — | — | 0.6
+Derivative (gains) losses (c) | — | — | — | —
+Acquisition related costs (d) | — | — | 6.9 | 6.9
+Adjusted pre-tax income (loss) | 91.6 | 25.9 | (88.1) | 29.4
+Assumed (provision) benefit for income taxes of 34% | (31.2) | (8.8) | 30.0 | (10.0)
+Noncontrolling interest | — | — | — | —
+Adjusted net income (loss) | $60.4 | $17.1 | $(58.1) | $19.4
+Adjusted diluted number of shares outstanding | 418.1
+Adjusted diluted income per share | $0.05
+
+Three Months Ended March 31, 2011
+Other
+Car | Equipment | Reconciling
+Rental | Rental | Items | Total
+Total revenues: | $1,510.3 | $268.2 | $1.5 | $1,780.0
+Expenses:
+Direct operating and selling, general and administrative | 1,026.4 | 197.7 | 31.8 | 1,255.9
+Depreciation of revenue earning equipment and lease charges | 368.9 | 67.2 | — | 436.1
+Interest expense | 75.4 | 11.1 | 110.4 | 196.9
+Interest income | (1.4) | (0.1) | (0.4) | (1.9)
+Other (income) expense, net | — | 0.1 | 51.8 | 51.9
+Total expenses | 1,469.3 | 276.0 | 193.6 | 1,938.9
+Income (loss) before income taxes | 41.0 | (7.8) | (192.1) | (158.9)
+Adjustments:
+Purchase accounting (a):
+Direct operating and selling, general and administrative | 8.1 | 9.4 | 0.9 | 18.4
+Depreciation of revenue earning equipment | — | 2.2 | — | 2.2
+Non-cash debt charges (b) | 10.2 | 2.5 | 47.2 | 59.9
+Restructuring charges (c) | 1.0 | 3.9 | — | 4.9
+Restructuring related charges (c) | 0.5 | — | — | 0.5
+Derivative losses (c) | 0.5 | — | (0.5) | —
+Acquisition related costs (d) | — | — | 2.8 | 2.8
+Management transition costs (d) | — | — | 2.5 | 2.5
+Premiums paid on debt (e) | — | — | 51.7 | 51.7
+Adjusted pre-tax income (loss) | 61.3 | 10.2 | (87.5) | (16.0)
+Assumed (provision) benefit for income taxes of 34% | (20.8) | (3.5) | 29.8 | 5.5
+Noncontrolling interest | — | — | (3.7) | (3.7)
+Adjusted net income (loss) | $40.5 | $6.7 | $(61.4) | $(14.2)
+Adjusted diluted number of shares outstanding | 413.0
+Adjusted diluted loss per share | $(0.03)
+
+(a) | Represents the purchase accounting effects of the acquisition of all of Hertz’s common stock on December 21, 2005 on our results of operations relating to increased depreciation and amortization of tangible and intangible assets and accretion of workers’ compensation and public liability and property damage liabilities. Also represents the purchase accounting effects of subsequent acquisitions on our results of operations relating to increased depreciation and amortization of intangible assets.
+(b) | Represents non-cash debt charges relating to the amortization of deferred debt financing costs and debt discounts.
+(c) | Amounts are included within direct operating and selling, general and administrative expense in our statement of operations.
+(d) | Amounts are included within selling, general and administrative expense in our statement of operations.
+(e) | Represents premiums paid to redeem our 10.5% Senior Subordinated Notes and a portion of our 8.875% Senior Notes. These costs are included within other (income) expense, net in our statement of operations.
+
+[p. 42]
+Table 6
+
+HERTZ GLOBAL HOLDINGS, INC.
+
+RECONCILIATION OF GAAP TO NON-GAAP EARNINGS MEASURES
+
+(In millions)
+
+Unaudited
+
+EBITDA, CORPORATE EBITDA, UNLEVERED PRE-TAX CASH FLOW, LEVERED AFTER-TAX CASH FLOW BEFORE FLEET GROWTH AND CORPORATE CASH FLOW
+
+Three Months Ended March 31, 2012
+Other
+Car | Equipment | Reconciling
+Rental | Rental | Items | Total
+Income (loss) before income taxes | $61.5 | $10.2 | $(108.5) | $(36.8)
+Depreciation, amortization and other purchase accounting | 492.0 | 80.3 | 3.5 | 575.8
+Interest, net of interest income | 79.6 | 12.7 | 68.9 | 161.2
+Noncontrolling interest | — | — | — | —
+EBITDA | 633.1 | 103.2 | (36.1) | 700.2
+Adjustments:
+Car rental fleet interest | (75.8) | — | — | (75.8)
+Car rental fleet depreciation | (451.7) | — | — | (451.7)
+Non-cash expenses and charges (a) | 11.0 | — | 7.4 | 18.4
+Extraordinary, unusual or non-recurring gains and losses (b) | 5.8 | 4.2 | 6.9 | 16.9
+Corporate EBITDA | $122.4 | $107.4 | $(21.8) | 208.0
+Non-fleet capital expenditures, net | (26.6)
+Changes in working capital:
+Receivables, excluding car rental fleet receivables | (53.0)
+Accounts payable | 459.3
+Accrued liabilities and other | (60.3)
+Acquisition and other investing activities | (147.5)
+Other financing activities, excluding debt | (55.2)
+Foreign exchange impact on cash and cash equivalents | 8.0
+Unlevered pre-tax cash flow | 332.7
+Corporate net cash interest | (59.1)
+Corporate cash taxes | (22.4)
+Levered after-tax cash flow before fleet growth | 251.2
+Equipment rental revenue earning equipment expenditures, net of disposal proceeds | (111.2)
+Car rental fleet equity requirement | (420.2)
+Corporate cash flow | $(280.2)
+
+Three Months Ended March 31, 2011
+Other
+Car | Equipment | Reconciling
+Rental | Rental | Items | Total
+Income (loss) before income taxes | $41.0 | $(7.8) | $(192.1) | $(158.9)
+Depreciation, amortization and other purchase accounting | 404.3 | 84.4 | 2.5 | 491.2
+Interest, net of interest income | 74.0 | 11.0 | 110.0 | 195.0
+Noncontrolling interest | — | — | (3.7) | (3.7)
+EBITDA | 519.3 | 87.6 | (83.3) | 523.6
+Adjustments:
+Car rental fleet interest | (69.7) | — | — | (69.7)
+Car rental fleet depreciation | (368.9) | — | — | (368.9)
+Non-cash expenses and charges (a) | 10.4 | — | 8.6 | 19.0
+Extraordinary, unusual or non-recurring gains and losses (b) | 1.5 | 3.9 | 57.0 | 62.4
+Corporate EBITDA | $92.6 | $91.5 | $(17.7) | 166.4
+Non-fleet capital expenditures, net | (42.3)
+Changes in working capital:
+Receivables, excluding car rental fleet receivables | (10.9)
+Accounts payable | 247.2
+Accrued liabilities and other | (200.3)
+Acquisition and other investing activities | (8.6)
+Other financing activities, excluding debt | (72.2)
+Foreign exchange impact on cash and cash equivalents | 21.7
+Unlevered pre-tax cash flow | 101.0
+Corporate net cash interest | (135.8)
+Corporate cash taxes | (11.6)
+Levered after-tax cash flow before fleet growth | (46.4)
+Equipment rental revenue earning equipment expenditures, net of disposal proceeds | (34.1)
+Car rental fleet equity requirement | (273.1)
+Corporate cash flow | $(353.6)
+
+[p. 43]
+(a) As defined in the credit agreements for the senior credit facilities, Corporate EBITDA excludes the impact of certain non-cash expenses and charges. The adjustments reflect the following:
+
+NON-CASH EXPENSES AND CHARGES
+
+Three Months Ended March 31, 2012
+Other
+Car | Equipment | Reconciling
+Rental | Rental | Items | Total
+Non-cash amortization of debt costs included in car rental fleet interest | $11.0 | $— | $— | $11.0
+Non-cash stock-based employee compensation charges | — | — | 7.4 | 7.4
+Total non-cash expenses and charges | $11.0 | $— | $7.4 | $18.4
+
+NON-CASH EXPENSES AND CHARGES
+
+Three Months Ended March 31, 2011
+Other
+Car | Equipment | Reconciling
+Rental | Rental | Items | Total
+Non-cash amortization of debt costs included in car rental fleet interest | $9.9 | $— | $— | $9.9
+Non-cash stock-based employee compensation charges | — | — | 9.1 | 9.1
+Derivative (gains) losses | 0.5 | — | (0.5) | —
+Total non-cash expenses and charges | $10.4 | $— | $8.6 | $19.0
+
+(b) As defined in the credit agreements for the senior credit facilities, Corporate EBITDA excludes the impact of extraordinary, unusual or non-recurring gains or losses or charges or credits. The adjustments reflect the following:
+
+EXTRAORDINARY, UNUSUAL OR NON-RECURRING ITEMS
+
+Three Months Ended March 31, 2012
+Other
+Car | Equipment | Reconciling
+Rental | Rental | Items | Total
+Restructuring charges | $5.2 | $4.2 | $— | $9.4
+Restructuring related charges | 0.6 | — | — | 0.6
+Acquisition related costs | — | — | 6.9 | 6.9
+Total extraordinary, unusual or non-recurring items | $5.8 | $4.2 | $6.9 | $16.9
+
+EXTRAORDINARY, UNUSUAL OR NON-RECURRING ITEMS
+
+Three Months Ended March 31, 2011
+Other
+Car | Equipment | Reconciling
+Rental | Rental | Items | Total
+Restructuring charges | $1.0 | $3.9 | $— | $4.9
+Restructuring related charges | 0.5 | — | — | 0.5
+Acquisition related costs | — | — | 2.8 | 2.8
+Management transition costs | — | — | 2.5 | 2.5
+Premiums paid on debt | — | — | 51.7 | 51.7
+Total extraordinary, unusual or non-recurring items | $1.5 | $3.9 | $57.0 | $62.4
+
+[p. 44]
+Table 7
+
+HERTZ GLOBAL HOLDINGS, INC.
+
+RECONCILIATION OF GAAP TO NON-GAAP EARNINGS MEASURES
+
+(In millions, except as noted)
+
+Unaudited
+
+RECONCILIATION FROM OPERATING CASH FLOWS TO EBITDA:
+
+Three Months Ended
+March 31,
+2012 | 2011
+Net cash provided by operating activities | $492.0 | $165.6
+Amortization of debt costs | (24.9) | (59.9)
+Provision for losses on doubtful accounts | (6.9) | (6.4)
+Derivative gains (losses) | 3.0 | 6.9
+Gain (loss) on sale of property and equipment | 0.2 | 2.3
+Loss on revaluation of foreign denominated debt | (2.5) | —
+Stock-based compensation charges | (7.5) | (9.1)
+Asset writedowns | (2.7) | (0.7)
+Lease charges | 23.1 | 23.6
+Noncontrolling interest | — | (3.7)
+Deferred income taxes | (2.4) | 26.5
+Provision (benefit) for taxes on income | 19.5 | (30.0)
+Interest expense, net of interest income | 161.2 | 195.0
+Changes in assets and liabilities | 48.1 | 213.5
+EBITDA | $700.2 | $523.6
+
+NET CORPORATE DEBT, NET FLEET DEBT AND TOTAL NET DEBT
+
+March 31, | December 31, | March 31, | December 31, | March 31,
+2012 | 2011 | 2011 | 2010 | 2010
+Total Corporate Debt | $4,645.2 | $4,704.8 | $5,202.2 | $5,830.7 | $4,674.7
+Total Fleet Debt | 6,780.5 | 6,612.3 | 5,547.8 | 5,475.7 | 5,713.2
+Total Debt | $11,425.7 | $11,317.1 | $10,750.0 | $11,306.4 | $10,387.9
+Corporate Restricted Cash
+Restricted Cash, less: | $211.9 | $308.0 | $190.9 | $207.6 | $221.3
+Restricted Cash Associated with Fleet Debt | (126.5) | (213.6) | (110.2) | (115.6) | (129.6)
+Corporate Restricted Cash | $85.4 | $94.4 | $80.7 | $92.0 | $91.7
+Net Corporate Debt
+Corporate Debt, less: | $4,645.2 | $4,704.8 | $5,202.2 | $5,830.7 | $4,674.7
+Cash and Cash Equivalents | (594.7) | (931.8) | (1,365.8) | (2,374.2) | (800.7)
+Corporate Restricted Cash | (85.4) | (94.4) | (80.7) | (92.0) | (91.7)
+Net Corporate Debt | $3,965.1 | $3,678.6 | $3,755.7 | $3,364.5 | $3,782.3
+Net Fleet Debt
+Fleet Debt, less: | $6,780.5 | $6,612.3 | $5,547.8 | $5,475.7 | $5,713.2
+Restricted Cash Associated with Fleet Debt | (126.5) | (213.6) | (110.2) | (115.6) | (129.6)
+Net Fleet Debt | $6,654.0 | $6,398.7 | $5,437.6 | $5,360.1 | $5,583.6
+Total Net Debt | $10,619.1 | $10,077.3 | $9,193.3 | $8,724.6 | $9,365.9
+
+CAR RENTAL RATE REVENUE PER TRANSACTION DAY (a)
+
+Three Months Ended
+March 31,
+2012 | 2011
+Car rental segment revenues (b) | $1,658.2 | $1,510.3
+Non-rental rate revenue | (369.3) | (245.6)
+Foreign currency adjustment | (10.8) | (19.8)
+Rental rate revenue | $1,278.1 | $1,244.9
+Transactions days (in thousands) | 31,669 | 29,650
+Rental rate revenue per transaction day (in whole dollars) | $40.36 | $41.99
+
+EQUIPMENT RENTAL AND RENTAL RELATED REVENUE (a)
+
+Three Months Ended
+March 31,
+2012 | 2011
+Equipment rental segment revenues | $302.1 | $268.2
+Equipment sales and other revenue | (26.3) | (23.3)
+Foreign currency adjustment | (1.5) | (3.4)
+Rental and rental related revenue | $274.3 | $241.5
+
+(a) Based on 12/31/11 foreign exchange rates.
+
+(b) Includes U.S. off-airport revenues of $283.8 million and $262.3 million for the three months ended March 31, 2012 and 2011, respectively.
+
+[p. 45]
+Exhibit 1
+
+Non-GAAP Measures: Definitions and Use/Importance
+
+Hertz Global Holdings, Inc. (“Hertz Holdings”) is our top-level holding company. The Hertz Corporation (“Hertz”) is our primary operating company. The term “GAAP” refers to accounting principles generally accepted in the United States of America.
+
+Definitions of non-GAAP measures utilized in Hertz Holdings’ May 2, 2012 Press Release are set forth below. Also set forth below is a summary of the reasons why management of Hertz Holdings and Hertz believes that the presentation of the non-GAAP financial measures included in the Press Release provide useful information regarding Hertz Holdings’ and Hertz’s financial condition and results of operations and additional purposes, if any, for which management of Hertz Holdings and Hertz utilize the non-GAAP measures.
+
+1. Earnings Before Interest, Taxes, Depreciation and Amortization (“EBITDA”) and Corporate EBITDA
+
+EBITDA is defined as net income before net interest expense, income taxes and depreciation (which includes revenue earning equipment lease charges) and amortization. Corporate EBITDA, as presented herein, represents EBITDA as adjusted for car rental fleet interest, car rental fleet depreciation and certain other items, as described in more detail in the accompanying tables.
+
+Management uses EBITDA and Corporate EBITDA as operating performance and liquidity metrics for internal monitoring and planning purposes, including the preparation of our annual operating budget and monthly operating reviews, as well as to facilitate analysis of investment decisions, profitability and performance trends. Further, EBITDA enables management and investors to isolate the effects on profitability of operating metrics such as revenue, operating expenses and selling, general and administrative expenses, which enables management and investors to evaluate our two business segments that are financed differently and have different depreciation characteristics and compare our performance against companies with different capital structures and depreciation policies. We also present Corporate EBITDA as a supplemental measure because such information is utilized in the calculation of financial covenants under Hertz’s senior credit facilities.
+
+EBITDA and Corporate EBITDA are not recognized measurements under GAAP. When evaluating our operating performance or liquidity, investors should not consider EBITDA and Corporate EBITDA in isolation of, or as a substitute for, measures of our financial performance and liquidity as determined in accordance with GAAP, such as net income, operating income or net cash provided by operating activities.
+
+2. Adjusted Pre-Tax Income
+
+Adjusted pre-tax income is calculated as income before income taxes plus non-cash purchase accounting charges, non-cash debt charges relating to the amortization of debt financing costs and debt discounts and certain one-time charges and non-operational items. Adjusted pre-tax income is important to management because it allows management to assess operational performance of our business, exclusive of the items mentioned above. It also allows management to assess the performance of the entire business on the same basis as the segment measure of profitability. Management believes that it is important to investors for the same reasons it is important to management and because it allows them to assess the operational performance of the Company on the same basis that management uses internally.
+
+3. Adjusted Net Income
+
+Adjusted net income is calculated as adjusted pre-tax income less a provision for income taxes derived utilizing a normalized income tax rate (34% in 2012 and 2011) and noncontrolling interest. The normalized income tax rate is management’s estimate of our long-term tax rate. Adjusted net income is important to management and investors because it represents our operational performance exclusive of the effects of purchase accounting, non-cash debt charges, one-time charges and items that are not operational in nature or comparable to those of our competitors.
+
+[p. 46]
+4. Adjusted Diluted Earnings Per Share
+
+Adjusted diluted earnings per share is calculated as adjusted net income divided by, for the three months ended March 31, 2012, 418.1 million, which represents the weighted average diluted shares outstanding for the period; for the three months ended March 31, 2011, 413.0 million, which represents the approximate weighted average diluted shares outstanding for the period. Adjusted diluted earnings per share is important to management and investors because it represents a measure of our operational performance exclusive of the effects of purchase accounting adjustments, non-cash debt charges, one-time charges and items that are not operational in nature or comparable to those of our competitors.
+
+5. Transaction Days
+
+Transaction days represent the total number of days that vehicles were on rent in a given period.
+
+6. Car Rental Rate Revenue, Rental Rate Revenue Per Transaction Day and Rental Rate Revenue Per Transaction
+
+Car rental rate revenue consists of all revenue, net of discounts, associated with the rental of cars including charges for optional insurance products, but excluding revenue derived from fueling and concession and other expense pass-throughs, NeverLost units in the U.S. and certain ancillary revenue. Rental rate revenue per transaction day is calculated as total rental rate revenue, divided by the total number of transaction days, with all periods adjusted to eliminate the effect of fluctuations in foreign currency. Rental rate revenue per transaction is calculated as total rental rate revenue, divided by the total number of transactions, with all periods adjusted to eliminate the effects of fluctuations in foreign currency. Our management believes eliminating the effect of fluctuations in foreign currency is appropriate so as not to affect the comparability of underlying trends. These statistics are important to management and investors as they represent the best measurements of the changes in underlying pricing in the car rental business and encompass the elements in car rental pricing that management has the ability to control. The optional insurance products are packaged within certain negotiated corporate, government and membership programs and within certain retail rates being charged. Based upon these existing programs and rate packages, management believes that these optional insurance products should be consistently included in the daily pricing of car rental transactions. On the other hand, non-rental rate revenue items such as refueling and concession pass-through expense items are driven by factors beyond the control of management (i.e. the price of fuel and the concession fees charged by airports). Additionally, NeverLost units are an optional revenue product which management does not consider to be part of their daily pricing of car rental transactions.
+
+7. Equipment Rental and Rental Related Revenue
+
+Equipment rental and rental related revenue consists of all revenue, net of discounts, associated with the rental of equipment including charges for delivery, loss damage waivers and fueling, but excluding revenue arising from the sale of equipment, parts and supplies and certain other ancillary revenue. Rental and rental related revenue is adjusted in all periods to eliminate the effect of fluctuations in foreign currency. Our management believes eliminating the effect of fluctuations in foreign currency is appropriate so as not to affect the comparability of underlying trends. This statistic is important to our management and to investors as it is utilized in the measurement of rental revenue generated per dollar invested in fleet on an annualized basis and is comparable with the reporting of other industry participants.
+
+8. Same Store Revenue Growth/Decline
+
+Same store revenue growth or decline is calculated as the year over year change in revenue for locations that are open at the end of the period reported and have been operating under our direction for more than twelve months. The same store revenue amounts are adjusted in all periods to eliminate the effect of fluctuations in foreign currency. Our management believes eliminating the effect of fluctuations in foreign currency is appropriate so as not to affect the comparability of underlying trends.
+
+[p. 47]
+9. Unlevered Pre-Tax Cash Flow
+
+Unlevered pre-tax cash flow is calculated as Corporate EBITDA less non-fleet capital expenditures, net of non-fleet disposals, plus changes in working capital (receivables, excluding car rental receivables, inventories, prepaid expenses, accounts payable and accrued liabilities), cash used for acquisitions, cash used for / provided by other investing activities, cash used / provided by non-debt financing activities and the foreign exchange impact on cash and cash equivalents. Unlevered pre-tax cash flow is important to management and investors as it represents funds available to pay corporate interest and taxes and to grow our fleet or reduce debt.
+
+10. Levered After-Tax Cash Flow Before Fleet Growth
+
+Levered after-tax cash flow before fleet growth is calculated as Unlevered Pre-Tax Cash Flow less corporate net cash interest and corporate cash taxes. Levered after-tax cash flow before fleet growth is important to management and investors as it represents the funds available to grow our fleet or reduce our debt.
+
+11. Corporate Net Cash Interest (used in the calculation of Levered After-Tax Cash Flow Before Fleet Growth)
+
+Corporate net cash interest represents cash paid by the Company during the period for interest expense relating to Corporate Debt. Corporate net cash interest helps management and investors measure the ongoing costs of financing the business exclusive of the costs associated with the fleet financing.
+
+12. Corporate Cash Taxes (used in the calculation of Levered After-Tax Cash Flow Before Fleet Growth)
+
+Corporate cash taxes represents cash paid by the Company during the period for income taxes.
+
+13. Corporate Cash Flow
+
+Corporate cash flow is calculated as Levered After-Tax Cash Flow Before Fleet Growth less equipment rental fleet growth capital expenditures, net of disposal proceeds and less the car rental fleet equity requirement. Corporate cash flow is important to management and investors as it represents the cash available for the reduction of corporate debt.
+
+14. Net Corporate Debt
+
+Net corporate debt is calculated as total debt excluding fleet debt less cash and equivalents and corporate restricted cash. Corporate debt consists of our Senior Term Facility; Senior ABL Facility; Senior Notes; Senior Subordinated Notes, Convertible Senior Notes; and certain other indebtedness of our domestic and foreign subsidiaries. Net Corporate Debt is important to management, investors and ratings agencies as it helps measure our leverage. Net Corporate Debt also assists in the evaluation of our ability to service our non-fleet-related debt without reference to the expense associated with the fleet debt, which is fully collateralized by assets not available to lenders under the non-fleet debt facilities.
+
+15. Corporate Restricted Cash (used in the calculation of Net Corporate Debt)
+
+Total restricted cash includes cash and cash equivalents that are not readily available for our normal disbursements. Total restricted cash and equivalents are restricted for the purchase of revenue earning vehicles and other specified uses under our Fleet Debt facilities, our like-kind exchange programs and to satisfy certain of our self insurance regulatory reserve requirements. Corporate restricted cash is calculated as total restricted cash less restricted cash associated with fleet debt.
+
+16. Net Fleet Debt
+
+Net fleet debt is calculated as total fleet debt less restricted cash associated with fleet debt. As of March 31, 2012, fleet debt consists of U.S. Fleet Variable Funding Notes, U.S. Fleet Medium Term Notes, Donlen GN II Variable Funding Notes, U.S. Fleet Financing Facility, European Revolving Credit Facility, European Fleet Notes, European Securitization, Canadian
+
+[p. 48]
+Securitization, Australian Securitization, Brazilian Fleet Financing and Capitalized Leases relating to revenue earning equipment. This measure is important to management, investors and ratings agencies as it helps measure our leverage.
+
+17. Restricted Cash Associated with Fleet Debt (used in the calculation of Net Fleet Debt and Corporate Restricted Cash)
+
+Restricted cash associated with fleet debt is restricted for the purchase of revenue earning vehicles and other specified uses under our Fleet Debt facilities and our car rental like-kind exchange program.
+
+18. Total Net Debt
+
+Total net debt is calculated as net corporate debt plus net fleet debt. This measure is important to management, investors and ratings agencies as it helps measure our leverage.

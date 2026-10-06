@@ -1,0 +1,194 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q1 2011 (three months ended 31 Mar 2011), filed 2011-05-06. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 7: Debt. https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm
+
+[p. 11]
+
+Note 7—Debt
+
+Our debt consists of the following (in millions of dollars):
+
+Facility | Average Interest Rate at March 31, 2011(1) | Fixed or Floating Interest Rate | Maturity | March 31, 2011 | December 31, 2010
+Corporate Debt
+Senior Term Facility(2) | 3.75% | Floating | 3/2018 | $1,400.0 | $1,345.0
+Senior ABL Facility(2) | N/A | Floating | 3/2016 | — | —
+Senior Notes(3) | 7.56% | Fixed | 1/2014–1/2021 | 3,143.6 | 3,229.6
+Senior Subordinated Notes | 10.50% | Fixed | 1/2016 | — | 518.5
+Promissory Notes | 7.48% | Fixed | 6/2012–1/2028 | 224.7 | 345.6
+Convertible Senior Notes | 5.25% | Fixed | 6/2014 | 474.8 | 474.8
+Other Corporate Debt | 4.26% | Floating | Various | 42.2 | 22.0
+Unamortized Net (Discount) Premium (Corporate)(4) | (83.1) | (104.8)
+Total Corporate Debt | 5,202.2 | 5,830.7
+Fleet Debt
+U.S. ABS Program
+U.S. Fleet Variable Funding Notes:
+Series 2009-1(5) | 1.27% | Floating | 3/2013 | 1,538.0 | 1,488.0
+Series 2010-2(5) | 1.30% | Floating | 3/2013 | 145.0 | 35.0
+U.S. Fleet Medium Term Notes
+Series 2009-2 Notes(5) | 4.95% | Fixed | 3/2013–3/2015 | 1,384.3 | 1,384.3
+Series 2010-1 Notes(5) | 3.77% | Fixed | 2/2014–2/2018 | 749.8 | 749.8
+Other Fleet Debt
+U.S. Fleet Financing Facility | 1.50% | Floating | 12/2011 | 163.0 | 163.0
+European Revolving Credit Facility | 4.58% | Floating | 6/2013 | 155.3 | 168.6
+European Fleet Notes | 8.50% | Fixed | 7/2015 | 564.5 | 529.0
+European Securitization(5) | 4.18% | Floating | 7/2012 | 202.8 | 236.9
+Canadian Securitization(5) | 1.19% | Floating | 11/2011 | 82.6 | 80.4
+Australian Securitization(5) | 6.29% | Floating | 12/2012 | 170.8 | 183.2
+Brazilian Fleet Financing Facility | 13.52% | Floating | 7/2011 | 18.6 | 77.8
+Capitalized Leases | 4.92% | Floating | 4/2011–2/2013 | 389.8 | 398.1
+Unamortized Discount (Fleet) | (16.7) | (18.4)
+Total Fleet Debt | 5,547.8 | 5,475.7
+Total Debt | $10,750.0 | $11,306.4
+
+Note:
+
+For further information on the definitions and terms of our debt, see Note 4 of the Notes to our audited annual consolidated financial statements included in our Form 10-K under the caption "Item 8—Financial Statements and Supplementary Data."
+
+(1)
+
+As applicable, reference is to the March 31, 2011 weighted average interest rate (weighted by principal balance).
+
+(2)
+
+December 31, 2010 balance refers to the former facilities which were refinanced on March 11, 2011, see "First Quarter Events," below.
+
+[p. 12]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+(3)
+
+References to our "Senior Notes" include the series of Hertz's unsecured senior notes set forth in the table below. As of March 31, 2011, the outstanding principal amount for each such series of the Senior Notes is also specified below.
+
+Senior Notes | Outstanding Principal
+8.875% Senior Notes due January 2014 | $642.3 million
+7.875% Senior Notes due January 2014 | $301.3 million (€213.5 million)
+7.50% Senior Notes due October 2018 | $700 million
+7.375% Senior Notes due January 2021 | $500 million
+6.75% Senior Notes due April 2019 | $1,000 million
+
+(4)
+
+As of March 31, 2011 and December 31, 2010, $82.3 million and $87.7 million, respectively, of the unamortized corporate discount relates to the 5.25% Convertible Senior Notes.
+
+(5)
+
+Maturity reference is to the "expected final maturity date" as opposed to the subsequent "legal maturity date." The expected final maturity date is the date by which Hertz and investors in the relevant indebtedness expect the relevant indebtedness to be repaid. The legal final maturity date is the date on which the relevant indebtedness is legally due and payable.
+
+Maturities
+
+The aggregate amounts of maturities of debt for each of the twelve-month periods ending March 31 (in millions of dollars) are as follows:
+
+2012 | $3,859.3 (including $3,356.1 of other short-term borrowings)
+2013 | $773.9
+2014 | $743.9
+2015 | $842.7
+2016 | $953.4
+After 2016 | $3,676.6
+
+We are highly leveraged and a substantial portion of our liquidity needs arise from debt service on our indebtedness and from the funding of our costs of operations and capital expenditures. We believe that cash generated from operations, together with amounts available under various liquidity facilities will be adequate to permit us to meet our debt maturities over the next twelve months.
+
+Our short-term borrowings as of March 31, 2011 include, among other items, the amounts outstanding under the European Securitization, Australian Securitization, U.S. Fleet Financing Facility, Brazilian Fleet Financing Facility, Canadian Securitization, Capitalized Leases and European Revolving Credit Facility. These amounts are reflected as short-term borrowings, regardless of the facility maturity date, as these facilities are revolving in nature and/or the outstanding borrowings have maturities of three months or less. Short-term borrowings also include the Convertible Senior Notes which became convertible on January 1, 2011 and remain as such through June 30, 2011. As of March 31, 2011, short-term borrowings had a weighted average interest rate of 3.0%.
+
+In March 2011, Hertz issued an additional $500 million aggregate principal of the 6.75% Senior Notes due 2019 in a private offering, the proceeds of which were used in April 2011 to redeem $480 million principal amount of its outstanding 8.875% Senior Notes due 2014. The redeemed portion of the 8.875% Senior Notes has been included in the 2012 maturities in the table above.
+
+Letters of Credit
+
+As of March 31, 2011, there were outstanding standby letters of credit totaling $516.9 million. Of this amount, $467.6 million was issued under the Senior Credit Facilities ($226.6 million of which was issued for the benefit of the ABS Program) and the remainder is primarily to support self-insurance programs
+
+[p. 13]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+(including insurance policies with respect to which we have agreed to indemnify the policy issuers for any losses) as well as airport concession obligations in the United States, Canada and Europe. As of March 31, 2011, none of these letters of credit have been drawn upon.
+
+First Quarter Events
+
+On January 1, 2011, our Convertible Senior Notes became convertible. This conversion right was triggered because our closing common stock price per share exceeded $10.77 for at least 20 trading days during the 30 consecutive trading day period ending on December 31, 2010. Since this same trigger was met in the first quarter of 2011, the Convertible Senior Notes continue to be convertible through June 30, 2011, and may be convertible thereafter, if one or more of the conversion conditions specified in the indenture is satisfied during future measurement periods. Our policy has been and continues to be to settle conversions of Convertible Senior Notes using a combination of cash and our common stock, which calls for settling the fixed dollar amount per $1,000 in principal amount in cash and settling in shares the excess conversion, if any.
+
+In January 2011, Hertz redeemed in full its outstanding ($518.5 million principal amount) 10.5% Senior Subordinated Notes due 2016 which resulted in premiums paid of $27.2 million and the write-off of unamortized debt costs of $8.6 million. In January and February 2011, Hertz redeemed $1,105 million principal amount of its outstanding 8.875% Senior Notes due 2014 which resulted in premiums paid of $24.5 million and the write-off of unamortized debt costs of $14.4 million. Hertz used the proceeds from the September 2010 issuance of $700 million aggregate principal amount of 7.50% Senior Notes, the December 2010 issuance of $500 million aggregate principal amount of 7.375% Senior Notes and the February 2011 issuance of $500 million aggregate principal amount of 6.75% Senior Notes (see below) for these redemptions. Total premiums paid during the three months ended March 31, 2011, of $51.7 million are recorded in "Other (income) expense, net" on our consolidated statement of operations.
+
+In February 2011, Hertz issued $500 million aggregate principal amount of 6.75% Senior Notes due 2019. The 6.75% Senior Notes are guaranteed on a senior unsecured basis by the domestic subsidiaries of Hertz that guarantee its Senior Credit Facilities.
+
+In February 2011, Hertz used existing corporate liquidity to pay off the maturing amount of the Brazilian Fleet Financing Facility.
+
+In March 2011, Hertz issued an additional $500 million aggregate principal of the 6.75% Senior Notes due 2019 in a private offering. The proceeds of which were used in April 2011 to redeem $480 million principal amount of its outstanding 8.875% Senior Notes due 2014. See Note 17—Subsequent Events.
+
+In March 2011, Hertz refinanced its 2005 Senior Term Facility and 2005 Senior ABL Facility. A description of the new Senior Term Facility and Senior ABL Facility is set forth below. During the three months ended March 31, 2011, we recorded an expense of $9.3 million in "Interest expense" on our consolidated statement of operations associated with the write-off of debt costs in connection with the refinancing of our 2005 Senior Term Facility and 2005 Senior ABL Facility. Additionally, a portion of the unamortized debt costs associated with the 2005 Senior Term Facility and 2005 Senior ABL Facility are continuing to be amortized over the terms of the new Senior Term Facility and Senior ABL Facility. The determination of whether these costs were expensed or further deferred was dependent upon whether the terms of the old and new instruments were considered to be substantially different. In regards to the Senior Term Facility, the determination as to whether the 2005 Senior Term Facility and the new Senior Term Facility
+
+[p. 14]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+were considered to be substantially different was made on a lender by lender basis using the "net method" which compares the cash flows related to the lowest common principal balance between the old and new instruments.
+
+In March 2011, Hertz entered into a credit agreement that provides a $1,400.0 million secured term loan facility (as amended, the "Senior Term Facility"). In addition, the Senior Term Facility includes a pre-funded synthetic letter of credit facility in an aggregate principal amount of $200.0 million. Subject to the satisfaction of certain conditions and limitations, the Senior Term Facility allows for the addition of incremental term and/or revolving loans. Hertz used approximately $1,345.0 million of borrowings under the Senior Term Facility to refinance indebtedness under the 2005 Senior Term Facility. We reflected this transaction on a gross basis in our Consolidated Statement of Cash Flows in "Proceeds from issuance of long-term debt" and "Payment of long-term debt." During the three months ended March 31, 2011, we recorded financing costs of $6.6 million in "Interest expense" on our consolidated statement of operations associated with the new Senior Term Facility.
+
+In March 2011, Hertz, Hertz Equipment Rental Corporation and certain other of our subsidiaries entered into a credit agreement that provides for aggregate maximum borrowings of $1,800.0 million (subject to borrowing base availability) on a revolving basis under an asset-based revolving credit facility (as amended, the "Senior ABL Facility"). Up to $1,500.0 million of the Senior ABL Facility is available for the issuance of letters of credit subject to certain conditions including issuing lender participation. Subject to the satisfaction of certain conditions and limitations, the Senior ABL Facility allows for the addition of incremental revolving and/or term loan commitments. In addition, the Senior ABL Facility permits Hertz to increase the amount of commitments under the Senior ABL with the consent of each lender providing an additional commitment, subject to satisfaction of certain conditions.
+
+In March 2011, Hertz amended the Canadian Securitization to extend the maturity date from May 2011 to November 2011.
+
+Registration Rights
+
+Pursuant to the terms of exchange and registration rights agreements entered into in connection with the separate issuances of the 7.5% Senior Notes due 2018, the 7.375% Senior Notes due 2021 and the 6.75% Senior Notes due 2019, Hertz has agreed to file a registration statement under the Securities Act of 1933, as amended, to permit either the exchange of such notes for registered notes or, in the alternative, the registered resale of such notes. Hertz's failure to meet its obligations under the exchange and registration rights agreements, including by failing to have the respective registration statement become effective by a specified date or failing to complete the respective exchange offer by a specified date, will result in Hertz incurring special interest on such notes at a per annum rate of 0.25% for the first 90 days of any period where a default has occurred and is continuing, which rate will be increased by an additional 0.25% during each subsequent 90 day period, up to a maximum of 0.50%. On March 23, 2011, Hertz filed a registration statement for such notes. We do not believe the special interest obligation is probable, and as such, we have not recorded any amounts with respect to this registration payment arrangement.
+
+Guarantees and Security
+
+There have been no material changes to the guarantees and security provisions of the debt instruments and credit facilities under which our indebtedness as of March 31, 2011 has been issued from the terms as disclosed in our Form 10-K.
+
+[p. 15]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Financial Covenant Compliance
+
+Under the new terms of our amended Senior Term Facility and Senior ABL Facility, we are not subject to ongoing financial maintenance covenants; however, under the Senior ABL Facility we are subject to a springing financial maintenance covenant upon the occurrence of certain triggering events. As of March 31, 2011, no triggering event had occurred requiring testing of the springing financial maintenance covenant.
+
+Borrowing Capacity and Availability
+
+As of March 31, 2011, the following facilities were available for the use of Hertz and its subsidiaries (in millions of dollars):
+
+Remaining Capacity | Availability Under Borrowing Base Limitation
+Corporate Debt
+Senior ABL Facility | $1,800.0 | $896.4
+Total Corporate Debt | 1,800.0 | 896.4
+Fleet Debt
+U.S. Fleet Variable Funding Notes | 455.1 | 90.5
+U.S. Fleet Financing Facility | 2.0 | 2.0
+European Revolving Credit Facility | 154.4 | 154.4
+European Securitization | 314.6 | 71.6
+Canadian Securitization | 148.3 | 4.8
+Australian Securitization | 86.4 | 7.6
+Brazilian Fleet Financing Facility | 0.9 | 0.9
+Capitalized Leases | 108.1 | 28.9
+Total Fleet Debt | 1,269.8 | 360.7
+Total | $3,069.8 | $1,257.1
+
+Our borrowing capacity and availability primarily comes from our "revolving credit facilities," which are a combination of asset-backed securitization facilities and asset-based revolving credit facilities. Creditors under each of our revolving credit facilities have a claim on a specific pool of assets as collateral. Our ability to borrow under each revolving credit facility is a function of, among other things, the value of the assets in the relevant collateral pool. We refer to the amount of debt we can borrow given a certain pool of assets as the "borrowing base."
+
+We refer to "Remaining Capacity" as the maximum principal amount of debt permitted to be outstanding under the respective facility (i.e., the amount of debt we could borrow assuming we possessed sufficient assets as collateral) less the principal amount of debt then-outstanding under such facility.
+
+We refer to "Availability Under Borrowing Base Limitation" and "borrowing base availability" as the lower of Remaining Capacity or the borrowing base less the principal amount of debt then-outstanding under such facility (i.e., the amount of debt we could borrow given the collateral we possess at such time).
+
+As of March 31, 2011, the Senior Term Facility had approximately $3.2 million available under the letter of credit facility and the Senior ABL Facility had $1,095.2 million available under the letter of credit facility sublimit, subject to borrowing base restrictions.
+
+[p. 16]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Substantially all of our revenue earning equipment and certain related assets are owned by special purpose entities, or are encumbered in favor of our lenders under our various credit facilities.
+
+Some of these special purpose entities are consolidated variable interest entities, of which Hertz is the primary beneficiary, whose sole purpose is to provide commitments to lend in various currencies subject to borrowing bases comprised of rental vehicles and related assets of certain of Hertz International, Ltd.'s subsidiaries. As of March 31, 2011 and December 31, 2010, our International Fleet Financing No. 1 B.V., International Fleet Financing No. 2 B.V. and HA Funding Pty, Ltd. variable interest entities had total assets primarily comprised of loans receivable and revenue earning equipment of $503.0 million and $652.1 million, respectively, and total liabilities primarily comprised of debt of $502.5 million and $651.6 million, respectively.

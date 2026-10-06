@@ -1,0 +1,160 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-K for the fiscal year ended December 31, 2012, filed 2013-03-04. Item 8, Notes to Consolidated Financial Statements, Note 2: Summary of Significant Accounting Policies. https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm
+
+[p. 79]
+
+Note 2—Summary of Significant Accounting Policies
+
+Principles of Consolidation
+
+The consolidated financial statements include the accounts of Hertz Holdings and our wholly owned and majority owned domestic and international subsidiaries. In the event that Hertz Holdings is a primary beneficiary of a variable interest entity, the assets, liabilities, and results of operations of the variable interest entity will be included in our consolidated financial statements. All significant intercompany transactions have been eliminated in consolidation.
+
+Use of Estimates and Assumptions
+
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America, or “GAAP,” requires management to make estimates and assumptions that affect the amounts reported in the financial statements and footnotes. Actual results could differ materially from those estimates.
+
+[p. 80]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Significant estimates inherent in the preparation of the consolidated financial statements include depreciation of revenue earning equipment, reserves for litigation and other contingencies, accounting for income taxes and related uncertain tax positions, pension and postretirement benefit costs, the fair value of assets and liabilities acquired in business combinations, the recoverability of long-lived assets, useful lives and impairment of long-lived tangible and intangible assets including goodwill, valuation of stock based compensation, public liability and property damage reserves, reserves for restructuring, allowance for doubtful accounts, and fair value of derivatives, among others.
+
+Reclassifications
+
+Certain prior period amounts have been reclassified to conform with current year presentation.
+
+Acquisition Accounting
+
+We account for business combinations using the acquisition method, which requires an allocation of the purchase price of an acquired entity to the assets acquired and liabilities assumed based on their estimated fair values at the date of acquisition. Goodwill represents the excess of the purchase price over the net tangible and intangible assets acquired.
+
+Revenue Recognition
+
+Rental and rental related revenue (including cost reimbursements from customers where we consider ourselves to be the principal versus an agent) are recognized over the period the revenue earning equipment is rented or leased based on the terms of the rental or leasing contract. Maintenance management administrative fees are recognized monthly and maintenance management service revenue is recognized when services are performed. Revenue related to new equipment sales and consumables is recognized at the time of delivery to, or pick-up by, the customer and when collectability is reasonably assured. Fees from our licensees are recognized over the period the underlying licensees' revenue is earned (over the period the licensees' revenue earning equipment is rented). Certain truck and equipment leases are originated with the intention of syndicating to banks, and upon the sale of rights to these direct financing leases, the net gain is recorded in revenue.
+
+Sales tax amounts collected from customers have been recorded on a net basis.
+
+Cash and Cash Equivalents and Other
+
+We consider all highly liquid debt instruments purchased with an original maturity of three months or less to be cash equivalents.
+
+In our consolidated statements of cash flows, we net cash flows from revolving borrowings in the line item “Proceeds (payments) under the revolving lines of credit, net.” The contractual maturities of such borrowings may exceed 90 days in certain cases.
+
+Restricted Cash and Cash Equivalents
+
+Restricted cash and cash equivalents includes cash and cash equivalents that are not readily available for our normal disbursements. Restricted cash and cash equivalents are restricted for the purchase of revenue earning vehicles and other specified uses under our Fleet Debt facilities, for our Like-Kind Exchange Program, or “LKE Program,” and to satisfy certain of our self-insurance regulatory reserve requirements.  These funds are primarily held in highly rated money market funds with investments primarily in government and corporate obligations. Restricted cash and cash equivalents are excluded from cash and cash equivalents.
+
+Concentration of Credit Risk
+
+Our cash and cash equivalents are invested in various investment grade institutional money market accounts and bank term deposits. Deposits held at banks may exceed the amount of insurance provided on such deposits. Generally, these deposits may be redeemed upon demand and are maintained with financial institutions with reputable credit and therefore bear minimal credit risk. We seek to mitigate such risks by spreading the risk across multiple counterparties and monitoring the risk profiles of these counterparties. In addition, we have credit risk from derivative financial instruments used in hedging activities. We limit our exposure relating to derivative financial instruments by diversifying the financial instruments among various counterparties, which consist of major financial institutions.
+
+[p. 81]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Receivables
+
+Receivables are stated net of allowances for doubtful accounts and represent credit extended to manufacturers and customers that satisfy defined credit criteria. The estimate of the allowance for doubtful accounts is based on our historical experience and our judgment as to the likelihood of ultimate payment. Actual receivables are written-off against the allowance for doubtful accounts when we determine the balance will not be collected. Bad debt expense is reflected as a component of "Selling, general and administrative" in our consolidated statements of operations.
+
+Property and Equipment
+
+Property and equipment are stated at cost and are depreciated utilizing the straight-line method over the estimated useful lives of the related assets. Leasehold improvements are amortized over the estimated useful lives of the related assets or leases, whichever is shorter. Useful lives are as follows:
+
+Buildings | 3 to 50 years
+Furniture and fixtures | 1 to 15 years
+Capitalized internal use software | 1 to 15 years
+Service cars and service equipment | 1 to 13 years
+Other intangible assets | 3 to 20 years
+Leasehold improvements | The shorter of their economic lives or the lease term
+
+We follow the practice of charging maintenance and repairs, including the cost of minor replacements, to maintenance expense accounts. Costs of major replacements of units of property are capitalized to property and equipment accounts and depreciated on the basis indicated above. Gains and losses on dispositions of property and equipment are included in income as realized. During the years ended December 31, 2012 and 2011, gains from the dispositions of property and equipment of $6.3 million and $43.1 million, respectively, were included in "Direct operating" in our consolidated statements of operations.
+
+Revenue Earning Equipment
+
+Revenue earning equipment is stated at cost, net of related discounts. Useful lives are as follows:
+
+Cars | 4 to 28 months
+Other equipment | 24 to 108 months
+
+Generally, when revenue earning equipment is acquired, we estimate the period that we will hold the asset, primarily based on historical measures of the amount of rental activity (e.g., automobile mileage and equipment usage) and the targeted age of equipment at the time of disposal. We also estimate the residual value of the applicable revenue earning equipment at the expected time of disposal. The residual values for rental vehicles are affected by many factors, including make, model and options, age, physical condition, mileage, sale location, time of the year and channel of disposition (e.g., auction, retail, dealer direct). The residual value for rental equipment is affected by factors which include equipment age and amount of usage. Depreciation is recorded on a straight-line basis over the estimated holding period. Depreciation rates are reviewed on a quarterly basis based on management's ongoing assessment of present and estimated future market conditions, their effect on residual values at the time of disposal and the estimated holding periods. Market conditions for used vehicle and equipment sales can also be affected by external factors such as the economy, natural disasters, fuel prices and incentives offered by manufacturers of new cars. These key factors are considered when estimating future residual values and assessing depreciation rates. As a result of this ongoing assessment, we make periodic adjustments to depreciation rates of revenue earning equipment in response to changed market conditions. Upon disposal of revenue earning equipment, depreciation expense is adjusted for the difference between the net proceeds received and the remaining net book value.
+
+Within Donlen, revenue earning equipment is under longer term lease agreements with our customers. These leases contain provisions whereby we have a contracted residual value guaranteed to us by the lessee, such that we do not experience any gains or losses on the disposal of these vehicles. Therefore depreciation rates on these vehicles are not adjusted at any point in time per the associated lease contract.
+
+[p. 82]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Environmental Liabilities
+
+The use of automobiles and other vehicles is subject to various governmental controls designed to limit environmental damage, including that caused by emissions and noise. Generally, these controls are met by the manufacturer, except in the case of occasional equipment failure requiring repair by us. To comply with environmental regulations, measures are taken at certain locations to reduce the loss of vapor during the fueling process and to maintain, upgrade and replace underground fuel storage tanks. We also incur and provide for expenses for the cleanup of petroleum discharges and other alleged violations of environmental laws arising from the disposition of waste products. We do not believe that we will be required to make any material capital expenditures for environmental control facilities or to make any other material expenditures to meet the requirements of governmental authorities in this area. Liabilities for these expenditures are recorded at undiscounted amounts when it is probable that obligations have been incurred and the amounts can be reasonably estimated.
+
+Public Liability and Property Damage
+
+The obligation for public liability and property damage on self-insured U.S. and international vehicles and equipment represents an estimate for both reported accident claims not yet paid, and claims incurred but not yet reported. The related liabilities are recorded on a non-discounted basis. Reserve requirements are based on actuarial evaluations of historical accident claim experience and trends, as well as future projections of ultimate losses, expenses, premiums and administrative costs. The adequacy of the liability is regularly monitored based on evolving accident claim history and insurance-related state legislation changes. If our estimates change or if actual results differ from these assumptions, the amount of the recorded liability is adjusted to reflect these results.
+
+Pension Benefit Obligations
+
+Our employee pension costs and obligations are developed from actuarial valuations. Inherent in these valuations are key assumptions, including discount rates, salary growth, long-term return on plan assets, retirement rates, mortality rates and other factors. Actual results that differ from our assumptions are accumulated and amortized over future periods and, therefore, generally affect our recognized expense in such future periods. While we believe that the assumptions used are appropriate, significant differences in actual experience or significant changes in assumptions would affect our pension costs and obligations.
+
+Foreign Currency Translation and Transactions
+
+Assets and liabilities of international subsidiaries are translated at the rate of exchange in effect on the balance sheet date; income and expenses are translated at the average rate of exchange prevailing during the year. The related translation adjustments are reflected in “Accumulated other comprehensive loss” in the equity section of our consolidated balance sheets. As of December 31, 2012 and 2011, the accumulated foreign currency translation gain was $102.7 million and $91.3 million, respectively. Foreign currency gains and losses resulting from transactions are included in earnings.
+
+Derivative Instruments
+
+We are exposed to a variety of market risks, including the effects of changes in interest rates, gasoline and diesel fuel prices and foreign currency exchange rates. We manage our exposure to these market risks through our regular operating and financing activities and, when deemed appropriate, through the use of derivative financial instruments. Derivative financial instruments are viewed as risk management tools and have not been used for speculative or trading purposes. In addition, derivative financial instruments are entered into with a diversified group of major financial institutions in order to manage our exposure to counterparty nonperformance on such instruments. We account for all derivatives in accordance with GAAP, which requires that all derivatives be recorded on the balance sheet as either assets or liabilities measured at their fair value. The effective portion of changes in fair value of derivatives designated as cash flow hedging instruments is recorded as a component of other comprehensive income. The ineffective portion is recognized currently in earnings within the same line item as the hedged item, based upon the nature of the hedged item. For derivative instruments that are not part of a qualified hedging relationship, the changes in their fair value are recognized currently in earnings. See Note 14—Financial Instruments.
+
+Income Taxes
+
+Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases. Deferred tax
+
+[p. 83]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect of a change in tax rates is recognized in the statement of operations in the period that includes the enactment date. Valuation allowances are recorded to reduce deferred tax assets when it is more likely than not that a tax benefit will not be realized. Subsequent changes to enacted tax rates and changes to the global mix of earnings will result in changes to the tax rates used to calculate deferred taxes and any related valuation allowances. Provisions are not made for income taxes on undistributed earnings of international subsidiaries that are intended to be indefinitely reinvested outside of the United States or are expected to be remitted free of taxes. Future distributions, if any, from these international subsidiaries to the United States or changes in U.S. tax rules may require a change to reflect tax on these amounts. See Note 9—Taxes on Income.
+
+Advertising
+
+Advertising and sales promotion costs are expensed the first time the advertising or sales promotion takes place. Advertising costs are reflected as a component of “Selling, general and administrative” in our consolidated statements of operations and for the years ended December 31, 2012, 2011 and 2010 were $158.0 million, $145.8 million and $133.8 million, respectively.
+
+Goodwill
+
+Goodwill is not amortized but is subject to periodic testing for impairment in accordance with Financial Accounting Standards Board, or "FASB," Accounting Standards Codification, or "ASC," Topic 350, “Intangibles—Goodwill and Other,” or “ASC 350,” at the reporting unit level which is one level below our operating segments. The assessment of goodwill impairment is conducted by estimating and comparing the fair value of our reporting units, as defined in ASC 350, to their carrying value as of that date. The fair value is estimated using an income approach whereby the fair value of the reporting unit is based on the future cash flows that each reporting unit's assets can be expected to generate. Future cash flows are based on forward-looking information regarding market share and costs for each reporting unit and are discounted using an appropriate discount rate. Future discounted cash flows can be affected by changes in industry or market conditions or the rate and extent to which anticipated synergies or cost savings are realized with newly acquired entities. The test for impairment is conducted annually each October 1st, and more frequently if events occur or circumstances change that indicate that the fair value of a reporting unit may be below its carrying amount.
+
+Intangible and Long-lived Assets
+
+Intangible assets include concession agreements, technology, customer relationships, trademarks and trade-names and other intangibles. Intangible assets with finite lives are amortized using the straight-line method over the estimated economic lives of the assets, which range from two to fifteen years. Long-lived assets, including intangible assets with finite lives, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of such assets may not be recoverable in accordance with FASB ASC Topic 360, “Property, Plant, and Equipment,” or “ASC 360.” Determination of recoverability is based on an estimate of undiscounted future cash flows resulting from the use of the asset and its eventual disposition. Measurement of an impairment loss for long-lived assets that management expects to hold and use is based on the estimated fair value of the asset. Long-lived assets to be disposed of are reported at the lower of carrying amount or estimated fair value less costs to sell. Intangible assets determined to have indefinite useful lives are not amortized but are tested for impairment annually each October 1st and more frequently if events occur or circumstances change that indicate an asset may be impaired.
+
+Stock‑Based Compensation
+
+We measure the cost of employee services received in exchange for an award of equity instruments based on the grant date fair value of the award. That cost is to be recognized over the period during which the employee is required to provide service in exchange for the award. We have estimated the fair value of options issued at the date of grant using a Black‑Scholes option‑pricing model, which includes assumptions related to volatility, expected life, dividend yield and risk-free interest rate. See Note 7-Stock‑Based Compensation.
+
+We are using equity accounting for restricted stock unit and performance stock unit awards. For restricted stock units the expense is based on the grant-date fair value of the stock and the number of shares that vest, recognized over the service period. For performance stock units the expense is based on the grant-date fair value of the stock, recognized over a two to four year service period depending upon a performance condition. For performance stock units, we re-
+
+[p. 84]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+assess the probability of achieving the applicable performance condition each reporting period and adjust the recognition of expense accordingly. The performance condition is not considered in determining the grant date fair value.
+
+Franchise Revenues and Transactions
+
+“Franchise revenues” includes franchise fees for use of our brands and services. Generally franchise fees from franchised locations are based on a percentage of net sales of the franchised business and are recognized as earned and when collectability is reasonably assured.
+
+Initial franchise fees are recorded as deferred income when received and are recognized as revenue when all material services and conditions related to the franchise fee have been substantially performed.
+
+Renewal franchise fees are recognized as revenue when the license agreements are effective and collectability is reasonably assured.
+
+Other (income) expense, net includes the gains or losses from the sales of our operations or assets to new and existing franchisees. Such gains or losses are included in operating income because they are expected to be a recurring part of our business.
+
+Recently Issued Accounting Pronouncements
+
+In December 2011, the FASB issued Accounting Standards Update, or "ASU," No. 2011-11, "Balance Sheet (Topic 210): Disclosures about Offsetting Assets and Liabilities," or "ASU 2011-11" to amend the requirement for an entity to disclose information about offsetting and related arrangements to enable users of its financial statements to understand the effect of those arrangements on its financial position. An entity should provide the disclosures required by those amendments retrospectively for all comparative periods presented. ASU 2011-11 is effective for annual reporting periods beginning on or after January 1, 2013, and interim periods within those annual periods. We plan to adopt ASU 2011-11 on January 1, 2013, as required, but do not believe this guidance will have a significant impact on our consolidated financial statements or financial statement disclosures.
+
+In July 2012, the FASB issued ASU No. 2012-02, "Intangibles—Goodwill and Other (Topic 350): Testing Indefinite-Lived Intangible Assets for Impairment," or "ASU 2012-02" which states that an entity has the option first to assess qualitative factors to determine whether the existence of events and circumstances indicates that it is more likely than not that an indefinite-lived intangible asset is impaired. If, after assessing the totality of events and circumstances, an entity concludes that it is not more likely than not that the indefinite-lived intangible asset is impaired, then the entity is not required to take further action. However, if an entity concludes otherwise, then it is required to determine the fair value of the indefinite-lived intangible asset and perform the quantitative impairment test by comparing the fair value with the carrying amount. This provision is effective for annual and interim impairment tests performed for fiscal years beginning after September 15, 2012. This accounting guidance is not expected to have a material impact on our consolidated financial statements or financial statement disclosures.
+
+In February 2013, the FASB issued ASU No. 2013-02, "Comprehensive Income (Topic 220): Reporting of Amounts Reclassified Out of Accumulated Other Comprehensive Income," or "ASU 2013-02" which requires disclosure of significant amounts reclassified out of accumulated other comprehensive income by component and their corresponding effect on the respective line items of net income. This guidance is effective for reporting periods beginning after December 15, 2012 and is not expected to have a material impact on our consolidated financial statements or financial statement disclosures.

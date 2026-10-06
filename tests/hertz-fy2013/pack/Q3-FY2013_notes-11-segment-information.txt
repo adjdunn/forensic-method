@@ -1,0 +1,110 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q3 2013 (three and nine months ended 30 Sep 2013), filed 2013-11-07. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 11: Segment Information. https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm
+
+[p. 22]
+
+Note 11—Segment Information
+
+We have identified four reportable segments, which are organized based on the products and services provided by our operating segments and the geographic areas in which our operating segments conduct business, as follows: rental of cars, crossovers and light trucks in the United States, or "U.S. car rental,” rental of cars, crossovers and light trucks internationally, or “international car rental," rental of industrial, construction, material handling and other equipment, or "worldwide equipment rental" and "all other operations," which includes our Donlen operating segment. Our U.S. car rental reportable segment consists of our United States operating segment. Our international car rental reportable segment consists of our Europe and Other International operating segments, which are aggregated into a reportable segment based primarily upon similar economic characteristics, products and services, customers, delivery methods and general regulatory environments. We do not aggregate operating segments in determining our worldwide equipment rental reportable segment. We have grouped information about our Donlen operating segment, which provides fleet leasing and management services and is not considered a separate reportable segment in accordance with applicable accounting standards, together with other business activities, such as our third party claim management services, under "all other operations." Other reconciling items include general corporate assets and expenses and certain interest expense (including net interest on corporate debt).
+
+We historically aggregated our U.S., Europe, Other International and Donlen car rental operating segments together to produce a worldwide car rental reportable segment. We now present our operations as four reportable segments (U.S. car rental, international car rental, worldwide equipment rental and all other operations). We have revised our segment results presented herein to reflect this new segment structure, including for prior periods.
+
+Adjusted pre-tax income is calculated as income before income taxes plus non-cash purchase accounting charges, non-cash debt charges relating to the amortization and write-off of debt financing costs and debt discounts and certain one-time charges and non-operational items. Adjusted pre-tax income is important to management because it allows management to assess operational performance of our business, exclusive of the items mentioned above. It also allows management to assess the performance of the entire business on the same basis as the segment measure of profitability. Management believes that it is important to investors for the same reasons it is important to management and because it allows them to assess our operational performance on the same basis that management uses internally. The contribution of our reportable segments to revenues and adjusted pre-tax income and the reconciliation to consolidated amounts are summarized below (in millions of dollars).
+
+[p. 23]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Three Months Ended September 30,
+Revenues | Adjusted Pre-Tax Income
+2013 | 2012 | 2013 | 2012
+U.S. car rental | $1,765.5 | $1,331.0 | $391.8 | $317.0
+International car rental | 768.6 | 700.6 | 129.4 | 99.4
+Worldwide equipment rental | 401.8 | 363.0 | 87.5 | 76.2
+All other operations | 133.5 | 121.6 | 14.0 | 12.9
+Total | $3,069.4 | $2,516.2 | 622.7 | 505.5
+Adjustments:
+Other reconciling items(1) | (103.2) | (80.7)
+Purchase accounting(2) | (34.3) | (23.9)
+Non-cash debt charges(3) | (17.6) | (20.5)
+Restructuring charges | (36.3) | (1.5)
+Restructuring related charges(4) | (2.9) | (2.0)
+Derivative gains (losses)(5) | (0.5) | 0.1
+Acquisition related costs | (3.4) | (8.1)
+Integration expenses(6) | (8.3) | —
+Relocation costs | (3.9) | —
+Impairment charges(7) | (44.0) | —
+Other(8) | (40.0) | —
+Income before income taxes | $328.3 | $368.9
+
+Nine Months Ended September 30,
+Revenues | Adjusted Pre-Tax Income
+2013 | 2012 | 2013 | 2012
+U.S. car rental | $4,848.0 | $3,599.6 | $934.6 | $658.4
+International car rental | 1,838.3 | 1,754.0 | 125.8 | 106.4
+Worldwide equipment rental | 1,137.1 | 1,000.1 | 207.1 | 144.6
+All other operations | 397.2 | 348.6 | 41.2 | 34.5
+Total | $8,220.6 | $6,702.3 | 1,308.7 | 943.9
+Adjustments:
+Other reconciling items(1) | (330.2) | (255.8)
+Purchase accounting(2) | (99.8) | (76.9)
+Non-cash debt charges(3) | (54.4) | (66.3)
+Restructuring charges | (57.6) | (24.3)
+Restructuring related charges(4) | (14.2) | (10.3)
+Derivative gains (losses)(5) | (0.5) | 0.1
+Acquisition related costs | (13.7) | (19.6)
+Integration expenses(6) | (29.1) | —
+Relocation costs | (4.4) | —
+Impairment charges(7) | (44.0) | —
+Other(8) | (48.4) | —
+Income before income taxes | $612.4 | $490.8
+
+_______________________________________________________________________________
+
+(1) | Represents general corporate expenses and certain interest expense (including net interest on corporate debt).
+
+(2) | Represents the purchase accounting effects of the 2005 sale of all of Hertz's stock on our results of operations relating to increased depreciation and amortization of tangible and intangible assets and accretion of revalued workers' compensation and public liability and
+
+[p. 24]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+property damage liabilities. Also represents the purchase accounting effects of certain subsequent acquisitions on our results of operations relating to increased depreciation and amortization of tangible and intangible assets.
+
+(3) | Represents non-cash debt charges relating to the amortization and write-off of deferred debt financing costs and debt discounts.
+
+(4) | Represents incremental costs incurred directly supporting our business transformation initiatives. Such costs include transition costs incurred in connection with our business process outsourcing arrangements and incremental costs incurred to facilitate business process re-engineering initiatives that involve significant organization redesign and extensive operational process changes.
+
+(5) | Represents the mark-to-market adjustment on our interest rate caps.
+
+(6) | Primarily represents Dollar Thrifty integration related expenses and adjustments.
+
+(7) | Related to FSNA and its subsidiary, Simply Wheelz. See Note 18—Subsequent Events.
+
+(8) | Primarily represents expenses related to the loss on conversion of the convertible senior notes.
+
+Total consolidated assets increased $2,285.8 million from December 31, 2012 to September 30, 2013. The increase was primarily related to an increase in our U.S. car rental, international car rental, worldwide equipment rental and all other operations segments' revenue earning equipment, driven by increased volumes, as well as our strategic investment in China Auto Rental, partly offset by a decrease in fleet receivables within our U.S. car rental segment, primarily related to the timing of purchases and sales of revenue earning equipment.
+
+As a result of the disaggregation of our Donlen operating segment from our worldwide car rental reportable segment, the total assets attributable to our worldwide car rental reportable segment as of September 30, 2013 are materially different from the total assets attributable to such segment as of December 31, 2012 and 2011, as set forth in our Form 10-K. The table below sets forth the total assets attributable to our reportable segments and a reconciliation of such amounts to our total consolidated assets as of September 30, 2013 and December 31, 2012 and 2011, as restated to reflect the change in the composition of our reportable segments (in millions of dollars).
+
+As of September 30, | As of December 31,
+2013 | 2012 | 2011
+Total assets
+U.S. car rental | $14,772.4 | $13,608.2 | $8,330.2
+International car rental | 4,302.1 | 3,543.9 | 3,378.9
+Equipment rental | 3,839.4 | 3,623.0 | 3,058.9
+All other operations | 1,341.5 | 1,305.8 | 1,332.7
+Other reconciling items | 1,316.4 | 1,205.1 | 1,572.8
+Total | $25,571.8 | $23,286.0 | $17,673.5
+
+[p. 25]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited

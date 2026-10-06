@@ -1,0 +1,45 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q3 2013 (three and nine months ended 30 Sep 2013), filed 2013-11-07. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 17: Earnings Per Share. https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm
+
+[p. 36]
+
+Note 17—Earnings Per Share
+
+Basic earnings per share has been computed based upon the weighted average number of common shares outstanding. Diluted earnings per share has been computed based upon the weighted average number of common shares outstanding plus the effect of all potentially dilutive common stock equivalents, except when the effect would be anti-dilutive.
+
+The following table sets forth the computation of basic and diluted earnings per share (in millions, except per share amounts):
+
+Three Months Ended September 30, | Nine Months Ended September 30,
+2013 | 2012 | 2013 | 2012
+Basic and diluted earnings per share:
+Numerator:
+Net income attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders, basic | $214.7 | $242.9 | $354.1 | $279.5
+Interest on Convertible Senior Notes, net of tax | 2.2 | — | 7.0 | —
+Net income attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders, diluted | $216.9 | $242.9 | $361.1 | $279.5
+Denominator:
+Weighted average shares used in basic computation | 424.9 | 420.6 | 413.9 | 419.6
+Add: Stock options, RSUs and PSUs | 7.0 | 4.0 | 6.8 | 5.0
+Add: Potential issuance of common stock upon conversion of Convertible Senior Notes | 33.1 | 20.9 | 43.0 | 22.5
+Weighted average shares used in diluted computation | 465.0 | 445.5 | 463.7 | 447.1
+Earnings per share attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders, basic | $0.51 | $0.58 | $0.86 | $0.67
+Earnings per share attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders, diluted | $0.47 | $0.55 | $0.78 | $0.63
+
+Diluted earnings per share computations for the three and nine months ended September 30, 2013 excluded the weighted-average impact of the assumed exercise of approximately 0.1 million shares of stock options, RSUs and PSUs, because such impact would be antidilutive. Diluted earnings per share computations for the three and nine months ended September 30, 2012 excluded the weighted-average impact of the assumed exercise of approximately 5.3 million and 5.1 million shares, respectively, of stock options, RSUs and PSUs, because such impact would be antidilutive.
+
+In March 2013, the Sponsors sold 60,050,777 shares of their Hertz Holdings common stock to Citigroup Global Markets Inc. and Barclays Capital Inc. as the underwriters in the registered public offering of those shares. In connection with the offering, Hertz Holdings repurchased from the underwriters 23,200,000 of the 60,050,777 shares of common stock sold by the Sponsors.
+
+Prior to this repurchase transaction, we had a policy of settling the conversion of Convertible Senior Notes using a combination of cash and shares of our common stock. Upon completion of the share repurchase from the underwriters, we announced a change to our former settlement policy and stated our intention to settle the Convertible Senior Notes in 100% shares of our common stock.
+
+In August 2013, we entered into privately negotiated agreements with certain holders of approximately $390.1 million in aggregate principal amount of our Convertible Senior Notes providing for the conversion of Convertible Senior Notes
+
+[p. 37]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+in accordance with the terms of the indenture governing the Convertible Senior Notes. The Convertible Senior Notes were convertible at a rate of 120.6637 shares of Hertz Holdings' common stock for each $1,000 in principal amount of Convertible Senior Notes (with cash delivered in lieu of any fractional shares), which resulted in Hertz Holdings issuing an aggregate of approximately 47.1 million shares of its common stock and paying cash premiums of approximately $11.9 million. Prior to the foregoing conversions, there was approximately $474.7 million in aggregate principal amount of the Convertible Senior Notes outstanding. As of September 30, 2013, approximately $84.6 million in aggregate principal amount of the Convertible Senior Notes remain outstanding.
+
+In addition to the impact the repurchased shares had on our weighted shares outstanding for the period, the announcement of the policy change resulted in an adjustment to the numerator (net income) of our earnings per share computation. The numerator was adjusted to add back the after-tax amount of interest recognized in the period associated with the Convertible Senior Notes on the same pro rata basis.
+
+We have calculated our weighted average shares outstanding in accordance with the applicable accounting guidance which provides that the number of shares is determined by relating the portion of time within a reporting period that common shares have been outstanding to the total time in that period.

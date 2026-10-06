@@ -1,0 +1,37 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q1 2011 (three months ended 31 Mar 2011), filed 2011-05-06. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 8: Employee Retirement Benefits. https://www.sec.gov/Archives/edgar/data/1364479/000104746911004720/a2203910z10-q.htm
+
+[p. 16]
+
+Note 8—Employee Retirement Benefits
+
+The following table sets forth the net periodic pension and postretirement (including health care, life insurance and auto) expense (in millions of dollars):
+
+Pension Benefits
+Postretirement Benefits (U.S.)
+U.S. | Non-U.S.
+Three Months Ended March 31,
+2011 | 2010 | 2011 | 2010 | 2011 | 2010
+Components of Net Periodic Benefit Cost:
+Service cost | $6.2 | $6.7 | $1.7 | $1.3 | $0.1 | $0.1
+Interest cost | 6.5 | 6.8 | 2.8 | 2.6 | 0.2 | 0.2
+Expected return on plan assets | (7.1) | (6.7) | (3.1) | (2.5) | — | —
+Net amortization | 2.0 | 1.7 | (0.3) | (0.1) | — | (0.1)
+Settlement loss | 0.3 | 0.3 | — | — | — | —
+Net pension/postretirement expense | $7.9 | $8.8 | $1.1 | $1.3 | $0.3 | $0.2
+
+Our policy for funded plans is to contribute annually, at a minimum, amounts required by applicable laws, regulations and union agreements. From time to time we make contributions beyond those legally required. For the three months ended March 31, 2011 and 2010, we contributed $44.8 million and $36.0 million, respectively, to our worldwide pension plans, including discretionary contributions of $12.3 million and $1.8 million, respectively, to our United Kingdom, or "U.K.," defined benefit pension plan and benefit payments made through unfunded plans. Based upon the significant decline in asset values in 2008, which were in line with the overall market declines, it is likely we will continue to make cash contributions in 2011 and possibly in future years.
+
+We sponsor a defined benefit pension plan in the U.K. In January 2011, we tentatively agreed with the trustees of that plan to cease all future benefit accruals and to close the plan to members, contingent on the outcome of the consultation process with employees that ends in May. We will introduce a defined contribution plan with company matching contributions to replace the defined benefit pension plan. The company matching contributions will generally be 100% of the employee contributions, up to 8% of pay, except that current members of the defined benefit plan will receive an enhanced match for five years.
+
+Our obligation for the U.K. pension plan was $163.4 million, with a fair value of assets of about $145.6 million, as of December 31, 2010. We recognized expense of $1.3 million in 2010.
+
+[p. 17]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+If the proposal to close the scheme occurs during 2011, then this will result in somewhat lower contributions this year into the defined benefit plan, which will be offset by matching contributions to the new defined contribution plan.
+
+We participate in various "multiemployer" pension plans. In the event that we withdraw from participation in one of these plans, then applicable law could require us to make an additional lump-sum contribution to the plan, and we would have to reflect that as an expense in our consolidated statement of operations and as a liability on our condensed consolidated balance sheet. Our withdrawal liability for any multiemployer plan would depend on the extent of the plan's funding of vested benefits. At least one multiemployer plan in which we participate is reported to have, and other of our multiemployer plans could have, significant underfunded liabilities. Such underfunding may increase in the event other employers become insolvent or withdraw from the applicable plan or upon the inability or failure of withdrawing employers to pay their withdrawal liability. In addition, such underfunding may increase as a result of lower than expected returns on pension fund assets or other funding deficiencies.

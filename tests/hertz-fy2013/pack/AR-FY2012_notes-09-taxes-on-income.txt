@@ -1,0 +1,112 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-K for the fiscal year ended December 31, 2012, filed 2013-03-04. Item 8, Notes to Consolidated Financial Statements, Note 9: Taxes on Income. https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm
+
+[p. 113]
+
+Note 9—Taxes on Income
+
+The components of income (loss) before income taxes for the periods were as follows (in millions of dollars):
+
+Years ended December 31,
+2012 | 2011 | 2010
+Domestic | $355.3 | $186.3 | $(128.1)
+Foreign | 95.2 | 138.0 | 113.5
+Total | $450.5 | $324.3 | $(14.6)
+
+[p. 114]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+The total provision (benefit) for taxes on income consists of the following (in millions of dollars):
+
+Years ended December 31,
+2012 | 2011 | 2010
+Current:
+Federal | $8.6 | $0.6 | $0.1
+Foreign | 32.2 | 30.6 | 41.5
+State and local | 39.1 | 28.5 | 1.5
+Total current | 79.9 | 59.7 | 43.1
+Deferred:
+Federal | 134.8 | 76.2 | (25.0)
+Foreign | 11.9 | (3.2) | 1.3
+State and local | (19.1) | (4.2) | (2.7)
+Total deferred | 127.6 | 68.8 | (26.4)
+Total provision (benefit) | $207.5 | $128.5 | $16.7
+
+The principal items of the U.S. and foreign net deferred tax assets and liabilities at December 31, 2012 and 2011 are as follows (in millions of dollars):
+
+2012 | 2011
+Deferred Tax Assets:
+Employee benefit plans | $103.6 | $102.8
+Net operating loss carryforwards | 1,610.9 | 1,743.5
+Foreign tax credit carryforwards | 20.8 | 20.8
+Federal, state and foreign local tax credit carryforwards | 26.8 | 15.0
+Accrued and prepaid expenses | 323.1 | 300.8
+Total Deferred Tax Assets | 2,085.2 | 2,182.9
+Less: Valuation Allowance | (226.4) | (186.7)
+Total Net Deferred Tax Assets | 1,858.8 | 1,996.2
+Deferred Tax Liabilities:
+Depreciation on tangible assets | (3,081.4) | (2,742.3)
+Intangible assets | (1,477.1) | (942.4)
+Total Deferred Tax Liabilities | (4,558.5) | (3,684.7)
+Net Deferred Tax Liability | (2,699.7) | (1,688.5)
+
+As of December 31, 2012, deferred tax assets of $1,294.3 million were recorded for unutilized U.S. Federal Net Operating Losses, or “NOL,” carry forwards of $3,697.9 million. The total Federal NOL carry forwards are $3,775.0 million of which $77.1 million relate to excess tax deductions associated with stock option plans which have yet to reduce taxes payable. Upon the utilization of these carry forwards, the associated tax benefits of approximately $27.0 million will be recorded to Additional paid-in capital. The Federal NOLs begin to expire in 2025. State NOLs exclusive of the effects of the excess tax deductions, have generated a deferred tax asset of $105.8 million. The state NOLs expire over various years beginning in 2013 depending upon particular jurisdiction.
+
+On January 1, 2009, Bank of America acquired Merrill Lynch. For U.S. income tax purposes the transaction, when combined with other unrelated transactions during the previous 36 months, resulted in a change in control as that term is defined in Section 382 of the Internal Revenue Code. Consequently, utilization of all pre-2009 U.S. net operating losses is subject to an annual limitation. We have calculated the expected annual base limitation as well as additional
+
+[p. 115]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+limitations resulting from a net unrealized built in gain as of the acquisition date and other adjustments. Based on the calculations, the limitation is not expected to result in a loss of net operating losses or have a material adverse impact on taxes.
+
+As of December 31, 2012, deferred tax assets of $248.5 million were recorded for foreign NOL carry forwards of $1,049.0 million. A valuation allowance of $200.6 million at December 31, 2012 was recorded against these deferred tax assets because those assets relate to jurisdictions that have historical losses and the likelihood exists that a portion of the NOL carry forwards may not be utilized in the future.
+
+The foreign NOL carry forwards of $1,049.0 million include $775.5 million which have an indefinite carry forward period and associated deferred tax assets of $170.6 million. The remaining foreign NOLs of $273.5 million are subject to expiration beginning in 2015 and have associated deferred tax assets of $77.9 million.
+
+As of December 31, 2012, deferred tax assets for U.S. Foreign Tax Credit carry forwards were $20.8 million which relate to credits generated as of December 31, 2007. The carry forwards will begin to expire in 2015. A valuation allowance of $13.5 million at December 31, 2012 was recorded against a portion of the U.S. foreign tax credit deferred tax assets in the likelihood that they may not be utilized in the future. A deferred tax asset was also recorded for various state tax credit carry forwards of $3.0 million, which will begin to expire in 2027.
+
+In determining the valuation allowance, an assessment of positive and negative evidence was performed regarding realization of the net deferred tax assets in accordance with ASC 740-10, “Accounting for Income Taxes,” or “ASC 740-10.” This assessment included the evaluation of scheduled reversals of deferred tax liabilities, the availability of carry forwards and estimates of projected future taxable income. Based on the assessment, as of December 31, 2012, total valuation allowances of $226.4 million were recorded against deferred tax assets. Although realization is not assured, we have concluded that it is more likely than not the remaining deferred tax assets of $1,858.8 million will be realized and as such no valuation allowance has been provided on these assets.
+
+The significant items in the reconciliation of the statutory and effective income tax rates consisted of the following:
+
+Years ended December 31,
+2012 | 2011 | 2010
+Statutory Federal Tax Rate | 35.0% | 35.0% | 35.0%
+Foreign tax differential | (3.5) | (3.8) | 70.9
+State and local income taxes, net of federal income tax benefit | 3.1 | 3.9 | 13.1
+Change in state statutory rates, net of federal income tax benefit | (1.1) | 0.7 | (11.2)
+Federal and foreign permanent differences | 2.5 | (1.4) | 52.9
+Withholding taxes | 1.9 | 2.3 | (58.0)
+Uncertain tax positions | (0.7) | (1.0) | (24.8)
+Change in valuation allowance | 8.8 | 0.7 | (187.7)
+All other items, net | — | 3.2 | (4.0)
+Effective Tax Rate | 46.0% | 39.6% | (113.8)%
+
+The effective tax rate for the year ended December 31, 2012 was 46.0% as compared to 39.6% in the year ended December 31, 2011. The provision for taxes on income increased $79.0 million, primarily due to higher income before income taxes, changes in geographic earnings mix, changes in valuation allowances for losses in certain non-U.S. jurisdictions for which tax benefits cannot be realized and non-deductible compensation payments under Internal Revenue Code Section 280(G) related to the Dollar Thrifty acquisition.
+
+The negative effective tax rate in 2010 is primarily due to a lower loss before income taxes in 2010, valuation allowances for losses in certain non-U.S. jurisdictions for which tax benefits cannot be realized and differences in foreign tax rates versus the U.S. Federal tax rate and the impact of the France law change in 2010.
+
+[p. 116]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+As of December 31, 2012, our foreign subsidiaries have $270.3 million of undistributed earnings which would be subject to taxation if repatriated. Deferred tax liabilities have not been recorded for such earnings because it is management's current intention to permanently reinvest undistributed earnings offshore. It is not practicable to estimate the amount of such deferred tax liabilities. If, in the future, undistributed earnings are repatriated to the United States, or it is determined such earnings will be repatriated in the foreseeable future, deferred tax liabilities will be recorded.
+
+As of December 31, 2012, total unrecognized tax benefits were $17.2 million, all of which, if recognized, would favorably impact the effective tax rate in future periods. A reconciliation of the beginning and ending amount of unrecognized tax benefits is as follows (in millions of dollars):
+
+2012 | 2011 | 2010
+Balance at January 1 | $21.6 | $27.2 | $25.6
+Increase (decrease) attributable to tax positions taken during prior periods | (6.8) | (9.5) | 0.3
+Increase attributable to tax positions taken during the current year | 2.4 | 3.9 | 1.3
+Decrease attributable to settlements with taxing authorities | — | — | —
+Balance at December 31 | $17.2 | $21.6 | $27.2
+
+We conduct business globally and, as a result, file one or more income tax returns in the U.S. and non-U.S. jurisdictions. In the normal course of business we are subject to examination by taxing authorities throughout the world. The open tax years for these jurisdictions span from 2003 to 2012. We are currently under audit by the Internal Revenue Service for tax years 2006 to 2009. Several U.S. state and non-U.S. jurisdictions are under audit.
+
+In many cases the uncertain tax positions are related to tax years that remain subject to examination by the relevant taxing authorities. It is reasonable that approximately $6.8 million of unrecognized tax benefits may reverse within the next twelve months due to settlement with the relevant taxing authorities and/or the filing of amended income tax returns.
+
+Net, after-tax interest and penalties related to the liabilities for unrecognized tax benefits are classified as a component of “Provision for taxes on income” in the consolidated statement of operations. During the years ended December 31, 2012, 2011 and 2010, approximately $0.6 million, $1.9 million and $0.2 million, respectively, in net, after-tax interest and penalties were recognized. As of December 31, 2012 and 2011, approximately $4.2 million and $3.7 million, respectively, of net, after-tax interest and penalties was accrued in our consolidated balance sheet within "Accrued taxes."

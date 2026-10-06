@@ -1,0 +1,283 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-K for the fiscal year ended December 31, 2011, filed 2012-02-27. Item 8, Notes to Consolidated Financial Statements, Note 5: Employee Retirement Benefits. https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm
+
+[p. 113]
+
+Note 5—Employee Retirement Benefits
+
+Qualified U.S. employees, after completion of specified periods of service, are eligible to participate in The Hertz Corporation Account Balance Defined Benefit Pension Plan, or the "Hertz Retirement Plan," a cash balance plan. Under this qualified Hertz Retirement Plan, we pay the entire cost and employees are not required to contribute.
+
+Most of our international subsidiaries have defined benefit retirement plans or participate in various insured or multiemployer plans. In certain countries, when the subsidiaries make the required funding payments, they have no further obligations under such plans.
+
+Company plans are generally funded, except for certain nonqualified U.S. defined benefit plans and in Germany, where unfunded liabilities are recorded.
+
+We sponsor defined contribution plans for certain eligible U.S. and non-U.S. employees. We match contributions of participating employees on the basis specified in the plans.
+
+An amendment to the Hertz Corporation Account Balance Defined Benefit Plan took effect on January 1, 2012. A fixed interest rate of 3% will be applied to cash balance credits in 2012 and later years. Previously, it was the rate published by the Pension Benefit Guarantee Corporation, or "PGBC," for the December prior to the year the credit was earned. Also effective January 1, 2012, service credit rates for each employee will be determined on the first day of the year.
+
+We sponsored a defined benefit pension plan in the U.K. On June 30, 2011, we approved an agreement with the trustees of that plan to cease all future benefit accruals to existing members and to close the plan to new members. Effective July 1, 2011, we introduced a defined contribution plan with company matching contributions to replace the defined benefit pension plan. The company matching contributions are generally 100% of the employee contributions, up to 8% of pay, except that former members of the defined benefit plan receive an enhanced match for five years. This will result in lower contributions this year into the defined benefit plan, which will be offset by matching contributions to the new defined contribution plan. In the year ended December 31, 2011, we recognized a gain of $13.1 million for the U.K. plan that represented unamortized prior service cost from a 2010 amendment that eliminated discretionary pension increases related to pre-1997 service primarily related to inactive employees.
+
+We also sponsor postretirement health care and life insurance benefits for a limited number of employees with hire dates prior to January 1, 1990. The postretirement health care plan is contributory with participants' contributions adjusted annually. An unfunded liability is recorded. We also have a key
+
+[p. 114]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+officer postretirement car benefit plan that provides the use of a vehicle for retired Senior Vice Presidents and above who have a minimum of 20 years of service and who retired at age 58 or above.
+
+We use a December 31 measurement date for all our plans.
+
+The following tables set forth the funded status and the net periodic pension cost of the Hertz Retirement Plan, other postretirement benefit plans (including health care and life insurance plans covering domestic ("U.S.") employees and the retirement plans for international operations ("Non-U.S."), together with amounts included in our consolidated balance sheets and statements of operations (in millions of dollars):
+
+Pension Benefits
+Postretirement Benefits (U.S.)
+U.S. | Non-U.S.
+2011 | 2010 | 2011 | 2010 | 2011 | 2010
+Change in Benefit Obligation
+Benefit obligation at January 1 | $549.7 | $504.7 | $201.5 | $191.0 | $19.0 | $13.7
+Service cost | 26.2 | 24.0 | 4.0 | 5.2 | 0.2 | 0.3
+Interest cost | 27.5 | 26.1 | 11.0 | 9.7 | 0.9 | 0.9
+Employee contributions | — | — | 0.7 | 1.1 | 0.9 | 0.9
+Plan amendments | (10.2) | — | — | (13.6) | — | —
+Plan curtailments | — | — | (5.9) | (0.2) | — | —
+Plan settlements | (7.4) | (3.4) | 0.1 | (0.3) | — | —
+Benefits paid | (18.4) | (18.4) | (4.0) | (3.9) | (2.2) | (2.3)
+Foreign exchange translation | — | — | (1.0) | (9.4) | — | —
+Actuarial loss (gain) | 39.0 | 16.7 | (15.1) | 22.7 | (0.6) | 5.5
+Other | — | — | (0.5) | (0.8) | — | —
+Benefit obligation at December 31 | $606.4 | $549.7 | $190.8 | $201.5 | $18.2 | $19.0
+Change in Plan Assets
+Fair value of plan assets at January 1 | $365.9 | $284.2 | $152.8 | $139.2 | $— | $—
+Actual return on plan assets | 15.3 | 43.5 | (7.6) | 17.6 | — | —
+Company contributions | 67.8 | 60.0 | 16.0 | 6.1 | 1.3 | 1.4
+Employee contributions | — | — | 0.7 | 1.1 | 0.9 | 0.9
+Plan settlements | (7.4) | (3.4) | — | (0.3) | — | —
+Benefits paid | (18.4) | (18.4) | (4.0) | (3.9) | (2.2) | (2.3)
+Foreign exchange translation | — | — | (0.7) | (6.1) | — | —
+Other | — | — | (0.2) | (0.9) | — | —
+Fair value of plan assets at December 31 | $423.2 | $365.9 | $157.0 | $152.8 | $— | $—
+Funded Status of the Plan
+Plan assets less than benefit obligation | $(183.2) | $(183.8) | $(33.8) | $(48.7) | $(18.2) | $(19.0)
+
+[p. 115]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Pension Benefits
+Postretirement Benefits (U.S.)
+U.S. | Non-U.S.
+2011 | 2010 | 2011 | 2010 | 2011 | 2010
+Amounts recognized in balance sheet:
+Liabilities | $(183.2) | $(183.8) | $(33.8) | $(48.7) | $(18.2) | $(19.0)
+Net obligation recognized in the balance sheet | $(183.2) | $(183.8) | $(33.8) | $(48.7) | $(18.2) | $(19.0)
+Prior service credit (cost) | $10.1 | $(0.1) | $— | $12.9 | $— | $—
+Net gain (loss) | (160.3) | (115.6) | (10.7) | (11.4) | (1.2) | (1.9)
+Accumulated other comprehensive income (loss) | (150.2) | (115.7) | (10.7) | 1.5 | (1.2) | (1.9)
+Unfunded accrued pension or postretirement benefit | (33.0) | (68.1) | (23.1) | (50.2) | (17.0) | (17.1)
+Net obligation recognized in the balance sheet | $(183.2) | $(183.8) | $(33.8) | $(48.7) | $(18.2) | $(19.0)
+Total recognized in other comprehensive (income) loss | $34.5 | $(5.1) | $12.2 | $3.1 | $(0.7) | $5.5
+Total recognized in net periodic benefit cost and other comprehensive (income) loss | $67.1 | $23.4 | $0.9 | $6.8 | $0.5 | $6.8
+Estimated amounts that will be amortized from accumulated other comprehensive (income) loss over the next fiscal year:
+Net gain (loss) | $(11.1) | $(7.6) | $0.1 | $1.1 | $(0.1) | $(0.1)
+Accumulated Benefit Obligation at December 31 | $537.0 | $489.7 | $187.6 | $192.8 | N/A | N/A
+Weighted-average assumptions as of December 31
+Discount rate | 4.71% | 5.12% | 4.78% | 5.36% | 4.40% | 4.95%
+Expected return on assets | 8.00% | 8.40% | 7.44% | 7.46% | N/A | N/A
+Average rate of increase in compensation | 4.6% | 4.4% | 2.1% | 3.7% | N/A | N/A
+Initial health care cost trend rate | — | — | — | — | 8.08% | 8.36%
+Ultimate health care cost trend rate | — | — | — | — | 4.5% | 4.5%
+Number of years to ultimate trend rate | — | — | — | — | 18 | 19
+
+The discount rate used to determine the December 31, 2011 benefit obligations for U.S. pension plans is based on the rate from the Mercer Pension Discount Curve that is appropriate for the duration of our plan liabilities. For our plans outside the U.S., the discount rate reflects the market rates for high-quality corporate bonds currently available. The discount rate in a country was determined based on a yield curve constructed from high quality corporate bonds in that country. The rate selected from the yield curve has a duration that matches our plan.
+
+[p. 116]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+The expected return on plan assets for each funded plan is based on expected future investment returns considering the target investment mix of plan assets.
+
+Pension Benefits
+U.S. | Non-U.S.
+Years ended December 31, | Years ended December 31,
+2011 | 2010 | 2009 | 2011 | 2010 | 2009
+Components of Net Periodic Benefit Cost:
+Service cost | $26.2 | $24.0 | $22.0 | $4.0 | $5.2 | $5.6
+Interest cost | 27.4 | 26.1 | 27.9 | 11.0 | 9.7 | 9.5
+Expected return on plan assets | (30.5) | (26.6) | (22.7) | (12.8) | (10.0) | (7.6)
+Amortization:
+Losses and other | 7.3 | 4.6 | 0.4 | (0.7) | (1.0) | (0.4)
+Curtailment gain | — | — | — | (12.9) | (0.2) | (0.3)
+Settlement loss | 2.2 | 0.4 | 1.4 | — | — | 0.1
+Special termination cost | — | — | — | 0.1 | — | —
+Net pension expense | $32.6 | $28.5 | $29.0 | $(11.3) | $3.7 | $6.9
+Weighted-average discount rate for expense (January 1) | 5.12% | 5.42% | 6.39% | 5.36% | 5.71% | 5.59%
+Weighted-average assumed long-term rate of return on assets (January 1) | 8.40% | 8.50% | 8.25% | 7.46% | 7.46% | 6.79%
+
+The balance in "Accumulated other comprehensive income (loss)" at December 31, 2011 and 2010 relating to pension benefits was $99.6 million and $70.2 million, respectively.
+
+Postretirement Benefits (U.S.)
+Years ended December 31,
+2011 | 2010 | 2009
+Components of Net Periodic Benefit Cost:
+Service cost | $0.2 | $0.3 | $0.1
+Interest cost | 0.9 | 0.9 | 0.7
+Amortization:
+Losses and other | 0.1 | — | (0.3)
+Special termination benefit cost | — | — | —
+Net postretirement expense | $1.2 | $1.2 | $0.5
+Weighted-average discount rate for expense | 4.9% | 5.4% | 6.2%
+Initial health care cost trend rate | 8.4% | 8.7% | 9.0%
+Ultimate health care cost trend rate | 4.5% | 4.5% | 5.0%
+Number of years to ultimate trend rate | 18 | 19 | 9
+
+[p. 117]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Changing the assumed health care cost trend rates by one percentage point is estimated to have the following effects (in millions of dollars):
+
+One Percentage Point
+Increase | Decrease
+Effect on total of service and interest cost components | $— | $—
+Effect on postretirement benefit obligation | $0.5 | $(0.4)
+
+The provisions charged to income for the years ended December 31, 2011, 2010 and 2009 for all other pension plans were approximately (in millions of dollars) $8.0, $8.8 and $7.3, respectively.
+
+The provisions charged to income for the years ended December 31, 2011, 2010 and 2009 for the defined contribution plans were approximately (in millions of dollars) $18.0, $14.8 and $6.9, respectively.
+
+Plan Assets
+
+We have a long-term investment outlook for the assets held in our Company sponsored plans, which is consistent with the long-term nature of each plan's respective liabilities. We have two major plans which reside in the U.S. and the U.K.
+
+The U.S. Plan, or the "Plan," currently has a target asset allocation of 65% equity and 35% fixed income. The equity portion of the Plan is invested in one passively managed S&P 500 index fund, one passively managed U.S. small/midcap fund and one actively managed international portfolio. The fixed income portion of the Plan is actively managed by a professional investment manager and is benchmarked to the Barclays Long Govt/Credit Index. The Plan assumes an 8.0% rate of return on assets, which represents the expected long-term annual weighted-average return for the Plan in total.
+
+The U.K. Plan currently invests in a professionally managed Balanced Consensus Index Fund, which has the investment objective of achieving a total return relatively equal to its benchmark. The benchmark is based upon the average asset weightings of a broad universe of U.K. pension funds invested in pooled investment vehicles and each of their relevant indices. The asset allocation as of December 31, 2011, was 79% equity, 9% fixed income and 12% cash and cash equivalents. The U.K. Plan currently assumes a rate of return on assets of 7.5%, which represents the expected long-term annual weighted-average return.
+
+[p. 118]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+The fair value measurements of our U.S. pension plan assets are based upon significant observable inputs (Level 2) and relate to common collective trusts and other pooled investment vehicles consisting of the following asset categories (in millions of dollars):
+
+December 31,
+Asset Category | 2011 | 2010
+Cash and cash equivalents | $11.6 | $4.0
+Equity Securities:
+U.S. Large Cap | 119.3 | 106.3
+U.S. Mid Cap | 34.9 | 29.5
+U.S. Small Cap | 27.5 | 23.5
+International Large Cap | 89.0 | 80.8
+Fixed Income Securities:
+U.S. Treasuries | 53.2 | 49.8
+Corporate Bonds | 68.7 | 61.9
+Government Bonds | 4.1 | 1.3
+Municipal Bonds | 9.5 | 4.7
+Real Estate (REITs) | 5.4 | 4.1
+Total fair value of pension plan assets | $423.2 | $365.9
+
+The fair value measurements of our U.K. pension plan assets are based upon significant observable inputs (Level 2) and relate to common collective trusts and other pooled investment vehicles consisting of the following asset categories (in millions of dollars):
+
+December 31,
+Asset Category | 2011 | 2010
+Cash and cash equivalents | $18.1 | $10.7
+U.K. Equities | 57.6 | 54.1
+Overseas Equities | 60.5 | 72.3
+U.K. Conventional Gilts | 6.6 | 4.1
+Corporate Bonds | 5.0 | 3.7
+Index-Linked Gilts-Stocks | 1.4 | 0.7
+Total fair value of pension plan assets | $149.2 | $145.6
+
+Contributions
+
+Our policy for funded plans is to contribute annually, at a minimum, amounts required by applicable laws, regulations and union agreements. From time to time we make contributions beyond those legally required. In 2011, we made discretionary cash contributions to our U.S. qualified pension plan of $58.9 million. In 2010, we made discretionary cash contributions to our U.S. qualified pension plan of $54.2 million. Based upon the significant decline in asset values in 2008, which were in line with the overall market declines, it is likely we will continue to make cash contributions in 2012 and possibly in future years. We expect to contribute between $50 million and $60 million to our U.S. plan during 2012. Due to the closure of the U.K. plan on June 30, 2011, we will make lower contributions to that plan in 2012 than in 2011. The level of 2012 and future contributions will vary, and is dependent on a number of factors including investment returns, interest rate fluctuations, plan demographics, funding regulations and the results of the final actuarial valuation.
+
+[p. 119]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Estimated Future Benefit Payments
+
+The following table presents estimated future benefit payments (in millions of dollars):
+
+Pension Benefits | Postretirement Benefits (U.S.)
+2012 | $25.8 | $1.3
+2013 | 31.3 | 1.3
+2014 | 34.1 | 1.3
+2015 | 39.6 | 1.4
+2016 | 44.1 | 1.4
+2017-2021 | 284.0 | 6.8
+$458.9 | $13.5
+
+Multiemployer Pension Plans
+
+We contribute to several multiemployer defined benefit pension plans under collective bargaining agreements that cover certain of our union-represented employees. The risks of participating in such plans are different from the risks of single-employer plans, in the following respects:
+
+a)
+
+Assets contributed to a multiemployer plan by one employer may be used to provide benefits to employees of other participating employers.
+
+b)
+
+If a participating employer ceases to contribute to the plan, the unfunded obligations of the plan may be borne by the remaining participating employers.
+
+c)
+
+If we cease to have an obligation to contribute to the multiemployer plan in which we had been a contributing employer, we may be required to pay to the plan an amount based on the underfunded status of the plan and on the history of our participation in the plan prior to the cessation of our obligation to contribute. The amount that an employer that has ceased to have an obligation to contribute to a multiemployer plan is required to pay to the plan is referred to as a withdrawal liability.
+
+Our participation in multiemployer plans for the annual period ended December 31, 2011 is outlined in the table below. For each plan that is individually significant to us, the following information is provided:
+
+•
+
+The "EIN / Pension Plan Number" column provides the Employee Identification Number and the three-digit plan number assigned to a plan by the Internal Revenue Service.
+
+•
+
+The most recent Pension Protection Act Zone Status available for 2010 and 2011 is for plan years that ended in 2010 and 2011, respectively. The zone status is based on information provided to us and other participating employers by each plan and is certified by the plan's actuary. A plan in the "red" zone has been determined to be in "critical status", based on criteria established under the Internal Revenue Code, or the "Code," and is generally less than 65% funded. A plan in the "yellow" zone has been determined to be in "endangered status", based on criteria established under the Code, and is generally less than 80% funded. A plan in the "green" zone has been determined to be neither in "critical status" nor in "endangered status," and is generally at least 80% funded.
+
+•
+
+The "FIP/RP Status Pending/Implemented" column indicates whether a Funding Improvement Plan, as required under the Code to be adopted by plans in the "yellow" zone, or a Rehabilitation
+
+[p. 120]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Plan, as required under the Code to be adopted by plans in the "red" zone, is pending or has been implemented as of the end of the plan year that ended in 2011.
+
+•
+
+The "Surcharge Imposed" column indicates whether our contribution rate for 2011 included an amount in addition the contribution rate specified in the applicable collective bargaining agreement, as imposed by a plan in "critical status," in accordance with the requirements of the Code.
+
+•
+
+The last column lists the expiration dates of the collective bargaining agreements pursuant to which we contribute to the plans.
+
+For plans that are not individually significant to us, the total amount of contributions is presented in the aggregate.
+
+Pension Protection Act Zone Status | Contributions by The Hertz Corporation | Expiration Dates of Collective Bargaining Agreements
+FIP / RP Status Pending / Implemented
+EIN /Pension Plan Number | Surcharge Imposed
+(In whole dollars) Pension Fund | 2011 | 2010 | 2011 | 2010 | 2009
+Western Conference of Teamsters | 91-6145047 | Green | Green | NA | $3,912,642 | $3,761,656 | $3,603,055 | NA | Various
+Teamsters Central States | 36-6044243 | Critical | Critical | Implemented | 1,250,061 | 1,176,282 | 1,122,816 | No | Various
+IAM National | 51-60321295 | Green | Green | NA | 645,015 | 599,513 | 559,554 | NA | Various
+Midwest Operating Engineers | 36-6140097 | Green | Green | NA | 355,329 | 236,152 | 238,775 | NA | 2/28/14
+Local 1034** | 13-6594795 | Critical | Critical | Implemented | 184,205 | 165,088 | 155,222 | Yes | 5/2/13
+Operating Engineers Local 324 | 38-1900637 | Critical | Critical | Implemented | 105,200 | 98,686 | 103,851 | No | 6/30/13
+Western Pennsylvania Teamsters | 25-6029946 | Critical | Critical | Implemented | 98,526 | 94,592 | 102,544 | No | 11/4/11 | *
+7 Other Plans | 569,440 | 455,856 | 372,597
+Total Contributions | $7,120,418 | $6,587,825 | $6,258,414
+
+*
+
+The parties are still attempting to negotiate a successor agreement.
+
+**
+
+The amount contributed by Hertz to the Local 1034 Pension Fund was reported as being more than 5% of total contributions to the plan, on the fund's Form 5500 for the year ended 12/31/2010.

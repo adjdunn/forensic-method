@@ -1,0 +1,47 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q3 2011 (three and nine months ended 30 Sep 2011), filed 2011-11-07. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 8: Employee Retirement Benefits. https://www.sec.gov/Archives/edgar/data/1364479/000104746911009145/a2206040z10-q.htm
+
+[p. 21]
+
+Note 8—Employee Retirement Benefits
+
+The following table sets forth the net periodic pension and postretirement (including health care, life insurance and auto) expense (in millions of dollars):
+
+Pension Benefits
+Postretirement Benefits (U.S.)
+U.S. | Non-U.S.
+Three Months Ended September 30,
+2011 | 2010 | 2011 | 2010 | 2011 | 2010
+Components of Net Periodic Benefit Cost:
+Service cost | $6.6 | $4.6 | $(0.5) | $1.4 | $0.1 | $0.1
+Interest cost | 6.6 | 6.0 | 2.9 | 2.6 | 0.2 | 0.3
+Expected return on plan assets | (7.7) | (6.6) | (3.5) | (2.5) | — | —
+Net amortizations | 1.1 | 0.2 | 0.1 | (0.1) | (0.1) | 0.2
+Settlement loss | 1.5 | — | — | — | — | —
+Net pension/postretirement expense | $8.1 | $4.2 | $(1.0) | $1.4 | $0.2 | $0.6
+
+Pension Benefits
+Postretirement Benefits (U.S.)
+U.S. | Non-U.S.
+Nine Months Ended September 30,
+2011 | 2010 | 2011 | 2010 | 2011 | 2010
+Components of Net Periodic Benefit Cost:
+Service cost | $19.7 | $18.0 | $3.0 | $3.9 | $0.2 | $0.2
+Interest cost | 20.6 | 19.6 | 8.5 | 7.7 | 0.7 | 0.7
+Expected return on plan assets | (22.9) | (20.0) | (9.7) | (7.4) | — | —
+Net amortizations | 5.4 | 3.5 | (0.5) | (0.2) | — | —
+Settlement loss | 2.2 | 0.4 | — | — | — | —
+Curtailment gain | — | — | (13.1) | — | — | —
+Net pension/postretirement expense | $25.0 | $21.5 | $(11.8) | $4.0 | $0.9 | $0.9
+
+Our policy for funded plans is to contribute annually, at a minimum, amounts required by applicable laws, regulations and union agreements. From time to time we make contributions beyond those legally required. For the three and nine months ended September 30, 2011, we contributed $16.6 million and $73.7 million, respectively, to our worldwide pension plans, including discretionary contributions of $0.5 million and $13.7 million, respectively, to our United Kingdom, or "U.K.," defined benefit pension plan and benefit payments made through unfunded plans. For the three and nine months ended September 30, 2010, we contributed $11.2 million and $57.8 million, respectively, to our worldwide pension plans, including discretionary contributions of $2.3 million and $5.5 million, respectively, to our U.K. defined benefit pension plan and benefit payments made through unfunded plans. Based upon the significant decline in asset values in 2008, which were in line with the overall market declines, it is likely we will continue to make cash contributions in 2011 and possibly in future years.
+
+[p. 22]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+We sponsored a defined benefit pension plan in the U.K. On June 30, 2011, we approved an agreement with the trustees of that plan to cease all future benefit accruals to existing members and to close the plan to new members. Effective July 1, 2011, we introduced a defined contribution plan with company matching contributions to replace the defined benefit pension plan. The company matching contributions are generally 100% of the employee contributions, up to 8% of pay, except that former members of the defined benefit plan receive an enhanced match for five years. This will result in somewhat lower contributions this year into the defined benefit plan, which will be offset by matching contributions to the new defined contribution plan. In the three months ended June 30, 2011, we recognized a gain of $13.1 million for the U.K. plan that represented unamortized prior service cost from a 2010 amendment that eliminated discretionary pension increases related to pre-1997 service primarily related to inactive employees.
+
+We participate in various "multiemployer" pension plans. In the event that we withdraw from participation in one of these plans, then applicable law could require us to make an additional lump-sum contribution to the plan, and we would have to reflect that as an expense in our consolidated statement of operations and as a liability on our condensed consolidated balance sheet. Our withdrawal liability for any multiemployer plan would depend on the extent of the plan's funding of vested benefits. At least one multiemployer plan in which we participate is reported to have, and other of our multiemployer plans could have, significant underfunded liabilities. Such underfunding may increase in the event other employers become insolvent or withdraw from the applicable plan or upon the inability or failure of withdrawing employers to pay their withdrawal liability. In addition, such underfunding may increase as a result of lower than expected returns on pension fund assets or other funding deficiencies.

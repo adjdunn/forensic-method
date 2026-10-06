@@ -1,0 +1,7 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q1 2012 (three months ended 31 Mar 2012), filed 2012-05-04. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 5: Taxes on Income. https://www.sec.gov/Archives/edgar/data/1364479/000104746912005385/a2209237z10-q.htm
+
+[p. 11]
+
+Note 5—Taxes on Income
+
+The effective tax rate for the three months ended March 31, 2012 and 2011 was (53.0)% and 18.8%, respectively. The provision for taxes on income was $19.5 million in the three months ended March 31, 2012 compared with a benefit of $30.0 million in the three months ended March 31, 2011. This was primarily due to lower loss before income taxes, changes in geographic earnings mix and changes in losses in certain non-U.S. jurisdictions for which tax benefits cannot be realized.

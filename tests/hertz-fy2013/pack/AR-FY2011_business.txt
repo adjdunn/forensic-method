@@ -1,0 +1,451 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-K for the fiscal year ended December 31, 2011, filed 2012-02-27. Item 1. Business. https://www.sec.gov/Archives/edgar/data/1364479/000104746912001623/a2207464z10-k.htm
+
+[p. 3]
+
+ITEM 1. BUSINESS
+
+Our Company
+
+We own what we believe is the largest worldwide airport general use car rental brand, operating from approximately 8,500 locations in approximately 150 countries as of December 31, 2011. Our Hertz brand name is one of the most recognized in the world, signifying leadership in quality rental services and products. Hertz operates both corporate and licensee locations in cities and airports in North America, Europe, Latin America, Australia, Asia and New Zealand. In addition, we have licensee locations in cities and airports in Africa and the Middle East. We are one of the only car rental companies that has an extensive network of company-operated rental locations both in the United States and in all major European markets. We believe that we maintain the leading airport car rental brand market share, by overall reported revenues, in the United States and at the 119 major airports in Europe where we have company-operated locations and where data regarding car rental concessionaire activity is available. We believe that we also maintain the second largest market share, by revenues, in the off-airport car rental market in the United States. In our equipment rental business segment, we rent equipment through approximately 315 branches in the United States, Canada, France, Spain, Italy, China and Saudi Arabia, as well as through our international licensees. We and our predecessors have been in the car rental business since 1918 and in the equipment rental business since 1965. We have a diversified revenue base and a highly variable cost structure and are able to dynamically manage fleet capacity, the most significant determinant of our costs. Our revenues have grown at a compound annual growth rate of 5.2% over the last 20 years, with year-over-year growth in 17 of those 20 years.
+
+Corporate History
+
+Hertz Holdings was incorporated in Delaware in 2005 to serve as the top-level holding company for the consolidated Hertz business. Hertz was incorporated in Delaware in 1967. Hertz is a successor to corporations that have been engaged in the car and truck rental and leasing business since 1918 and the equipment rental business since 1965. Ford Motor Company, or "Ford," acquired an ownership interest in Hertz in 1987. Prior to this, Hertz was a subsidiary of United Continental Holdings, Inc. (formerly Allegis Corporation), which acquired Hertz's outstanding capital stock from RCA Corporation in 1985.
+
+On December 21, 2005, investment funds associated with or designated by:
+
+•
+
+Clayton, Dubilier & Rice, Inc., or "CD&R,"
+
+•
+
+The Carlyle Group, or "Carlyle," and
+
+•
+
+BAML Capital Partners, or "BAMLCP" (formerly known as Merrill Lynch Global Private Equity),
+
+or collectively the "Sponsors," acquired all of Hertz's common stock from Ford Holdings LLC. We refer to the acquisition of all of Hertz's common stock by the Sponsors as the "Acquisition."
+
+In January 2009, Bank of America Corporation, or "Bank of America," acquired Merrill Lynch & Co., Inc., the parent company of BAMLCP. Accordingly, Bank of America is now an indirect beneficial owner of our common stock held by BAMLCP and certain of its affiliates.
+
+As a result of our initial public offering in November 2006 and subsequent offerings in June 2007, May 2009, June 2009 and March 2011, the Sponsors reduced their holdings to approximately 38% of the outstanding shares of common stock of Hertz Holdings.
+
+Our Markets
+
+We are engaged principally in the global car rental industry and in the equipment rental industry.
+
+[p. 4]
+ITEM 1. BUSINESS (Continued)
+
+Worldwide Car Rental
+
+We believe that the global car rental industry exceeds $30 billion in annual revenues. According to Auto Rental News, car rental industry revenues in the United States are estimated to be approximately $22 billion for 2011 and grew in 2011 by 8.8%. We believe car rental revenues in Europe account for approximately $12 billion in annual revenues, with the airport portion of the industry comprising approximately 36% of the total. Within Europe, the largest markets are France, Italy, the United Kingdom, Germany and Spain. We believe total rental revenues for the car rental industry in Europe in 2011 were approximately $9.9 billion in 11 countries—France, Italy, the United Kingdom, Germany, Spain, The Netherlands, Switzerland, Belgium, the Czech Republic, the Slovak Republic and Luxembourg—where we have company-operated rental locations and approximately $2.1 billion in 12 other countries—Ireland, Portugal, Sweden, Greece, Norway, Denmark, Austria, Poland, Finland, Hungary, Malta and Romania—where our brand is present through our licensees.
+
+We estimate that rentals by airline travelers at or near airports, or "airport rentals," accounted for approximately one-half of the total market in the United States in 2011. This portion of the market is significantly influenced by developments in the travel industry and particularly in airline passenger traffic, or "enplanements," as well as the Gross Domestic Product, or "GDP." We believe domestic enplanements increased in 2011 by approximately 3.0% and are expected to increase by 3.2% in 2012. Current data suggests that U.S. GDP increased in 2011 by approximately 1.7% and is expected to increase by 2.3% in 2012. The International Air Transport Association, or "IATA," projected in December 2011 that annual global enplanements would increase by 4.0% in 2012.
+
+The off-airport portion of the industry has rental volume primarily driven by local business use, leisure travel and the replacement of cars being repaired. Because Europe has generally demonstrated a lower historical reliance on air travel, the European off-airport car rental market is significantly more developed than it is in the United States. However, we believe that in recent years, industry revenues from off-airport car rentals in the United States have grown faster than revenues from airport rentals.
+
+We provide commercial fleet leasing and management services to national corporate customers throughout the U.S. and Canada through Donlen Corporation, or "Donlen," a wholly owned subsidiary. Donlen is a fully integrated fleet management services provider with a comprehensive suite of product offerings ranging from leasing and managing vehicle fleets to providing other fleet management services to reduce fleet operating costs.
+
+Worldwide Equipment Rental
+
+We estimate the size of the U.S. equipment rental industry, which is highly fragmented with few national competitors and many regional and local operators, remained relatively the same at approximately $28 billion in annual revenues for 2011 and 2010, but the part of the rental industry dealing with equipment of the type HERC rents is somewhat smaller than that. We believe that the industry is expected to grow at 8.6% compound annual growth rate between 2011 and 2015. Other market data indicates that the equipment rental industries in France, Spain, Italy and China generate approximately $4.5 billion, $2.5 billion, $2.1 billion and $5.1 billion in annual revenues, respectively, although the portions of those markets in which HERC competes are smaller.
+
+The equipment rental industry serves a broad range of customers from small local contractors to large industrial national accounts and encompasses a wide range of rental equipment from small tools to heavy earthmoving equipment. We believe U.S. non-residential construction spending decreased at an annual rate of 7% in 2011 but is projected to increase at an annual rate of 1% in 2012. We also believe that rental equipment accounted for approximately 40% of all equipment sold into the U.S. construction
+
+[p. 5]
+ITEM 1. BUSINESS (Continued)
+
+industry in 2011, up from approximately 5% in 1993. In addition, we believe that the trend toward rental instead of ownership of equipment in the U.S. construction industry will continue and that as much as 50% of the equipment used in the industry could be rental equipment by 2014.
+
+Our Business Segments
+
+Our business consists of two reportable segments: rental and leasing of cars, crossovers and light trucks, or "car rental," and rental of industrial, construction and material handling equipment, or "equipment rental." General corporate expenses, certain interest expense (including net interest on corporate debt), as well as other business activities, such as fees and certain cost reimbursements from our licensees and third-party claim management services are included as "other reconciling items."
+
+Car Rental: Our "company-operated" rental locations are those through which we, or an agent of ours, rent cars that we own or lease. We maintain a substantial network of company-operated car rental locations both in the United States and internationally, and what we believe to be the largest number of company-operated airport car rental locations in the world, enabling us to provide consistent quality and service worldwide. Our licensees and associates also operate rental locations in over 140 countries and jurisdictions, including most of the countries in which we have company-operated rental locations.
+
+Equipment Rental: We believe, based on an article in Rental Equipment Register published in May 2011, that HERC is one of the largest equipment rental companies in the United States and Canada combined. HERC rents a broad range of earthmoving equipment, material handling equipment, aerial and electrical equipment, air compressors, generators, pumps, small tools, compaction equipment and construction-related trucks. HERC also derives revenues from the sale of new equipment and consumables as well as through its Hertz Entertainment Services division.
+
+[p. 6]
+ITEM 1. BUSINESS (Continued)
+
+Set forth below are charts showing revenues by reportable segment, and revenues by geographic area, both for the year ended December 31, 2011 and revenue earning equipment at net book value as of December 31, 2011 (the majority of our international operations are in Europe).
+
+Revenues by Segment for Year Ended December 31, 2011(1) $8.3 billion
+Revenues by Geographic Area for Year Ended December 31, 2011 $8.3 billion | Revenue Earning Equipment at net book value as of December 31, 2011 $10.1 billion
+
+(1)
+
+Car rental segment revenue includes fees and certain cost reimbursements from licensees. See Note 10 to the Notes to our consolidated financial statements included in this Annual Report under the caption "Item 8—Financial Statements and Supplementary Data."
+
+For further information on our business segments, including financial information for the years ended December 31, 2011, 2010 and 2009, see Note 10 to the Notes to our consolidated financial statements included in this Annual Report under the caption "Item 8—Financial Statements and Supplementary Data."
+
+Worldwide Car Rental
+
+Operations
+
+We rent a wide variety of makes and models of cars. We generally accept reservations only for a class of vehicles, although we accept reservations for specific makes and models of vehicles in our Prestige Collection national-scale luxury rental program, our Adrenaline Collection sports car rentals, our Green Traveler Collection environmentally friendly rental program and a limited number of models in high-volume, leisure-oriented destinations. We rent cars on an hourly (in select markets), daily,
+
+[p. 7]
+ITEM 1. BUSINESS (Continued)
+
+weekend, weekly, monthly or multi-month basis, with rental charges computed on a limited or unlimited mileage rate, or on a time rate plus a mileage charge. Our rates vary at different locations depending on local market conditions and other competitive and cost factors. While cars are usually returned to the locations from which they are rented, we also allow one-way rentals from and to certain locations. In addition to car rentals and licensee fees, we generate revenues from reimbursements by customers of airport concession fees and vehicle licensing costs, fueling charges, and charges for ancillary customer products and services such as supplemental equipment (child seats and ski racks), loss or collision damage waiver, theft protection, liability and personal accident/effects insurance coverage, Hertz NeverLost navigation systems and satellite radio services.
+
+Our international car rental operations have company-operated locations in France, Australia, Italy, the United Kingdom, Germany, Spain, Canada, Brazil, The Netherlands, Switzerland, New Zealand, Belgium, Puerto Rico, the Czech Republic, China, Luxembourg, the Slovak Republic and the U.S. Virgin Islands.
+
+As of December 31, 2011, we had approximately 2,655 staffed rental locations in the United States, of which approximately one-fifth were airport locations and four-fifths were off-airport locations, and we regularly rent cars from 1,335 other locations that are not staffed. As of December 31, 2011, we had approximately 1,130 staffed rental locations internationally, of which approximately one-fifth were airport locations and four-fifths were off-airport locations, and we regularly rent cars from approximately 135 other locations that are not staffed. We believe that our extensive U.S. and international network of company-operated locations contributes to the consistency of our service, cost control, fleet utilization, yield management, competitive pricing and ability to offer one-way rentals.
+
+In order to operate airport rental locations, we have obtained concessions or similar leasing, licensing or permitting agreements or arrangements, or "concessions," granting us the right to conduct a car rental business at all major, and many other airports in each country where we have company-operated rental locations, except for airports where our licensees operate rental locations. Our concessions were obtained from the airports' operators, which are typically governmental bodies or authorities, following either negotiation or bidding for the right to operate a car rental business there. The terms of an airport concession typically require us to pay the airport's operator concession fees based upon a specified percentage of the revenues we generate at the airport, subject to a minimum annual guarantee. Under most concessions, we must also pay fixed rent for terminal counters or other leased properties and facilities. Most concessions are for a fixed length of time, while others create operating rights and payment obligations that are terminable at any time.
+
+The terms of our concessions typically do not forbid us from seeking, and in a few instances actually require us to seek, reimbursement from customers of concession fees we pay; however, in certain jurisdictions the law limits or forbids our doing so. Where we are required or permitted to seek such reimbursement, it is our general practice to do so. The number of car rental concessions available at airports varies considerably, but, except at small, regional airports, it is rarely less than four. Certain of our concession agreements require the consent of the airport's operator in connection with material changes in our ownership. See "Item 1A—Risk Factors" in this Annual Report.
+
+The Hertz brand is one of the most recognized brands in the world. Our customer surveys, in the United States, indicate that Hertz is the car rental brand most associated with the highest quality service. This is consistent with numerous published best-in class car rental awards that we have won, both in the United States and internationally, over many years. We have sought to support our reputation for quality and customer service in car rental through a variety of innovative service offerings, such as our customer loyalty program (Gold Plus Rewards), our global expedited rental program (Hertz #1 Club Gold), our one-way rental program (Rent-it-Here/Leave-it-There), our national-scale luxury rental program (Prestige
+
+[p. 8]
+ITEM 1. BUSINESS (Continued)
+
+Collection), our sports car rental program (Adrenaline Collection), our environmentally friendly rental program (Green Traveler Collection) and our in-car navigational services (Hertz NeverLost). We intend to maintain our position as a premier company through an intense focus on service, quality and product innovation.
+
+In late 2008, we introduced a global car-sharing service, now referred to as Hertz On Demand which rents cars by the hour and/or by the day, at various locations in the U.S., Canada and Europe. Hertz On Demand allows customers to sign up for free for the service and start renting cars by the hour. Members reserve vehicles online, then pick up the vehicles at various locations throughout a city, at a university or a corporate campus without the need to visit a Hertz rental office. Customers are charged an hourly car-rental fee which includes fuel, insurance, 24/7 roadside assistance, in-car customer service and 180 miles per day.
+
+In April 2009, we completed the acquisition of certain assets of Advantage Rent A Car, or "Advantage." Advantage is a popular brand for price-oriented customers at key leisure travel destinations. The purchase agreement provided us with the rights to purchase certain rights, trademarks and copyrights to use the Advantage brand name, website and phone numbers. In addition, the agreement provides us with the option to have assigned to us certain leases, fixed assets, airport concession agreements and other agreements associated with approximately 20 locations that Advantage is or previously was operating. As of December 31, 2011, we had 74 corporate Advantage brand rental locations in the United States and Europe and 15 affiliates in Latin America and the Carribean.
+
+Beginning in December 2010, we made the next generation of electric vehicles available to the general public through our Hertz On Demand car sharing operation. Electric vehicles have been added to our fleet and are available at various cities across the U.S. such as New York, Washington D.C. and San Francisco, in Europe and in China. We plan continued deployment of electric vehicles and plug-in hybrid electric vehicles in both the U.S. and other countries throughout 2012.
+
+On September 1, 2011, Hertz acquired 100% of the equity interest in Donlen, a leading provider of fleet leasing and management services for corporate fleets and for the four months ended December 31, 2011 (period it was owned by Hertz), had an average of approximately 137,000 vehicles under lease and management. Donlen provides Hertz an immediate leadership position in long-term car, truck and equipment leasing and fleet management. Donlen's fleet management programs provide outsource solutions to reduce fleet operating costs and improve driver productivity. These programs include administration of preventive maintenance, advisory services, and fuel and accident management along with other complementary services. This transaction is part of the overall growth strategy of Hertz to provide the most flexible transportation programs for corporate and general consumers. Additionally, Donlen brings to Hertz a specialized consulting and technology expertise that will enable us to model, measure and manage fleet performance more effectively and efficiently.
+
+Based on the latest available data, in the United States, the Hertz brand had the highest market share, by revenues, in 2009, 2010 and in the first nine months of 2011 at approximately 200 of the largest airports where we have company-operated locations. Out of the approximately 190 major European airports at which we have company-operated rental locations, data regarding car rental concessionaire activity for the year ended December 31, 2011 was available at 119 of these airports. Based upon this data, we believe that we were the largest airport car rental company, measured by aggregate airport rental revenues during that period, at those 119 airports taken together. In the United States, we intend to maintain or expand our market share in the airport rental business. For a further description of our competitors, market share and competitive position see "—Competition" below.
+
+[p. 9]
+ITEM 1. BUSINESS (Continued)
+
+At our major airport rental locations, as well as at some smaller airport and off-airport locations, customers participating in our Hertz #1 Club Gold program are able to rent vehicles in an expedited manner. In the United States, participants in our Hertz #1 Club Gold program often bypass the rental counter entirely and proceed directly to their vehicles upon arrival at our facility. For the year ended December 31, 2011, rentals by Hertz #1 Club Gold members accounted for approximately 36% of our worldwide rental transactions. We believe the Hertz #1 Club Gold program provides a significant competitive advantage to us, particularly among frequent travelers, and we have, through travel industry relationships, targeted such travelers for participation in the program.
+
+Hertz introduced a number of customer service offerings in 2011 in order to further differentiate itself from the competition. The most significant new offering was Gold Choice. Hertz Gold Choice now offers our customers an option to choose the car they drive. As always for Gold customers, they will have a preassigned car ready and waiting for them, but now they have the freedom to select a different car that's available at the new Gold Choice area. This service is free of charge to Gold customers who book a midsize class or above. The Gold Choice program was launched during August 2011 and rolled out to 32 U.S. airport locations by December 2011.
+
+In addition to our airport locations, we operate off-airport locations offering car rental services to a variety of customers. Our off-airport rental customers include people wishing to rent cars closer to home for business or leisure purposes, as well as those needing to travel to or from airports. Our off-airport customers also include people who have been referred by, or whose rental costs are being wholly or partially reimbursed by, insurance companies following accidents in which their cars were damaged, those expecting to lease cars that are not yet available from their leasing companies and those needing cars while their vehicle is being repaired or is temporarily unavailable for other reasons; we call these customers "replacement renters." At many of our off-airport locations we will provide pick-up and delivery services in connection with rentals.
+
+When compared to our airport rental locations, an off-airport rental location typically services the same variety of customers, uses smaller rental facilities with fewer employees, conducts pick-up and delivery services and deals with replacement renters using specialized systems and processes. In addition, on average, off-airport locations generate fewer transactions per period than airport locations. At the same time, though, our airport and off-airport rental locations employ common car fleets, are supervised by common country, regional and local area management, use many common systems and rely on common maintenance and administrative centers. Moreover, airport and off-airport locations, excluding replacement rentals, benefit from many common marketing activities and have many of the same customers. As a consequence, we regard both types of locations as aspects of a single, unitary, car rental business.
+
+We believe that the off-airport portion of the car rental market offers opportunities for us on several levels. First, presence in the off-airport market can provide customers a more convenient and geographically extensive network of rental locations, thereby creating revenue opportunities from replacement renters, non-airline travel renters and airline travelers with local rental needs. Second, it can give us a more balanced revenue mix by reducing our reliance on airport travel and therefore limiting our exposure to external events that may disrupt airline travel trends. Third, it can produce higher fleet utilization as a result of the longer average rental periods associated with off-airport business, compared to those of airport rentals. Fourth, replacement rental volume is far less seasonal than that of other business and leisure rentals, which permits efficiencies in both fleet and labor planning. Finally, cross-selling opportunities exist for us to promote off-airport rentals among frequent airport Hertz #1 Club Gold program renters and, conversely, to promote airport rentals to off-airport renters. In view of those benefits, along with our belief that our market share for off-airport rentals is generally smaller than our
+
+[p. 10]
+ITEM 1. BUSINESS (Continued)
+
+market share for airport rentals, we intend to seek profitable growth in the off-airport rental market, both in the United States and internationally.
+
+Since January 1, 2009, we increased the number of our off-airport rental locations in the United States by approximately 32% to 2,175 locations. Our strategy includes selected openings of new off-airport locations, the disciplined evaluation of existing locations and the pursuit of same-store sales growth. We anticipate that same-store sales growth will be driven by our traditional leisure and business traveler customers and by increasing penetration of the insurance replacement market, of which we currently have a low market share. In the United States during the year ended December 31, 2011, approximately one-third of our rental revenues at off-airport locations were related to replacement rentals. We believe that if we successfully pursue our strategy of profitable off-airport growth, the proportion of replacement rental revenues will increase. As we move forward, our determination of whether to continue to expand our U.S. off-airport network will be based upon a combination of factors, including, commercial activity and potential profitability as well as the concentration of target insurance company policyholders, car dealerships and auto body shops. We also intend to increase the number of our staffed off-airport rental locations internationally based on similar criteria.
+
+Our worldwide car rental segment generated $7,083.5 million in revenues during the year ended December 31, 2011.
+
+Customers and Business Mix
+
+We categorize our car rental business based on two primary criteria—the purpose for which customers rent from us (business or leisure) and the type of location from which they rent (airport or off-airport). The table below sets forth, for the year ended December 31, 2011, the percentages of rental revenues and rental transactions in our U.S. and international operations derived from business and leisure rentals and from airport and off-airport rentals.
+
+Year ended December 31, 2011
+U.S. | International
+Revenues | Transactions | Revenues | Transactions
+Type of Car Rental
+By Customer:
+Business | 43% | 48% | 54% | 55%
+Leisure | 57 | 52 | 46 | 45
+100% | 100% | 100% | 100%
+By Location:
+Airport | 70% | 73% | 56% | 59%
+Off-airport | 30 | 27 | 44 | 41
+100% | 100% | 100% | 100%
+
+[p. 11]
+ITEM 1. BUSINESS (Continued)
+
+Customers who rent from us for "business" purposes include those who require cars in connection with commercial activities, the activities of governments and other organizations or for temporary vehicle replacement purposes. Most business customers rent cars from us on terms that we have negotiated with their employers or other entities with which they are associated, and those terms can differ substantially from the terms on which we rent cars to the general public. We have negotiated arrangements relating to car rental with many large businesses, governments and other organizations, including most Fortune 500 companies.
+
+Customers who rent from us for "leisure" purposes include not only individual travelers booking vacation travel rentals with us but also people renting to meet other personal needs. Leisure rentals, generally, are longer in duration and generate more revenue per transaction than do business rentals, although some types of business rentals, such as rentals to replace temporarily unavailable cars, have a long average duration. Business rentals and leisure rentals have different characteristics and place different types of demands on our operations. We believe that maintaining an appropriate balance between business and leisure rentals is important to the profitability of our business and the consistency of our operations.
+
+Our business and leisure customers rent from both our airport and off-airport locations. Demand for airport rentals is correlated with airline travel patterns, and transaction volumes generally follow enplanement and GDP trends on a global basis. Customers often make reservations for airport rentals when they book their flight plans, which make our strong relationships with travel agents, associations and other partners (e.g., airlines) a key competitive advantage in generating consistent and recurring revenue streams.
+
+Off-airport rentals typically involve people wishing to rent cars closer to home for business or leisure purposes, as well as those needing to travel to or from airports. This category also includes people who have been referred by, or whose rental costs are being wholly or partially reimbursed by, insurance companies because their cars have been damaged. In order to attract these renters, we must establish agreements with the referring insurers establishing the relevant rental terms, including the arrangements made for billing and payment. While we estimate our share of the insurance replacement rental market was approximately 11% of the estimated insurance rental revenue volume for the year ended December 31, 2011, we have identified 203 insurance companies, ranging from local or regional carriers to large, national companies, as our target insurance replacement market. As of December 31, 2011, we were a preferred or recognized supplier of 188 of these 203 insurance companies and a co-primary at 44 of these 203 insurance companies.
+
+We conduct active sales and marketing programs to attract and retain customers. Our commercial and travel industry sales force calls on companies and other organizations whose employees and associates need to rent cars for business purposes. In addition, our sales force works with membership associations, tour operators, travel companies and other groups whose members, participants and customers rent cars for either business or leisure purposes. A specialized sales force calls on companies with replacement rental needs, including insurance and leasing companies and car dealers. We also advertise our car rental offerings through a variety of traditional media channels, such as television and newspapers, direct mail and the Internet. In addition to advertising, we also conduct a variety of other forms of marketing and promotion, including travel industry business partnerships and press and public relations activities.
+
+In almost all cases, when we rent a car, we rent it directly to an individual who is identified in a written rental agreement that we prepare. Except when we are accommodating someone who cannot drive, the individual to whom we rent a car is required to have a valid driver's license and meet other rental criteria (including minimum age and creditworthiness requirements) that vary on the basis of location and type
+
+[p. 12]
+ITEM 1. BUSINESS (Continued)
+
+of rental. Our rental agreements permit only licensed individuals renting the car, people signing additional authorized operator forms and certain defined categories of other individuals (such as fellow employees, parking attendants and in some cases spouses or domestic partners) to operate the car.
+
+With rare exceptions, individuals renting cars from us are personally obligated to pay all amounts due under their rental agreements. They typically pay us with a charge, credit or debit card issued by a third party, although certain customers use a Hertz charge account that we have established for them, usually as part of an agreement between us and their employer. For the year ended December 31, 2011, all amounts charged to Hertz charge accounts established in the United States and by our international subsidiaries, were billed directly to a company or other organization or were guaranteed by a company. We also issue rental vouchers and certificates that may be used to pay rental charges, mostly for prepaid and tour-related rentals. In addition, where the law requires us to do so, we rent cars on a cash basis. For the year ended December 31, 2011, no customer accounted for more than 1.0% of our car rental revenues.
+
+In the United States for the year ended December 31, 2011, 83% of our car rental revenues came from customers who paid us with third-party charge, credit or debit cards, while 8% came from customers using Hertz charge accounts or direct billing, 8% came from customers using rental vouchers or another method of payment and 1% came from cash transactions. In our international operations for the year ended December 31, 2011, 51% of our car rental revenues came from customers who paid us with third-party charge, credit or debit cards, while 29% came from customers using Hertz charge accounts, 19% came from customers using rental vouchers or another method of payment and 1% came from cash transactions. For the year ended December 31, 2011, bad debt expense represented 0.2% of car rental revenues for our U.S. operations and 0.3% of car rental revenues for our international operations.
+
+Reservations
+
+When customers reserve cars for rental from us and our licensees, they may seek to do so through travel agents or third-party travel websites. In many of those cases, the travel agent or website will utilize a third-party operated computerized reservation system, also known as a global distribution system, or "GDS," to contact us and make the reservation.
+
+In major countries, including the United States and all other countries with company-operated locations, customers may also reserve cars for rental from us and our licensees worldwide through local, national or toll-free telephone calls to our reservations center, directly through our rental locations or, in the case of replacement rentals, through proprietary automated systems serving the insurance industry. Additionally, we accept reservations for rentals from us and our licensees worldwide through our websites.
+
+For the year ended December 31, 2011, approximately 33% of the worldwide reservations we accepted came through travel agents using GDSs, while 30% came through our websites, 20% through phone calls to our reservations center, 12% through third-party websites and 5% through local booking sources.
+
+Fleet
+
+We believe we are one of the largest private sector purchasers of new cars in the world. During the year ended December 31, 2011, we operated a peak rental fleet in the United States of approximately 355,500 cars and a combined peak rental fleet in our international operations of approximately 174,800 cars, and in each case exclusive of our licensees' fleet and Donlen's leasing fleet. During the year ended
+
+[p. 13]
+ITEM 1. BUSINESS (Continued)
+
+December 31, 2011, our approximate average holding period for a rental car was fourteen months in the United States and thirteen months in our international operations.
+
+Under our repurchase programs, the manufacturers agree to repurchase cars at a specified price or guarantee the depreciation rate on the cars during established repurchase or auction periods, subject to, among other things, certain car condition, mileage and holding period requirements. Repurchase prices under repurchase programs are based on either a predetermined percentage of original car cost and the month in which the car is returned or the original capitalized cost less a set daily depreciation amount. Guaranteed depreciation programs guarantee on an aggregate basis the residual value of the cars covered by the programs upon sale according to certain parameters which include the holding period, mileage and condition of the cars. These repurchase and guaranteed depreciation programs limit our residual risk with respect to cars purchased under the programs and allow us to determine depreciation expense in advance, however, typically the acquisition cost is higher for these program cars.
+
+Program cars as a percentage of all cars purchased by our U.S., International and worldwide operations were as follows:
+
+Years ended December 31,
+2011 | 2010 | 2009 | 2008 | 2007
+U.S. | 45% | 54% | 48% | 55% | 42%
+International | 55% | 56% | 57% | 59% | 65%
+Worldwide | 48% | 55% | 51% | 57% | 50%
+
+Within our Donlen subsidiary, revenue earning equipment is under longer term lease agreements with our customers. These leases contain provisions whereby we have a contracted residual value guaranteed to us by the lessee, such that we do not experience any gains or losses on the disposal of these vehicles.
+
+We have purchased a significant percentage of our car rental fleet from General Motors Corporation and its successor, General Motors Company, together "General Motors." During the year ended December 31, 2011, approximately 47% of the cars acquired by us for our U.S. car rental fleet, and approximately 21% of the cars acquired by us for our international fleet, were manufactured by General Motors. During the year ended December 31, 2011, approximately 12% of the cars acquired by us for our U.S. car rental fleet, and approximately 4% of the cars acquired by us for our international fleet, were manufactured by Toyota Motor Company. During the year ended December 31, 2011, approximately 5% of the cars acquired by us domestically were manufactured by Ford and its subsidiaries and approximately 22% of the cars acquired by us for our international fleet were manufactured by Ford and its subsidiaries. During the year ended December 31, 2011, approximately 17% of the cars acquired by us for our U.S. car rental fleet and approximately 1% of the cars acquired by us for our international fleet were manufactured by Nissan Motor Company.
+
+Purchases of cars are financed through cash from operations and by active and ongoing global borrowing programs. See "Item 7—Management's Discussion and Analysis of Financial Condition and Results of Operations—Liquidity and Capital Resources," in this Annual Report.
+
+We maintain automobile maintenance centers at certain airports and in certain urban and off-airport areas, which provide maintenance facilities for our car rental fleet. Many of these facilities, which include sophisticated car diagnostic and repair equipment, are accepted by automobile manufacturers as eligible to perform and receive reimbursement for warranty work. Collision damage and major repairs are generally performed by independent contractors.
+
+[p. 14]
+ITEM 1. BUSINESS (Continued)
+
+We dispose of non-program cars, as well as program cars that become ineligible for manufacturer repurchase or guaranteed depreciation programs, through a variety of disposition channels, including auctions, brokered sales, sales to wholesalers and dealers and, to a lesser extent and primarily in the United States, sales at retail through a network of nine company-operated car sales locations dedicated exclusively to the sale of used cars from our rental fleet.
+
+During 2009, we launched Rent2Buy, an innovative program designed to sell used rental cars. The program was licensed to operate in 32 states as of December 31, 2011. Customers have an opportunity for a three-day test rental of a competitively priced car from our rental fleet. If the customer purchases the car, he or she is credited with up to three days of rental charges, and the purchase transaction is completed through the internet and by mail in those states where permitted.
+
+During the year ended December 31, 2011, of the cars that were not repurchased by manufacturers, we sold approximately 65% at auction, 19% through dealer direct, 9% through our Rent2Buy program or at retail locations and approximately 7% through other channels.
+
+Licensees
+
+We believe that our extensive worldwide ownership of car rental operations contributes to the consistency of our high-quality service, cost control, fleet utilization, yield management, competitive pricing and our ability to offer one-way rentals. However, in certain U.S. and international markets, we have found it more efficient to utilize independent licensees, which rent cars that they own. Our licensees operate locations in over 140 countries, including most of the countries where we have company-operated locations. See "Item 1A—Risk Factors" in this Annual Report.
+
+We believe that our licensee arrangements are important to our business because they enable us to offer expanded national and international service and a broader one-way rental program. Licenses are issued principally by our wholly-owned subsidiaries, under franchise arrangements to independent licensees and affiliates who are engaged in the car rental business in the United States and in many other countries.
+
+Licensees generally pay fees based on a percentage of their revenues or the number of cars they operate. The operations of all licensees, including the purchase and ownership of vehicles, are financed independently by the licensees, and we do not have any investment interest in the licensees or their fleets. Licensees in the U.S. share in the cost of our U.S. advertising program, reservations system, sales force and certain other services. Our European and other international licensees also share in the cost of our reservations system, sales force and certain other services. In return, licensees are provided the use of the Hertz brand name, management and administrative assistance and training, reservations through our reservations channels, the Gold Plus Rewards and #1 Club Gold programs, our "Rent-it-Here/Leave-it-There" one-way rental program and other services. In addition to car rental, certain licensees outside the United States engage in car leasing, chauffeur-driven rentals and renting camper vans under the Hertz name.
+
+U.S. licensees ordinarily are limited as to transferability without our consent and are terminable by us only for cause or after a fixed term. Licensees in the United States may generally terminate for any reason on 90 days' notice. In Europe and certain other international jurisdictions, licensees typically do not have early termination rights. Initial license fees or the price for the sale to a licensee of a company-owned location may be payable over a term of several years. We continue to issue new licenses and, from time to time, purchase licensee businesses.
+
+During the year ended December 31, 2011, we added two locations by acquiring a former licensee from our international car rental operations. See Note 3 to the Notes to our consolidated financial statements
+
+[p. 15]
+ITEM 1. BUSINESS (Continued)
+
+included in this Annual Report under the caption "Item 8—Financial Statements and Supplementary Data."
+
+Competition
+
+In the United States, our principal car rental industry competitors are Avis Budget Group, Inc., or "ABG," which currently operates the Avis and Budget brands, Enterprise Rent-A-Car Company, or "Enterprise," which also operates the National Car Rental and Alamo brands, and Dollar Thrifty Automotive Group, Inc., or "Dollar Thrifty," which operates the Dollar and Thrifty brands. In the United States, the Hertz brand had the highest market share, by revenues, in 2009, 2010 and in the first nine months of 2011 at approximately 200 of the largest airports where we have company-operated locations
+
+We have a significant presence in the off-airport market. We believe that we maintain the second largest market share, by revenues, in the off-airport car rental market in the United States. Since January 1, 2009, we increased the number of our off-airport rental locations in the United States by approximately 32% to 2,175 locations. Revenues from our U.S. off-airport operations represented $1,197.4 million, $1,079.7 million and $953.4 million of our total car rental revenues in the years ended December 31, 2011, 2010 and 2009, respectively. Many smaller companies also operate in the airport and off-airport rental markets.
+
+In Europe, in addition to us, the principal pan-European participants in the car rental industry are Avis Europe Ltd (which was acquired by ABG in 2011), operating the Avis and Budget brands, and Europcar. Europcar also operates the National Car Rental and Alamo brands in the United Kingdom and Germany, and through franchises in Spain, Italy and France. In certain European countries, there are also other companies and brands with substantial market shares, including Sixt AG (operating the Sixt brand) in Germany, France, Spain, the United Kingdom, Switzerland, Belgium, Netherlands and Luxembourg; and Enterprise (operating the Enterprise brand) in the United Kingdom, Ireland and Germany. In every European country, there are also national, regional or other, smaller companies operating in the airport and off-airport rentals markets. Apart from Enterprise-branded operations, all of which Enterprise owns, the other major car rental brands are present in European car rental markets through a combination of company-operated and franchisee- or licensee-operated locations.
+
+Competition among car rental industry participants is intense and is primarily based on price, vehicle availability, service, reliability, distribution locations and product innovation. We believe, however, that the prominence and service reputation of the Hertz brand and our extensive worldwide ownership of car rental operations provide us with a competitive advantage.
+
+Worldwide Equipment Rental
+
+Operations
+
+We, through HERC, operate an equipment rental business in the United States, Canada, France, Spain, Italy, China and Saudi Arabia. On the basis of total revenues, we believe HERC is one of the largest equipment rental companies in the United States and Canada combined. HERC has operated in the United States since 1965.
+
+HERC's principal business is the rental of equipment. HERC offers a broad range of equipment for rental; major categories include earthmoving equipment, material handling equipment, aerial and electrical equipment, air compressors, pumps, generators, small tools, compaction equipment and construction-related trucks.
+
+Ancillary to its rental business, HERC is also a dealer of certain brands of new equipment in the United States and Canada, and sells consumables such as gloves and hardhats at many of its rental locations.
+
+[p. 16]
+ITEM 1. BUSINESS (Continued)
+
+HERC's comprehensive line of equipment enables it to supply equipment to a wide variety of customers from local contractors to large industrial plants. The fact that many larger companies, particularly those with industrial plant operations, now require single source vendors, not only for equipment rental, but also for management of their total equipment needs fits well with HERC's core competencies. Arrangements with such companies may include maintenance of the tools and equipment they own, supplies and rental tools for their labor force and custom management reports. HERC supports this through its dedicated in-plant operations, tool trailers and plant management systems. As of December 31, 2009, 2010 and 2011, HERC had branches in the following countries:
+
+Total | U.S. | Canada | France | Spain | Italy | China | Saudi Arabia
+January 1, 2009 | 345 | 222 | 36 | 80 | 6 | — | 1 | —
+Net increase (decrease) | (24) | (8) | (1) | (14) | (3) | — | 2 | —
+Additions relating to acquisitions | 1 | — | — | — | 1 | — | — | —
+December 31, 2009 | 322 | 214 | 35 | 66 | 4 | — | 3 | —
+Net increase (decrease) | (7) | (10) | 3 | (1) | — | — | 1 | —
+Additions relating to acquisitions | 7 | 6 | — | — | — | 1 | — | —
+December 31, 2010 | 322 | 210 | 38 | 65 | 4 | 1 | 4 | —
+Net increase (decrease) | (9) | (9) | — | — | (2) | — | 1 | 1
+Additions relating to acquisitions | 4 | 4 | — | — | — | — | — | —
+December 31, 2011 | 317 | 205 | 38 | 65 | 2 | 1 | 5 | 1
+
+HERC's rental locations generally are situated in industrial or commercial zones. A growing number of locations have highway or major thoroughfare visibility. The typical location includes a customer service center, an equipment service area and storage facilities for equipment. The branches are built or conform to the specifications of the HERC prototype branch, which stresses efficiency, safety and environmental compliance. Most branches have stand-alone maintenance and fueling facilities and showrooms.
+
+HERC's broad equipment line in the United States and Canada includes more equipment with an acquisition cost of under $10,000 per unit, ranging from air compressors and generators to small tools and accessories, in order to supply customers who are local contractors with a greater proportion of their overall equipment rental needs. As of December 31, 2011, these activities, referred to as "general rental activities," were conducted at approximately 30% of HERC's U.S. and Canadian rental locations. Before it begins to conduct general rental activities at a location, HERC typically renovates the location to make it more appealing to walk-in customers and adds staff and equipment in anticipation of subsequent demand.
+
+In early 2010, Hertz launched Hertz Entertainment Services, a division which provides single-source car and equipment rental solutions to the entertainment and special events industries. Hertz Entertainment Services provides customized vehicle and equipment rental solutions to movie, film and television productions, live sports and entertainment events, and all-occasion special events, such as weddings, conventions, and fairs. Hertz Entertainment Services are tailored to fit the needs of large and small productions alike with competitive pricing and customized, monthly billing. Hertz delivers vehicles and equipment to production locations and a dedicated staff is available 24/7 to address specific client needs. Productions can also rent equipment for use at special events such as lighting, generators and other machinery.
+
+[p. 17]
+ITEM 1. BUSINESS (Continued)
+
+In February 2010, HERC entered into a joint venture with Saudi Arabia based Dayim Holdings Company, Ltd. to set up equipment rental operations in the Kingdom of Saudi Arabia. The joint venture entity rents and sells equipment and tools to construction and industrial markets throughout the Kingdom of Saudi Arabia.
+
+Our worldwide equipment rental segment generated $1,209.5 million in revenues during the year ended December 31, 2011.
+
+Customers
+
+HERC's customers consist predominantly of commercial accounts and represent a wide variety of industries, such as construction, petrochemical, automobile manufacturing, railroad, power generation and shipbuilding. Serving a number of different industries enables HERC to reduce its dependence on a single or limited number of customers in the same business and somewhat reduces the seasonality of HERC's revenues and its dependence on construction cycles. HERC primarily targets customers in medium to large metropolitan markets. For the year ended December 31, 2011, no customer of HERC accounted for more than 2% of HERC's rental revenues. Of HERC's combined U.S. and Canadian rental revenues for the year ended December 31, 2011, approximately 37% were derived from customers operating in the construction industry (the majority of which were in the non-residential sector) and approximately 28% were derived from customers in the industrial business, while the remaining revenues were derived from rentals to governmental and other types of customers.
+
+Unlike in our car rental business, where we enter into rental agreements with the end-user who will operate the cars being rented, HERC ordinarily enters into a rental agreement with the legal entity—typically a company, governmental body or other organization—seeking to rent HERC's equipment. Moreover, unlike in our car rental business, where our cars are normally picked up and dropped off by customers at our rental locations, HERC delivers much of its rental equipment to its customers' job sites and retrieves the equipment from the job sites when the rentals conclude. HERC extends credit terms to many of its customers to pay for rentals. Thus, for the year ended December 31, 2011, 95% of HERC's revenues came from customers who were invoiced by HERC for rental charges, while 4% came from customers paying with third-party charge, credit or debit cards and 1% came from customers who paid with cash or used another method of payment. For the year ended December 31, 2011, bad debt expense represented 0.3% of HERC's revenues.
+
+Fleet
+
+HERC acquires its equipment from a variety of manufacturers. The equipment is typically new at the time of acquisition and is not subject to any repurchase program. The per-unit acquisition cost of units of rental equipment in HERC's fleet varies from over $200,000 to under $100. As of December 31, 2011, the average per-unit acquisition cost (excluding small equipment purchased for less than $5,000 per unit) for HERC's fleet in the United States was approximately $37,000. As of December 31, 2011, the average age of HERC's rental fleet in the United States was 47 months, 51 months in Canada, 54 months in France, 44 months in Spain, 10 months in Italy, 21 months in China and 14 months in Saudi Arabia.
+
+HERC disposes of its used equipment through a variety of channels, including private sales to customers and other third parties, sales to wholesalers, brokered sales and auctions.
+
+[p. 18]
+ITEM 1. BUSINESS (Continued)
+
+Licensees
+
+HERC licenses the Hertz name to equipment rental businesses in five countries in Europe and in Afghanistan. The terms of those licenses are broadly similar to those we grant to our international car rental licensees.
+
+Competition
+
+HERC's competitors in the equipment rental industry range from other large national companies to small regional and local businesses. In each of the six countries where HERC operates, the equipment rental industry is highly fragmented, with large numbers of companies operating on a regional or local scale. The number of industry participants operating on a national scale is, however, much smaller. HERC is one of the principal national-scale industry participants in the U.S., Canada and France. HERC's operations in the United States represented approximately 65% of our worldwide equipment rental revenues during the year ended December 31, 2011. In the United States and Canada, the other top national-scale industry participants are United Rentals, Inc., or "URI," RSC Equipment Rental, Inc., or "RSC," Sunbelt Rentals and Aggreko North America. In December 2011, URI announced it had agreed to buy RSC. A number of individual Caterpillar, Inc., or "CAT," dealers also participate in the equipment rental market in the United States, Canada, France, Spain and Italy. In France, the other principal national-scale industry participants are Loxam, Kiloutou and Laho. Aggreko also participates in the power generation rental markets in France, Spain and Italy. In China, the other principal national-scale industry participants are Zicheng Corporation, Aggreko, Jin He Yuan, Lei Shing Hong and Far East Rental. In Saudi Arabia, the other principal national-scale industry participants are Bin Quraya, Al Zahid Tractors (CAT), Rapid Access, Eastern Arabia and Rental Solutions & Services (RSS) Saudi Ltd.
+
+Competition in the equipment rental industry is intense, and it often takes the form of price competition. HERC's competitors, some of which may have access to substantial capital, may seek to compete aggressively on the basis of pricing. To the extent that HERC matches downward competitor pricing without reducing our operating costs, it could have an adverse impact on our results of operations. We believe that HERC's competitive success has been primarily the product of its more than 40 years of experience in the equipment rental industry, its systems and procedures for monitoring, controlling and developing its branch network, its capacity to maintain a comprehensive rental fleet, the quality of its sales force and its established national accounts program.
+
+Other Operations
+
+Our wholly-owned subsidiary, Hertz Claim Management Corporation, or "HCM," provides claim administration services to us and, to a lesser extent, to third parties. These services include investigating, evaluating, negotiating and disposing of a wide variety of claims, including third-party, first-party, bodily injury, property damage, general liability and product liability, but not the underwriting of risks. HCM conducts business at five regional offices in the United States. Separate subsidiaries of ours conduct similar operations in seven countries in Europe.
+
+Seasonality
+
+Generally, car rental and equipment rental are seasonal businesses, with decreased levels of business in the winter months and heightened activity during spring and summer. To accommodate increased demand, we increase our available fleet and staff during the second and third quarters of the year. As business demand declines, fleet and staff are decreased accordingly. However, certain operating expenses, including real estate taxes, rent, insurance, utilities, maintenance and other facility-related expenses, the costs of operating our information technology systems and minimum staffing costs,
+
+[p. 19]
+ITEM 1. BUSINESS (Continued)
+
+remain fixed and cannot be adjusted for seasonal demand. Revenues related to our fleet management services are generally not seasonal. See "Item 1A—Risk Factors" in this Annual Report. The following tables set forth this seasonal effect by providing quarterly revenues for each of the quarters in the years ended December 31, 2011, 2010 and 2009 (in millions of dollars).
+
+Employees
+
+As of December 31, 2011, we employed approximately 23,900 persons, consisting of approximately 16,400 persons in our U.S. operations and 7,500 persons in our international operations. International employees are covered by a wide variety of union contracts and governmental regulations affecting, among other things, compensation, job retention rights and pensions. Labor contracts covering the terms of employment of approximately 5,850 employees in the United States (including those in the U.S. territories) are presently in effect under approximately 140 active contracts with local unions, affiliated primarily with the International Brotherhood of Teamsters and the International Association of Machinists. Labor contracts covering approximately 1,750 of these employees will expire during 2012. We have had no material work stoppage as a result of labor problems during the last ten years, and we believe our labor relations to be good. Nonetheless, we may be unable to negotiate new labor contracts on terms advantageous to us, or without labor interruptions.
+
+In addition to the employees referred to above, we employ a substantial number of temporary workers, and engage outside services, as is customary in the industry, principally for the non-revenue movement of rental cars and equipment between rental locations and the movement of rental equipment to and from customers' job sites.
+
+Risk Management
+
+Three types of generally insurable risks arise in our operations:
+
+•
+
+legal liability arising from the operation of our cars and on-road equipment (vehicle liability);
+
+•
+
+legal liability to members of the public and employees from other causes (general liability/workers' compensation); and
+
+•
+
+risk of property damage and/or business interruption and/or increased cost of working as a consequence of property damage.
+
+In addition, we offer optional liability insurance and other products providing insurance coverage, which create additional risk exposures for us. Our risk of property damage is also increased when we waive the
+
+[p. 20]
+ITEM 1. BUSINESS (Continued)
+
+provisions in our rental contracts that hold a renter responsible for damage or loss under an optional loss or damage waiver that we offer. We bear these and other risks, except to the extent the risks are transferred through insurance or contractual arrangements.
+
+In many cases we self-insure our risks or insure risks through wholly-owned insurance subsidiaries. We mitigate our exposure to large liability losses by maintaining excess insurance coverage, subject to deductibles and caps, through unaffiliated carriers. For our international operations outside of Europe, and for our long-term fleet leasing operations, we maintain some liability insurance coverage with unaffiliated carriers.
+
+Third-Party Liability
+
+In our domestic operations, we are required by applicable financial responsibility laws to maintain insurance against legal liability for bodily injury (including death) or property damage to third parties arising from the operation of our cars and on-road equipment, sometimes called "vehicle liability," in stipulated amounts. In most places, we satisfy those requirements by qualifying as a self-insurer, a process that typically involves governmental filings and demonstration of financial responsibility, which sometimes requires the posting of a bond or other security. In the remaining places, we obtain an insurance policy from an unaffiliated insurance carrier and indemnify the carrier for any amounts paid under the policy. As a result of such arrangements, we bear economic responsibility for domestic vehicle liability, except to the extent we successfully transfer such liability to others through insurance or contractual arrangements.
+
+For our car and equipment rental operations in Europe, we have established a wholly-owned insurance subsidiary, Probus Insurance Company Europe Limited, or "Probus," a direct writer of insurance domiciled in Ireland. In European countries with company-operated locations, we have purchased from Probus the vehicle liability insurance required by law, and Probus reinsured the risks under such insurance with Hertz International RE, a reinsurer organized in Ireland, or "HIRE," and / or HIRE Bermuda Limited, a wholly-owned reinsurance company domiciled in Bermuda. This coverage is purchased from unaffiliated carriers for Spain. We also insure a portion of our European property risk through Probus. Thus, as with our domestic operations, we bear economic responsibility for vehicle liability in our European car and equipment rental operations, except to the extent that we transfer such liability to others through insurance or contractual arrangements. For our international operations outside of Europe, we maintain some form of vehicle liability insurance coverage with unaffiliated carriers. The nature of such coverage, and our economic responsibility for covered losses, varies considerably. In all cases, though, we believe the amounts and nature of the coverage we obtain is adequate in light of the respective potential hazards.
+
+Both domestically and in our international operations, from time to time in the course of our business we become legally responsible to members of the public for bodily injury (including death) or property damage arising from causes other than the operation of our cars and on-road equipment, sometimes known as "general liability." As with vehicle liability, we bear economic responsibility for general liability losses, except to the extent we transfer such losses to others through insurance or contractual arrangements.
+
+To mitigate these exposures, we maintain excess liability insurance coverage with unaffiliated insurance carriers at an aggregate of $200 million for policy periods ended December 21, 2012, 2011 and 2010. In the past this policy limit has ranged from $100 million to $235 million for policy periods from December 2004 through December 2009. For our international car rental operations outside of Europe, we also maintain liability insurance coverage with unaffiliated carriers in such amounts as we deem adequate in
+
+[p. 21]
+ITEM 1. BUSINESS (Continued)
+
+light of the respective potential hazards, where such insurance is obtainable on commercially reasonable terms.
+
+Our domestic rental contracts for both car and equipment rental as well as our domestic and international long-term fleet leasing contracts, typically provide that the renter will indemnify us for liability arising from the operation of the rented vehicle or equipment (for car rentals in certain places, though, only to the extent such liability exceeds the amount stipulated in the applicable financial responsibility law). In addition, many of HERC's domestic rental contracts require the renter to maintain liability insurance under which HERC is entitled to coverage. While such provisions are sometimes effective to transfer liability to renters, their value to us, particularly in cases of large losses, may be limited. The rental contracts used in our international operations sometimes contain provisions relating to insurance or indemnity, but they are typically more limited than those employed in our domestic operations.
+
+In our domestic car rental operations, we offer an optional liability insurance product, Liability Insurance Supplement, or "LIS," that provides vehicle liability insurance coverage substantially higher than state minimum levels to the renter and other authorized operators of a rented vehicle. LIS coverage is provided under excess liability insurance policies issued by an unaffiliated insurance carrier, the risks under which are reinsured with a subsidiary of ours, HIRE Bermuda Limited. As a consequence of those reinsurance arrangements, rental customers' purchases of LIS do not reduce our economic exposure to vehicle liability. Instead, our exposure to vehicle liability is potentially increased when LIS is purchased, because insured renters and other operators may have vehicle liability imposed on them in circumstances and in amounts where the applicable rental agreement or applicable law would not, absent the arrangements just described, impose vehicle liability on us.
+
+In both our domestic car rental operations and our company-operated international car rental operations in many countries, we offer optional products providing insurance coverage, or "PAI/PEC" coverage, to the renter and the renter's immediate family members traveling with the renter for accidental death or accidental medical expenses arising during the rental period or for damage or loss of their property during the rental period. PAI/PEC coverage is provided under insurance policies issued by unaffiliated carriers or, in Europe, by Probus, and the risks under such policies either are reinsured with HIRE or another subsidiary of ours or are the subject of indemnification arrangements between us and the carriers. Rental customers' purchases of PAI/PEC coverage create additional risk exposures for us, since we would not typically be liable for the risks insured by PAI/PEC coverage if that coverage had not been purchased.
+
+Our offering of LIS and PAI/PEC coverage in our domestic car rental operations is conducted pursuant to limited licenses or exemptions under state laws governing the licensing of insurance producers. In our international car rental operations, our offering of PAI/PEC coverage historically has not been regulated; however, in the countries of the European Union, the regulatory environment for insurance intermediaries is evolving, and we cannot assure you that we will be able to continue offering PAI/PEC coverage without substantial changes in its offering process or in the terms of the coverage or that such changes, if required, would not render uneconomic our continued offering of the coverage.
+
+Provisions on our books for self-insured vehicle liability losses are made by charges to expense based upon evaluations of estimated ultimate liabilities on reported and unreported claims. As of December 31, 2011, this liability was estimated at $281.5 million for our combined domestic and international operations.
+
+[p. 22]
+ITEM 1. BUSINESS (Continued)
+
+Damage to Our Property
+
+We bear the risk of damage to our property, unless such risk is transferred through insurance or contractual arrangements.
+
+To mitigate our risk of large, single-site property damage losses globally, we maintain property insurance with unaffiliated insurance carriers in such amounts as we deem adequate in light of the respective hazards, where such insurance is available on commercially reasonable terms.
+
+Our rental contracts typically provide that the renter is responsible for damage to or loss (including loss through theft) of rented vehicles or equipment. We generally offer an optional rental product, known in various countries as "loss damage waiver," "collision damage waiver," "theft protection" or "accident excess reduction," under which we waive or limit our right to make a claim for such damage or loss. This product is not regulated as insurance, but it is subject to specific laws in roughly half of the U.S. jurisdictions where we operate.
+
+Collision damage costs and the costs of stolen or unaccounted-for vehicles and equipment, along with other damage to our property, are charged to expense as incurred.
+
+Other Risks
+
+To manage other risks associated with our businesses, or to comply with applicable law, we purchase other types of insurance carried by business organizations, such as worker's compensation and employer's liability, commercial crime and fidelity, performance bonds and directors' and officers' liability insurance from unaffiliated insurance companies in amounts deemed by us to be adequate in light of the respective hazards, where such coverage is obtainable on commercially reasonable terms.
+
+Governmental Regulation and Environmental Matters
+
+Throughout the world, we are subject to numerous types of governmental controls, including those relating to prices and advertising, privacy and data protection, currency controls, labor matters, charge card operations, insurance, environmental protection, used car sales and licensing.
+
+Environmental
+
+The environmental requirements applicable to our operations generally pertain to (i) the operation and maintenance of cars, trucks and other vehicles, such as heavy equipment, buses and vans; (ii) the ownership and operation of tanks for the storage of petroleum products, including gasoline, diesel fuel and oil; and (iii) the generation, storage, transportation and disposal of waste materials, including oil, vehicle wash sludge and waste water. We have made, and will continue to make, expenditures to comply with applicable environmental laws and regulations.
+
+The use of cars and other vehicles is subject to various governmental requirements designed to limit environmental damage, including those caused by emissions and noise. Generally, these requirements are met by the manufacturer, except in the case of occasional equipment failure requiring repair by us. Measures are taken at certain locations in states that require the installation of Stage II Vapor Recovery equipment to reduce the loss of vapor during the fueling process.
+
+We utilize tanks worldwide, approximately 420 of which, at December 31, 2011, are underground and approximately 1,690 of which are aboveground, to store petroleum products, and we believe our tanks are maintained in material compliance with environmental regulations, including federal and state financial responsibility requirements for corrective action and third-party claims due to releases. Our compliance program for our tanks is intended to ensure that (i) the tanks are properly registered with the
+
+[p. 23]
+ITEM 1. BUSINESS (Continued)
+
+state or other jurisdiction in which the tanks are located and (ii) the tanks have been either replaced or upgraded to meet applicable leak detection and spill, overfill and corrosion protection requirements.
+
+We are also incurring and providing for expenses for the investigation and cleanup of contamination from the discharge of petroleum substances at, or emanating from, currently and formerly owned and leased properties, as well as contamination at other locations at which our wastes have reportedly been identified. The amount of any such expenses or related natural resource damages for which we may be held responsible could be substantial. The probable losses that we expect to incur for such matters have been accrued, and those losses are reflected in our consolidated financial statements. As of December 31, 2011 and 2010, the aggregate amounts accrued for environmental liabilities reflected in our consolidated balance sheets in "Other accrued liabilities" were $1.5 million and $1.6 million, respectively. The accrual generally represents the estimated cost to study potential environmental issues at sites deemed to require investigation or clean-up activities, and the estimated cost to implement remediation actions, including ongoing maintenance, as required. Cost estimates are developed by site. Initial cost estimates are based on historical experience at similar sites and are refined over time on the basis of in-depth studies of the site. For many sites, the remediation costs and other damages for which we ultimately may be responsible cannot be reasonably estimated because of uncertainties with respect to factors such as our connection to the site, the nature of the contamination, the involvement of other potentially responsible parties, the application of laws and other standards or regulations, site conditions, and the nature and scope of investigations, studies, and remediation to be undertaken (including the technologies to be required and the extent, duration, and success of remediation).
+
+With respect to cleanup expenditures for the discharge of petroleum substances at, or emanating from, currently and formerly owned or leased properties, we have received reimbursement, in whole or in part, from certain U.S. states that maintain underground storage tank petroleum cleanup reimbursement funds. Such funds have been established to assist tank owners in the payment of cleanup costs associated with releases from registered tanks. With respect to off-site U.S. locations at which our wastes have reportedly been identified, we have been and continue to be required to contribute to cleanup costs due to strict joint and several cleanup liability imposed by the federal Comprehensive Environmental Response, Compensation, and Liability Act of 1980 and comparable state superfund statutes.
+
+Environmental legislation and regulations and related administrative policies have changed rapidly in recent years, both in the United States and in other countries. There is a risk that governmental environmental requirements, or enforcement thereof, may become more stringent in the future and that we may be subject to legal proceedings brought by government agencies or private parties with respect to environmental matters. In addition, with respect to the cleanup of contamination, additional locations at which waste generated by us or substances used by us may have been released or disposed, and of which we are currently unaware, may in the future become the subject of cleanup for which we may be liable, in whole or in part. Further, at airport-leased properties, we may be subject to environmental requirements imposed by airports that are more restrictive than those obligations imposed by environmental regulatory agencies. Accordingly, while we believe that we are in substantial compliance with applicable requirements of environmental laws, we cannot offer assurance that our future environmental liabilities will not be material to our consolidated financial position, results of operations or cash flows.
+
+[p. 24]
+ITEM 1. BUSINESS (Continued)
+
+Dealings with Renters
+
+In the United States, car and equipment rental transactions are generally subject to Article 2A of the Uniform Commercial Code, which governs "leases" of tangible personal property. Car rental is also specifically regulated in more than half of the states of the United States. The subjects of state regulation include the methods by which we advertise, quote and charge prices, the consequences of failing to honor reservations, the terms on which we deal with vehicle loss or damage (including the protections we provide to renters purchasing loss or damage waivers) and the terms and method of sale of the optional insurance coverage that we offer. Some states (including California, New York, Nevada and Illinois) regulate the price at which we may sell loss or damage waivers, and many state insurance regulators have authority over the prices and terms of the optional insurance coverage we offer. See "—Risk Management" above for further discussion regarding the loss or damage waivers and optional insurance coverages that we offer renters. Internationally, regulatory regimes vary greatly by jurisdiction, but they do not generally prevent us from dealing with customers in a manner similar to that employed in the United States.
+
+Both in the United States and internationally, we are subject to increasing regulation relating to customer privacy and data protection. In general, we are limited in the uses to which we may put data that we collect about renters, including the circumstances in which we may communicate with them. In addition, we are generally obligated to take reasonable steps to protect customer data while it is in our possession. Our failure to do so could subject us to substantial legal liability or seriously damage our reputation.
+
+Changes in Regulation
+
+Changes in government regulation of our businesses have the potential to materially alter our business practices, or our profitability. Depending on the jurisdiction, those changes may come about through new legislation, the issuance of new laws and regulations or changes in the interpretation of existing laws and regulations by a court, regulatory body or governmental official. Sometimes those changes may have not just prospective but also retroactive effect; this is particularly true when a change is made through reinterpretation of laws or regulations that have been in effect for some time. Moreover, changes in regulation that may seem neutral on their face may have either more or less impact on us than on our competitors, depending on the circumstances. Several U.S. State Attorneys General have taken the position that car rental companies either may not pass through to customers, by means of separate charges, expenses such as vehicle licensing and concession fees or may do so only in certain limited circumstances. Recent or potential changes in law or regulation that affect us relate to insurance intermediaries, customer privacy and data security and rate regulation, each as described under "Item 1A—Risk Factors" in this Annual Report.
+
+In addition, our operations, as well as those of our competitors, also could be affected by any limitation in the fuel supply or by any imposition of mandatory allocation or rationing regulations. We are not aware of any current proposal to impose such a regime in the United States or internationally. Such a regime could, however, be quickly imposed if there were a serious disruption in supply for any reason, including an act of war, terrorist incident or other problem affecting petroleum supply, refining, distribution or pricing.
+
+Available Information
+
+We file annual, quarterly and current reports and other information with the United States Securities and Exchange Commission, or the "SEC." You may read and copy any documents that we file at the SEC's public reference room at 100 F Street, N.E., Washington, D.C. 20549. You may call the SEC at
+
+[p. 25]
+ITEM 1. BUSINESS (Continued)
+
+1-800-SEC-0330 to obtain further information about the public reference room. In addition, the SEC maintains an Internet website (www.sec.gov) that contains reports, proxy and information statements and other information about issuers that file electronically with the SEC, including Hertz Holdings. You may also access, free of charge, our reports filed with the SEC (for example, our Annual Report on Form 10-K, our Quarterly Reports on Form 10-Q and our Current Reports on Form 8-K and any amendments to those forms) indirectly through our Internet website (www.hertz.com). Reports filed with or furnished to the SEC will be available as soon as reasonably practicable after they are filed with or furnished to the SEC. The information found on our website is not part of this or any other report filed with or furnished to the SEC.

@@ -1,0 +1,86 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-Q, Q3 2013 (three and nine months ended 30 Sep 2013), filed 2013-11-07. Part I, Item 1, Notes to Condensed Consolidated Financial Statements, Note 4: Goodwill and Other Intangible Assets. https://www.sec.gov/Archives/edgar/data/1364479/000136447913000011/hghq32013form10-q.htm
+
+[p. 10]
+
+Note 4—Goodwill and Other Intangible Assets
+
+The following summarizes the changes in our goodwill, by segment (in millions of dollars):
+
+U.S. Car Rental | International Car Rental | Worldwide Equipment Rental | All Other Operations | Total
+Balance as of January 1, 2013
+Goodwill | $1,006.6 | $245.1 | $775.4 | $35.8 | $2,062.9
+Accumulated impairment losses | — | (46.1) | (674.9) | — | (721.0)
+1,006.6 | 199.0 | 100.5 | 35.8 | 1,341.9
+Goodwill acquired during the period | — | 1.5 | — | — | 1.5
+Adjustments to previously recorded purchase price allocation(a) | 20.1 | — | 1.7 | — | 21.8
+Other changes during the period(b) | 1.1 | (0.1) | 0.1 | — | 1.1
+21.2 | 1.4 | 1.8 | — | 24.4
+Balance as of September 30, 2013
+Goodwill | 1,027.8 | 246.5 | 777.2 | 35.8 | 2,087.3
+Accumulated impairment losses | — | (46.1) | (674.9) | — | (721.0)
+$1,027.8 | $200.4 | $102.3 | $35.8 | $1,366.3
+
+U.S. Car Rental | International Car Rental | Worldwide Equipment Rental | All Other Operations | Total
+Balance as of January 1, 2012
+Goodwill | $122.5 | $245.7 | $693.8 | $51.1 | $1,113.1
+Accumulated impairment losses | — | (46.1) | (674.9) | — | (721.0)
+122.5 | 199.6 | 18.9 | 51.1 | 392.1
+Goodwill acquired during the period | 884.9 | — | 82.0 | — | 966.9
+Adjustments to previously recorded purchase price allocation(c) | — | — | — | (15.3) | (15.3)
+Other changes during the period(d) | (0.8) | (0.6) | (0.4) | — | (1.8)
+884.1 | (0.6) | 81.6 | (15.3) | 949.8
+Balance as of December 31, 2012
+Goodwill | 1,006.6 | 245.1 | 775.4 | 35.8 | 2,062.9
+Accumulated impairment losses | — | (46.1) | (674.9) | — | (721.0)
+$1,006.6 | $199.0 | $100.5 | $35.8 | $1,341.9
+
+_______________________________________________________________________________
+
+(a) | Consists of adjustments related to purchase accounting and deferred tax during 2013.
+
+(b) | Primarily consists of changes resulting from the translation of foreign currencies at different exchange rates from the beginning of the period to the end of the period.
+
+(c) | Consists of deferred tax adjustments recorded during 2012.
+
+(d) | Primarily consists of changes resulting from disposals and the translation of foreign currencies at different exchange rates from the beginning of the year to the end of the year.
+
+[p. 11]
+HERTZ GLOBAL HOLDINGS, INC. AND SUBSIDIARIES
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued)
+
+Unaudited
+
+Other intangible assets, net, consisted of the following major classes (in millions of dollars):
+
+September 30, 2013
+Gross Carrying Amount | Accumulated Amortization | Net Carrying Value
+Amortizable intangible assets:
+Customer-related | $693.0 | $(485.3) | $207.7
+Other(1) | 462.2 | (73.4) | 388.8
+Total | 1,155.2 | (558.7) | 596.5
+Indefinite-lived intangible assets:
+Trade name | 3,330.0 | — | 3,330.0
+Other(2) | 18.2 | — | 18.2
+Total | 3,348.2 | — | 3,348.2
+Total other intangible assets, net | $4,503.4 | $(558.7) | $3,944.7
+
+December 31, 2012
+Gross Carrying Amount | Accumulated Amortization | Net Carrying Value
+Amortizable intangible assets:
+Customer-related | $694.7 | $(434.0) | $260.7
+Other(1) | 459.6 | (33.8) | 425.8
+Total | 1,154.3 | (467.8) | 686.5
+Indefinite-lived intangible assets:
+Trade name | 3,330.0 | — | 3,330.0
+Other(2) | 15.6 | — | 15.6
+Total | 3,345.6 | — | 3,345.6
+Total other intangible assets, net | $4,499.9 | $(467.8) | $4,032.1
+
+_______________________________________________________________________________
+
+(1) | Other amortizable intangible assets primarily include Dollar Thrifty concession agreements, Donlen trade name, reacquired franchise rights, non-compete agreements and technology-related intangibles.
+
+(2) | Other indefinite-lived intangible assets primarily consist of reacquired franchise rights.
+
+Amortization of other intangible assets for the three months ended September 30, 2013 and 2012 was approximately $30.3 million and $19.9 million, respectively. Amortization of other intangible assets for the nine months ended September 30, 2013 and 2012 was approximately $90.9 million and $58.9 million, respectively. Based on our amortizable intangible assets as of September 30, 2013, we expect amortization expense to be approximately $30.5 million for the remainder of 2013, $118.5 million in 2014, $115.0 million in 2015, $65.6 million in 2016 and $52.8 million in 2017.

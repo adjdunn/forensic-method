@@ -1,0 +1,24 @@
+SOURCE: Hertz Global Holdings, Inc. (CIK 1364479), Form 10-K for the fiscal year ended December 31, 2012, filed 2013-03-04. Item 8, Notes to Consolidated Financial Statements, Note 16: Earnings Per Share. https://www.sec.gov/Archives/edgar/data/1364479/000144530513000446/hgh2012form10-k.htm
+
+[p. 131]
+
+Note 16—Earnings Per Share
+
+Basic earnings per share has been computed based upon the weighted average number of common shares outstanding. Diluted earnings per share has been computed based upon the weighted average number of common shares outstanding plus the effect of all potentially dilutive common stock equivalents, except when the effect would be anti-dilutive.
+
+The following table sets forth the computation of basic and diluted earnings (loss) per share (in millions of dollars, except per share amounts):
+
+Years Ended December 31,
+2012 | 2011 | 2010
+Basic and diluted earnings (loss) per share:
+Numerator:
+Net income (loss) attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders | $243.1 | $176.2 | $(48.7)
+Denominator:
+Weighted average shares used in basic computation | 419.9 | 415.9 | 411.9
+Add: Stock options, RSUs and PSUs | 5.0 | 7.5 | —
+Add: Potential issuance of common stock upon conversion of Convertible Senior Notes | 23.3 | 21.4 | —
+Weighted average shares used in diluted computation | 448.2 | 444.8 | 411.9
+Earnings (loss) per share attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders, basic | $0.58 | $0.42 | $(0.12)
+Earnings (loss) per share attributable to Hertz Global Holdings, Inc. and Subsidiaries' common stockholders, diluted | $0.54 | $0.40 | $(0.12)
+
+Diluted earnings (loss) per share computations for the years ended December 31, 2012, 2011 and 2010 excluded the weighted-average impact of the assumed exercise of approximately 2.9 million, 8.7 million and 22.6 million shares, respectively, of stock options, RSUs and PSUs, because such impact would be antidilutive.
