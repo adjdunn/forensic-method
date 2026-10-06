@@ -1,14 +1,37 @@
 # Harness
 
-Grades any adapter's output the same way.
+Grades any adapter's output the same way. Two scripts so far, both built 6 October 2026.
 
-## check_citations.py (built 6 October 2026)
+## run.py: run the five prompts and record everything
+
+```
+python harness/run.py --company home-depot-fy2025 --prompts v2.22 --adapter claude-code --repeat 2
+python harness/run.py --company hertz-fy2013 --prompts v2.22 --adapter manual
+python harness/run.py --check runs/hertz-fy2013/v2.22/manual/001
+```
+
+Each run gets a folder `runs/<company>/<version>/<adapter>/<nnn>/`:
+
+| File | What |
+|---|---|
+| `workspace/` | The allow-listed files from the pack's `config.json` (`--files default`, `full` or `chat`), and nothing else. This is all the model sees. The runner refuses anything that looks like an answer key, a score, a README or a config, whatever the allow-list says. Not committed |
+| `prompt-1.md` to `prompt-5.md` | The prompt text as sent: the body of each file in `tools/prompts/`, without its header; prompt 5 with the two numbers-track replies pasted in |
+| `numbers-1.md`, `numbers-2.md`, `text-3.md`, `text-4.md`, `report-5.md` | The replies |
+| `check-*.md` and `.json` | The citation checker's report on each reply |
+| `run.json` | The record: company, prompt version and a hash of each prompt, repo commit, adapter, model, file set, cutoff, per-step status, session, cost, turns and seconds, and each check's summary |
+
+Adapters:
+
+- **claude-code**: a fresh headless Claude Code conversation per track (`claude -p`, JSON output), with Read, Bash, Write, Glob and Grep and no web tools, working in the run's workspace. Prompt 2 resumes prompt 1's conversation; prompts 4 and 5 resume prompt 3's. An appended system note tells the model the files in the directory are the user's attachments and the only documents available. Pass `--model` and `--max-budget` as needed. The CLI must be logged in (`claude`, then `/login`); a revoked token shows up as a 401 recorded in `run.json` and the run stops.
+- **manual**: no model call. Writes the prompts, the workspace and a README for a person to run the prompts in a chat platform. Drop the replies into the folder (markdown, text or PDF) and `--check` grades them. This is how the October 2026 chat runs are checked.
+
+`--repeat n` makes n runs with the same settings. Repeat runs establish the noise floor before a moved number is attributed to a prompt edit.
+
+## check_citations.py: check one reply against its pack
 
 ```
 python harness/check_citations.py <reply.md|.txt|.pdf> --pack test-data/<company> [--out report.md] [--json report.json]
 ```
-
-Reads one prompt reply and the company's pack (`test-data/<company>/`, with its `config.json`) and reports:
 
 | Check | What it does |
 |---|---|
@@ -23,7 +46,6 @@ Calibrated on the October 2026 Claude chat runs (Home Depot and Hertz, prompts 1
 
 ## Planned
 
-1. `run.py --company <id> --prompts <version> --adapter <name> --repeat <n>`: runs both tracks and the report through an adapter with the allow-listed file set from the company's `config.json`, saves replies under `runs/<company>/<version>/<adapter>/<n>/`, calls the checker, writes a run record (file set, adapter, model, date). Repeat runs establish the noise floor before a moved number is attributed to a prompt edit.
-2. The scorer: an agent that reads a run against the company's answer key the way `tests/hertz-fy2013/score.md` was done and writes one scorecard. Partial passes need a reader, so this stays an agent, not a script.
+The scorer: an agent that reads a run against the company's answer key the way `tests/hertz-fy2013/score.md` was done and writes one scorecard. Partial passes need a reader, so this stays an agent, not a script.
 
 The test record for every version so far is `tools/TESTS.md`.

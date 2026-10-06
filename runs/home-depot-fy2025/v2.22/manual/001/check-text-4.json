@@ -1,0 +1,874 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\home-depot-fy2025\\v2.22\\manual\\001\\text-4.pdf",
+  "pack": "home-depot-fy2025",
+  "words": 1119,
+  "pages_est": 2.5,
+  "quotes": {
+   "total": 39,
+   "exact_on_page": 35,
+   "exact_page_differs": 1,
+   "exact_no_page": 3,
+   "other_document": 0,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 28,
+   "computed_percent": 2,
+   "not_found": 1
+  },
+  "arithmetic": {
+   "pre_tax_income": 18602.0,
+   "checked": 0,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "would have increased cost of sales by approximately $95 million",
+   "cited_pages": [
+    39
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      39
+     ]
+    ]
+   ],
+   "context": "FY2024 10-K, p. 39"
+  },
+  {
+   "quote": "Estimation of store shrink",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": " as a critical audit matter (p. 42)"
+  },
+  {
+   "quote": "approximately $79 million",
+   "cited_pages": [
+    39
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      39
+     ]
+    ]
+   ],
+   "context": "FY2025 10-K, p. 39"
+  },
+  {
+   "quote": "lower shrink",
+   "cited_pages": [
+    34
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      34
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": "p. 34"
+  },
+  {
+   "quote": "have seen heightened shrink",
+   "cited_pages": [
+    19
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      19
+     ]
+    ]
+   ],
+   "context": "p. 19"
+  },
+  {
+   "quote": "saw",
+   "cited_pages": [
+    19
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      19
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      19
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      2
+     ]
+    ]
+   ],
+   "context": "p. 19"
+  },
+  {
+   "quote": "recent shrink results",
+   "cited_pages": [
+    19
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      39,
+      42,
+      49
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      39,
+      49
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "Average daily short-term borrowings",
+   "cited_pages": [
+    61
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      61
+     ]
+    ]
+   ],
+   "context": " of $1,343m and a maximum of $15,317m (FY2024 10-K, p. 61)"
+  },
+  {
+   "quote": "the maximum amount outstanding during that period was $5.8 billion",
+   "cited_pages": [
+    61
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      36,
+      61
+     ]
+    ]
+   ],
+   "context": "FY2025 10-K, p. 61"
+  },
+  {
+   "quote": "higher average equity due to our ongoing pause in share repurchases",
+   "cited_pages": [
+    32
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      32
+     ]
+    ]
+   ],
+   "context": "p. 32"
+  },
+  {
+   "quote": "Fair values of customer relationships intangible assets",
+   "cited_pages": [
+    41,
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      41
+     ]
+    ]
+   ],
+   "context": " and \"Estimation of store shrink\" (FY2024 10-K, pp. 41-42)"
+  },
+  {
+   "quote": "Estimation of store shrink",
+   "cited_pages": [
+    41,
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": "FY2024 10-K, pp. 41-42"
+  },
+  {
+   "quote": "Sufficiency of audit evidence over certain merchandise inventories",
+   "cited_pages": [
+    41,
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      41
+     ]
+    ]
+   ],
+   "context": ", citing the \"highly automated nature of the process\" across \"multiple information technology (IT) systems\" (FY2025 10-K"
+  },
+  {
+   "quote": "highly automated nature of the process",
+   "cited_pages": [
+    41,
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": " across \"multiple information technology (IT) systems\" (FY2025 10-K, pp. 41-42)"
+  },
+  {
+   "quote": "multiple information technology (IT) systems",
+   "cited_pages": [
+    41,
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": "FY2025 10-K, pp. 41-42"
+  },
+  {
+   "quote": "$599.92",
+   "cited_pages": [
+    32,
+    33
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      32,
+      33
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      5
+     ]
+    ]
+   ],
+   "context": ", FY2024 pp. 32-33) is dropped from the FY2025 summary and table (pp. 32-33)"
+  },
+  {
+   "quote": "primarily the first-in, first-out method",
+   "cited_pages": [
+    49
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      39,
+      49
+     ]
+    ]
+   ],
+   "context": "FY2024 p. 49"
+  },
+  {
+   "quote": "primarily the moving average cost and first-in, first-out methods",
+   "cited_pages": [
+    49
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      38,
+      41,
+      49
+     ]
+    ]
+   ],
+   "context": "FY2025 p. 49"
+  },
+  {
+   "quote": "using a qualitative approach",
+   "cited_pages": [
+    60
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      60
+     ]
+    ]
+   ],
+   "context": "FY2024 p. 60"
+  },
+  {
+   "quote": "using a quantitative approach",
+   "cited_pages": [
+    60
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      60
+     ]
+    ]
+   ],
+   "context": ", with fair value that \"exceeded\" carrying amount (FY2025 p. 60)"
+  },
+  {
+   "quote": "exceeded",
+   "cited_pages": [
+    60
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      60
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      60
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      2
+     ]
+    ]
+   ],
+   "context": " carrying amount (FY2025 p. 60)"
+  },
+  {
+   "quote": "substantially exceeded",
+   "cited_pages": [
+    60
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      60
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      60
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "lower legal-related benefits",
+   "cited_pages": [
+    34
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": "FY2024 p. 34"
+  },
+  {
+   "quote": "a non-recurring legal-related benefit recognized during fiscal 2024",
+   "cited_pages": [
+    34
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": "FY2025 p. 34"
+  },
+  {
+   "quote": "primarily use trade credit",
+   "cited_pages": [
+    23
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      23
+     ]
+    ]
+   ],
+   "context": "FY2024 p. 23"
+  },
+  {
+   "quote": "increasingly use",
+   "cited_pages": [
+    24
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      14
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      15,
+      24
+     ]
+    ]
+   ],
+   "context": "FY2025 p. 24"
+  },
+  {
+   "quote": "PFAS",
+   "cited_pages": [
+    22
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      22
+     ]
+    ]
+   ],
+   "context": " litigation (FY2024 p. 22) is dropped"
+  },
+  {
+   "quote": "long-term debt (including current installments) and equity",
+   "cited_pages": [
+    35,
+    48
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      35
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      35
+     ]
+    ]
+   ],
+   "context": " p. 35, p. 35 Year-end commercial paper left out: $316m, $4,464m Less well: the gap it opens grew from about 0.1 to 1.0 "
+  },
+  {
+   "quote": "was not material",
+   "cited_pages": [
+    48,
+    49
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      48,
+      66
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      48,
+      66,
+      75,
+      77
+     ]
+    ]
+   ],
+   "context": " p. 48, p. 48 Customer receivables: $1,896m, $2,588m (up 36%) Can't tell: no allowance figure in either year Retail-meth"
+  },
+  {
+   "quote": "approximates the lower of cost or market",
+   "cited_pages": [
+    49
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      39,
+      49
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      38,
+      41,
+      49
+     ]
+    ]
+   ],
+   "context": " p. 49, p. 49 Inventory days: 82, 86"
+  },
+  {
+   "quote": "approximates the pattern of expected economic benefit",
+   "cited_pages": [
+    51
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      51
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      51
+     ]
+    ]
+   ],
+   "context": " p. 51, p. 51 Customer-relationship charge on average cost: 5.9% (rough, part-year SRS), 5.2% Can't tell: attrition not "
+  },
+  {
+   "quote": "most recent quantitative analysis in fiscal 2023... substantially exceeded",
+   "cited_pages": [
+    60
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      60
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      60
+     ]
+    ]
+   ],
+   "context": " p. 60, p. 60 Primary operating income since fiscal 2023: down 1.7%, down 5.1% Probably, but the test is now two years o"
+  },
+  {
+   "quote": "30 to 60 days",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      51
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      51
+     ]
+    ]
+   ],
+   "context": "): 41 then 40 days on confirmed invoices"
+  },
+  {
+   "quote": "approximately 104,000 square feet",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      5
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      5
+     ]
+    ]
+   ],
+   "context": "): 103.7 thousand in both years"
+  },
+  {
+   "quote": "undiscounted",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      49,
+      52,
+      59
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      49,
+      52,
+      59
+     ]
+    ]
+   ],
+   "context": "): $1.5bn then $1.6bn"
+  },
+  {
+   "quote": "no impact on consolidated net sales",
+   "cited_pages": [
+    56
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      56
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      56
+     ]
+    ]
+   ],
+   "context": " p. 56 Intangible assets and their amortization shown as separate lines"
+  },
+  {
+   "quote": "no impact",
+   "cited_pages": [
+    54,
+    70,
+    75
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      54,
+      56
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      54,
+      56
+     ]
+    ]
+   ],
+   "context": " p. 54 Segment and supplier-finance disclosure standards adopted FY2024 \"did not have an impact\" p. 54 SRS purchase pric"
+  },
+  {
+   "quote": "did not have an impact",
+   "cited_pages": [
+    54,
+    70,
+    75
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      54
+     ]
+    ]
+   ],
+   "context": " p. 54 SRS purchase price allocation finalized FY2025 Adjustments \"immaterial\" p. 75 Stock option expected term moved fr"
+  },
+  {
+   "quote": "immaterial",
+   "cited_pages": [
+    70,
+    75
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      13,
+      52,
+      54,
+      59,
+      60,
+      64,
+      66,
+      67,
+      71,
+      75
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      13,
+      52,
+      54,
+      59,
+      60,
+      64,
+      65,
+      66,
+      67,
+      71,
+      72,
+      75,
+      76,
+      77
+     ]
+    ]
+   ],
+   "context": " p. 75 Stock option expected term moved from 6 to 7 years FY2025 None stated p. 70 5"
+  }
+ ],
+ "figures": {
+  "found": [
+   "1.5%",
+   "0.9%",
+   "$1,343 m",
+   "$15,317 m",
+   "$5.8 billion",
+   "$4,464 m",
+   "31.3%",
+   "25.7%",
+   "$25.8 bn",
+   "$1.5 bn",
+   "$599.92",
+   "1.0%",
+   "0.1",
+   "1.0",
+   "$1,896 m",
+   "$2,588 m",
+   "4.7",
+   "4.4",
+   "5.9%",
+   "5.2%",
+   "1.7%",
+   "5.1%",
+   "13.4",
+   "13.5",
+   "8.1%",
+   "7.9%",
+   "104,000",
+   "$1.6 bn"
+  ],
+  "computed_percent": [
+   "30.5%",
+   "24.7%"
+  ],
+  "not_found": [
+   "103.7"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 18602.0,
+  "source": "workbook",
+  "note": "",
+  "checks": []
+ },
+ "post_cutoff": []
+}

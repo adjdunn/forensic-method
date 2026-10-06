@@ -397,7 +397,8 @@ def main():
     if a.json:
         Path(a.json).write_text(json.dumps({"summary": summary, "quotes": quotes, "figures": figures, "arithmetic": arith,
                                             "post_cutoff": post}, indent=1), encoding="utf-8")
-    sys.stdout.reconfigure(encoding="utf-8")
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")
     print(report)
 
 

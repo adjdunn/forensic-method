@@ -1,0 +1,536 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\home-depot-fy2025\\v2.22\\manual\\001\\numbers-2.pdf",
+  "pack": "home-depot-fy2025",
+  "words": 981,
+  "pages_est": 2.2,
+  "quotes": {
+   "total": 21,
+   "exact_on_page": 19,
+   "exact_page_differs": 0,
+   "exact_no_page": 1,
+   "other_document": 1,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 27,
+   "computed_percent": 4,
+   "not_found": 7
+  },
+  "arithmetic": {
+   "pre_tax_income": 18602.0,
+   "checked": 0,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "primarily driven by higher average inventory levels",
+   "cited_pages": [
+    32
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      32
+     ]
+    ]
+   ],
+   "context": "2026 report, p. 32"
+  },
+  {
+   "quote": "increased inventories",
+   "cited_pages": [
+    37
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      37
+     ]
+    ]
+   ],
+   "context": "p. 37"
+  },
+  {
+   "quote": "lower average inventory levels within our Primary segment",
+   "cited_pages": [
+    32
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      32
+     ]
+    ]
+   ],
+   "context": "2025 report, p. 32"
+  },
+  {
+   "quote": "more normalized inventory levels",
+   "cited_pages": [
+    38
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      38
+     ]
+    ]
+   ],
+   "context": "p. 38"
+  },
+  {
+   "quote": "increased costs as a result of tariffs",
+   "cited_pages": [
+    32
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      32
+     ]
+    ]
+   ],
+   "context": "p. 32"
+  },
+  {
+   "quote": "not material",
+   "cited_pages": [
+    49
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75,
+      76,
+      77
+     ]
+    ]
+   ],
+   "context": "p. 49"
+  },
+  {
+   "quote": "the timing of vendor payments",
+   "cited_pages": [
+    37
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      37
+     ]
+    ]
+   ],
+   "context": "2026 report, p. 37"
+  },
+  {
+   "quote": "30 to 60 days",
+   "cited_pages": [
+    51
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      51
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      51
+     ]
+    ]
+   ],
+   "context": "p. 51"
+  },
+  {
+   "quote": "higher payroll and related costs",
+   "cited_pages": [],
+   "status": "found in another document",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": " and \"a non-recurring legal-related benefit recognized during fiscal 2024\""
+  },
+  {
+   "quote": "a non-recurring legal-related benefit recognized during fiscal 2024",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "higher payroll costs, deleverage from a negative comparable sales environment and lower legal-related benefits",
+   "cited_pages": [
+    34
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": "2025 report, p. 34"
+  },
+  {
+   "quote": "Other",
+   "cited_pages": [
+    55
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      2,
+      11,
+      23,
+      34,
+      43,
+      45,
+      46,
+      47,
+      48,
+      55,
+      56,
+      57,
+      60,
+      62,
+      65,
+      66,
+      67,
+      69,
+      74,
+      75,
+      78
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      2,
+      12,
+      24,
+      32,
+      34,
+      43,
+      45,
+      46,
+      47,
+      48,
+      54,
+      55,
+      56,
+      57,
+      60,
+      62,
+      65,
+      66,
+      69,
+      74,
+      76,
+      77,
+      79
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      6,
+      7
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      6,
+      7
+     ]
+    ]
+   ],
+   "context": ") earn 2.5% and went from 4.0% to 7.7% of sales (p. 55)"
+  },
+  {
+   "quote": "timing of vendor payments and increased inventories",
+   "cited_pages": [
+    37
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      37
+     ]
+    ]
+   ],
+   "context": ", plus \"the deferral of our fourth quarter fiscal 2024 estimated federal tax payment\" (2026 report, p. 37)"
+  },
+  {
+   "quote": "the deferral of our fourth quarter fiscal 2024 estimated federal tax payment",
+   "cited_pages": [
+    37
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      37
+     ]
+    ]
+   ],
+   "context": "2026 report, p. 37"
+  },
+  {
+   "quote": "primarily as a result of the SRS acquisition",
+   "cited_pages": [
+    48
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      48
+     ]
+    ]
+   ],
+   "context": "2025 report, p. 48"
+  },
+  {
+   "quote": "not material",
+   "cited_pages": [
+    48
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75,
+      76,
+      77
+     ]
+    ]
+   ],
+   "context": "p. 48"
+  },
+  {
+   "quote": "non-recurring",
+   "cited_pages": [
+    34
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": "p. 34"
+  },
+  {
+   "quote": "legal-related benefits",
+   "cited_pages": [
+    34
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": "p. 34"
+  },
+  {
+   "quote": "approximately $95 million",
+   "cited_pages": [
+    39
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      39
+     ]
+    ]
+   ],
+   "context": "2025 report, p. 39"
+  },
+  {
+   "quote": "approximately $79 million",
+   "cited_pages": [
+    39
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      39
+     ]
+    ]
+   ],
+   "context": "2026 report, p. 39"
+  },
+  {
+   "quote": "lower shrink",
+   "cited_pages": [
+    34
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      34
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": "p. 34"
+  }
+ ],
+ "figures": {
+  "found": [
+   "10.1%",
+   "3.4%",
+   "4.4",
+   "4.7",
+   "1,498",
+   "1.5%",
+   "3.7%",
+   "38.1",
+   "13.5%",
+   "12.7%",
+   "0.40",
+   "2.5%",
+   "4.0%",
+   "7.7%",
+   "0.36",
+   "0.05",
+   "3.8%",
+   "0.7%",
+   "14.2%",
+   "3,485",
+   "2,588",
+   "$0.14",
+   "0.9%",
+   "$0.33",
+   "2.2%",
+   "3.2%",
+   "0.1"
+  ],
+  "computed_percent": [
+   "33.9%",
+   "34.4%",
+   "14.5%",
+   "13.9%"
+  ],
+  "not_found": [
+   "2,366",
+   "35.9",
+   "41.7",
+   "0.81",
+   "1,063",
+   "3,838",
+   "$0.46"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 18602.0,
+  "source": "workbook",
+  "note": "",
+  "checks": []
+ },
+ "post_cutoff": []
+}

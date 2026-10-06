@@ -1,0 +1,210 @@
+{
+ "company": "home-depot-fy2025",
+ "prompts_version": "v2.22",
+ "prompt_hashes": {
+  "1-scan-the-numbers.md": "c46678aeb3d0",
+  "2-follow-the-flags.md": "e301fb450127",
+  "3-read-the-footnotes.md": "ef726cc82e6e",
+  "4-compare-the-footnotes.md": "7a3c2acc59e5",
+  "5-report.md": "5d9001d845d2"
+ },
+ "repo_commit": "b580582",
+ "adapter": "manual",
+ "model_requested": null,
+ "file_set": "default",
+ "files": [
+  "statements.xlsx",
+  "annual-report-FY2025-02-02-key-sections.txt",
+  "annual-report-FY2026-02-01-key-sections.txt",
+  "earnings-release-Q4-FY2025-02-02.txt",
+  "earnings-release-Q4-FY2026-02-01.txt"
+ ],
+ "cutoff": "2026-09-26",
+ "started": "2026-10-06T12:21:44",
+ "dry_run": false,
+ "steps": [
+  {
+   "prompt": 1,
+   "file": "1-scan-the-numbers.md",
+   "track": "numbers",
+   "reply_file": "numbers-1.pdf",
+   "status": "checked",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\home-depot-fy2025\\v2.22\\manual\\001\\numbers-1.pdf",
+    "pack": "home-depot-fy2025",
+    "words": 765,
+    "pages_est": 1.7,
+    "quotes": {
+     "total": 4,
+     "exact_on_page": 0,
+     "exact_page_differs": 0,
+     "exact_no_page": 4,
+     "other_document": 0,
+     "not_found": 0
+    },
+    "figures": {
+     "found": 71,
+     "computed_percent": 8,
+     "not_found": 37
+    },
+    "arithmetic": {
+     "pre_tax_income": 18602.0,
+     "checked": 1,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
+  },
+  {
+   "prompt": 2,
+   "file": "2-follow-the-flags.md",
+   "track": "numbers",
+   "reply_file": "numbers-2.pdf",
+   "status": "checked",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\home-depot-fy2025\\v2.22\\manual\\001\\numbers-2.pdf",
+    "pack": "home-depot-fy2025",
+    "words": 981,
+    "pages_est": 2.2,
+    "quotes": {
+     "total": 21,
+     "exact_on_page": 19,
+     "exact_page_differs": 0,
+     "exact_no_page": 1,
+     "other_document": 1,
+     "not_found": 0
+    },
+    "figures": {
+     "found": 27,
+     "computed_percent": 4,
+     "not_found": 7
+    },
+    "arithmetic": {
+     "pre_tax_income": 18602.0,
+     "checked": 0,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
+  },
+  {
+   "prompt": 3,
+   "file": "3-read-the-footnotes.md",
+   "track": "text",
+   "reply_file": "text-3.pdf",
+   "status": "checked",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\home-depot-fy2025\\v2.22\\manual\\001\\text-3.pdf",
+    "pack": "home-depot-fy2025",
+    "words": 1182,
+    "pages_est": 2.6,
+    "quotes": {
+     "total": 23,
+     "exact_on_page": 21,
+     "exact_page_differs": 0,
+     "exact_no_page": 2,
+     "other_document": 0,
+     "not_found": 0
+    },
+    "figures": {
+     "found": 26,
+     "computed_percent": 2,
+     "not_found": 2
+    },
+    "arithmetic": {
+     "pre_tax_income": 18602.0,
+     "checked": 0,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
+  },
+  {
+   "prompt": 4,
+   "file": "4-compare-the-footnotes.md",
+   "track": "text",
+   "reply_file": "text-4.pdf",
+   "status": "checked",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\home-depot-fy2025\\v2.22\\manual\\001\\text-4.pdf",
+    "pack": "home-depot-fy2025",
+    "words": 1119,
+    "pages_est": 2.5,
+    "quotes": {
+     "total": 39,
+     "exact_on_page": 35,
+     "exact_page_differs": 1,
+     "exact_no_page": 3,
+     "other_document": 0,
+     "not_found": 0
+    },
+    "figures": {
+     "found": 28,
+     "computed_percent": 2,
+     "not_found": 1
+    },
+    "arithmetic": {
+     "pre_tax_income": 18602.0,
+     "checked": 0,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
+  },
+  {
+   "prompt": 5,
+   "file": "5-report.md",
+   "track": "text",
+   "reply_file": "report-5.pdf",
+   "status": "checked",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\home-depot-fy2025\\v2.22\\manual\\001\\report-5.pdf",
+    "pack": "home-depot-fy2025",
+    "words": 866,
+    "pages_est": 1.9,
+    "quotes": {
+     "total": 13,
+     "exact_on_page": 8,
+     "exact_page_differs": 0,
+     "exact_no_page": 5,
+     "other_document": 0,
+     "not_found": 0
+    },
+    "figures": {
+     "found": 23,
+     "computed_percent": 2,
+     "not_found": 2
+    },
+    "arithmetic": {
+     "pre_tax_income": 18602.0,
+     "checked": 0,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
+  }
+ ],
+ "finished": "2026-10-06T12:21:44",
+ "cost_usd": 0,
+ "models": []
+}
