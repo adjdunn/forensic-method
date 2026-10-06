@@ -1,0 +1,56 @@
+{
+ "id": "cae-fy2026",
+ "company": "CAE Inc.",
+ "framework": "IFRS",
+ "cutoff": "2026-09-26",
+ "cutoff_note": "Nothing filed after this date is in the pack; a reply must not use anything later.",
+ "enforcement_case": "none known",
+ "documents": [
+  {
+   "file": "annual-report-FY2025-03-31.txt",
+   "kind": "report",
+   "year_end": "2025-03-31",
+   "fiscal_label": "fiscal 2025"
+  },
+  {
+   "file": "annual-report-FY2026-03-31.txt",
+   "kind": "report",
+   "year_end": "2026-03-31",
+   "fiscal_label": "fiscal 2026"
+  },
+  {
+   "file": "earnings-release-Q4-FY2025-03-31.txt",
+   "kind": "release",
+   "year_end": "2025-03-31",
+   "fiscal_label": "fiscal 2025"
+  },
+  {
+   "file": "earnings-release-Q4-FY2026-03-31.txt",
+   "kind": "release",
+   "year_end": "2026-03-31",
+   "fiscal_label": "fiscal 2026"
+  }
+ ],
+ "attach": {
+  "default": [
+   "statements.xlsx",
+   "annual-report-FY2025-03-31-key-sections.txt",
+   "annual-report-FY2026-03-31-key-sections.txt",
+   "earnings-release-Q4-FY2025-03-31.txt",
+   "earnings-release-Q4-FY2026-03-31.txt"
+  ],
+  "full": [
+   "statements.xlsx",
+   "annual-report-FY2025-03-31.txt",
+   "annual-report-FY2026-03-31.txt",
+   "earnings-release-Q4-FY2025-03-31.txt",
+   "earnings-release-Q4-FY2026-03-31.txt"
+  ]
+ },
+ "attach_note": "Allow-lists for a runner. Only these files reach a model; never the answer key, score or research files.",
+ "never_attach": [
+  "../../tests/",
+  "README.md",
+  "config.json"
+ ]
+}

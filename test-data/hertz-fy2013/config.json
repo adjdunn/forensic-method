@@ -1,0 +1,63 @@
+{
+ "id": "hertz-fy2013",
+ "company": "Hertz Global Holdings, Inc.",
+ "framework": "US GAAP",
+ "cutoff": "2014-03-31",
+ "cutoff_note": "Nothing filed after this date is in the pack; a reply must not use anything later.",
+ "enforcement_case": "SEC order, December 2018",
+ "documents": [
+  {
+   "file": "annual-report-FY2012-12-31.txt",
+   "kind": "report",
+   "year_end": "2012-12-31",
+   "fiscal_label": "fiscal 2012"
+  },
+  {
+   "file": "annual-report-FY2013-12-31.txt",
+   "kind": "report",
+   "year_end": "2013-12-31",
+   "fiscal_label": "fiscal 2013"
+  },
+  {
+   "file": "earnings-release-Q4-FY2012-12-31.txt",
+   "kind": "release",
+   "year_end": "2012-12-31",
+   "fiscal_label": "fiscal 2012"
+  },
+  {
+   "file": "earnings-release-Q4-FY2013-12-31.txt",
+   "kind": "release",
+   "year_end": "2013-12-31",
+   "fiscal_label": "fiscal 2013"
+  }
+ ],
+ "attach": {
+  "default": [
+   "statements.xlsx",
+   "annual-report-FY2012-12-31-key-sections.txt",
+   "annual-report-FY2013-12-31-key-sections.txt",
+   "earnings-release-Q4-FY2012-12-31.txt",
+   "earnings-release-Q4-FY2013-12-31.txt"
+  ],
+  "full": [
+   "statements.xlsx",
+   "annual-report-FY2012-12-31.txt",
+   "annual-report-FY2013-12-31.txt",
+   "earnings-release-Q4-FY2012-12-31.txt",
+   "earnings-release-Q4-FY2013-12-31.txt"
+  ],
+  "chat": [
+   "statements.xlsx",
+   "annual-report-FY2012-12-31-chat.txt",
+   "annual-report-FY2013-12-31-chat.txt",
+   "earnings-release-Q4-FY2012-12-31.txt",
+   "earnings-release-Q4-FY2013-12-31.txt"
+  ]
+ },
+ "attach_note": "Allow-lists for a runner. Only these files reach a model; never the answer key, score or research files.",
+ "never_attach": [
+  "../../tests/",
+  "README.md",
+  "config.json"
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "id": "kraft-heinz-fy2017",
+ "company": "The Kraft Heinz Company",
+ "framework": "US GAAP",
+ "cutoff": "2018-12-31",
+ "cutoff_note": "Nothing filed after this date is in the pack; a reply must not use anything later.",
+ "enforcement_case": "SEC order, September 2021",
+ "documents": [
+  {
+   "file": "annual-report-FY2016-12-31.txt",
+   "kind": "report",
+   "year_end": "2016-12-31",
+   "fiscal_label": "fiscal 2016"
+  },
+  {
+   "file": "annual-report-FY2017-12-30.txt",
+   "kind": "report",
+   "year_end": "2017-12-30",
+   "fiscal_label": "fiscal 2017"
+  },
+  {
+   "file": "earnings-release-Q4-FY2016-12-31.txt",
+   "kind": "release",
+   "year_end": "2016-12-31",
+   "fiscal_label": "fiscal 2016"
+  },
+  {
+   "file": "earnings-release-Q4-FY2017-12-30.txt",
+   "kind": "release",
+   "year_end": "2017-12-30",
+   "fiscal_label": "fiscal 2017"
+  }
+ ],
+ "attach": {
+  "default": [
+   "statements.xlsx",
+   "annual-report-FY2016-12-31-key-sections.txt",
+   "annual-report-FY2017-12-30-key-sections.txt",
+   "earnings-release-Q4-FY2016-12-31.txt",
+   "earnings-release-Q4-FY2017-12-30.txt"
+  ],
+  "full": [
+   "statements.xlsx",
+   "annual-report-FY2016-12-31.txt",
+   "annual-report-FY2017-12-30.txt",
+   "earnings-release-Q4-FY2016-12-31.txt",
+   "earnings-release-Q4-FY2017-12-30.txt"
+  ]
+ },
+ "attach_note": "Allow-lists for a runner. Only these files reach a model; never the answer key, score or research files.",
+ "never_attach": [
+  "../../tests/",
+  "README.md",
+  "config.json"
+ ]
+}
