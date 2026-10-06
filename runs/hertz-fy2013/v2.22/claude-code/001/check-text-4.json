@@ -1,0 +1,782 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.22\\claude-code\\001\\text-4.md",
+  "pack": "hertz-fy2013",
+  "words": 1355,
+  "pages_est": 3.0,
+  "quotes": {
+   "total": 35,
+   "exact_on_page": 25,
+   "exact_page_differs": 1,
+   "exact_no_page": 6,
+   "other_document": 3,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 45,
+   "computed_percent": 0,
+   "computed_table": 7,
+   "not_found": 4
+  },
+  "arithmetic": {
+   "pre_tax_income": 663.1,
+   "checked": 0,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "Useful lives... Cars | 4 to 28 months",
+   "cited_pages": [
+    81
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      81
+     ]
+    ]
+   ],
+   "context": "FY2012 AR, Note 2, p81"
+  },
+  {
+   "quote": "indicative of the strong residual values experienced",
+   "cited_pages": [
+    113
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      113
+     ]
+    ]
+   ],
+   "context": "p113"
+  },
+  {
+   "quote": "Holding periods... Cars | 4 to 36 months",
+   "cited_pages": [
+    91
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      91
+     ]
+    ]
+   ],
+   "context": "FY2013 AR, Note 2, p91"
+  },
+  {
+   "quote": "The favorable adjustments reflect... the optimization of fleet holding periods related to the integration of Dollar Thrifty",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": "Note 8, p126"
+  },
+  {
+   "quote": "strong",
+   "cited_pages": [
+    113
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      10,
+      21,
+      42,
+      43,
+      51,
+      54,
+      55,
+      56,
+      59,
+      113
+     ]
+    ]
+   ],
+   "context": " dropped while resale results turned to losses** - **Before:** \"The cumulative effect of the reduction in rates was indi"
+  },
+  {
+   "quote": "The cumulative effect of the reduction in rates was indicative of the strong residual values experienced in the U.S",
+   "cited_pages": [
+    113
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      113
+     ]
+    ]
+   ],
+   "context": "FY2012 AR, Note 8, p113"
+  },
+  {
+   "quote": "was also indicative of the residual values experienced in the U.S",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": "FY2013 AR, Note 8, p126"
+  },
+  {
+   "quote": "declining residual values from falling demand for used vehicles",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": " - **Why it matters:** The adjective went, but the claim stayed, even though car disposals moved from an $83.2m net gain"
+  },
+  {
+   "quote": "in the discovery stages",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      32,
+      121
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "the parties will again be engaging in mediation",
+   "cited_pages": [
+    122
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      32,
+      122
+     ]
+    ]
+   ],
+   "context": "FY2012 AR, Note 12, p122"
+  },
+  {
+   "quote": "A judgment - which could potentially exceed $40.0 million",
+   "cited_pages": [
+    122
+   ],
+   "status": "found in another document",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      137
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "We continue to believe the outcome of this case will not be material",
+   "cited_pages": [
+    137
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      137
+     ]
+    ]
+   ],
+   "context": "FY2013 AR, Note 13, p137"
+  },
+  {
+   "quote": "Pedro Ramirez, Jr. v. Hertz Global Holdings",
+   "cited_pages": [
+    138
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      138
+     ]
+    ]
+   ],
+   "context": " alleging misstatements \"from February 25, 2013 through November 4, 2013\" (p138)"
+  },
+  {
+   "quote": "from February 25, 2013 through November 4, 2013",
+   "cited_pages": [
+    138
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      138
+     ]
+    ]
+   ],
+   "context": "p138"
+  },
+  {
+   "quote": "continue to believe",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      137
+     ]
+    ]
+   ],
+   "context": " assurance was not in last year's Sobel text"
+  },
+  {
+   "quote": "non-cash debt charges",
+   "cited_pages": [
+    19,
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      54,
+      55,
+      59,
+      118,
+      120
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      10,
+      14,
+      19,
+      20
+     ]
+    ]
+   ],
+   "context": "FY2012 AR p50; FY2012 ER p19"
+  },
+  {
+   "quote": "debt-related charges",
+   "cited_pages": [
+    3,
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      56,
+      57,
+      62,
+      63,
+      131,
+      134
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3,
+      9
+     ]
+    ]
+   ],
+   "context": "FY2013 AR p50; FY2013 ER p3"
+  },
+  {
+   "quote": "one-time",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      118
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      131
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      19,
+      20
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": " - **Pricing metric redefined:** last year's \"rental rate revenue per transaction day\" excluded fees"
+  },
+  {
+   "quote": "rental rate revenue per transaction day",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      42,
+      49
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      3,
+      5,
+      12
+     ]
+    ]
+   ],
+   "context": " excluded fees"
+  },
+  {
+   "quote": "Total RPD",
+   "cited_pages": [
+    49
+   ],
+   "status": "found in another document",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      43,
+      49,
+      50,
+      52,
+      58
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3,
+      9
+     ]
+    ]
+   ],
+   "context": " includes them"
+  },
+  {
+   "quote": "Corporate cash flow",
+   "cited_pages": [
+    22
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      2,
+      4,
+      12,
+      15,
+      16,
+      22
+     ]
+    ]
+   ],
+   "context": "FY2012 ER p22"
+  },
+  {
+   "quote": "Free cash flow",
+   "cited_pages": [
+    3
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2,
+      3,
+      9
+     ]
+    ]
+   ],
+   "context": "FY2013 ER p3"
+  },
+  {
+   "quote": "the Company implemented Oracle general ledger",
+   "cited_pages": [
+    159
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      159
+     ]
+    ]
+   ],
+   "context": " in Q3 2013 (FY2013 p159)"
+  },
+  {
+   "quote": "industry residual value guidebooks",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      45
+     ]
+    ]
+   ],
+   "context": " and \"Depreciation rates are adjusted prospectively through the remaining expected life\""
+  },
+  {
+   "quote": "Depreciation rates are adjusted prospectively through the remaining expected life",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      45
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "and assessing depreciation rates",
+   "cited_pages": [
+    44,
+    45
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      44,
+      81
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      91
+     ]
+    ]
+   ],
+   "context": "FY2012 p44; FY2013 p45"
+  },
+  {
+   "quote": "based on rental volume and actuarial evaluations",
+   "cited_pages": [
+    45
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      45
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      45
+     ]
+    ]
+   ],
+   "context": " | p45 / p45 | Reserve per 1,000 rental days: $2.23k / $1.95k (2011: $2.05k)"
+  },
+  {
+   "quote": "relatively minor adjustments to our recorded liability",
+   "cited_pages": [
+    45,
+    81,
+    90
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      45
+     ]
+    ]
+   ],
+   "context": " | p45 / p45 | No reserve history given in either year | Can't be tested | | Bad-debt allowance \"based on our historical"
+  },
+  {
+   "quote": "based on our historical experience",
+   "cited_pages": [
+    81,
+    90
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      81
+     ]
+    ]
+   ],
+   "context": " | p81 / p90 | Allowance \u00f7 write-offs: 1.00 (revised 2012) / 0.76 | Doubtful, rough"
+  },
+  {
+   "quote": "range from two to fifteen years",
+   "cited_pages": [
+    83,
+    89,
+    93,
+    99
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      83
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      93
+     ]
+    ]
+   ],
+   "context": " | p83 / p93 | Donlen customer relationships 16 years, trademark 20 years (p89 / p99)"
+  },
+  {
+   "quote": "3 to 20",
+   "cited_pages": [
+    81,
+    91
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      34,
+      129
+     ]
+    ]
+   ],
+   "context": " to \"3 to 10\" years (p81 / p91) | No: three different ranges in the FY2013 report"
+  },
+  {
+   "quote": "3 to 10",
+   "cited_pages": [
+    81,
+    91
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      91
+     ]
+    ]
+   ],
+   "context": " years (p81 / p91) | No: three different ranges in the FY2013 report"
+  },
+  {
+   "quote": "we have decreased the percentage of program cars",
+   "cited_pages": [
+    41,
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": " | p41 / p42 | Program share of car purchases 30% / 30%"
+  },
+  {
+   "quote": "expect... to continue to decrease",
+   "cited_pages": [],
+   "status": "found in another document",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      22,
+      41
+     ]
+    ]
+   ],
+   "context": " clause was dropped | Statements that still fit and are left out of the table: - equipment held 24-108 months (average a"
+  },
+  {
+   "quote": "no impact",
+   "cited_pages": [
+    83,
+    95,
+    98
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      83
+     ]
+    ]
+   ],
+   "context": ") | FY2013 p83 | | Dollar Thrifty purchase price allocation finalized | 2013 | None stated (goodwill +$13.2m, a balance)"
+  }
+ ],
+ "figures": {
+  "found": [
+   "$44.2 m",
+   "16.9%",
+   "15.4%",
+   "6.7%",
+   "$100.6 m",
+   "$48.2 m",
+   "$83.2 m",
+   "$15.2 m",
+   "$40.0 million",
+   "6.0%",
+   "25.8%",
+   "$40.0 m",
+   "$7.8 m",
+   "$44.0 m",
+   "$28.7 m",
+   "$50.7 m",
+   "$39.07",
+   "$46.33",
+   "$450.6 m",
+   "$441.4 m",
+   "$2,165.2 m",
+   "$2,145.9 m",
+   "$25.1 m",
+   "$29.3 m",
+   "$6.3 m",
+   "$8.3 m",
+   "1,000",
+   "$2.23 k",
+   "19.8%",
+   "4.7%",
+   "$17.7 m",
+   "$50.2 m",
+   "2.7%",
+   "7.6%",
+   "$9.5 m",
+   "1.4%",
+   "$5.0 m",
+   "$0.4 m",
+   "$39.6 m",
+   "$11.6 m",
+   "1.7%",
+   "$9.2 m",
+   "$18.7 m",
+   "8.0%",
+   "$13.2 m"
+  ],
+  "computed_percent": [],
+  "computed_table": [
+   "12.0",
+   "15.4",
+   "1.00",
+   "0.76",
+   "1.0",
+   "13.8",
+   "12.6"
+  ],
+  "not_found": [
+   "$63.4 m",
+   "$171.2 m",
+   "$1.95 k",
+   "$2.05 k"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 663.1,
+  "source": "workbook",
+  "note": "",
+  "checks": []
+ },
+ "post_cutoff": []
+}

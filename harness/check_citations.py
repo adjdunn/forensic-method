@@ -110,7 +110,7 @@ def present(doc: dict, needle: str) -> bool:
 
 def cited_pages(ctx: str) -> list[int]:
     out = []
-    for m in re.finditer(r"\bpp?\.\s*(\d{1,3})(?:\s*(?:-|to|and)\s*(\d{1,3}))?((?:,\s*\d{1,3})*)", ctx):
+    for m in re.finditer(r"\bpp?\.?\s?(\d{1,3})(?:\s*(?:-|to|and)\s*(?:p\.?\s?)?(\d{1,3}))?((?:,\s*\d{1,3})*)\b", ctx):
         a = int(m.group(1)); b = int(m.group(2)) if m.group(2) else a
         if b < a or b - a > 6:
             b = a
@@ -154,7 +154,8 @@ def check_quotes(reply: str, pack: dict) -> list[dict]:
     text = norm(reply)
     out = []
     for m in re.finditer(r'"([^"]{2,400})"', text):
-        q = re.sub(r"\s*\[[^\]]{1,40}\]\s*", " ", m.group(1)).strip()  # drop the reply's own bracketed insertions
+        q = re.sub(r"\s*\[[^\]]{1,40}\]\s*", " ", m.group(1))  # drop the reply's own bracketed insertions
+        q = q.replace("**", "").replace("*", "").strip().strip(".,;:").strip()  # and its emphasis and trailing punctuation
         if q.startswith("[") or q.lower() in LABELS or re.fullmatch(r"(?:FY)?\d{4} (?:report|10-K|release)", q):
             continue
         after = text[m.end(): m.end() + 320]

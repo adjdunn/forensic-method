@@ -1,0 +1,321 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.22\\claude-code\\001\\numbers-2.md",
+  "pack": "hertz-fy2013",
+  "words": 1170,
+  "pages_est": 2.6,
+  "quotes": {
+   "total": 12,
+   "exact_on_page": 11,
+   "exact_page_differs": 0,
+   "exact_no_page": 1,
+   "other_document": 0,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 67,
+   "computed_percent": 2,
+   "computed_table": 0,
+   "not_found": 11
+  },
+  "arithmetic": {
+   "pre_tax_income": 663.1,
+   "checked": 0,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "as well as due to the timing of our payments",
+   "cited_pages": [
+    64
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      64
+     ]
+    ]
+   ],
+   "context": "FY2013 annual report, p.64"
+  },
+  {
+   "quote": "favorable adjustments reflect changes from the impact of car sales channel diversification ... optimization of fleet holding periods",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": "FY2013 annual report, p.42 and p.126"
+  },
+  {
+   "quote": "indicative of the strong residual values experienced in the U.S",
+   "cited_pages": [
+    113
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      113
+     ]
+    ]
+   ],
+   "context": "FY2012 annual report, p.113"
+  },
+  {
+   "quote": "a deterioration in the used vehicle residual values",
+   "cited_pages": [
+    54
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      54
+     ]
+    ]
+   ],
+   "context": "p.54"
+  },
+  {
+   "quote": "declining residual values from falling demand for used vehicles",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": "p.126"
+  },
+  {
+   "quote": "no less than 4% to 5%",
+   "cited_pages": [
+    5
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      5
+     ]
+    ]
+   ],
+   "context": "FY2012 release, p.5"
+  },
+  {
+   "quote": "estimated $0.12 impact of lower than expected pricing and higher expenses related to carrying extra fleet",
+   "cited_pages": [
+    2
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2
+     ]
+    ]
+   ],
+   "context": "FY2013 release, p.2"
+  },
+  {
+   "quote": "strong residual values and strong cost management performance, partially offset by negative RPD",
+   "cited_pages": [
+    3
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": "FY2012 release, p.3"
+  },
+  {
+   "quote": "a decrease in fleet receivables within our U.S. car rental segment, primarily related to the timing of purchases and sales of revenue earning equipment",
+   "cited_pages": [
+    133
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      133
+     ]
+    ]
+   ],
+   "context": "FY2013 annual report, p.133"
+  },
+  {
+   "quote": "primarily driven by earnings growth and improved working capital",
+   "cited_pages": [
+    2
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2
+     ]
+    ]
+   ],
+   "context": "FY2013 release, p.2"
+  },
+  {
+   "quote": "Other unusual/non-recurring",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      9
+     ]
+    ]
+   ],
+   "context": ": $50.7m and $44.0m (FY2013 release, Table 6)"
+  },
+  {
+   "quote": "certain tax reserves were released",
+   "cited_pages": [
+    40
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      40
+     ]
+    ]
+   ],
+   "context": "p.40"
+  }
+ ],
+ "figures": {
+  "found": [
+   "52.9",
+   "42.7",
+   "52.7",
+   "$879.9 m",
+   "$23.2 m",
+   "$34.0 m",
+   "$39.7 m",
+   "4.5%",
+   "3.5%",
+   "19.4%",
+   "13.6%",
+   "$35.3 m",
+   "15.2%",
+   "14.3%",
+   "15.3%",
+   "14.2%",
+   "$44.2 m",
+   "14.1%",
+   "$241.6",
+   "$100.6 m",
+   "$48.2 m",
+   "22.1%",
+   "18.5%",
+   "$0.12",
+   "$85.7 m",
+   "79.8%",
+   "75.7%",
+   "35.5%",
+   "16.1%",
+   "$47.8 m",
+   "1.4%",
+   "$21.0 m",
+   "$68.8 m",
+   "$90.2 m",
+   "$17.5 m",
+   "13.9%",
+   "$357.3 m",
+   "45.3",
+   "39.1",
+   "2.0%",
+   "$40.3 m",
+   "$29.3 m",
+   "$46.9 m",
+   "$238.6 m",
+   "$54.8 m",
+   "$490.1 m",
+   "$663.1 m",
+   "$450.9 m",
+   "$441.4 m",
+   "$901.5 m",
+   "$450.6 m",
+   "$98.8 m",
+   "$49.1 m",
+   "$66.2 m",
+   "$18.5 m",
+   "$163.7 m",
+   "$18.8 m",
+   "$50.7 m",
+   "$44.0 m",
+   "$47.9 m",
+   "$46.3 m",
+   "$139.4 m",
+   "$26.7 m",
+   "$5.0 m",
+   "$0.4 m",
+   "$39.6 m",
+   "$130.6 m"
+  ],
+  "computed_percent": [
+   "14.48%",
+   "14.49%"
+  ],
+  "computed_table": [],
+  "not_found": [
+   "$62.7 m",
+   "$721.2 m",
+   "$623.2 m",
+   "$152.1 m",
+   "$174.5 m",
+   "$207.7",
+   "$148.8 m",
+   "$261.3 m",
+   "$367.1 m",
+   "$273.8 m",
+   "$662.0 m"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 663.1,
+  "source": "workbook",
+  "note": "",
+  "checks": []
+ },
+ "post_cutoff": []
+}

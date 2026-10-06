@@ -1,0 +1,496 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.22\\claude-code\\001\\report-5.md",
+  "pack": "hertz-fy2013",
+  "words": 1127,
+  "pages_est": 2.5,
+  "quotes": {
+   "total": 16,
+   "exact_on_page": 12,
+   "exact_page_differs": 1,
+   "exact_no_page": 3,
+   "other_document": 0,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 55,
+   "computed_percent": 0,
+   "computed_table": 0,
+   "not_found": 4
+  },
+  "arithmetic": {
+   "pre_tax_income": 663.1,
+   "checked": 0,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "indicative of the residual values experienced in the U.S",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": " in 2013"
+  },
+  {
+   "quote": "declining residual values",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": "p126"
+  },
+  {
+   "quote": "deterioration",
+   "cited_pages": [
+    54
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      24,
+      28,
+      54
+     ]
+    ]
+   ],
+   "context": "p54"
+  },
+  {
+   "quote": "optimization of fleet holding periods",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": "p126"
+  },
+  {
+   "quote": "strong",
+   "cited_pages": [
+    113
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      10,
+      21,
+      42,
+      43,
+      51,
+      54,
+      55,
+      56,
+      59,
+      113
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      3,
+      4,
+      5
+     ]
+    ]
+   ],
+   "context": " was dropped (FY2012 p113)"
+  },
+  {
+   "quote": "strong",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      10,
+      21,
+      42,
+      43,
+      51,
+      54,
+      55,
+      56,
+      59,
+      113
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      10,
+      22,
+      52,
+      54,
+      56,
+      57,
+      58,
+      62,
+      63
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      3,
+      4,
+      5
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": " - Ordinary: if the losses came from cars bought under the old rates, or Dollar Thrifty's longer holding periods justify"
+  },
+  {
+   "quote": "one-time",
+   "cited_pages": [
+    50,
+    140
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      131
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": " and new add-backs** - **Shown:** The measure excludes \"certain one-time charges\" (p50), yet restructuring has been char"
+  },
+  {
+   "quote": "certain one-time charges",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      118
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      131
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      19
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": "p50"
+  },
+  {
+   "quote": "Non-cash debt charges",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      120
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      2,
+      4,
+      13,
+      14
+     ]
+    ]
+   ],
+   "context": " was renamed \"debt-related charges\" (FY2012 p50 \u2192 FY2013 p50)"
+  },
+  {
+   "quote": "debt-related charges",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      56,
+      57,
+      62,
+      63,
+      131,
+      134
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3,
+      9
+     ]
+    ]
+   ],
+   "context": "FY2012 p50 \u2192 FY2013 p50"
+  },
+  {
+   "quote": "timing of our payments",
+   "cited_pages": [
+    64
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      60
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      64
+     ]
+    ]
+   ],
+   "context": "p64"
+  },
+  {
+   "quote": "based on rental volume",
+   "cited_pages": [
+    45
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      45
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      45
+     ]
+    ]
+   ],
+   "context": " in both years (p45)"
+  },
+  {
+   "quote": "relatively minor adjustments",
+   "cited_pages": [
+    138
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      45
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      45
+     ]
+    ]
+   ],
+   "context": " and the attribution of the increase to Dollar Thrifty (p138) can't be tested: there is no roll-forward"
+  },
+  {
+   "quote": "could potentially exceed $40.0 million",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      137
+     ]
+    ]
+   ],
+   "context": "an exposure, 6.0% of PTI"
+  },
+  {
+   "quote": "will not be material",
+   "cited_pages": [
+    137
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      19
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      20,
+      137
+     ]
+    ]
+   ],
+   "context": " assurance appeared (p137)"
+  },
+  {
+   "quote": "released",
+   "cited_pages": [
+    40
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      20,
+      40,
+      67,
+      94,
+      106
+     ]
+    ]
+   ],
+   "context": " with no amount given (p40)"
+  }
+ ],
+ "figures": {
+  "found": [
+   "$663.1 m",
+   "$100.6 m",
+   "$48.2 m",
+   "16.2%",
+   "15.3%",
+   "14.2%",
+   "26.3%",
+   "22.9%",
+   "$44.2 m",
+   "6.7%",
+   "$39.6 m",
+   "6.0%",
+   "$645.4 m",
+   "$65.0 m",
+   "$44.0 m",
+   "25.8%",
+   "$98.8 m",
+   "14.9%",
+   "$490.1 m",
+   "73.9%",
+   "52.7",
+   "42.7",
+   "3.1%",
+   "19.2%",
+   "4.5%",
+   "$879.9 m",
+   "$23.2 m",
+   "$35.3 m",
+   "34.1%",
+   "19.8%",
+   "4.7%",
+   "1,000",
+   "$17.7 m",
+   "$50.2 m",
+   "2.7%",
+   "7.6%",
+   "$347.7 m",
+   "$46.3 m",
+   "$47.9 m",
+   "$11.6 m",
+   "1.7%",
+   "22.1%",
+   "18.5%",
+   "$90.2 m",
+   "13.6%",
+   "$40.0 million",
+   "1.00",
+   "0.76",
+   "1.4%",
+   "$25.1 m",
+   "$29.3 m",
+   "$6.3 m",
+   "$8.3 m",
+   "$130.6 m",
+   "$139.4 m"
+  ],
+  "computed_percent": [],
+  "computed_table": [],
+  "not_found": [
+   "$174.5 m",
+   "$152.1 m",
+   "$171.2 m",
+   "$226.3 m"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 663.1,
+  "source": "reply",
+  "note": "",
+  "checks": []
+ },
+ "post_cutoff": []
+}
