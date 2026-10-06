@@ -1,0 +1,211 @@
+{
+ "company": "hertz-fy2013",
+ "prompts_version": "v2.22",
+ "prompt_hashes": {
+  "1-scan-the-numbers.md": "c46678aeb3d0",
+  "2-follow-the-flags.md": "e301fb450127",
+  "3-read-the-footnotes.md": "ef726cc82e6e",
+  "4-compare-the-footnotes.md": "7a3c2acc59e5",
+  "5-report.md": "5d9001d845d2"
+ },
+ "repo_commit": "76041ae",
+ "adapter": "manual",
+ "model_requested": null,
+ "file_set": "full",
+ "files": [
+  "statements.xlsx",
+  "annual-report-FY2012-12-31.txt",
+  "annual-report-FY2013-12-31.txt",
+  "earnings-release-Q4-FY2012-12-31.txt",
+  "earnings-release-Q4-FY2013-12-31.txt"
+ ],
+ "cutoff": "2014-03-31",
+ "started": "2026-10-06T12:24:19",
+ "dry_run": false,
+ "steps": [
+  {
+   "prompt": 1,
+   "file": "1-scan-the-numbers.md",
+   "track": "numbers",
+   "reply_file": "numbers-1.pdf",
+   "status": "checked",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.22\\manual\\001\\numbers-1.pdf",
+    "pack": "hertz-fy2013",
+    "words": 753,
+    "pages_est": 1.7,
+    "quotes": {
+     "total": 0,
+     "exact_on_page": 0,
+     "exact_page_differs": 0,
+     "exact_no_page": 0,
+     "other_document": 0,
+     "not_found": 0
+    },
+    "figures": {
+     "found": 122,
+     "computed_percent": 0,
+     "not_found": 10
+    },
+    "arithmetic": {
+     "pre_tax_income": 663.1,
+     "checked": 3,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
+  },
+  {
+   "prompt": 2,
+   "file": "2-follow-the-flags.md",
+   "track": "numbers",
+   "reply_file": "numbers-2.pdf",
+   "status": "checked",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.22\\manual\\001\\numbers-2.pdf",
+    "pack": "hertz-fy2013",
+    "words": 1145,
+    "pages_est": 2.5,
+    "quotes": {
+     "total": 15,
+     "exact_on_page": 12,
+     "exact_page_differs": 1,
+     "exact_no_page": 2,
+     "other_document": 0,
+     "not_found": 0
+    },
+    "figures": {
+     "found": 70,
+     "computed_percent": 0,
+     "not_found": 4
+    },
+    "arithmetic": {
+     "pre_tax_income": 663.1,
+     "checked": 1,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
+  },
+  {
+   "prompt": 3,
+   "file": "3-read-the-footnotes.md",
+   "track": "text",
+   "reply_file": "text-3.pdf",
+   "status": "checked",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.22\\manual\\001\\text-3.pdf",
+    "pack": "hertz-fy2013",
+    "words": 1135,
+    "pages_est": 2.5,
+    "quotes": {
+     "total": 20,
+     "exact_on_page": 15,
+     "exact_page_differs": 1,
+     "exact_no_page": 4,
+     "other_document": 0,
+     "not_found": 0
+    },
+    "figures": {
+     "found": 50,
+     "computed_percent": 0,
+     "not_found": 3
+    },
+    "arithmetic": {
+     "pre_tax_income": 663.1,
+     "checked": 1,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
+  },
+  {
+   "prompt": 4,
+   "file": "4-compare-the-footnotes.md",
+   "track": "text",
+   "reply_file": "text-4.pdf",
+   "status": "checked",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.22\\manual\\001\\text-4.pdf",
+    "pack": "hertz-fy2013",
+    "words": 1129,
+    "pages_est": 2.5,
+    "quotes": {
+     "total": 30,
+     "exact_on_page": 28,
+     "exact_page_differs": 0,
+     "exact_no_page": 2,
+     "other_document": 0,
+     "not_found": 0
+    },
+    "figures": {
+     "found": 49,
+     "computed_percent": 0,
+     "not_found": 2
+    },
+    "arithmetic": {
+     "pre_tax_income": 663.1,
+     "checked": 2,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
+  },
+  {
+   "prompt": 5,
+   "file": "5-report.md",
+   "track": "text",
+   "reply_file": "report-5.pdf",
+   "status": "checked",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.22\\manual\\001\\report-5.pdf",
+    "pack": "hertz-fy2013",
+    "words": 878,
+    "pages_est": 2.0,
+    "quotes": {
+     "total": 10,
+     "exact_on_page": 7,
+     "exact_page_differs": 1,
+     "exact_no_page": 2,
+     "other_document": 0,
+     "not_found": 0
+    },
+    "figures": {
+     "found": 39,
+     "computed_percent": 0,
+     "not_found": 1
+    },
+    "arithmetic": {
+     "pre_tax_income": 663.1,
+     "checked": 0,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
+  }
+ ],
+ "finished": "2026-10-06T12:24:19",
+ "cost_usd": 0,
+ "models": [],
+ "note": "Replies are Aaron's Claude chat runs of 6 October 2026 (prompts 1-2 at v2.21/v2.14-v2.17 wording, 3 at v2.18, 4 at v2.19, 5 at v2.20; prompt 5's v2.21/v2.22 ranking clauses came after). Full reports and both releases were attached in chat."
+}

@@ -1,0 +1,319 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.22\\manual\\001\\report-5.pdf",
+  "pack": "hertz-fy2013",
+  "words": 878,
+  "pages_est": 2.0,
+  "quotes": {
+   "total": 10,
+   "exact_on_page": 7,
+   "exact_page_differs": 1,
+   "exact_no_page": 2,
+   "other_document": 0,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 39,
+   "computed_percent": 0,
+   "not_found": 1
+  },
+  "arithmetic": {
+   "pre_tax_income": 663.1,
+   "checked": 0,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "indicative of the residual values experienced",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": " in 2013, yet the same note shows a $48.2M loss on U.S"
+  },
+  {
+   "quote": "strong",
+   "cited_pages": [
+    81,
+    91
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      10,
+      21,
+      42,
+      43,
+      51,
+      54,
+      55,
+      56,
+      59,
+      113
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      10,
+      22,
+      52,
+      54,
+      56,
+      57,
+      58,
+      62,
+      63
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      3,
+      4,
+      5
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": " was dropped, and the company-wide rate fell from 15.2% to 14.3%"
+  },
+  {
+   "quote": "certain one-time charges",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      131
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": "FY2013 p. 50"
+  },
+  {
+   "quote": "$0.12 impact",
+   "cited_pages": [
+    2
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2
+     ]
+    ]
+   ],
+   "context": " of pricing and extra fleet (p. 2) is measured against expectations, so it can't be tested as stated"
+  },
+  {
+   "quote": "would have been material to the fourth quarter",
+   "cited_pages": [
+    83
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      83
+     ]
+    ]
+   ],
+   "context": "FY2013 p. 83"
+  },
+  {
+   "quote": "effective",
+   "cited_pages": [
+    159
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      5,
+      13,
+      24,
+      25,
+      27,
+      28,
+      29,
+      30,
+      47,
+      57,
+      63,
+      70,
+      72,
+      74,
+      92,
+      93,
+      94,
+      98,
+      100,
+      107,
+      115,
+      122,
+      128,
+      129,
+      156,
+      159,
+      163,
+      172,
+      173
+     ]
+    ]
+   ],
+   "context": "p. 159"
+  },
+  {
+   "quote": "unknowingly not being met",
+   "cited_pages": [
+    150
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      150
+     ]
+    ]
+   ],
+   "context": "p. 150"
+  },
+  {
+   "quote": "timing of our payments",
+   "cited_pages": [
+    64
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      64
+     ]
+    ]
+   ],
+   "context": "FY2013 p. 64"
+  },
+  {
+   "quote": "could potentially exceed $40.0 million",
+   "cited_pages": [
+    137,
+    138
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      137
+     ]
+    ]
+   ],
+   "context": ", with no material reserve (pp. 137-138)"
+  },
+  {
+   "quote": "fewer program cars",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      22,
+      41
+     ]
+    ]
+   ],
+   "context": " no longer fits"
+  }
+ ],
+ "figures": {
+  "found": [
+   "$663.1 M",
+   "$48.2 M",
+   "$100.6 M",
+   "15.2%",
+   "14.3%",
+   "6.7%",
+   "$44.2 M",
+   "6.0%",
+   "$645.4 M",
+   "13.8%",
+   "14.9%",
+   "$98.8 M",
+   "73.9%",
+   "$1,153.2 M",
+   "22.1%",
+   "18.5%",
+   "22.4%",
+   "16.1%",
+   "$0.12",
+   "$46.3 M",
+   "$47.9 M",
+   "47.2%",
+   "50.2%",
+   "5.2%",
+   "$34.7 M",
+   "7.0%",
+   "3.5%",
+   "19.4%",
+   "52.9",
+   "42.7",
+   "4.5%",
+   "$40.0 million",
+   "37.5%",
+   "5.1%",
+   "$4.0 M",
+   "7.1%",
+   "19.5%",
+   "$105.8 M",
+   "9.0%"
+  ],
+  "computed_percent": [],
+  "not_found": [
+   "$1,054.4 M"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 663.1,
+  "source": "reply",
+  "note": "",
+  "checks": []
+ },
+ "post_cutoff": []
+}

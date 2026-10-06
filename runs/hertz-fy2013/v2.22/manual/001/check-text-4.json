@@ -1,0 +1,700 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.22\\manual\\001\\text-4.pdf",
+  "pack": "hertz-fy2013",
+  "words": 1129,
+  "pages_est": 2.5,
+  "quotes": {
+   "total": 30,
+   "exact_on_page": 28,
+   "exact_page_differs": 0,
+   "exact_no_page": 2,
+   "other_document": 0,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 49,
+   "computed_percent": 0,
+   "not_found": 2
+  },
+  "arithmetic": {
+   "pre_tax_income": 663.1,
+   "checked": 2,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "Useful lives are as follows: Cars | 4 to 28 months",
+   "cited_pages": [
+    81
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      81
+     ]
+    ]
+   ],
+   "context": "FY2012 report, p. 81"
+  },
+  {
+   "quote": "Holding periods are as follows: Cars | 4 to 36 months",
+   "cited_pages": [
+    91
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      91
+     ]
+    ]
+   ],
+   "context": "FY2013 report, p. 91"
+  },
+  {
+   "quote": "optimization of fleet holding periods",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": " among the reasons U.S"
+  },
+  {
+   "quote": "strong",
+   "cited_pages": [
+    113
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      10,
+      21,
+      42,
+      43,
+      51,
+      54,
+      55,
+      56,
+      59,
+      113
+     ]
+    ]
+   ],
+   "context": " dropped and the reason for the rate cuts changed \u007f Before: \"indicative of the strong residual values experienced in the"
+  },
+  {
+   "quote": "indicative of the strong residual values experienced in the U.S.",
+   "cited_pages": [
+    113
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      113
+     ]
+    ]
+   ],
+   "context": "FY2012 report, p. 113"
+  },
+  {
+   "quote": "due to improved residual values in the U.S.",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": "p. 42"
+  },
+  {
+   "quote": "also indicative of the residual values experienced in the U.S.",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "reflect changes from the impact of car sales channel diversification... and the optimization of fleet holding periods",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": "FY2013 report, p. 126"
+  },
+  {
+   "quote": "residual values have remained fairly stronger",
+   "cited_pages": [
+    41,
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": " and the warning that a car's market value may \"be less than its estimated residual value\" (FY2012 p. 41-42)"
+  },
+  {
+   "quote": "be less than its estimated residual value",
+   "cited_pages": [
+    41,
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      22,
+      41
+     ]
+    ]
+   ],
+   "context": "FY2012 p. 41-42"
+  },
+  {
+   "quote": "We have excluded from our evaluation the internal controls... of Dollar Thrifty",
+   "cited_pages": [
+    141
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      141
+     ]
+    ]
+   ],
+   "context": ", 21% of total assets (FY2012 report, p. 141)"
+  },
+  {
+   "quote": "Correction of Errors... out of period errors totaling $46.3 million",
+   "cited_pages": [
+    83
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      83
+     ]
+    ]
+   ],
+   "context": "FY2013 report, p. 83"
+  },
+  {
+   "quote": "implemented",
+   "cited_pages": [
+    159
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      68,
+      73,
+      121,
+      138,
+      159
+     ]
+    ]
+   ],
+   "context": " in the third quarter (p. 159)"
+  },
+  {
+   "quote": "a stay order and... mediation",
+   "cited_pages": [
+    122
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      32,
+      122
+     ]
+    ]
+   ],
+   "context": "FY2012 p. 122"
+  },
+  {
+   "quote": "could potentially exceed $40.0 million",
+   "cited_pages": [
+    137
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      137
+     ]
+    ]
+   ],
+   "context": "FY2013 p. 137"
+  },
+  {
+   "quote": "Rental rate revenue per transaction day",
+   "cited_pages": [
+    49
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      49
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      18,
+      20
+     ]
+    ]
+   ],
+   "context": ", which left out items \"beyond the control of management\" (FY2012 p. 49), became \"Total RPD\", which covers what manageme"
+  },
+  {
+   "quote": "beyond the control of management",
+   "cited_pages": [
+    49
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      49
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      21
+     ]
+    ]
+   ],
+   "context": "FY2012 p. 49"
+  },
+  {
+   "quote": "Total RPD",
+   "cited_pages": [
+    49
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      43,
+      49,
+      50,
+      52,
+      58
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3,
+      9
+     ]
+    ]
+   ],
+   "context": ", which covers what management \"has the ability to control\" (FY2013 p. 49)"
+  },
+  {
+   "quote": "has the ability to control",
+   "cited_pages": [
+    49
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      49
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": "FY2013 p. 49"
+  },
+  {
+   "quote": "non-cash debt charges",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      54,
+      55,
+      59,
+      118,
+      120
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      10,
+      14,
+      19,
+      20
+     ]
+    ]
+   ],
+   "context": " became \"debt-related charges\" (FY2012 p. 50"
+  },
+  {
+   "quote": "debt-related charges",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      56,
+      57,
+      62,
+      63,
+      131,
+      134
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3,
+      9
+     ]
+    ]
+   ],
+   "context": "FY2012 p. 50; FY2013 p. 50"
+  },
+  {
+   "quote": "normalized",
+   "cited_pages": [
+    20
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      10,
+      20
+     ]
+    ]
+   ],
+   "context": " tax rate from 34% to 35% (2012 release p. 20"
+  },
+  {
+   "quote": "Several of our remaining multiemployer plans have underfunded liabilities",
+   "cited_pages": [
+    25
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      25,
+      70
+     ]
+    ]
+   ],
+   "context": "FY2012 p. 25"
+  },
+  {
+   "quote": "could have significant underfunded liabilities",
+   "cited_pages": [
+    26
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      26
+     ]
+    ]
+   ],
+   "context": "FY2013 p. 26"
+  },
+  {
+   "quote": "We are not a party to any long-term car supply arrangements",
+   "cited_pages": [
+    22
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      22
+     ]
+    ]
+   ],
+   "context": "FY2012 p. 22"
+  },
+  {
+   "quote": "with fewer program cars in our fleet",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      22
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      23
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "we have decreased the percentage of program cars",
+   "cited_pages": [
+    22,
+    23,
+    41,
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      41
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": " pp. 22, 41 and pp. 23, 42 Program share of the U.S"
+  },
+  {
+   "quote": "eighteen months in the United States",
+   "cited_pages": [
+    11
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      11
+     ]
+    ]
+   ],
+   "context": " p. 11 and p. 11 Top of stated range 28 then 36 months"
+  },
+  {
+   "quote": "based on our historical experience",
+   "cited_pages": [
+    81,
+    90
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      81
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      90
+     ]
+    ]
+   ],
+   "context": " p. 81 and p. 90 Allowance over write-offs 1.00 then 0.76 times"
+  },
+  {
+   "quote": "range from two to fifteen years",
+   "cited_pages": [
+    83,
+    89,
+    93,
+    99
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      83
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      93
+     ]
+    ]
+   ],
+   "context": " p. 83 and p. 93 Donlen lives of 16 and 20 years disclosed (p. 89 and p. 99)"
+  }
+ ],
+ "figures": {
+  "found": [
+   "$663.1 M",
+   "$44.2 M",
+   "6.7%",
+   "$48.2 M",
+   "$100.6 M",
+   "22.4%",
+   "$46.3 million",
+   "$441.4 M",
+   "$450.6 M",
+   "50.2%",
+   "47.2%",
+   "29.2%",
+   "27.9%",
+   "$34.7 M",
+   "5.2%",
+   "$46.3 M",
+   "7.0%",
+   "$40.0 million",
+   "6.0%",
+   "3.1%",
+   "2.8%",
+   "$40.0 M",
+   "$7.8 M",
+   "$44.0 M",
+   "13.8%",
+   "47.8%",
+   "178,300",
+   "136,400",
+   "54,500",
+   "7.1%",
+   "31.6",
+   "29.7",
+   "1.00",
+   "0.76",
+   "37.5%",
+   "5.1%",
+   "8.8%",
+   "10.5%",
+   "$139.4 M",
+   "$130.6 M",
+   "$18.7 M",
+   "$9.2 M",
+   "$11.6 M",
+   "$8.8 M",
+   "$5.0 M",
+   "0.8%",
+   "$7.7 M",
+   "$0.5 M",
+   "$0.4 M"
+  ],
+  "computed_percent": [],
+  "not_found": [
+   "$148.8 M",
+   "190,900"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 663.1,
+  "source": "reply",
+  "note": "",
+  "checks": [
+   {
+    "amount": 44.2,
+    "stated": 6.7,
+    "recomputed": 6.7,
+    "ok": true,
+    "sentence": "Size: 6.7% of pre-tax (the $44.2M cut); the disposal swing of $148.8M is 22.4%. \u007f Reading: Most likely the business weakened and the wording was trimmed to matc"
+   },
+   {
+    "amount": 5.0,
+    "stated": 0.8,
+    "recomputed": 0.8,
+    "ok": true,
+    "sentence": "FY2012 p. 113 U.S. car depreciation rates lowered 2013 +$44.2M, 6.7% of pre-tax FY2013 p. 126 Out-of-period errors corrected by revising prior years Found in 20"
+   }
+  ]
+ },
+ "post_cutoff": []
+}

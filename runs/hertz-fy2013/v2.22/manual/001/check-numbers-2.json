@@ -1,0 +1,417 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.22\\manual\\001\\numbers-2.pdf",
+  "pack": "hertz-fy2013",
+  "words": 1145,
+  "pages_est": 2.5,
+  "quotes": {
+   "total": 15,
+   "exact_on_page": 12,
+   "exact_page_differs": 1,
+   "exact_no_page": 2,
+   "other_document": 0,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 70,
+   "computed_percent": 0,
+   "not_found": 4
+  },
+  "arithmetic": {
+   "pre_tax_income": 663.1,
+   "checked": 1,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "monthly per vehicle depreciation costs decreased",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      43
+     ]
+    ]
+   ],
+   "context": " on \"optimization of fleet holding periods related to the integration of Dollar Thrifty\" (FY2013 annual report, p. 42), "
+  },
+  {
+   "quote": "optimization of fleet holding periods related to the integration of Dollar Thrifty",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": "FY2013 annual report, p. 42"
+  },
+  {
+   "quote": "net decreases of $44.2 million, $139.4 million and $26.7 million",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": " for 2013, 2012 and 2011 (p. 126)"
+  },
+  {
+   "quote": "indicative of the strong residual values experienced in the U.S.",
+   "cited_pages": [
+    113
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      113
+     ]
+    ]
+   ],
+   "context": "FY2012 annual report, p. 113"
+  },
+  {
+   "quote": "a deterioration in the used vehicle residual values",
+   "cited_pages": [
+    54
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      54
+     ]
+    ]
+   ],
+   "context": "p. 54"
+  },
+  {
+   "quote": "declining residual values from falling demand for used vehicles",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": "p. 126"
+  },
+  {
+   "quote": "timing of sales",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": "p. 126"
+  },
+  {
+   "quote": "due to the timing of our payments",
+   "cited_pages": [
+    64
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      64
+     ]
+    ]
+   ],
+   "context": "FY2013 annual report, p. 64"
+  },
+  {
+   "quote": "implemented Oracle general ledger, accounts payable",
+   "cited_pages": [
+    159
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      159
+     ]
+    ]
+   ],
+   "context": " modules (p. 159)"
+  },
+  {
+   "quote": "a decrease in fleet receivables within our U.S. car rental segment, primarily related to the timing of purchases and sales of revenue earning equipment",
+   "cited_pages": [
+    133
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      133
+     ]
+    ]
+   ],
+   "context": "FY2013 annual report, p. 133"
+  },
+  {
+   "quote": "timing",
+   "cited_pages": [
+    65
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      60,
+      62,
+      63,
+      66
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      36,
+      64,
+      66,
+      67,
+      70,
+      126,
+      133,
+      146
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "accounts payable and accrued liabilities",
+   "cited_pages": [
+    81
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      78
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      81
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      21
+     ]
+    ]
+   ],
+   "context": "p. 81"
+  },
+  {
+   "quote": "an estimated $0.12 impact of lower than expected pricing and higher expenses related to carrying extra fleet",
+   "cited_pages": [
+    2
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2
+     ]
+    ]
+   ],
+   "context": "FY2013 results release, p. 2"
+  },
+  {
+   "quote": "Other unusual/non-recurring",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      9
+     ]
+    ]
+   ],
+   "context": " appears in both years ($44.0m, then $50.7m), each including a \"litigation accrual\" ($14.0m, then $5.7m)"
+  },
+  {
+   "quote": "litigation accrual",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      121
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      51,
+      135
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      14
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2,
+      5
+     ]
+    ]
+   ],
+   "context": "$14.0m, then $5.7m"
+  }
+ ],
+ "figures": {
+  "found": [
+   "15.2%",
+   "14.3%",
+   "$44.2 million",
+   "$139.4 million",
+   "$26.7 million",
+   "3.1%",
+   "10.4%",
+   "$39.6 m",
+   "1.6%",
+   "$2,407.8 m",
+   "6.0%",
+   "$96.8 m",
+   "$37.2 m",
+   "14.5%",
+   "$44.2 m",
+   "$48.2 m",
+   "3.5%",
+   "19.4%",
+   "52.9",
+   "42.7",
+   "52.7",
+   "$879.9 m",
+   "$72.9 m",
+   "$33.2 m",
+   "$39.7 m",
+   "4.5%",
+   "$93.7 m",
+   "4.3%",
+   "50.7",
+   "$1,928.3 m",
+   "$978.6 m",
+   "19.5%",
+   "76.2",
+   "51.3",
+   "76.5",
+   "$618.6 m",
+   "$357.3 m",
+   "13.9%",
+   "$105.8 m",
+   "8.4%",
+   "51.1",
+   "39.1",
+   "43.8",
+   "9.0%",
+   "$29.3 m",
+   "$40.3 m",
+   "1.5%",
+   "2.0%",
+   "5.8%",
+   "22.1%",
+   "18.5%",
+   "$0.12",
+   "$85.7 m",
+   "$90.2 m",
+   "22.4%",
+   "16.1%",
+   "19.0%",
+   "22.6%",
+   "$52.7 m",
+   "$356.2 m",
+   "$450.9 m",
+   "$490.1 m",
+   "$44.0 m",
+   "$50.7 m",
+   "$14.0 m",
+   "$5.7 m",
+   "$66.2 m",
+   "$49.1 m",
+   "$98.8 m",
+   "$130.1 m"
+  ],
+  "computed_percent": [],
+  "not_found": [
+   "$134.0 m",
+   "$261.3 m",
+   "$367.1 m",
+   "$344.7 m"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 663.1,
+  "source": "workbook",
+  "note": "",
+  "checks": [
+   {
+    "amount": 746.0,
+    "stated": 111.0,
+    "recomputed": 112.5,
+    "ok": true,
+    "sentence": "The gap at FY2012 days is $737m, 111% of pre-tax income ($746m and 113% as first reported). \u007f Reading: Most likely ordinary: the fall follows vehicle-sale timin"
+   }
+  ]
+ },
+ "post_cutoff": []
+}
