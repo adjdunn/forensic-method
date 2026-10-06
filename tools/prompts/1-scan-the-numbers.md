@@ -39,7 +39,7 @@ Scan the attached company's financial statements for movements worth a closer lo
 - **Size:** what the movement is worth in money, as a share of the latest year's pre-tax income. Use these methods every time, so the figure is the same from one run to the next:
   - a balance that outgrew its driver: the balance less what it would be at the prior year's days (days sales outstanding, days inventory or days payable). Days allow for a 52- or 53-week year; a plain ratio does not;
   - a balance that fell behind its driver (payables falling while costs rise): what it would be at the prior year's days, less the balance;
-  - a margin that fell: the fall in the margin times the latest year's revenue;
+  - a margin that fell: the fall in the margin times the revenue of the period the fall was measured over (the year for a yearly fall, the quarter for a same-quarter fall);
   - a depreciation rate that fell: the charge not taken at the prior rate;
   - cash flow against earnings: net income less free cash flow;
   - a level away from the industry figure, with no movement behind it: the balance less what it would be at the industry's share of sales.

@@ -10,7 +10,7 @@ Using everything found earlier in this conversation and the numbers-track replie
 - every claim whose test did not hold, only partly held or could not be tested as stated;
 - every area judged to lean aggressive;
 - every flag the company did not explain;
-- every statement left the same that no longer fits, and every change in wording or estimate written up;
+- every row of the statements table whose "still fits" answer is anything other than yes (no, can't tell, rough), and every change in wording or estimate written up;
 - every item with a reading other than ordinary, including "can't tell".
 
 Merge items about the same account or the same estimate into one, and keep all of its evidence: a statement that stayed the same while its number moved belongs with the estimate it describes, and a flag from the numbers track belongs with the note that explains it in the text track.
