@@ -1,0 +1,527 @@
+                                       UNITED STATES OF AMERICA
+                                                       Before the
+
+                             SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES ACT OF 1933
+Release No. 10940 / May 3, 2021
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 91741 / May 3, 2021
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4220 / May 3, 2021
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-20278
+
+In the Matter of              ORDER INSTITUTING CEASE-AND-
+         UNDER ARMOUR, INC.,  DESIST PROCEEDINGS PURSUANT TO
+                              SECTION 8A OF THE SECURITIES ACT
+Respondent.                   OF 1933 AND SECTION 21C OF THE
+                              SECURITIES EXCHANGE ACT OF 1934,
+                              MAKING FINDINGS, AND IMPOSING A
+                              CEASE-AND-DESIST ORDER
+
+                                                         I.
+
+         The Securities and Exchange Commission ("Commission") deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act of
+1933 ("Securities Act") and Section 21C of the Securities Exchange Act of 1934 ("Exchange Act")
+against Under Armour, Inc. ("Under Armour" or "Respondent").
+
+                                                       II.
+
+         In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the "Offer"), which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the
+findings herein, except as to the Commission's jurisdiction over it and the subject matter of these
+proceedings, which is admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 8A of the Securities Exchange Act of 1933 and
+Section 21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-
+and-Desist Order ("Order"), as set forth below.
+                                                      III.
+
+         On the basis of this Order and Respondent's Offer, the Commission finds1 that:
+
+                                                    Summary
+
+         1. This matter concerns Under Armour's failure to disclose material information
+about its revenue management practices that rendered statements it made misleading. Since
+becoming a publicly traded company, Under Armour has emphasized its consistent revenue
+growth, and regularly reported revenue and revenue growth that exceeded analysts' consensus
+estimates ("analysts' revenue estimates"). For 26 consecutive quarters, beginning in the second
+quarter of 2010, Under Armour's reported year-over-year revenue growth exceeded 20%, and
+Under Armour repeatedly highlighted this growth streak in earnings calls and earnings releases.
+
+         2. By the second half of 2015, Under Armour's internal revenue and revenue growth
+forecasts for the third and fourth quarters of 2015 began to indicate shortfalls from analysts'
+revenue estimates. Concerned about the possible negative impact on the company's stock price
+that could result from missing these estimates, Under Armour sought to accelerate, or "pull
+forward," existing orders that customers had requested be shipped in future quarters that could be
+completed in the current quarter to close the gap between its internal forecasts and analysts'
+revenue estimates. To effectuate this, Under Armour typically asked customers to accept
+shipment of certain products in the current quarter that they had already ordered for delivery in
+the next quarter.
+
+         3. For six consecutive quarters from the third quarter of 2015 through the fourth
+quarter of 2016 (the "Relevant Period"), Under Armour used pull forwards to help it meet
+analysts' revenue estimates. During the Relevant Period, Under Armour pulled forward
+approximately $408 million in orders. Under Armour's failure to disclose to investors the impact
+of its pull forward practices was misleading.2 Without these pull forwards each quarter, Under
+Armour would have missed analysts' revenue estimates throughout the Relevant Period, and
+would have missed its better than 20% revenue growth streak in the fourth quarter of 2015 and
+the third quarter of 2016. On January 31, 2017, the day Under Armour announced that it missed
+analysts' revenue estimates for the fourth quarter and full-year 2016, the company's stock price
+dropped by approximately 23%. Under Armour's year-over-year growth rate for each quarter has
+remained in the single digits or negative since that time.
+
+         4. As a result of Under Armour's failure to disclose the impact of its pull forward
+practice on revenue growth, Under Armour's public statements were materially misleading. In
+particular, throughout the Relevant Period, Under Armour made positive statements regarding its
+revenue growth rate and the factors contributing to the revenue growth rate, without disclosing
+the significant impact on revenue from its use of pull forwards. Under Armour also failed to
+
+1 The findings herein are made pursuant to Respondent's Offer and are not binding on any other
+person or entity in this or any other proceeding.
+
+2 This Offer does not make any findings that revenue from these sales was not recorded in
+accordance with generally accepted accounting principles ("GAAP").
+
+                                                          2
+disclose that the sales that had been pulled forward were no longer available in the future quarter.
+This practice raised significant uncertainty that Under Armour would meet its revenue guidance
+in future quarters.
+
+         5. As a result of such conduct, and as described in more detail below, Under Armour
+violated Sections 17(a)(2) and 17(a)(3) of the Securities Act and Section 13(a) of the Exchange
+Act and Rules 13a-1, 13a-11, 13a-13, and 12b-20 thereunder.
+
+                                                   Respondent
+
+         6. Under Armour, Inc., a Maryland corporation headquartered in Baltimore, is
+primarily engaged in the development, marketing, and wholesale and retail distribution of
+branded performance apparel, footwear, and accessories. Under Armour is a reporting company
+with two classes of common stock registered with the Commission under Section 12(b) of the
+Exchange Act. Both classes of common stock are listed on the New York Stock Exchange under
+the current ticker symbols "UA" and "UAA."
+
+           Under Armour Used Pull Forwards to Meet Analysts' Revenue Estimates
+
+         7. For 26 consecutive quarters, beginning in the second quarter of 2010 through the
+third quarter of 2016, Under Armour reported year-over-year revenue growth in excess of 20%.
+
+         8. However, by mid-2015, Under Armour's Financial Planning & Analysis group
+("FP&A group") identified that the revenue growth rate in the company's largest market, North
+America, was not as strong as in previous years. For example, in April and May 2015, the FP&A
+group alerted senior management that sales projections for the year in wholesale apparel, which
+was Under Armour's largest product category in North America, had declined by $120 million
+compared to the internal projections generated in late 2014. By the third quarter of 2015, Under
+Armour's senior management also understood that warmer weather was negatively impacting
+sales of higher priced cold weather apparel within North America.
+
+         9. Starting in the third quarter of 2015, Under Armour's internally projected
+company-wide revenue began to fall short of analysts' revenue estimates. To close the emerging
+revenue gap, Under Armour's senior management directed the FP&A group and senior sales
+personnel, among other things, to identify existing orders that customers had requested be
+shipped in the next quarter that could instead be shipped in the current quarter.
+
+         10. For each quarter during the Relevant Period, Under Armour's projected revenue
+growth from sales for which shipment was originally requested in the quarter continued to miss
+analysts' revenue estimates, and senior management reacted by directing the FP&A group and
+sales personnel to execute additional pull forward sales to meet analysts' revenue estimates. This
+resulted in, among other things, Under Armour's periodic use of sales incentives, such as
+extended payment terms and discounts, to convince customers to agree to take Under Armour
+product the quarter before the customer had requested shipment.
+
+                                                          3
+         11. During each quarter of the Relevant Period, Under Armour would have missed
+analysts' revenue estimates without its use of pull forwards. In addition, without the use of pull
+forwards, Under Armour's year-over-year revenue growth would not have exceeded 20% in the
+fourth quarter of 2015, the first time this would have occurred since 2010, and the third quarter
+of 2016.
+
+         12. Under Armour used pull forwards in the following quarters, and in the following
+ways:
+
+                                              Third Quarter 2015
+
+         13. By the third quarter of 2015, Under Armour knew that its full-year internal
+projections for company-wide revenue had declined from its late 2014 forecast, including a $120
+million decline in sales projections for its largest market category, North American wholesale
+apparel. In September 2015, senior management and the FP&A group decided to close the gap
+between internally forecasted revenue and analysts' revenue estimates, in part, by using pull
+forwards, so the FP&A group directed sales personnel to reach out to customers to request that
+they take delivery of product earlier than originally scheduled.
+
+         14. Ultimately, Under Armour pulled forward approximately $45 million in orders
+from the fourth quarter of 2015 into the third quarter of 2015. On October 22, 2015, Under
+Armour announced revenue of $1.204 billion for the third quarter of 2015, beating analyst
+consensus by $29 million.
+
+         15. In its third quarter 2015 earnings call, earnings release (included in the Form 8-K
+Under Armour filed with the Commission on October 22, 2015), and Form 10-Q, Under Armour
+highlighted its reported 28% revenue growth that beat analysts' revenue estimates, attributing the
+growth primarily to innovative new product offerings, "a growing interest in performance
+products and the strength of the Under Armour brand in the marketplace," and increased sales in
+footwear and apparel.
+
+         16. Under Armour did not disclose that it used pull forwards, despite the fact that
+nearly 4% of its total revenue for the third quarter of 2015 (approximately $45 million) resulted
+from the practice. Without the pull forwards from the fourth quarter of 2015, Under Armour's
+growth rate for the third quarter of 2015 would have been below analysts' revenue estimates and
+the lowest quarterly growth rate in more than two years.
+
+                                             Fourth Quarter 2015
+
+         17. During the fourth quarter of 2015, Under Armour's internal projections for
+quarterly and full-year company-wide revenue continued to decline. Senior management knew
+that this decline in projected revenue meant the company could fall below analysts' revenue
+estimates, and directed sales personnel to pull forward 2016 orders into 2015.
+
+         18. Ultimately, Under Armour pulled forward approximately $99 million in orders
+from the first quarter of 2016 into the fourth quarter of 2015, again representing the largest
+
+                                                          4
+amount Under Armour had pulled forward in one quarter to date. On January 28, 2016, Under
+Armour announced revenue of $1.171 billion for the fourth quarter of 2015, beating consensus
+estimates by $53 million.
+
+         19. In its fourth quarter 2015 earnings call and earnings release, and 2015 Form 10-K,
+Under Armour highlighted its 31% revenue growth that beat consensus estimates, attributing it
+primarily to "growth in training, running, golf and basketball," and increased sales and new
+offerings in footwear and apparel, but did not mention the significant impact of pull forwards. In
+its earnings call, Under Armour highlighted its streak of quarters with 20%-plus revenue growth,
+stated that its growth drivers had not changed since it went public ten years prior, and denied that
+warmer weather was materially impacting its revenue. Downplaying the revenue impact of
+warmer weather in the earnings call, a senior Under Armour executive stated that weather had
+only impacted the company's business by a couple percentage points, while another senior
+executive stated: "Did [weather] affect our business in the way some thought it would? No, it did
+not. . . . Our business is more diversified than it has ever been, we do not let weather play a
+decisive role in dictating our success." These statements and omissions were misleading. In
+December 2015, Under Armour senior management discussed internally that the company was
+going to finish with lower-than-expected revenue for the year, and that warmer weather had
+negatively impacted revenue.
+
+         20. Under Armour did not disclose the fact that it used pull forwards, despite the fact
+that pull forwards accounted for nearly 8.5% of its total fourth quarter 2015 revenue
+(approximately $99 million) and approximately 35% of its fourth quarter of 2015 revenue
+growth. Without the pull forwards from the first quarter of 2016, Under Armour's growth rate in
+the fourth quarter of 2015 would have been less than 20% for the first time in more than five
+years.
+
+                                               First Quarter 2016
+
+         21. In January 2016, the FP&A group advised Under Armour senior management that
+the company's internal revenue forecast for the first quarter of 2016 was lower than analysts'
+revenue estimates due, in part, to the pull forwards into 2015. By February 2016, the gap
+between internal forecasts and external revenue guidance was so significant that Under Armour
+considered revising its public revenue guidance for the quarter ­ something the company had
+never done before. An Under Armour senior executive acknowledged the challenges caused by
+the 2015 pull forwards by stating in an email: "Let's see how of [sic] this goes and if we can get
+enough pull-forwards or extra business to close the Q1 gap. The issue is that we pulled forward a
+lot in Q4 and there is not as much room in Q2 but we will see."
+
+         22. Ultimately, Under Armour pulled forward $17.5 million in orders from the second
+quarter of 2016 into the first quarter of 2016. On April 21, 2016, Under Armour announced
+revenue of $1.048 billion for the first quarter of 2016, beating analyst consensus by $12 million.
+Under Armour did not disclose that $17.5 million of its total first quarter 2016 revenue was
+comprised of pull forwards. Without these pull forwards, Under Armour's revenue and growth
+rate would have been below analysts' revenue estimates.
+
+                                                          5
+                                             Second Quarter 2016
+
+         23. Under Armour also pulled forward revenue into the second quarter of 2016 to
+meet analysts' revenue estimates. Under Armour senior management was aware as early as May
+2016 that the forecasted revenue for the quarter had declined by $11 million, and that Under
+Armour would likely need to use pull forwards to close the gap.
+
+         24. Under Armour pulled forward $10 million in orders from the third quarter of 2016
+into the second quarter 2016. On July 26, 2016, Under Armour announced revenue of $1.001
+billion for the second quarter of 2016 that met analysts' revenue estimates. Under Armour did
+not disclose that $10 million of its total second quarter 2016 revenue was comprised of pull
+forwards. Without these pull forwards from the third quarter of 2016, Under Armour's second
+quarter 2016 revenue would have been below analysts' revenue estimates.
+
+                                              Third Quarter 2016
+
+         25. Throughout the third quarter of 2016, Under Armour senior management directed
+the FP&A group and sales personnel to use pull forwards to close an increasing gap between
+internal revenue forecasts and analysts' revenue estimates. In July 2016, the FP&A group
+forecast that Under Armour would need to pull forward approximately $65 million in orders to
+meet analysts' revenue estimates and achieve a revenue growth rate of greater than 20%. At that
+point, senior management emphasized that a growth rate of less than 20% "would be an
+extremely difficult story," and urged the FP&A group and sales personnel to continue to press
+customers to accept shipment of product earlier than originally requested.
+
+         26. Under Armour's increasing reliance on pull forwards often resulted in it making
+multiple requests each quarter to its largest wholesale customers, and periodically offering sales
+incentives such as price discounts and extended payment terms. For example, in September
+2016, Under Armour requested additional pull forwards from a key customer, after already
+having asked to move more than $30 million in sales from the fourth quarter of 2016 to the third
+quarter of 2016. The customer responded by saying: "We just brought a bunch of your goods in
+early to help out your quarter. . . Now you want more. . . More..More..more..30% [price
+discount] please." Under Armour ultimately agreed to a 25% price discount and an extra 30 days
+to pay to secure an additional $6.7 million of pull forwards.
+
+         27. Under Armour pulled forward approximately $65 million in orders from the
+fourth quarter of 2016 into third the quarter of 2016. On October 25, 2016, Under Armour
+announced revenue of $1.472 billion for the third quarter of 2016, beating analysts' revenue
+estimates by $18 million. Under Armour did not disclose that $65 million of its total third quarter
+2016 revenue was comprised of pull forwards.
+
+         28. In its third quarter 2016 earnings call, earnings release, and Form 10-Q, Under
+Armour highlighted its reported 22% revenue growth that beat analysts' revenue estimates,
+attributing the growth primarily to "growth in men's training, women's training, golf and team
+sports," "strong growth in running and basketball," "growing interest in performance products
+and the strength of the Under Armour brand in the marketplace," and increased sales in footwear
+
+                                                          6
+and apparel. In its earnings call, Under Armour highlighted its streak of 26 consecutive quarter
+of 20%-plus revenue growth, and a senior Under Armour executive stated: "I want to be clear . . .
+that the growth remains intact."
+
+         29. Under Armour did not disclose the fact that it engaged in pull forwards, despite
+the fact that nearly 4.5% of its total third quarter of 2016 revenue ($65 million) or approximately
+25% of its third quarter of 2016 revenue growth was attributable to pull forwards. Without these
+pull forwards from the fourth quarter of 2016, Under Armour's growth rate in the third quarter of
+2016 would have been less than 20%, and the company would not have reported revenue and
+revenue growth that beat analysts' revenue estimates.
+
+                                             Fourth Quarter 2016
+
+         30. Anticipating a revenue shortfall in the fourth quarter 2016, in September 2016
+Under Armour senior management discussed a plan to ship a large dollar amount (ultimately
+over $50 million) of orders to a new customer in December 2016, rather than in 2017 as the
+customer had initially contemplated. An Under Armour senior executive acknowledged that the
+desire to ship the product early was being driven by pressure to meet analysts' revenue estimates,
+saying that the customer "isn't setting [Under Armour product in its stores] until February, so
+whether we thought it was $20 or $53 [million] or whatever, really [the customer] doesn't want
+any of that product in December but we are shipping it and they are absolutely taking it from us
+as a favor. If we were a privately held company, we would not ship that product to them in
+December."
+
+         31. By mid-October 2016, Under Armour's senior management knew that a
+significant and increasing revenue shortfall for both the fourth quarter and full-year of 2016 was
+being met with an increasing amount of pull forwards. The FP&A group estimated to senior
+management that the company would have to pull forward over $160 million of orders to close
+this gap, and that the pull forwards would negatively impact first quarter 2017 revenue.
+
+         32. During the remainder of the fourth quarter, Under Armour's sales increasingly
+lagged prior forecasts. By mid-December 2016, despite having already pulled forward
+approximately $170 million in sales, senior management realized the company would not be able
+to meet analysts' revenue estimates for the fourth quarter of 2016, or meet its full year revenue
+guidance of $4.925 billion. Under Armour's senior management also was becoming more
+concerned about the negative impact additional pull forwards would have on revenue for the first
+quarter of 2017.
+
+         33. Because Under Armour could not meet analysts' revenue estimates even with the
+$170 million in pull forward sales, a senior Under Armour executive made the decision to limit
+additional pull forwards from 2017 into 2016. Notes from a December 15, 2016 meeting of the
+company's top executives reflect that, while discussing his decision, the senior executive stated
+that the company had "been living in this bubble for a while," that pulling forward revenue in
+each quarter was not healthy, and that the company was "not going to compromise 2017 . . .
+we're not going to take from next year."
+
+                                                          7
+         34. After additional internal discussions, Under Armour senior management reversed
+some planned pull forwards, (e.g., by pushing some apparel sales back to the first quarter of
+2017), but moved ahead with pull forwards of footwear orders because it was a high visibility
+product segment where the company sought to demonstrate strong revenue growth. This fine-
+tuning of pull forwards was reflected in a December 2016 internal email between senior
+management which noted that footwear, along with international sales, "are the big growth
+drivers we have talked about over and over and are the only areas giving people confidence in
+our future."
+
+         35. Although Under Armour did not pull forward enough sales to meet analysts'
+revenue estimates and sustain its better than 20% year-over-year revenue growth streak, it still
+pulled forward approximately $172 million (approximately 13% of its quarterly revenue) in
+orders from the first quarter of 2017 into the fourth quarter of 2016.
+
+         36. On January 31, 2017, Under Armour announced revenue of $1.308 billion for the
+fourth quarter of 2016, which reflected year-over-year revenue growth of 12%. Under Armour
+did not meet analysts' revenue estimates for the fourth quarter of 2016, and it did not report year-
+over-year revenue growth of over 20%. That day, the company's stock price dropped by
+approximately 23%.
+
+         37. In its fourth quarter 2016 earnings call and earnings release, and 2016 Form 10-K,
+Under Armour highlighted its 12% revenue growth, attributing it primarily to "growth in
+training, running, golf and basketball," growing interest in performance products, the strength of
+the Under Armour brand in the marketplace, and increased sales and new offerings in footwear
+and apparel. In its fourth quarter 2016 earnings call, a senior Under Armour executive stated: "I
+want to be clear. Our growth story is intact. Our brand is truly stronger than it's ever been."
+
+         38. Under Armour did not disclose the fact that it engaged in pull forwards, despite
+the fact that approximately 13% of its total fourth quarter of 2016 revenue ($172 million) was
+derived from pull forwards. Moreover, Under Armour's statements about its "growth story"
+being intact and its brand being "stronger than it's ever been" were made misleading by omitting
+disclosure of pull forwards because without its aggressive use of pull forwards there would have
+been no reportable growth in the fourth quarter of 2016.
+
+ Under Armour's Use of Pull-Forwards Was Having or Was Reasonably Expected to Have
+                      an Adverse Impact on Under Armour's Future Revenue
+
+         39. Under Armour's reliance on pull forwards to meet financial targets was
+compromising the company's future revenue and revenue growth rate. When Under Armour
+convinced customers to accept shipment of product earlier than forecasted, Under Armour could
+record the sale as occurring in the earlier quarter but, all things being equal, would lose that
+particular sale in the later quarter when it had been originally scheduled.
+
+         40. The impact of these shifting sales was especially pronounced for Under Armour
+because prior reported revenue, particularly in the third and fourth quarters of 2015, included a
+significant amount of pull forwards. Therefore, to meet analysts' revenue estimates for 2016,
+
+                                                          8
+Under Armour had to replace the sales it had previously taken from 2016 through additional
+customer demand and new products, but also demonstrate the same percentage revenue growth
+when compared to the 2015 revenue totals (which in turn had been enhanced with pull forwards).
+In internal emails, Under Armour acknowledged this "double impact on the growth rate"
+resulting from pull forwards because they "take the base up" in the earlier year and down in the
+later year. Compared to the same quarters in 2015, Under Armour greatly increased pull
+forwards during the third and fourth quarters of 2016 in an attempt to continue to meet analysts'
+revenue estimates.
+
+         41. Under Armour knew or should have known that its use of pull forwards concealed
+its failure to meet analysts' revenue estimates without such pull forward sales. Under Armour
+also knew that its increasing reliance on pull forwards to meet analysts' revenue estimates was
+having, or was reasonably likely to have, a material negative impact on future revenue. Under
+Armour's reported financial results during the Relevant Period did not reflect its natural revenue
+and revenue growth, and were not indicative of its future financial results.
+
+                                Investors Were Misled by Under Armour
+
+         42. Under Armour reported its financial results for the Relevant Period in earnings
+calls and in reports filed with the Commission, identifying various factors as responsible for its
+sustained and consistent revenue growth, but without disclosing that a significant portion of its
+revenue and revenue growth had resulted from the use of pull forwards.
+
+         43. By failing to disclose this information during the Relevant Period, investors were
+left with a misleading impression of how Under Armour was meeting or beating analysts'
+revenue estimates. Internally, Under Armour knew that the company relied heavily on pull
+forwards to meet analysts' revenue estimates, and the company's senior management implicitly
+admitted the unsustainability of this practice by describing pull forward revenue as "bad,"
+"unnatural," and "unhealthy." Without the same information, investors did not have the ability to
+fully evaluate Under Armour's financial results in context and compare results across periods.
+
+         44. Under Armour's misleading statements and omissions were material. Investors
+were unaware that Under Armour's use of pull forwards was compromising its future revenue by
+shifting revenue from future quarters to the current quarter, and causing the company to report
+strong revenue growth results that Under Armour knew were increasingly difficult to replicate in
+the future. Without this information, investors also lacked the ability to evaluate Under Armour's
+future revenue and ability to meet future guidance and analysts' revenue expectations. Investors
+also were unaware of the reasonable likely negative impact Under Armour's pull forward
+practices would have on future periods.
+
+            Under Armour Offered and Sold Securities During the Relevant Period
+
+         45. During the Relevant Period, Under Armour offered and sold securities, including
+selling discounted stock under the company's employee stock purchase plan and issuing shares
+as compensation to certain employees under its employee incentive plan.
+
+                                                          9
+                                                    Violations
+
+          46. As a result of the conduct described above, Under Armour violated Section
+17(a)(2) and (3) of the Securities Act, which prohibit any person from directly or indirectly
+obtaining money or property by means of any untrue statement of a material fact or any omission
+to state a material fact necessary in order to make the statements made, in light of the
+circumstances under which they were made, not misleading, or engaging in any transaction,
+practice, or course of business which operates or would operate as a fraud or deceit upon the
+purchaser, in the offer or sale of securities. A violation of these provisions does not require
+scienter and may rest on a finding of negligence. See Aaron v. SEC, 446 U.S. 680, 685, 701-02
+(1980).
+
+          47. Also as a result of the conduct described above, Under Armour violated Section
+13(a) of the Exchange Act and Rules 13a-1, 13a-11, and 13a-13 thereunder, which require
+reporting companies to file with the Commission complete and accurate annual, current, and
+quarterly reports. Under Armour also violated Rule 12b-20 of the Exchange Act, which requires
+an issuer to include in a statement or report filed with the Commission any information necessary
+to make the required statements in the filing not materially misleading.
+
+          48. In addition, Section 13(a) of the Exchange Act requires issuers such as Under
+Armour to file periodic reports with the Commission containing such information as the
+Commission prescribes by rule. Form 10-K and Form 10-Q requires registrants to comply with
+Regulation S-K Item 303. Item 303(a)(3)(ii) of Regulation S-K requires that reports describe,
+among other things, "any known trends or uncertainties that have had or that the registrant
+reasonably expects will have a material favorable or unfavorable impact on net sales or revenues
+or income from continuing operations" in its annual report on Form 10-K. In addition, this Item
+requires that reports describe "any other significant components of revenues or expenses that, in
+the registrant's judgment, should be described in order to understand the registrant's results of
+operations." Instruction 3 to Item 303(a) of Regulation S-K requires that the "discussion and
+analysis shall focus specifically on material events and uncertainties known to management that
+would cause reported financial information not to be necessarily indicative of future operating
+results or of future financial condition." Item 303(b) of Regulation S-K requires discussion of
+material changes in such known trends or uncertainties in quarterly reports on Form 10-Q. Under
+Armour's use of pull forwards created an uncertainty or event that was known to Under
+Armour's senior management and was reasonably expected to have a material effect on the
+registrant's future revenues. Under Armour's failure to attribute growth in revenue to the use of
+pull forwards did not provide investors with material information about its revenue necessary for
+an understanding of its results of operations. As a consequence, Under Armour violated Section
+13(a) of the Exchange Act and Rules 13a-1, 13a-13, and 12b-20 thereunder.
+
+                                                      IV.
+
+         In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondent's Offer.
+
+         Accordingly, it is hereby ORDERED that:
+
+                                                         10
+         A. Pursuant to Section 8A of the Securities Act and Section 21C of the Exchange Act,
+Respondent shall cease and desist from committing or causing any violations and any future
+violations of Section 17(a)(2) and (a)(3) of the Securities Act and Section 13(a) of the Exchange
+Act and Rules 13a-1, 13a-11, 13a-13, and 12b-20 thereunder.
+
+         B. Respondent shall, within 10 days of the entry of this Order, pay a civil penalty of
+$9,000,000.00 to the Securities and Exchange Commission for transfer to the general fund of the
+United States Treasury, subject to Exchange Act Section 21F(g)(3). If timely payment is not made,
+interest shall accrue pursuant to 31 U.S.C. § 3717.
+
+Payments must be made in one of the following ways:
+
+                  (1) Respondent may transmit payment electronically to the Commission, which
+                           will provide detailed ACH transfer/Fedwire instructions upon request;
+
+                  (2) Respondent may make direct payment from a bank account via Pay.gov
+                           through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+                  (3) Respondent may pay by certified check, bank cashier's check, or United
+                           States postal money order, made payable to the Securities and Exchange
+                           Commission and hand-delivered or mailed to:
+
+                           Enterprise Service Center
+                           Accounts Receivable Branch
+                           HQ Bldg., Room 181, AMZ-341
+                           6500 South MacArthur Boulevard
+                           Oklahoma City, OK 73169
+
+         Payments by check or money order must be accompanied by a cover letter identifying
+Under Armour, Inc. as a Respondent in these proceedings, and the file number of these proceedings.
+A copy of the cover letter and check or money order must be sent to Associate Director Jason Burt,
+Division of Enforcement, Denver Regional Office, Securities and Exchange Commission, 1961
+Stout Street, 17th Floor, Denver, CO 80294.
+
+         C. Amounts ordered to be paid as civil money penalties in this Order shall be treated as
+penalties paid to the government for all purposes, including all tax purposes. To preserve the
+deterrent effect of the civil penalty, Respondent agrees that in any Related Investor Action, it shall
+not argue that it is entitled to, nor shall it benefit by, offset or reduction of any award of
+compensatory damages by the amount of any part of Respondent's payment of a civil penalty in this
+action ("Penalty Offset"). If the court in any Related Investor Action grants such a Penalty Offset,
+Respondent agrees that it shall, within 30 days after entry of a final order granting the Penalty
+Offset, notify the Commission's counsel in this action and pay the amount of the Penalty Offset to
+the Commission. Such a payment shall not be deemed an additional civil penalty and shall not be
+deemed to change the amount of the civil penalty imposed in this proceeding. For purposes of this
+paragraph, a "Related Investor Action" means a private damages action brought against Respondent
+
+                                                         11
+by or on behalf of one or more investors based on substantially the same facts as alleged in the
+Order instituted by the Commission in this proceeding.
+
+         By the Commission.
+                                                               Vanessa A. Countryman
+                                                               Secretary
+
+                                                         12
+
