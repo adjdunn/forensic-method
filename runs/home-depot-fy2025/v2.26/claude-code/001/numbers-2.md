@@ -1,0 +1,35 @@
+**Inventory: days inventory up from 81.9 to 85.6, with inventory rising 6.7 pp faster than cost of sales (FY Feb-26)**
+- **The company says:** "inventory turnover ratio was 4.4 times… compared to 4.7… primarily driven by higher average inventory levels" (Annual report FY Feb-26, p. 32). That restates the movement; it gives no cause. The cash-flow discussion also only names "increased inventories" (p. 37). Last year the explanation went the other way: turnover rose on "lower average inventory levels within our Primary segment" (Annual report FY Feb-25, p. 32).
+- **Test:** The note on the GMS acquisition gives $568m of inventory acquired. That is 24% of the $2,366m rise and 2.2% of the $25,817m year-end balance. The cash-flow line, which leaves acquisitions out, shows $1,498m of increase from existing businesses: 63% of the rise, or 6.4% growth on the opening balance. The Primary segment's cost of sales per week rose only 0.4% (52 against 53 weeks). Excluding the GMS inventory, days inventory is still 83.7 against 81.9. The company names no cause, so there is no explanation to test (does not hold). Q4 shows the same pattern: inventory rose 10.1% while cost of sales per day rose 3.9%.
+- **Reading:** Possibly the business weakening. Inventory built ahead of flat demand, with comparable customer transactions down 1.0% (p. 33). The report also mentions tariff costs and "some price increases" (p. 32). A deliberate pre-tariff build would point to the ordinary reading, but the documents don't say whether there was one.
+- **Read next:** Inventory by segment and the markdown and shrink reserve movements. Neither is in these documents: the notes only say cost-method adjustments were "not material" (p. 48).
+
+**Operating margin: down from 13.50% to 12.69% (FY Feb-26); Q4 down from 11.3% to 10.1%**
+- **The company says:** Gross margin fell on "the inclusion of SRS and GMS" (p. 34). SG&A rose on "higher payroll and related costs… along with the impact of a non-recurring legal-related benefit recognized during fiscal 2024" (p. 34). Depreciation and amortization rose on "intangible asset amortization… from our acquisitions" (p. 34). Last year's report gave the same reasons: "higher payroll costs… and lower legal-related benefits" (Annual report FY Feb-25, p. 34). The Q4 release adds only the 13- against 14-week comparison.
+- **Test:** The shift in sales mix toward the lower-margin SRS business accounts for 0.39 pp of the 0.81 pp fall (48%). The Primary segment's own margin fell from 13.92% to 13.54%, taking 0.35 pp (43%). The rest of the business took 0.06 pp. Within the Primary segment, gross margin rose from 33.9% to 34.4%, so the segment's fall comes from SG&A. Primary SG&A went from 18.2% to 19.0% of segment sales, growing 3.8% while segment sales fell 0.7%. The company does not quantify payroll or the legal benefit, so that half cannot be tested. The explanation partly holds.
+- **Reading:** Possibly the business weakening in the Primary segment, with SG&A outgrowing sales for a second year. If the undisclosed legal benefit turned out to be most of the 0.84 pp rise in Primary SG&A, the reading would be ordinary.
+- **Read next:** The size of the fiscal 2024 legal-related benefit, and Primary payroll costs. Neither is disclosed in these documents.
+
+**Receivables: days sales outstanding up from 11.4 to 12.4 (FY Feb-26), after 7.9 to 11.4 the year before**
+- **The company says:** Nothing about the fiscal 2025 increase. The note only defines customer receivables as "credit extended directly to certain customers" (p. 48). Last year's report did explain the rise: "increased… primarily as a result of the SRS acquisition" (Annual report FY Feb-25, p. 48).
+- **Test:** The company gives no explanation, so I tested the acquisition instead. GMS brought $899m of receivables at 4 September 2025, which is 130% of the $694m rise and 16% of the $5,597m year-end balance. Customer receivables alone rose $692m. Excluding GMS receivables and GMS's $2.0bn of sales, days sales outstanding is 10.5. This mixes an acquisition-date balance with a year-end one, so it is indicative only. Last year's SRS claim also checks out: $1,831m of receivables acquired covers 116% of the $1,575m rise. The acquisition could account for the rise, but the company does not say so.
+- **Reading:** Most likely ordinary: the mix has shifted toward distribution businesses that extend credit. Rising days in the Primary business would point elsewhere, but receivables are not split by segment.
+- **Read next:** Receivables by segment, and the allowance roll-forward. The allowance is "not material" (p. 48), and no movements are given.
+
+**Other flags**
+- **Free cash flow below net income (net income less free cash flow: $1,510m):**
+  - The company says: "timing of vendor payments and increased inventories… along with the deferral of our fourth quarter fiscal 2024 estimated federal tax payment" (p. 37).
+  - Test: These three items explain 102% of the $3,763m swing in working capital (payables and accrued expenses −$1,576m, income taxes payable −$1,507m, inventories −$755m) and 110% of the $3,485m fall in operating cash flow. Over the last two years together, free cash flow of $28,971m matches net income of $28,962m. The explanation holds, except for the inventory part.
+  - Reading: most likely ordinary timing.
+- **Payables fell while cost of sales rose:**
+  - The company says: "timing of vendor payments" (p. 37). Last year it gave the same reason, working the other way (Annual report FY Feb-25, p. 38).
+  - Test: Excluding the $380m of payables GMS brought, payables fell $827m. Of that, $184m (22%) is the drop in obligations under the supplier finance program, from $598m to $414m (p. 51). Excluding GMS, days payable is 36.8, against 35.9 two years earlier, which fits a reversal of last year's timing gain. The explanation holds.
+  - Reading: most likely ordinary.
+
+**Revised basis:** none of last reply's measures change. The only revisions moved amounts between lines (cash-flow depreciation into intangible amortization, and "Other assets" into intangible assets), so the M-score inputs and accruals are the same on the revised basis.
+
+**Adjusted earnings**
+- Adjusted diluted EPS was $14.69 against $14.23 reported in FY Feb-26: a gap of $0.46, or 3.2%. In FY Feb-25 it was $15.24 against $14.91: $0.33, or 2.2%. In Q4 the gaps were $0.14 (5.4%) and $0.11 (3.6%).
+- The only adjustment in both years is "acquired intangible asset amortization": $607m and $425m (Results release FY Feb-26, p. 8). The releases do not call it non-recurring. The only item called "non-recurring" is the fiscal 2024 legal-related benefit (p. 34). It was not adjusted out of the FY Feb-25 figures and its amount isn't disclosed.
+
+**Changes in estimate that lifted income:** None disclosed. Useful lives for property and equipment are unchanged in both reports. The depreciation rate barely moved, from 7.44% to 7.38%.

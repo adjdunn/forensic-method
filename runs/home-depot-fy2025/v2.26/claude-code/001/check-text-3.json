@@ -1,0 +1,784 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\home-depot-fy2025\\v2.26\\claude-code\\001\\text-3.md",
+  "pack": "home-depot-fy2025",
+  "words": 1204,
+  "pages_est": 2.7,
+  "quotes": {
+   "total": 23,
+   "exact_on_page": 16,
+   "exact_page_differs": 1,
+   "exact_no_page": 4,
+   "other_document": 1,
+   "not_found": 1
+  },
+  "figures": {
+   "found": 30,
+   "computed_percent": 1,
+   "computed_table": 3,
+   "not_found": 1
+  },
+  "arithmetic": {
+   "pre_tax_income": 18602.0,
+   "checked": 2,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "was not material",
+   "cited_pages": [
+    48
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      48,
+      66
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      48,
+      66,
+      75,
+      77
+     ]
+    ]
+   ],
+   "context": "p.48"
+  },
+  {
+   "quote": "(undiscounted)",
+   "cited_pages": [
+    52
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      52
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      52
+     ]
+    ]
+   ],
+   "context": ", $1.6bn (p.52)"
+  },
+  {
+   "quote": "$79 million",
+   "cited_pages": [
+    39
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      39
+     ]
+    ]
+   ],
+   "context": " to cost of sales (p.39) | Leans conservative | Not discounting gives a larger liability | Balance: $1.6bn"
+  },
+  {
+   "quote": "20",
+   "cited_pages": [
+    74,
+    76
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8
+     ]
+    ]
+   ],
+   "context": " years for SRS (p.76) and \"19\" for GMS (p.74)"
+  },
+  {
+   "quote": "19",
+   "cited_pages": [
+    74
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      1,
+      3,
+      4,
+      5,
+      11,
+      18,
+      19,
+      23,
+      27,
+      30,
+      31,
+      32,
+      33,
+      36,
+      42,
+      43,
+      44,
+      47,
+      48,
+      55,
+      56,
+      57,
+      58,
+      60,
+      61,
+      65,
+      66,
+      69,
+      72,
+      78,
+      79,
+      81,
+      82,
+      83,
+      84
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      1,
+      3,
+      4,
+      5,
+      18,
+      23,
+      27,
+      28,
+      30,
+      31,
+      33,
+      42,
+      43,
+      44,
+      47,
+      48,
+      55,
+      56,
+      57,
+      60,
+      62,
+      64,
+      65,
+      69,
+      74,
+      79,
+      80,
+      82,
+      83,
+      85
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      3,
+      5,
+      6,
+      7,
+      8
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      3,
+      5,
+      6,
+      7
+     ]
+    ]
+   ],
+   "context": " for GMS (p.74)"
+  },
+  {
+   "quote": "up to approximately 20 years",
+   "cited_pages": [
+    51
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      51
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      51
+     ]
+    ]
+   ],
+   "context": ", straight-line (p.51) | Leans aggressive | The lives sit at the top of the range, while the valuation assumes customer "
+  },
+  {
+   "quote": "substantially exceeded",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      60
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      60
+     ]
+    ]
+   ],
+   "context": " carrying value"
+  },
+  {
+   "quote": "exceeded its respective carrying amount",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      60
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "no events or circumstances",
+   "cited_pages": [
+    60
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      60
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      60
+     ]
+    ]
+   ],
+   "context": "p.60"
+  },
+  {
+   "quote": "no material off-balance sheet arrangements",
+   "cited_pages": [
+    37
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      37
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      37
+     ]
+    ]
+   ],
+   "context": "p.37"
+  },
+  {
+   "quote": "not material",
+   "cited_pages": [
+    76
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75,
+      76,
+      77
+     ]
+    ]
+   ],
+   "context": "p.76"
+  },
+  {
+   "quote": "not expected to have a material adverse effect",
+   "cited_pages": [
+    73
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      73
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      73
+     ]
+    ]
+   ],
+   "context": "p.73"
+  },
+  {
+   "quote": "non-recurring legal-related benefit",
+   "cited_pages": [
+    33
+   ],
+   "status": "found in another document",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": " from fiscal 2024 with no amount (p.33) | Can't tell: not enough disclosed | No accrued or possible-loss figures | Not q"
+  },
+  {
+   "quote": "amortization expense from acquired intangible assets",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      8
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      8
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "not adjust for the revenue",
+   "cited_pages": [
+    8
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      8
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      8
+     ]
+    ]
+   ],
+   "context": " those assets generate (release p.8)"
+  },
+  {
+   "quote": "excludes the impact of amortization expense from acquired intangible assets ... We do not adjust for the revenue",
+   "cited_pages": [
+    8
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      8
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      8
+     ]
+    ]
+   ],
+   "context": "earnings release, p.8"
+  },
+  {
+   "quote": "$6,476",
+   "cited_pages": [
+    61
+   ],
+   "status": "not found",
+   "found": [],
+   "context": " million thereafter (10-K p.61)"
+  },
+  {
+   "quote": "as this approximates the pattern of expected economic benefit",
+   "cited_pages": [
+    51
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      51
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      51
+     ]
+    ]
+   ],
+   "context": "Note 1, p.51"
+  },
+  {
+   "quote": "expected customer attrition rates",
+   "cited_pages": [
+    74,
+    76
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      38,
+      42,
+      74
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      38,
+      76
+     ]
+    ]
+   ],
+   "context": "p.74, 76"
+  },
+  {
+   "quote": "approximately 1%",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      77,
+      78
+     ]
+    ]
+   ],
+   "context": " of net sales holds ($2.0bn \u00f7 $164.7bn = 1.2%)"
+  },
+  {
+   "quote": "approximately 3%",
+   "cited_pages": [
+    74,
+    77
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      77,
+      78
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      2
+     ]
+    ]
+   ],
+   "context": " of assets can't be tested as stated: the only GMS asset figures are at the acquisition date, and those give 3.8% of yea"
+  },
+  {
+   "quote": "exceeded",
+   "cited_pages": [
+    55,
+    60
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      60
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      60
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      2
+     ]
+    ]
+   ],
+   "context": " rather than the \"substantially exceeded\" used for Primary (p.55, 60)"
+  },
+  {
+   "quote": "substantially exceeded",
+   "cited_pages": [
+    55,
+    60
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      60
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      60
+     ]
+    ]
+   ],
+   "context": " used for Primary (p.55, 60)"
+  }
+ ],
+ "figures": {
+  "found": [
+   "$1.5 bn",
+   "$1.1 bn",
+   "$2,575 m",
+   "$2,588 m",
+   "$2.6 bn",
+   "$1.6 bn",
+   "0.4%",
+   "1.6%",
+   "$13.8 bn",
+   "$22.3 bn",
+   "$1.9 bn",
+   "3.3%",
+   "$0.61",
+   "23.9%",
+   "$0.15",
+   "$14.69",
+   "$6,476",
+   "$18,602 m",
+   "$12.7 bn",
+   "0.5%",
+   "$3,514 m",
+   "$3,452 m",
+   "$2.0 bn",
+   "$164.7 bn",
+   "1.2%",
+   "3.8%",
+   "2.5%",
+   "1.4%",
+   "$4.5 bn",
+   "25.7%"
+  ],
+  "computed_percent": [
+   "24.7%"
+  ],
+  "computed_table": [
+   "14.0",
+   "9.1",
+   "0.5"
+  ],
+  "not_found": [
+   "$23.1 bn"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 18602.0,
+  "source": "workbook",
+  "note": "",
+  "checks": [
+   {
+    "amount": 79.0,
+    "stated": 0.4,
+    "recomputed": 0.4,
+    "ok": true,
+    "sentence": "Exposure: $79m (0.4% of pre-tax income) | | Useful lives: property and software | Lives are 5-45 and 2-20 years."
+   },
+   {
+    "amount": 99.0,
+    "stated": 0.5,
+    "recomputed": 0.5,
+    "ok": true,
+    "sentence": "Size, illustrative and not a finding: lives of 15 years would have added about $99m (0.5% of pre-tax income), and 10 years about $300m (1.6%)."
+   }
+  ]
+ },
+ "post_cutoff": []
+}

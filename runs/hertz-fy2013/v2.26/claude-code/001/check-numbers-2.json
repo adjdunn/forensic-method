@@ -1,0 +1,399 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.26\\claude-code\\001\\numbers-2.md",
+  "pack": "hertz-fy2013",
+  "words": 1106,
+  "pages_est": 2.5,
+  "quotes": {
+   "total": 15,
+   "exact_on_page": 11,
+   "exact_page_differs": 0,
+   "exact_no_page": 2,
+   "other_document": 0,
+   "not_found": 2
+  },
+  "figures": {
+   "found": 70,
+   "computed_percent": 8,
+   "computed_table": 0,
+   "not_found": 8
+  },
+  "arithmetic": {
+   "pre_tax_income": 663.1,
+   "checked": 1,
+   "mismatches": 1
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "due to the timing of our payments",
+   "cited_pages": [
+    64
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      64
+     ]
+    ]
+   ],
+   "context": "FY2013 annual report, p.64"
+  },
+  {
+   "quote": "net decreases of $44.2 million",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": " in depreciation, and \"the cumulative effect of the reduction in rates was also indicative of the residual values experi"
+  },
+  {
+   "quote": "the cumulative effect of the reduction in rates was also indicative of the residual values experienced in the U.S",
+   "cited_pages": [
+    42,
+    126
+   ],
+   "status": "not found",
+   "found": [],
+   "context": "FY2013 annual report, p.42; also p.126"
+  },
+  {
+   "quote": "indicative of the strong residual values experienced in the U.S",
+   "cited_pages": [
+    113
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      113
+     ]
+    ]
+   ],
+   "context": "FY2012 annual report, p.113"
+  },
+  {
+   "quote": "strong",
+   "cited_pages": [
+    113
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      10,
+      21,
+      42,
+      43,
+      51,
+      54,
+      55,
+      56,
+      59,
+      113
+     ]
+    ]
+   ],
+   "context": " has gone"
+  },
+  {
+   "quote": "due to ... declining residual values",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": "p.126"
+  },
+  {
+   "quote": "a deterioration in the used vehicle residual values",
+   "cited_pages": [
+    54
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      54
+     ]
+    ]
+   ],
+   "context": "p.54"
+  },
+  {
+   "quote": "eighteen months",
+   "cited_pages": [
+    11
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      11
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      11
+     ]
+    ]
+   ],
+   "context": " in both years (FY2013 annual report p.11, FY2012 annual report p.11)"
+  },
+  {
+   "quote": "accounts payable and accrued liabilities",
+   "cited_pages": [
+    81
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      78
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      81
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      21
+     ]
+    ]
+   ],
+   "context": " are $289.1m (p.81)"
+  },
+  {
+   "quote": "Car rental fleet interest",
+   "cited_pages": [
+    2
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2
+     ]
+    ]
+   ],
+   "context": " of $301.9m (FY2013 results release, Table 7, p.2)"
+  },
+  {
+   "quote": "Sales of revenue earning equipment included in receivables",
+   "cited_pages": [
+    81
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      78
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      81
+     ]
+    ]
+   ],
+   "context": " of $357.3m, plus $16.6m from property sales (p.81)"
+  },
+  {
+   "quote": "certain one-time charges",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": "FY2013 results release, adjusted pre-tax income definition"
+  },
+  {
+   "quote": "Other unusual/non-recurring",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      9
+     ]
+    ]
+   ],
+   "context": ": $50.7m and $44.0m"
+  },
+  {
+   "quote": "Extraordinary, unusual or non-recurring items",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": " total was $283.4m in 2013 and $239.3m in 2012 (FY2013 results release, Table 7)"
+  },
+  {
+   "quote": "declining residual values",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": "p.126"
+  }
+ ],
+ "figures": {
+  "found": [
+   "52.9",
+   "42.7",
+   "3.5%",
+   "19.4%",
+   "52.7",
+   "$232.8 m",
+   "35.1%",
+   "$879.9 m",
+   "$40.3 m",
+   "4.6%",
+   "$23.2 m",
+   "$34.0 m",
+   "$35.3 m",
+   "$10,197.4 m",
+   "40.7",
+   "32.8",
+   "$978.6 m",
+   "$1,928.3 m",
+   "$247.0 m",
+   "$289.1 m",
+   "22.9%",
+   "$44.2 million",
+   "$39.6 m",
+   "$177.4 m",
+   "$100.6 m",
+   "$48.2 m",
+   "14.1%",
+   "$241.6",
+   "9.0%",
+   "4.5%",
+   "72.9%",
+   "$55.6 m",
+   "5.8%",
+   "13.7%",
+   "5.9%",
+   "$301.9 m",
+   "10.9%",
+   "6.2%",
+   "14.0%",
+   "11.5%",
+   "$357.3 m",
+   "$16.6 m",
+   "10.6%",
+   "9.6%",
+   "$1,153.2 m",
+   "$663.1 m",
+   "$490.1 m",
+   "$892.3 m",
+   "$441.4 m",
+   "$450.9 m",
+   "$901.5 m",
+   "$450.6 m",
+   "$680.5 m",
+   "$324.3 m",
+   "$356.2 m",
+   "$98.8 m",
+   "$49.1 m",
+   "$66.2 m",
+   "$18.5 m",
+   "$163.7 m",
+   "$18.8 m",
+   "$50.7 m",
+   "$44.0 m",
+   "$283.4 m",
+   "$239.3 m",
+   "$130.1 m",
+   "$18.2 m",
+   "$44.2 m",
+   "$139.4 m",
+   "$26.7 m"
+  ],
+  "computed_percent": [
+   "15.17%",
+   "14.27%",
+   "15.28%",
+   "14.25%",
+   "16.74%",
+   "15.43%",
+   "9.41%",
+   "9.63%"
+  ],
+  "computed_table": [],
+  "not_found": [
+   "$226.3 m",
+   "$152.1 m",
+   "$174.5 m",
+   "$148.8 m",
+   "$207.7",
+   "$483.2 m",
+   "$273.8 m",
+   "$367.1 m"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 663.1,
+  "source": "workbook",
+  "note": "",
+  "checks": [
+   {
+    "amount": 174.5,
+    "stated": 22.9,
+    "recomputed": 26.3,
+    "ok": false,
+    "sentence": "The revised size is $152.1m, 22.9% of pre-tax income (first reported, $174.5m)."
+   }
+  ]
+ },
+ "post_cutoff": []
+}

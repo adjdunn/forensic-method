@@ -1,0 +1,665 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.26\\claude-code\\001\\report-5.md",
+  "pack": "hertz-fy2013",
+  "words": 1293,
+  "pages_est": 2.9,
+  "quotes": {
+   "total": 26,
+   "exact_on_page": 16,
+   "exact_page_differs": 1,
+   "exact_no_page": 7,
+   "other_document": 2,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 41,
+   "computed_percent": 2,
+   "computed_table": 3,
+   "not_found": 3
+  },
+  "arithmetic": {
+   "pre_tax_income": 663.1,
+   "checked": 0,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "indicative of the residual values experienced",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "due to ... declining residual values",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": "p.126"
+  },
+  {
+   "quote": "a deterioration in the used vehicle residual values",
+   "cited_pages": [
+    54
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      54
+     ]
+    ]
+   ],
+   "context": "p.54"
+  },
+  {
+   "quote": "strong",
+   "cited_pages": [
+    113
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      10,
+      21,
+      42,
+      43,
+      51,
+      54,
+      55,
+      56,
+      59,
+      113
+     ]
+    ]
+   ],
+   "context": " was dropped from that Note 8 sentence (FY2012 p.113)"
+  },
+  {
+   "quote": "useful lives",
+   "cited_pages": [
+    81,
+    91
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      46,
+      80,
+      81,
+      83,
+      85,
+      86,
+      88
+     ]
+    ]
+   ],
+   "context": " to \"holding periods\" (FY2012 p.81 \u2192 p.91)"
+  },
+  {
+   "quote": "holding periods",
+   "cited_pages": [
+    81,
+    91
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      44,
+      61,
+      81
+     ]
+    ]
+   ],
+   "context": "FY2012 p.81 \u2192 p.91"
+  },
+  {
+   "quote": "eighteen months",
+   "cited_pages": [
+    11
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      11
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      11
+     ]
+    ]
+   ],
+   "context": "p.11, both years"
+  },
+  {
+   "quote": "longer holding periods",
+   "cited_pages": [
+    53
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      61
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      53,
+      66
+     ]
+    ]
+   ],
+   "context": "p.53"
+  },
+  {
+   "quote": "longer holding period does not necessarily equate to higher costs",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      42
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": "p.42"
+  },
+  {
+   "quote": "car sales channel diversification, acceleration of our retail sales expansion and the optimization of fleet holding periods related to the integration of Dollar Thrifty",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": "p.126"
+  },
+  {
+   "quote": "one-time",
+   "cited_pages": [
+    131
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      118
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      131
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      19,
+      20
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": " charges that recur every year** - **Shown:** - Note 11 (p.131) defines the measure as excluding \"certain one-time charg"
+  },
+  {
+   "quote": "certain one-time charges",
+   "cited_pages": [
+    131
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      118
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      131
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      19
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "Additional efficiency and cost saving initiatives are being developed",
+   "cited_pages": [
+    140
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      44,
+      124
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      44,
+      140
+     ]
+    ]
+   ],
+   "context": "p.140"
+  },
+  {
+   "quote": "Non-cash debt charges",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      120
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      2,
+      4,
+      13,
+      14
+     ]
+    ]
+   ],
+   "context": " was renamed \"debt-related charges\""
+  },
+  {
+   "quote": "debt-related charges",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      56,
+      57,
+      62,
+      63,
+      131,
+      134
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3,
+      9
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "non-recurring",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      30,
+      89,
+      90
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      31,
+      99,
+      100
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      15,
+      16,
+      17
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2,
+      3,
+      9
+     ]
+    ]
+   ],
+   "context": " behind Corporate EBITDA"
+  },
+  {
+   "quote": "Other intangible assets | 3 to 10 years",
+   "cited_pages": [
+    81,
+    91
+   ],
+   "status": "found in another document",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      91
+     ]
+    ]
+   ],
+   "context": "p.91; it was \"3 to 20 years\", FY2012 p.81"
+  },
+  {
+   "quote": "3 to 20 years",
+   "cited_pages": [
+    81
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      81
+     ]
+    ]
+   ],
+   "context": ", FY2012 p.81)"
+  },
+  {
+   "quote": "two to fifteen years",
+   "cited_pages": [
+    93
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      83
+     ]
+    ]
+   ],
+   "context": "p.93"
+  },
+  {
+   "quote": "one level below our operating segments",
+   "cited_pages": [
+    83,
+    93
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      83
+     ]
+    ]
+   ],
+   "context": "p.93; identical in FY2012 p.83"
+  },
+  {
+   "quote": "no impairment existed",
+   "cited_pages": [
+    94
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      85,
+      87
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      94,
+      96
+     ]
+    ]
+   ],
+   "context": "p.94"
+  },
+  {
+   "quote": "unknowingly not met",
+   "cited_pages": [
+    108
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      67,
+      108
+     ]
+    ]
+   ],
+   "context": " at year-end (p.108)"
+  },
+  {
+   "quote": "timing of our payments",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      60
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      64
+     ]
+    ]
+   ],
+   "context": " explanation does not hold for the payables balance"
+  },
+  {
+   "quote": "continue to believe",
+   "cited_pages": [],
+   "status": "found in another document",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      137
+     ]
+    ]
+   ],
+   "context": " wording refers to a view not stated in FY2012"
+  },
+  {
+   "quote": "Critical",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      44,
+      108
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      44,
+      121
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "free cash flow",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2,
+      6,
+      9
+     ]
+    ]
+   ],
+   "context": " replaced levered cash flow"
+  }
+ ],
+ "figures": {
+  "found": [
+   "$663.1 m",
+   "$44.2 m",
+   "$48.2 m",
+   "22.9%",
+   "26.3%",
+   "6.7%",
+   "$39.6 m",
+   "6.0%",
+   "7.3%",
+   "$645.4 m",
+   "$98.8 m",
+   "$49.1 m",
+   "$66.2 m",
+   "$40.0 m",
+   "$7.8 m",
+   "$44.0 m",
+   "13.8%",
+   "14.9%",
+   "$490.1 m",
+   "73.9%",
+   "$1,347.5 m",
+   "$46.3 m",
+   "5.8%",
+   "$11.6 m",
+   "1.7%",
+   "$232.8 m",
+   "35.1%",
+   "$155.1 m",
+   "$129.6 m",
+   "$21.9 m",
+   "9.6%",
+   "19.4%",
+   "$45.9 m",
+   "$41.9 m",
+   "$450.6 m",
+   "$441.4 m",
+   "$25.1 m",
+   "$29.3 m",
+   "6.2%",
+   "$34.7 m",
+   "$48.4 m"
+  ],
+  "computed_percent": [
+   "15.17%",
+   "14.27%"
+  ],
+  "computed_table": [
+   "1.7",
+   "52.9",
+   "42.7"
+  ],
+  "not_found": [
+   "$152.1 m",
+   "$174.5 m",
+   "$4,697.6 m"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 663.1,
+  "source": "reply",
+  "note": "",
+  "checks": []
+ },
+ "post_cutoff": []
+}

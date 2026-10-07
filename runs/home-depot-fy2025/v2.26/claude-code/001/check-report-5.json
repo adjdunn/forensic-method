@@ -1,0 +1,541 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\home-depot-fy2025\\v2.26\\claude-code\\001\\report-5.md",
+  "pack": "home-depot-fy2025",
+  "words": 1289,
+  "pages_est": 2.9,
+  "quotes": {
+   "total": 24,
+   "exact_on_page": 7,
+   "exact_page_differs": 0,
+   "exact_no_page": 9,
+   "other_document": 1,
+   "not_found": 7
+  },
+  "figures": {
+   "found": 24,
+   "computed_percent": 7,
+   "computed_table": 0,
+   "not_found": 11
+  },
+  "arithmetic": {
+   "pre_tax_income": 18602.0,
+   "checked": 0,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 2
+ },
+ "quotes": [
+  {
+   "quote": "text-1",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": " and \"text-2\" are my two earlier replies"
+  },
+  {
+   "quote": "text-2",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": " are my two earlier replies"
+  },
+  {
+   "quote": "numbers-1",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": " and \"numbers-2\" are the pasted replies"
+  },
+  {
+   "quote": "numbers-2",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": " are the pasted replies"
+  },
+  {
+   "quote": "non-recurring",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": " legal benefit** - **Shown:** Operating margin fell from 13.50% to 12.69%"
+  },
+  {
+   "quote": "lower legal-related benefits",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "non-recurring",
+   "cited_pages": [
+    34
+   ],
+   "status": "found in another document",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": ", with no amount in either year (p.34 both years)"
+  },
+  {
+   "quote": "non-recurring",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": " could make the cost rise look temporary"
+  },
+  {
+   "quote": "up to approximately 20 years",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      51
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      51
+     ]
+    ]
+   ],
+   "context": " policy range"
+  },
+  {
+   "quote": "Adjusted earnings",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": ""
+  },
+  {
+   "quote": "higher average inventory levels",
+   "cited_pages": [
+    32,
+    37
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      32
+     ]
+    ]
+   ],
+   "context": ", p.32, 37)"
+  },
+  {
+   "quote": "moving average cost and first-in, first-out",
+   "cited_pages": [
+    38,
+    49
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      38,
+      41,
+      49
+     ]
+    ]
+   ],
+   "context": ", with no change disclosed (p.38, 49)"
+  },
+  {
+   "quote": "Other changes",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": " line 1"
+  },
+  {
+   "quote": "increasingly",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      8,
+      14,
+      15,
+      19,
+      20,
+      21,
+      23,
+      24
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      9,
+      14,
+      15,
+      19,
+      20,
+      21,
+      24
+     ]
+    ]
+   ],
+   "context": " use trade credit** - **Shown:** Days sales outstanding rose from 7.9 to 11.4 to 12.4"
+  },
+  {
+   "quote": "not material",
+   "cited_pages": [
+    48
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75,
+      76,
+      77
+     ]
+    ]
+   ],
+   "context": "p.48"
+  },
+  {
+   "quote": "primarily use",
+   "cited_pages": [
+    23,
+    24
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      23,
+      73
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      75
+     ]
+    ]
+   ],
+   "context": " to \"increasingly use trade credit\" (last year p.23, this year p.24)"
+  },
+  {
+   "quote": "increasingly use trade credit",
+   "cited_pages": [
+    23,
+    24
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      24
+     ]
+    ]
+   ],
+   "context": "last year p.23, this year p.24"
+  },
+  {
+   "quote": "Other changes",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": " line 3"
+  },
+  {
+   "quote": "exceeded",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      60
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      60
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      2
+     ]
+    ]
+   ],
+   "context": " carrying amount, where Primary's \"substantially exceeded\""
+  },
+  {
+   "quote": "substantially exceeded",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      60
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      60
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "reasonably possible",
+   "cited_pages": [
+    67
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      67
+     ]
+    ]
+   ],
+   "context": " sentence on unrecognized tax benefits was dropped (last year p.67)"
+  },
+  {
+   "quote": "approximately 3%",
+   "cited_pages": [
+    77
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      77,
+      78
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      2
+     ]
+    ]
+   ],
+   "context": " of assets in the controls exclusion can't be tested as stated (p.77)"
+  },
+  {
+   "quote": "$6.3 billion",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      33
+     ]
+    ]
+   ],
+   "context": " of sales"
+  },
+  {
+   "quote": "primarily",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      6,
+      8,
+      14,
+      23,
+      32,
+      34,
+      35,
+      38,
+      39,
+      42,
+      48,
+      49,
+      53,
+      54,
+      66,
+      69,
+      73,
+      75
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      6,
+      8,
+      14,
+      32,
+      33,
+      34,
+      37,
+      38,
+      39,
+      41,
+      42,
+      49,
+      53,
+      54,
+      66,
+      69,
+      73,
+      75
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      8
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      8
+     ]
+    ]
+   ],
+   "context": " from intangibles"
+  }
+ ],
+ "figures": {
+  "found": [
+   "$18,602 m",
+   "7.2%",
+   "$6,476 m",
+   "$0.33",
+   "0.5",
+   "1.6%",
+   "3.3%",
+   "5.9%",
+   "0.4%",
+   "1.0%",
+   "7.9",
+   "12.4",
+   "12.1",
+   "13.3",
+   "3.4%",
+   "2.8%",
+   "2.4%",
+   "$2.6 bn",
+   "2.5%",
+   "$13.8 bn",
+   "$4.5 bn",
+   "25.7%",
+   "8.1%",
+   "$6.3 billion"
+  ],
+  "computed_percent": [
+   "13.50%",
+   "12.69%",
+   "18.2%",
+   "19.0%",
+   "24.7%",
+   "7.44%",
+   "7.38%"
+  ],
+  "computed_table": [],
+  "not_found": [
+   "$1,334 m",
+   "0.84",
+   "$0.46",
+   "81.9",
+   "85.6",
+   "86.2",
+   "91.3",
+   "83.7",
+   "$1,102 m",
+   "11.4",
+   "$1,510 m"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 18602.0,
+  "source": "reply",
+  "note": "",
+  "checks": []
+ },
+ "post_cutoff": [
+  {
+   "year": 2055,
+   "context": "remaining term stayed at 12 years while the final maturity moved from 2055 to 2075; can't tell if that fits (p.59, 62). - No"
+  },
+  {
+   "year": 2075,
+   "context": "g term stayed at 12 years while the final maturity moved from 2055 to 2075; can't tell if that fits (p.59, 62). - No accrual"
+  }
+ ]
+}

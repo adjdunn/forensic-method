@@ -1,0 +1,362 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\home-depot-fy2025\\v2.26\\claude-code\\001\\numbers-1.md",
+  "pack": "home-depot-fy2025",
+  "words": 934,
+  "pages_est": 2.1,
+  "quotes": {
+   "total": 7,
+   "exact_on_page": 0,
+   "exact_page_differs": 0,
+   "exact_no_page": 7,
+   "other_document": 0,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 22,
+   "computed_percent": 2,
+   "computed_table": 83,
+   "not_found": 11
+  },
+  "arithmetic": {
+   "pre_tax_income": 18602.0,
+   "checked": 4,
+   "mismatches": 4
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "Cost of sales",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      44,
+      53,
+      55
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      44,
+      53,
+      55
+     ]
+    ]
+   ],
+   "context": " Annual depreciation is \"Depreciation and finance lease amortization expense\" from the property note"
+  },
+  {
+   "quote": "Depreciation and finance lease amortization expense",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      58
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      58
+     ]
+    ]
+   ],
+   "context": " from the property note"
+  },
+  {
+   "quote": "Depreciation and amortization",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      5,
+      7
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      5,
+      7
+     ]
+    ]
+   ],
+   "context": " line less \"Acquired intangible asset amortization.\" That basis leaves out depreciation in cost of sales, so compare the"
+  },
+  {
+   "quote": "Acquired intangible asset amortization",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      8
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      8
+     ]
+    ]
+   ],
+   "context": " That basis leaves out depreciation in cost of sales, so compare the two quarters only with each other"
+  },
+  {
+   "quote": "Other assets",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      43,
+      66
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      43,
+      66
+     ]
+    ]
+   ],
+   "context": " to \"Intangible assets, net.\" **Not calculated:** - **Allowance for doubtful accounts:** both annual reports call it \"no"
+  },
+  {
+   "quote": "Intangible assets, net",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      43
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      43
+     ]
+    ]
+   ],
+   "context": " **Not calculated:** - **Allowance for doubtful accounts:** both annual reports call it \"not material\" and give no figur"
+  },
+  {
+   "quote": "not material",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75,
+      76,
+      77
+     ]
+    ]
+   ],
+   "context": " and give no figure"
+  }
+ ],
+ "figures": {
+  "found": [
+   "16,325",
+   "1,514",
+   "17,644",
+   "5,410",
+   "7.9%",
+   "2.2%",
+   "8.1%",
+   "$14,156 m",
+   "11.3%",
+   "10.1%",
+   "$5.0 bn",
+   "7.2%",
+   "$164,683 m",
+   "5.9%",
+   "$1,450 m",
+   "3.7%",
+   "3.4%",
+   "7.0%",
+   "9.4%",
+   "2.8%",
+   "2.4%",
+   "$3,606 m"
+  ],
+  "computed_percent": [
+   "13.50%",
+   "12.69%"
+  ],
+  "computed_table": [
+   "7.7",
+   "7.9",
+   "11.4",
+   "12.4",
+   "12.1",
+   "13.3",
+   "86.6",
+   "75.1",
+   "81.9",
+   "85.6",
+   "86.2",
+   "91.3",
+   "39.8",
+   "35.9",
+   "41.7",
+   "38.1",
+   "43.9",
+   "40.6",
+   "3.3",
+   "42.8",
+   "10.9",
+   "33.2",
+   "17.9",
+   "12.9",
+   "7.4",
+   "6.7",
+   "2.8",
+   "13.6",
+   "9.5",
+   "14.5",
+   "7.1",
+   "4.4",
+   "0.2",
+   "2.1",
+   "2.2",
+   "3.1",
+   "3.4",
+   "15.8",
+   "13.7",
+   "14.7",
+   "15.7",
+   "16.8",
+   "7.3",
+   "6.6",
+   "7.5",
+   "7.0",
+   "9.4",
+   "33.6",
+   "33.5",
+   "33.4",
+   "33.3",
+   "32.8",
+   "32.6",
+   "34.2",
+   "15.2",
+   "15.3",
+   "14.2",
+   "13.5",
+   "12.7",
+   "11.3",
+   "10.1",
+   "11.9",
+   "5.8",
+   "1.7",
+   "0.7",
+   "0.85",
+   "0.67",
+   "1.19",
+   "1.10",
+   "0.89",
+   "7.44",
+   "7.38",
+   "5.51",
+   "5.60",
+   "1.13",
+   "1.07",
+   "1.06",
+   "1.2",
+   "2.81",
+   "2.12",
+   "2.42",
+   "0.81",
+   "2.4"
+  ],
+  "not_found": [
+   "14,005",
+   "11,496",
+   "17,946",
+   "12,646",
+   "3,570",
+   "2,289",
+   "$1,510 m",
+   "$12,646 m",
+   "$1,334 m",
+   "$1,102 m",
+   "$1,090 m"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 18602.0,
+  "source": "workbook",
+  "note": "",
+  "checks": [
+   {
+    "amount": 14156.0,
+    "stated": 8.1,
+    "recomputed": 76.1,
+    "ok": false,
+    "sentence": "Size: $1,510m, 8.1% of pre-tax income (net income $14,156m less free cash flow $12,646m)."
+   },
+   {
+    "amount": 164683.0,
+    "stated": 7.2,
+    "recomputed": 885.3,
+    "ok": false,
+    "sentence": "Size: $1,334m, 7.2% of pre-tax income (0.81 pp \u00d7 FY revenue of $164,683m)."
+   },
+   {
+    "amount": 1450.0,
+    "stated": 5.9,
+    "recomputed": 7.8,
+    "ok": false,
+    "sentence": "Size: $1,102m, 5.9% of pre-tax income (inventory less inventory at prior-year days; the Q4 figure is $1,450m)."
+   },
+   {
+    "amount": 517.0,
+    "stated": 2.4,
+    "recomputed": 2.8,
+    "ok": false,
+    "sentence": "Size: $438m, 2.4% of pre-tax income (receivables less receivables at prior-year days; the Q4 figure is $517m)."
+   }
+  ]
+ },
+ "post_cutoff": []
+}

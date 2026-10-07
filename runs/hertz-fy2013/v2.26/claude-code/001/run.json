@@ -1,0 +1,427 @@
+{
+ "company": "hertz-fy2013",
+ "prompts_version": "v2.26",
+ "prompt_hashes": {
+  "1-scan-the-numbers.md": "6a628f4f4114",
+  "2-follow-the-flags.md": "877506f3f837",
+  "3-read-the-footnotes.md": "ef726cc82e6e",
+  "4-compare-the-footnotes.md": "6b471bd86117",
+  "5-report.md": "35fa010ef18f"
+ },
+ "repo_commit": "091bef7",
+ "adapter": "claude-code",
+ "model_requested": "claude-opus-5-5",
+ "file_set": "full",
+ "files": [
+  "statements.xlsx",
+  "annual-report-FY2012-12-31.txt",
+  "annual-report-FY2013-12-31.txt",
+  "earnings-release-Q4-FY2012-12-31.txt",
+  "earnings-release-Q4-FY2013-12-31.txt"
+ ],
+ "cutoff": "2014-03-31",
+ "started": "2026-10-06T22:17:35",
+ "dry_run": false,
+ "steps": [
+  {
+   "prompt": 1,
+   "file": "1-scan-the-numbers.md",
+   "track": "numbers",
+   "reply_file": "numbers-1.md",
+   "error": null,
+   "session_id": "8a0fd94d-63ce-4b40-8ac1-8251bdcf40c3",
+   "cost_usd": 1.2679277999999998,
+   "usage": {
+    "input_tokens": 36,
+    "cache_creation_input_tokens": 76728,
+    "cache_read_input_tokens": 999499,
+    "output_tokens": 22703,
+    "output_tokens_details": {
+     "thinking_tokens": 11729
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 76728,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "not_available",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 4841,
+      "cache_read_input_tokens": 94094,
+      "cache_creation_input_tokens": 4416,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 4416
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "num_turns": 18,
+   "seconds": 320.8,
+   "status": "ok",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.26\\claude-code\\001\\numbers-1.md",
+    "pack": "hertz-fy2013",
+    "words": 873,
+    "pages_est": 1.9,
+    "quotes": {
+     "total": 1,
+     "exact_on_page": 0,
+     "exact_page_differs": 0,
+     "exact_no_page": 1,
+     "other_document": 0,
+     "not_found": 0
+    },
+    "figures": {
+     "found": 58,
+     "computed_percent": 0,
+     "computed_table": 50,
+     "not_found": 8
+    },
+    "arithmetic": {
+     "pre_tax_income": 663.1,
+     "checked": 0,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
+  },
+  {
+   "prompt": 2,
+   "file": "2-follow-the-flags.md",
+   "track": "numbers",
+   "reply_file": "numbers-2.md",
+   "error": null,
+   "session_id": "8a0fd94d-63ce-4b40-8ac1-8251bdcf40c3",
+   "cost_usd": 2.5991595999999992,
+   "usage": {
+    "input_tokens": 34,
+    "cache_creation_input_tokens": 60317,
+    "cache_read_input_tokens": 2171899,
+    "output_tokens": 20709,
+    "output_tokens_details": {
+     "thinking_tokens": 11454
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 60317,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "not_available",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 2669,
+      "cache_read_input_tokens": 154529,
+      "cache_creation_input_tokens": 4298,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 4298
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "num_turns": 17,
+   "seconds": 323.4,
+   "status": "ok",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.26\\claude-code\\001\\numbers-2.md",
+    "pack": "hertz-fy2013",
+    "words": 1106,
+    "pages_est": 2.5,
+    "quotes": {
+     "total": 15,
+     "exact_on_page": 11,
+     "exact_page_differs": 0,
+     "exact_no_page": 2,
+     "other_document": 0,
+     "not_found": 2
+    },
+    "figures": {
+     "found": 70,
+     "computed_percent": 8,
+     "computed_table": 0,
+     "not_found": 8
+    },
+    "arithmetic": {
+     "pre_tax_income": 663.1,
+     "checked": 1,
+     "mismatches": 1
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
+  },
+  {
+   "prompt": 3,
+   "file": "3-read-the-footnotes.md",
+   "track": "text",
+   "reply_file": "text-3.md",
+   "error": null,
+   "session_id": "c34d6fc4-ead2-4ed5-ab98-2433a0bc437c",
+   "cost_usd": 2.6380882,
+   "usage": {
+    "input_tokens": 42,
+    "cache_creation_input_tokens": 212968,
+    "cache_read_input_tokens": 2609181,
+    "output_tokens": 20617,
+    "output_tokens_details": {
+     "thinking_tokens": 12615
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 212968,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "not_available",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 6407,
+      "cache_read_input_tokens": 233357,
+      "cache_creation_input_tokens": 1393,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1393
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "num_turns": 24,
+   "seconds": 226.1,
+   "status": "ok",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.26\\claude-code\\001\\text-3.md",
+    "pack": "hertz-fy2013",
+    "words": 1264,
+    "pages_est": 2.8,
+    "quotes": {
+     "total": 21,
+     "exact_on_page": 13,
+     "exact_page_differs": 2,
+     "exact_no_page": 6,
+     "other_document": 0,
+     "not_found": 0
+    },
+    "figures": {
+     "found": 41,
+     "computed_percent": 0,
+     "computed_table": 2,
+     "not_found": 1
+    },
+    "arithmetic": {
+     "pre_tax_income": 663.1,
+     "checked": 0,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
+  },
+  {
+   "prompt": 4,
+   "file": "4-compare-the-footnotes.md",
+   "track": "text",
+   "reply_file": "text-4.md",
+   "error": null,
+   "session_id": "c34d6fc4-ead2-4ed5-ab98-2433a0bc437c",
+   "cost_usd": 5.598906199999999,
+   "usage": {
+    "input_tokens": 54,
+    "cache_creation_input_tokens": 102172,
+    "cache_read_input_tokens": 7846330,
+    "output_tokens": 28698,
+    "output_tokens_details": {
+     "thinking_tokens": 15447
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 102172,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "not_available",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 4120,
+      "cache_read_input_tokens": 331634,
+      "cache_creation_input_tokens": 5288,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 5288
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "num_turns": 27,
+   "seconds": 440.3,
+   "status": "ok",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.26\\claude-code\\001\\text-4.md",
+    "pack": "hertz-fy2013",
+    "words": 1600,
+    "pages_est": 3.6,
+    "quotes": {
+     "total": 43,
+     "exact_on_page": 26,
+     "exact_page_differs": 3,
+     "exact_no_page": 7,
+     "other_document": 3,
+     "not_found": 4
+    },
+    "figures": {
+     "found": 50,
+     "computed_percent": 0,
+     "computed_table": 7,
+     "not_found": 3
+    },
+    "arithmetic": {
+     "pre_tax_income": 663.1,
+     "checked": 0,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 1
+    },
+    "post_cutoff": 0
+   }
+  },
+  {
+   "prompt": 5,
+   "file": "5-report.md",
+   "track": "text",
+   "reply_file": "report-5.md",
+   "error": null,
+   "session_id": "c34d6fc4-ead2-4ed5-ab98-2433a0bc437c",
+   "cost_usd": 6.096545399999999,
+   "usage": {
+    "input_tokens": 4,
+    "cache_creation_input_tokens": 18335,
+    "cache_read_input_tokens": 684716,
+    "output_tokens": 10700,
+    "output_tokens_details": {
+     "thinking_tokens": 7204
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 18335,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "not_available",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 3296,
+      "cache_read_input_tokens": 347794,
+      "cache_creation_input_tokens": 7463,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 7463
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "models": [
+    "claude-opus-5-5"
+   ],
+   "num_turns": 2,
+   "seconds": 103.3,
+   "status": "ok",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.26\\claude-code\\001\\report-5.md",
+    "pack": "hertz-fy2013",
+    "words": 1293,
+    "pages_est": 2.9,
+    "quotes": {
+     "total": 26,
+     "exact_on_page": 16,
+     "exact_page_differs": 1,
+     "exact_no_page": 7,
+     "other_document": 2,
+     "not_found": 0
+    },
+    "figures": {
+     "found": 41,
+     "computed_percent": 2,
+     "computed_table": 3,
+     "not_found": 3
+    },
+    "arithmetic": {
+     "pre_tax_income": 663.1,
+     "checked": 0,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
+  }
+ ],
+ "finished": "2026-10-06T22:41:10",
+ "cost_usd": 18.2006,
+ "models": [
+  "claude-opus-5-5"
+ ]
+}
