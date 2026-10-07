@@ -20,7 +20,7 @@ Merge items about the same account or the same estimate into one, and keep all o
 **Rank the items by strength of evidence first, then by size within each level.**
 
 Strength of evidence, strongest first:
-1. A sentence contradicted by the company's own numbers, or by another sentence in the same report. The sentence and the number must share subject, period and measure, and the number must point the opposite way. A sentence the numbers only fail to account for in full, or a sentence about a different measure, is level 2 or 3.
+1. A sentence contradicted by the company's own numbers, or by another sentence in the same report. The sentence and the number must share subject, period and measure, and the number must point the opposite way. A sentence the numbers only fail to account for in full, or a sentence about a different measure, is level 2 or 3. Within level 1, a claim contradicted within the audited statements and notes ranks above a claim contradicted in the management discussion or an adjusted measure, whatever their sizes; size orders items inside each of those two groups.
 2. Two or more signals pointing at the same account in the same period, from either track.
 3. A single measure, a single change in wording, or a single policy that leans aggressive, out of line with the company's history or with general practice.
 
