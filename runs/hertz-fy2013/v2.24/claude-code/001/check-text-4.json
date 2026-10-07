@@ -19,9 +19,9 @@
    "not_found": 8
   },
   "arithmetic": {
-   "pre_tax_income": 450.6,
+   "pre_tax_income": 663.1,
    "checked": 1,
-   "mismatches": 1
+   "mismatches": 0
   },
   "banned": {
    "words": {},
@@ -1320,15 +1320,15 @@
   ]
  },
  "arithmetic": {
-  "pre_tax_income": 450.6,
+  "pre_tax_income": 663.1,
   "source": "reply",
-  "note": "reply states pre-tax income 450.6; workbook latest year 663.1 (a revised figure, or a different year)",
+  "note": "reply's first stated pre-tax income 450.6 is not the latest year's (663.1); the workbook figure is used",
   "checks": [
    {
     "amount": 159.9,
     "stated": 24.1,
-    "recomputed": 35.5,
-    "ok": false,
+    "recomputed": 24.1,
+    "ok": true,
     "sentence": "Other changes - **Adjusted measures:** Five exclusions appear in 2013 that were not taken in 2012, totalling $159.9m (24.1% of pre-tax income): - integration $4"
    }
   ]

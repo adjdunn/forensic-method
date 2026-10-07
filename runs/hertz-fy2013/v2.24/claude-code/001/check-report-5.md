@@ -6,7 +6,7 @@
 |---|---|
 | Quotations | 11 of 15 exact and on the cited page; 0 exact with a different page; 3 exact, no page cited; 1 found in another document; 0 not found |
 | Figures | 59 printed in the pack or workbook; 3 not printed (derived or to check); 1 percentages and 0 table measures not printed (computed) |
-| Arithmetic | pre-tax income 450.6 (reply); 2 shares recomputed, 2 mismatches; reply states pre-tax income 450.6; workbook latest year 663.1 (a revised figure, or a different year) |
+| Arithmetic | pre-tax income 663.1 (reply); 2 shares recomputed, 0 mismatches; reply's first stated pre-tax income 450.6 is not the latest year's (663.1); the workbook figure is used |
 | Banned words | none; em-dashes 0 |
 | Post-cutoff years | 0 mentions after 2014-03-31 |
 
@@ -20,8 +20,3 @@
 ## Figures not printed in the pack (derived, rounded differently, or wrong)
 
 $159.9 m, $152.1 m, $4,677.5 m
-
-## Arithmetic mismatches
-
-- stated 14.9%, recomputed 21.9% from 98.8: - Sizes: restructuring plus related costs $98.8m = 14.9% of pre-tax income; new add-backs 24.1%; all add-backs together 73.9%.
-- stated 1.7%, recomputed 2.6% from 11.6: - Sizes: 2013 errors $11.6m = 1.7% of pre-tax income.

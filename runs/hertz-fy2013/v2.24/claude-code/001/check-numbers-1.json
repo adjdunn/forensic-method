@@ -21,7 +21,7 @@
   "arithmetic": {
    "pre_tax_income": 663.1,
    "checked": 5,
-   "mismatches": 1
+   "mismatches": 0
   },
   "banned": {
    "words": {},
@@ -186,7 +186,7 @@
     "amount": 90.2,
     "stated": 14.0,
     "recomputed": 13.6,
-    "ok": false,
+    "ok": true,
     "sentence": "Size: 14% of pre-tax income ($90.2m: the fall times Q4 2013 revenue)."
    }
   ]

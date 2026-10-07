@@ -299,10 +299,12 @@ def check_arithmetic(reply: str, pack_dir: Path) -> dict:
     stated = PTI_STATED.search(text)
     pti_stated = to_millions(stated.group(1), stated.group(2) or "") if stated else None
     pti_wb = workbook_pre_tax_income(pack_dir)
-    pti = pti_stated or pti_wb
+    # the workbook's latest year is the base the prompts define; a figure stated in the reply is used only when it is
+    # that base (within 2%, allowing for a revision), since the first "pre-tax income ... $X" in a reply is often a prior year's
+    pti = pti_wb if pti_wb and not (pti_stated and abs(pti_stated - pti_wb) / pti_wb <= 0.02) else (pti_stated or pti_wb)
     note = ""
     if pti_stated and pti_wb and abs(pti_stated - pti_wb) / pti_wb > 0.02:
-        note = f"reply states pre-tax income {pti_stated}; workbook latest year {pti_wb} (a revised figure, or a different year)"
+        note = f"reply's first stated pre-tax income {pti_stated} is not the latest year's ({pti_wb}); the workbook figure is used"
     if not pti:
         return {"pre_tax_income": None, "checks": [], "note": "no pre-tax income found"}
     checks, seen = [], set()
@@ -313,7 +315,7 @@ def check_arithmetic(reply: str, pack_dir: Path) -> dict:
             return
         seen.add(key)
         calc = amt / pti * 100
-        ok = abs(calc - pct) <= max(0.25, 0.015 * pct)
+        ok = abs(calc - pct) <= max(0.25, 0.015 * pct) or (pct == int(pct) and round(calc) == pct)  # a whole-number share may be rounded
         checks.append({"amount": amt, "stated": pct, "recomputed": round(calc, 1), "ok": ok, "sentence": sent[:160]})
 
     for sent in re.split(r"(?<=[.;])\s+(?=[A-Z•\-•])", text):

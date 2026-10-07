@@ -93,7 +93,7 @@
     "arithmetic": {
      "pre_tax_income": 663.1,
      "checked": 5,
-     "mismatches": 1
+     "mismatches": 0
     },
     "banned": {
      "words": {},
@@ -328,9 +328,9 @@
      "not_found": 8
     },
     "arithmetic": {
-     "pre_tax_income": 450.6,
+     "pre_tax_income": 663.1,
      "checked": 1,
-     "mismatches": 1
+     "mismatches": 0
     },
     "banned": {
      "words": {},
@@ -407,9 +407,9 @@
      "not_found": 3
     },
     "arithmetic": {
-     "pre_tax_income": 450.6,
+     "pre_tax_income": 663.1,
      "checked": 2,
-     "mismatches": 2
+     "mismatches": 0
     },
     "banned": {
      "words": {},
