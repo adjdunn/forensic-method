@@ -1,0 +1,470 @@
+{
+ "summary": {
+  "reply": "/home/user/forensic-method/runs/hertz-fy2013/v2.24/claude-code/002/report-5.md",
+  "pack": "hertz-fy2013",
+  "words": 1058,
+  "pages_est": 2.4,
+  "quotes": {
+   "total": 16,
+   "exact_on_page": 10,
+   "exact_page_differs": 1,
+   "exact_no_page": 4,
+   "other_document": 0,
+   "not_found": 1
+  },
+  "figures": {
+   "found": 48,
+   "computed_percent": 2,
+   "computed_table": 0,
+   "not_found": 4
+  },
+  "arithmetic": {
+   "pre_tax_income": 663.1,
+   "checked": 0,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "one-time",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      118
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      131
+     ]
+    ]
+   ],
+   "context": " recur every year** - **Shown:** The adjusted measure adds back \"certain one-time charges and nonoperational items\" (MD&"
+  },
+  {
+   "quote": "certain one-time charges and nonoperational items",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50
+     ]
+    ]
+   ],
+   "context": "MD&A p.50; release definitions"
+  },
+  {
+   "quote": "Other",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      4,
+      5,
+      13,
+      16,
+      19,
+      39,
+      42,
+      43,
+      46,
+      48,
+      49,
+      50,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      66,
+      68,
+      70,
+      72,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      83,
+      84,
+      85,
+      86,
+      87,
+      89,
+      90
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2,
+      3,
+      5,
+      9
+     ]
+    ]
+   ],
+   "context": " also recur (numbers track)"
+  },
+  {
+   "quote": "unusual or non-recurring",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      15,
+      16,
+      17
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2,
+      3
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "indicative of the residual values experienced in the U.S",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": " The same note reports $48.2m of losses on U.S"
+  },
+  {
+   "quote": "declining residual values",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": "p.126"
+  },
+  {
+   "quote": "strong residual values",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      113
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      54
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "Strong",
+   "cited_pages": [
+    113,
+    126
+   ],
+   "status": "not found",
+   "found": [],
+   "context": " was dropped, and the reasons became internal ones: sales channels, holding periods (FY12 p.113 \u2192 FY13 p.126)"
+  },
+  {
+   "quote": "lower than expected pricing and higher expenses related to carrying extra fleet",
+   "cited_pages": [
+    2,
+    3
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2
+     ]
+    ]
+   ],
+   "context": "release p.2-3"
+  },
+  {
+   "quote": "aligned with transaction day growth",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      6
+     ]
+    ]
+   ],
+   "context": " by Q1 2014"
+  },
+  {
+   "quote": "was unknowingly not met",
+   "cited_pages": [
+    67
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      67,
+      108
+     ]
+    ]
+   ],
+   "context": " at year-end (p.67)"
+  },
+  {
+   "quote": "beyond the control of management",
+   "cited_pages": [
+    49
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      49
+     ]
+    ]
+   ],
+   "context": ", yet keeps the \"ability to control\" sentence (FY12 p.49 / FY13 p.49)"
+  },
+  {
+   "quote": "ability to control",
+   "cited_pages": [
+    49
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      49
+     ]
+    ]
+   ],
+   "context": " sentence (FY12 p.49 / FY13 p.49)"
+  },
+  {
+   "quote": "could potentially exceed $40.0 million",
+   "cited_pages": [
+    137
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      137
+     ]
+    ]
+   ],
+   "context": ", yet \"will not be material\" (p.137)"
+  },
+  {
+   "quote": "will not be material",
+   "cited_pages": [
+    137
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      19
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      20,
+      137
+     ]
+    ]
+   ],
+   "context": "p.137"
+  },
+  {
+   "quote": "could have",
+   "cited_pages": [
+    73
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      2,
+      15,
+      21,
+      23,
+      25,
+      26,
+      28,
+      29,
+      30,
+      71
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      2,
+      16,
+      22,
+      24,
+      26,
+      27,
+      29,
+      30,
+      73,
+      74
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      7
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      8
+     ]
+    ]
+   ],
+   "context": "p.73"
+  }
+ ],
+ "figures": {
+  "found": [
+   "$663.1 m",
+   "$645.4 m",
+   "$91.8 m",
+   "13.8%",
+   "$130.4 m",
+   "19.7%",
+   "$21.9 m",
+   "3.3%",
+   "$283.4 m",
+   "42.7%",
+   "$490.1 m",
+   "73.9%",
+   "$98.8 m",
+   "14.9%",
+   "$48.2 m",
+   "$241.6",
+   "$44.2 m",
+   "6.7%",
+   "$39.6 m",
+   "6.0%",
+   "22.1%",
+   "18.5%",
+   "22.4%",
+   "16.1%",
+   "$62.3 m",
+   "$90.2 m",
+   "11.4%",
+   "$46.3 m",
+   "$450.6 m",
+   "$441.4 m",
+   "$25.1 m",
+   "$29.3 m",
+   "$11.6 m",
+   "1.7%",
+   "52.9",
+   "42.7",
+   "19.4%",
+   "$23.2 m",
+   "$35.3 m",
+   "$58.5 m",
+   "$232.8 m",
+   "$40.0 million",
+   "$347.7 m",
+   "$45.9 m",
+   "$41.9 m",
+   "$40.0 m",
+   "$44.0 m",
+   "10.7%"
+  ],
+  "computed_percent": [
+   "15.17%",
+   "14.27%"
+  ],
+  "computed_table": [],
+  "not_found": [
+   "$207.7",
+   "$152.1 m",
+   "$174.5 m",
+   "$546.2 m"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 663.1,
+  "source": "reply",
+  "note": "reply's first stated pre-tax income 62.3 is not the latest year's (663.1); the workbook figure is used",
+  "checks": []
+ },
+ "post_cutoff": []
+}

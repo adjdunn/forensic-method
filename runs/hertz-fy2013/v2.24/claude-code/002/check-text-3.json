@@ -1,0 +1,452 @@
+{
+ "summary": {
+  "reply": "/home/user/forensic-method/runs/hertz-fy2013/v2.24/claude-code/002/text-3.md",
+  "pack": "hertz-fy2013",
+  "words": 1292,
+  "pages_est": 2.9,
+  "quotes": {
+   "total": 20,
+   "exact_on_page": 15,
+   "exact_page_differs": 1,
+   "exact_no_page": 3,
+   "other_document": 0,
+   "not_found": 1
+  },
+  "figures": {
+   "found": 38,
+   "computed_percent": 0,
+   "computed_table": 1,
+   "not_found": 1
+  },
+  "arithmetic": {
+   "pre_tax_income": 663.1,
+   "checked": 4,
+   "mismatches": 1
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "relatively minor",
+   "cited_pages": [
+    45
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      45
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      45
+     ]
+    ]
+   ],
+   "context": "p. 45"
+  },
+  {
+   "quote": "resulted in net decreases of $44.2 million",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": " in depreciation (Note 8, p. 126) | Leans aggressive | Residual values were raised while U.S"
+  },
+  {
+   "quote": "no impairment existed",
+   "cited_pages": [
+    94
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      85,
+      87
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      94,
+      96
+     ]
+    ]
+   ],
+   "context": "Note 3, p. 94"
+  },
+  {
+   "quote": "could potentially exceed $40.0 million",
+   "cited_pages": [
+    137
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      137
+     ]
+    ]
+   ],
+   "context": "p. 137"
+  },
+  {
+   "quote": "did not ... result in a material misstatement",
+   "cited_pages": [
+    83
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      83
+     ]
+    ]
+   ],
+   "context": "p. 83"
+  },
+  {
+   "quote": "certain one-time charges and nonoperational items",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50
+     ]
+    ]
+   ],
+   "context": "MD&A p. 50"
+  },
+  {
+   "quote": "The cumulative effect of the reduction in rates was also indicative of the residual values experienced in the U.S",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": "Note 8, p. 126"
+  },
+  {
+   "quote": "net losses of $48.2 million",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": " which the note attributes to \"declining residual values from falling demand for used vehicles.\" MD&A gives the same cau"
+  },
+  {
+   "quote": "declining residual values from falling demand for used vehicles",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": " MD&A gives the same cause for higher U.S"
+  },
+  {
+   "quote": "a deterioration in the used vehicle residual values",
+   "cited_pages": [
+    54
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      54
+     ]
+    ]
+   ],
+   "context": "p. 54"
+  },
+  {
+   "quote": "timing of sales",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": " the note also cites, or from different groups of cars than the ones whose rates were cut"
+  },
+  {
+   "quote": "one-time",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      118
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      131
+     ]
+    ]
+   ],
+   "context": " but recurs every year** - **The report says:** Adjusted pre-tax income excludes \"certain one-time charges and nonoperat"
+  },
+  {
+   "quote": "certain one-time charges and nonoperational items",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50
+     ]
+    ]
+   ],
+   "context": "MD&A, p. 50"
+  },
+  {
+   "quote": "$645.4 million",
+   "cited_pages": [
+    140
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      140
+     ]
+    ]
+   ],
+   "context": " from 2007 to 2013, an average of $92.2m a year (p. 140), and says \"Additional efficiency and cost saving initiatives ar"
+  },
+  {
+   "quote": "Additional efficiency and cost saving initiatives are being developed",
+   "cited_pages": [
+    140
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      44,
+      140
+     ]
+    ]
+   ],
+   "context": "p. 140"
+  },
+  {
+   "quote": "did not, individually or in the aggregate, result in a material misstatement",
+   "cited_pages": [
+    83
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      83
+     ]
+    ]
+   ],
+   "context": "Note 2, p. 83"
+  },
+  {
+   "quote": "was unknowingly not met",
+   "cited_pages": [
+    67
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      67,
+      108
+     ]
+    ]
+   ],
+   "context": " at year-end (p. 67)"
+  },
+  {
+   "quote": "impairment charges and other",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      56
+     ]
+    ]
+   ],
+   "context": " in the MD&A reconciliation (p. 50)"
+  },
+  {
+   "quote": "Relatively minor adjustments",
+   "cited_pages": [
+    45
+   ],
+   "status": "not found",
+   "found": [],
+   "context": " to public liability and property damage reserves (p. 45) can't be tested because no reserve development table is given"
+  },
+  {
+   "quote": "lower than expected pricing and higher expenses related to carrying extra fleet",
+   "cited_pages": [
+    2
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2
+     ]
+    ]
+   ],
+   "context": "release p. 2"
+  }
+ ],
+ "figures": {
+  "found": [
+   "$347.7 m",
+   "2.0%",
+   "$44.2 million",
+   "$44.2 m",
+   "6.7%",
+   "$39.6 m",
+   "6.0%",
+   "$4,757.6 m",
+   "$2,727.7 m",
+   "$40.0 million",
+   "$46.3 m",
+   "$11.6 m",
+   "1.7%",
+   "$98.8 m",
+   "14.9%",
+   "$490.1 m",
+   "73.9%",
+   "$48.2 million",
+   "$56.4 m",
+   "$38.0 m",
+   "$77.0 m",
+   "$645.4 million",
+   "$92.2 m",
+   "$132.2 m",
+   "19.9%",
+   "47.8%",
+   "$21.9 m",
+   "$9.2 m",
+   "5.8%",
+   "$18.7 m",
+   "1.9%",
+   "$45.9 m",
+   "$41.9 m",
+   "$4.0 m",
+   "$40.0 m",
+   "$44.0 m",
+   "$62.3 m",
+   "$600.8 m"
+  ],
+  "computed_percent": [],
+  "computed_table": [
+   "0.76"
+  ],
+  "not_found": [
+   "$4,697.6 m"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 663.1,
+  "source": "reply",
+  "note": "reply's first stated pre-tax income 62.3 is not the latest year's (663.1); the workbook figure is used",
+  "checks": [
+   {
+    "amount": 44.2,
+    "stated": 6.7,
+    "recomputed": 6.7,
+    "ok": true,
+    "sentence": "PL&PD is a $347.7m balance | | Capitalized costs and useful lives | Changes to U.S. depreciation rates \"resulted in net decreases of $44.2 million\" in depreciat"
+   },
+   {
+    "amount": 40.0,
+    "stated": 6.0,
+    "recomputed": 6.0,
+    "ok": true,
+    "sentence": "Securities class action has no amount (p. 138) | Can't tell: not enough disclosed | Large possible amounts are given without the amount accrued | Exposure \u2265$40m"
+   },
+   {
+    "amount": 39.6,
+    "stated": 6.7,
+    "recomputed": 6.0,
+    "ok": false,
+    "sentence": "Size: U.S. $44.2m = 6.7% of pre-tax income ($39.6m net = 6.0%)."
+   },
+   {
+    "amount": 98.8,
+    "stated": 14.9,
+    "recomputed": 14.9,
+    "ok": true,
+    "sentence": "Size: $98.8m = 14.9% of pre-tax income."
+   }
+  ]
+ },
+ "post_cutoff": []
+}
