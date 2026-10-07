@@ -51,6 +51,7 @@ Compare the two attached annual reports and find what the company changed in its
    - **Reading:** [the most likely reading: ordinary, the business weakening, the reporting stretched, or can't tell; and why, in one sentence]. [What would point to a different reading, in one sentence.]
 
 2. **Other changes:** at most five, one line each, with both pages.
-3. **Statements of lives, holding periods, residual values and reserve methods:** one table with every sentence found in Part 2, one line a row, at most twelve rows (if there are more, keep the ones about the largest assets): Statement (a few quoted words) | Pages, last year and this year | The number, last year and this year | Still fits? (yes, no, can't tell, or rough). Rows that do not fit, or can't be tested, go first.
-4. **Disclosed changes in estimates or policies:** a table of at most six rows, largest stated effect first: Change | Year | Stated effect on income | Page.
-5. **One line** on any section that was not in the documents.
+3. **Words searched:** a short table, one row per search word (holding period, useful life, average, residual, salvage): the pages it appears on in last year's report and in this year's. A reply without this table is incomplete.
+4. **Statements of lives, holding periods, residual values and reserve methods:** one table with every sentence found in Part 2, one line a row, at most twelve rows (if there are more, keep the ones about the largest assets): Statement (a few quoted words) | Pages, last year and this year | The number, last year and this year | Still fits? (yes, no, can't tell, or rough). Rows that do not fit, or can't be tested, go first.
+5. **Disclosed changes in estimates or policies:** a table of at most six rows, largest stated effect first: Change | Year | Stated effect on income | Page.
+6. **One line** on any section that was not in the documents.
