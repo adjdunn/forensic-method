@@ -1,0 +1,458 @@
+{
+ "summary": {
+  "reply": "/home/user/forensic-method/runs/hertz-fy2013/v2.24/claude-code/003/text-3.md",
+  "pack": "hertz-fy2013",
+  "words": 1111,
+  "pages_est": 2.5,
+  "quotes": {
+   "total": 18,
+   "exact_on_page": 9,
+   "exact_page_differs": 1,
+   "exact_no_page": 8,
+   "other_document": 0,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 43,
+   "computed_percent": 0,
+   "computed_table": 0,
+   "not_found": 1
+  },
+  "arithmetic": {
+   "pre_tax_income": 663.1,
+   "checked": 1,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "net decreases of $44.2 million",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": " in depreciation, while U.S"
+  },
+  {
+   "quote": "net losses of $48.2 million",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": "Note 8, p.126"
+  },
+  {
+   "quote": "concluded that there was no impairment",
+   "cited_pages": [
+    46
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      45
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      46
+     ]
+    ]
+   ],
+   "context": " across five reporting units (p.46)"
+  },
+  {
+   "quote": "could potentially exceed $40.0 million",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      137
+     ]
+    ]
+   ],
+   "context": ", yet \"will not be material\""
+  },
+  {
+   "quote": "will not be material",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      19
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      20,
+      137
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "out of period errors totaling $46.3 million",
+   "cited_pages": [
+    74,
+    83
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      83
+     ]
+    ]
+   ],
+   "context": "p.74, p.83"
+  },
+  {
+   "quote": "certain one-time charges and non-operational items",
+   "cited_pages": [
+    50,
+    131
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      118
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      131
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      19
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": "p.50; also Note 11, p.131"
+  },
+  {
+   "quote": "The cumulative effect of the reduction in rates was also indicative of the residual values experienced in the U.S. for the years ended December 31, 2013",
+   "cited_pages": [
+    42,
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": "Note 8, p.126; repeated in management discussion, p.42"
+  },
+  {
+   "quote": "primarily due to... declining residual values",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "a deterioration in the used vehicle residual values",
+   "cited_pages": [
+    54
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      54
+     ]
+    ]
+   ],
+   "context": "p.54"
+  },
+  {
+   "quote": "timing of sales",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": " for the losses"
+  },
+  {
+   "quote": "certain one-time charges and non-operational items",
+   "cited_pages": [
+    50,
+    131
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      118
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      131
+     ]
+    ]
+   ],
+   "context": "management discussion, p.50; Note 11, p.131"
+  },
+  {
+   "quote": "Additional efficiency and cost saving initiatives are being developed",
+   "cited_pages": [
+    140
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      44,
+      140
+     ]
+    ]
+   ],
+   "context": "p.140"
+  },
+  {
+   "quote": "non-recurring",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      30,
+      89,
+      90
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      31,
+      99,
+      100
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      15,
+      16,
+      17
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2,
+      3,
+      9
+     ]
+    ]
+   ],
+   "context": " items, also excludes these costs"
+  },
+  {
+   "quote": "charged to expense",
+   "cited_pages": [
+    158
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      18
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      19
+     ]
+    ]
+   ],
+   "context": " in Schedule II (p.158)"
+  },
+  {
+   "quote": "$47.9 million",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3,
+      9
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "a reduction of marketing expenses instead of reducing the cost of revenue earning equipment",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      83
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      9
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "U.S. monthly per vehicle depreciation costs decreased",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": "p.42"
+  }
+ ],
+ "figures": {
+  "found": [
+   "$663.1 m",
+   "$30.8 m",
+   "$40.3 m",
+   "$347.7 m",
+   "2.0%",
+   "$44.2 million",
+   "$48.2 million",
+   "$44.2 m",
+   "6.7%",
+   "$40.0 m",
+   "$2,727.7 m",
+   "$4,757.6 m",
+   "$4,457.5 m",
+   "$3.1 m",
+   "$40.0 million",
+   "6.0%",
+   "$46.3 million",
+   "$34.7 m",
+   "$98.8 m",
+   "14.9%",
+   "$490.1 m",
+   "73.9%",
+   "$48.2 m",
+   "$100.6 m",
+   "7.3%",
+   "$56.4 m",
+   "$38.0 m",
+   "$77.0 m",
+   "$645.4 m",
+   "$7.8 m",
+   "22.1%",
+   "$21.9 m",
+   "$45.9 m",
+   "$41.9 m",
+   "$46.3 m",
+   "$47.9 million",
+   "$1,123.2 m",
+   "$1,127.7 m",
+   "$1,123.3 m",
+   "$1,127.8 m",
+   "$62.3 m",
+   "1.1%",
+   "3.1%"
+  ],
+  "computed_percent": [],
+  "computed_table": [],
+  "not_found": [
+   "$4,677.5 m"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 663.1,
+  "source": "reply",
+  "note": "",
+  "checks": [
+   {
+    "amount": 98.8,
+    "stated": 14.9,
+    "recomputed": 14.9,
+    "ok": true,
+    "sentence": "It also says \"Additional efficiency and cost saving initiatives are being developed\" (p.140). **The claim does not hold for restructuring.** Size: restructuring"
+   }
+  ]
+ },
+ "post_cutoff": []
+}

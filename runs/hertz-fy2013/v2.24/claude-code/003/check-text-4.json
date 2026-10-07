@@ -1,0 +1,1012 @@
+{
+ "summary": {
+  "reply": "/home/user/forensic-method/runs/hertz-fy2013/v2.24/claude-code/003/text-4.md",
+  "pack": "hertz-fy2013",
+  "words": 1589,
+  "pages_est": 3.5,
+  "quotes": {
+   "total": 51,
+   "exact_on_page": 29,
+   "exact_page_differs": 1,
+   "exact_no_page": 13,
+   "other_document": 1,
+   "not_found": 7
+  },
+  "figures": {
+   "found": 49,
+   "computed_percent": 0,
+   "computed_table": 4,
+   "not_found": 1
+  },
+  "arithmetic": {
+   "pre_tax_income": 663.1,
+   "checked": 1,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "Revenue earning equipment... Useful lives are as follows: Cars | 4 to 28 months",
+   "cited_pages": [
+    81
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      81
+     ]
+    ]
+   ],
+   "context": "FY2012 10-K, p.81"
+  },
+  {
+   "quote": "resulted in net decreases of $130.6 million",
+   "cited_pages": [
+    113
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      42,
+      113
+     ]
+    ]
+   ],
+   "context": "worldwide car rental, p.113"
+  },
+  {
+   "quote": "Holding periods are as follows: Cars | 4 to 36 months",
+   "cited_pages": [
+    91
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      91
+     ]
+    ]
+   ],
+   "context": "FY2013 10-K, p.91"
+  },
+  {
+   "quote": "net decreases of $44.2 million",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": " in 2013 (p.126)"
+  },
+  {
+   "quote": "optimization of fleet holding periods related to the integration of Dollar Thrifty",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": "p.126"
+  },
+  {
+   "quote": "strong",
+   "cited_pages": [
+    113
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      10,
+      21,
+      42,
+      43,
+      51,
+      54,
+      55,
+      56,
+      59,
+      113
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      3,
+      4,
+      5
+     ]
+    ]
+   ],
+   "context": " dropped from the residual-value claim as sale results turned to losses** - **Before:** \"The cumulative effect of the re"
+  },
+  {
+   "quote": "The cumulative effect of the reduction in rates was indicative of the strong residual values experienced in the U.S",
+   "cited_pages": [
+    113
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      113
+     ]
+    ]
+   ],
+   "context": "FY2012, p.113"
+  },
+  {
+   "quote": "was also indicative of the residual values experienced in the U.S. for the years ended December 31, 2013",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": "FY2013, p.126"
+  },
+  {
+   "quote": "declining residual values from falling demand for used vehicles",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": "p.126"
+  },
+  {
+   "quote": "due to improved residual values in the U.S",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": "p.42"
+  },
+  {
+   "quote": "mix optimization... channel diversification",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": "p.42"
+  },
+  {
+   "quote": "the parties will again be engaging in mediation",
+   "cited_pages": [
+    32
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      32,
+      122
+     ]
+    ]
+   ],
+   "context": "FY2012, p.32 and p.122"
+  },
+  {
+   "quote": "A judgment - which could potentially exceed $40.0 million",
+   "cited_pages": [],
+   "status": "found in another document",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      137
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "We continue to believe the outcome of this case will not be material",
+   "cited_pages": [
+    137
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      137
+     ]
+    ]
+   ],
+   "context": "FY2013, p.137"
+  },
+  {
+   "quote": "Pedro Ramirez, Jr. v. Hertz Global Holdings",
+   "cited_pages": [
+    138
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      138
+     ]
+    ]
+   ],
+   "context": " covers Feb-Nov 2013, with no amount given (p.138)"
+  },
+  {
+   "quote": "Continue to believe",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": " asserts a view the 2012 report never stated for this case"
+  },
+  {
+   "quote": "Non-cash debt charges",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      120
+     ]
+    ]
+   ],
+   "context": " becomes \"debt-related charges\" (10-K p.50 both years"
+  },
+  {
+   "quote": "debt-related charges",
+   "cited_pages": [
+    19,
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      56,
+      57,
+      62,
+      63,
+      131,
+      134
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3,
+      9
+     ]
+    ]
+   ],
+   "context": "10-K p.50 both years; releases p.19 and unnumbered"
+  },
+  {
+   "quote": "We expect this percentage to continue to decrease",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      22
+     ]
+    ]
+   ],
+   "context": "program cars"
+  },
+  {
+   "quote": "declines in the overall number of program cars",
+   "cited_pages": [
+    22,
+    23
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      22
+     ]
+    ]
+   ],
+   "context": " to \"Increased fleet costs...\" (p.22 \u2192 p.23)"
+  },
+  {
+   "quote": "Increased fleet costs",
+   "cited_pages": [
+    22,
+    23
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      23
+     ]
+    ]
+   ],
+   "context": "p.22 \u2192 p.23"
+  },
+  {
+   "quote": "industry residual value guidebooks",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      45
+     ]
+    ]
+   ],
+   "context": " was added, as was \"Depreciation rates are adjusted prospectively through the remaining expected life\""
+  },
+  {
+   "quote": "Depreciation rates are adjusted prospectively through the remaining expected life",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      45
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "and assessing depreciation rates",
+   "cited_pages": [
+    44,
+    45
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      44,
+      81
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      91
+     ]
+    ]
+   ],
+   "context": " was dropped (p.44 \u2192 p.45)"
+  },
+  {
+   "quote": "3 to 50",
+   "cited_pages": [
+    81,
+    91
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      81
+     ]
+    ]
+   ],
+   "context": " to \"5 to 50\" years, software from \"1 to 15\" to \"1 to 10\", other intangibles from \"3 to 20\" to \"3 to 10\" (p.81 \u2192 p.91)"
+  },
+  {
+   "quote": "5 to 50",
+   "cited_pages": [
+    81,
+    91
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      91
+     ]
+    ]
+   ],
+   "context": " years, software from \"1 to 15\" to \"1 to 10\", other intangibles from \"3 to 20\" to \"3 to 10\" (p.81 \u2192 p.91)"
+  },
+  {
+   "quote": "1 to 15",
+   "cited_pages": [
+    81,
+    91
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      81
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      91
+     ]
+    ]
+   ],
+   "context": " to \"1 to 10\", other intangibles from \"3 to 20\" to \"3 to 10\" (p.81 \u2192 p.91)"
+  },
+  {
+   "quote": "1 to 10",
+   "cited_pages": [
+    81,
+    91
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      91
+     ]
+    ]
+   ],
+   "context": ", other intangibles from \"3 to 20\" to \"3 to 10\" (p.81 \u2192 p.91)"
+  },
+  {
+   "quote": "3 to 20",
+   "cited_pages": [
+    81,
+    91
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      36,
+      81,
+      116
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      34,
+      129
+     ]
+    ]
+   ],
+   "context": " to \"3 to 10\" (p.81 \u2192 p.91)"
+  },
+  {
+   "quote": "3 to 10",
+   "cited_pages": [
+    81,
+    91
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      91
+     ]
+    ]
+   ],
+   "context": "p.81 \u2192 p.91"
+  },
+  {
+   "quote": "implemented Oracle general ledger",
+   "cited_pages": [
+    159
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      159
+     ]
+    ]
+   ],
+   "context": "p.159"
+  },
+  {
+   "quote": "holding period",
+   "cited_pages": [
+    11,
+    42,
+    44,
+    61,
+    81
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      11,
+      42,
+      44,
+      61,
+      81
+     ]
+    ]
+   ],
+   "context": " in FY2012 at p.11, 42, 44, 61, 81"
+  },
+  {
+   "quote": "Useful li",
+   "cited_pages": [
+    46,
+    80,
+    81,
+    83,
+    85,
+    86,
+    88,
+    89
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      81,
+      89
+     ]
+    ]
+   ],
+   "context": " in FY2012 at p.46, 80, 81, 83, 85, 86, 88, 89"
+  },
+  {
+   "quote": "Residual",
+   "cited_pages": [
+    46,
+    83,
+    90,
+    93,
+    94,
+    96,
+    98,
+    99,
+    146
+   ],
+   "status": "not found",
+   "found": [],
+   "context": " appears on about 40 pages per year, all read"
+  },
+  {
+   "quote": "Salvage",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": " has no hits"
+  },
+  {
+   "quote": "Average",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      45,
+      49,
+      91,
+      92,
+      104,
+      111,
+      112
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      36,
+      46,
+      49,
+      101,
+      102,
+      103,
+      117,
+      123,
+      124
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      12
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      9
+     ]
+    ]
+   ],
+   "context": " has 130 hits"
+  },
+  {
+   "quote": "average holding period... eighteen months in the United States",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      11
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      11
+     ]
+    ]
+   ],
+   "context": " | 11 / 11 | 18 / 18 months stated"
+  },
+  {
+   "quote": "longer holding periods",
+   "cited_pages": [
+    53
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      61
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      53,
+      66
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "Cars \\| 4 to 28 / 36 months",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": " | 81 / 91 | Depreciation rate on average gross cars: 16.7% / 15.4% | Rough: the lower rate is consistent with longer li"
+  },
+  {
+   "quote": "indicative of the residual values",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": " | 113 / 126 | U.S"
+  },
+  {
+   "quote": "monthly per vehicle depreciation costs decreased",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      43
+     ]
+    ]
+   ],
+   "context": " | 42 / 42 | 2013: -1.1% including leased cars, +3.1% company-operated only | Can't tell: depends on the fleet basis | |"
+  },
+  {
+   "quote": "average age of our fleet will increase",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      42
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": "non-program cars"
+  },
+  {
+   "quote": "relatively minor adjustments",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      45
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      45
+     ]
+    ]
+   ],
+   "context": " | 45 / 45 | Reserve $332.2m / $347.7m (+4.7%) while U.S"
+  },
+  {
+   "quote": "increase... primarily related to Dollar Thrifty",
+   "cited_pages": [
+    138
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     []
+    ]
+   ],
+   "context": "p.138"
+  },
+  {
+   "quote": "based on our historical experience",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      81
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      90
+     ]
+    ]
+   ],
+   "context": " | 140 / 158 | Allowance as a share of write-offs: 0.86 (originally reported) or 1.00 (revised) / 0.76 | Rough: the meth"
+  },
+  {
+   "quote": "fourteen / thirteen months",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": "international"
+  },
+  {
+   "quote": "Intangibles... two to fifteen years",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      83
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      93
+     ]
+    ]
+   ],
+   "context": " against the table's \"3 to 20 / 3 to 10\" | 83, 81 / 93, 91 | Two ranges inside each report | Can't tell: the ranges don'"
+  },
+  {
+   "quote": "3 to 20 / 3 to 10",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": " | 83, 81 / 93, 91 | Two ranges inside each report | Can't tell: the ranges don't agree | | \"Other equipment \\| 24 to 10"
+  },
+  {
+   "quote": "Other equipment \\| 24 to 108 months",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": ""
+  },
+  {
+   "quote": "43 months",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      15
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      15
+     ]
+    ]
+   ],
+   "context": " | 81, 15 / 91, 15 | Accumulated depreciation as a share of gross: 32.2% / 31.2%"
+  },
+  {
+   "quote": "nine years",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      88
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      98
+     ]
+    ]
+   ],
+   "context": " | 88 / 98 | Implied life 9.2 years | Yes | ## 4"
+  }
+ ],
+ "figures": {
+  "found": [
+   "$130.6 million",
+   "$44.2 million",
+   "16.7%",
+   "15.4%",
+   "$44.2 m",
+   "6.7%",
+   "$100.6 m",
+   "$48.2 m",
+   "22.4%",
+   "7.3%",
+   "$40.0 million",
+   "6.0%",
+   "$40.0 m",
+   "$7.8 m",
+   "$44.0 m",
+   "$91.8 m",
+   "13.8%",
+   "$49.1 m",
+   "$98.8 m",
+   "$450.6 m",
+   "$441.4 m",
+   "$901.5 m",
+   "$892.3 m",
+   "$1,635.6 m",
+   "$1,626.4 m",
+   "$25.1 m",
+   "$29.3 m",
+   "$12,591.1 m",
+   "$12,548.8 m",
+   "29.2%",
+   "27.9%",
+   "$46.3 m",
+   "1.1%",
+   "3.1%",
+   "$332.2 m",
+   "$347.7 m",
+   "4.7%",
+   "26.2%",
+   "32.2%",
+   "31.2%",
+   "9.3%",
+   "9.6%",
+   "7.9%",
+   "$130.6 m",
+   "$18.7 m",
+   "$9.2 m",
+   "$11.6 m",
+   "$5.0 m",
+   "$0.4 m"
+  ],
+  "computed_percent": [],
+  "computed_table": [
+   "0.86",
+   "1.00",
+   "0.76",
+   "9.2"
+  ],
+  "not_found": [
+   "$148.8 m"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 663.1,
+  "source": "reply",
+  "note": "reply's first stated pre-tax income 450.6 is not the latest year's (663.1); the workbook figure is used",
+  "checks": [
+   {
+    "amount": 91.8,
+    "stated": 13.8,
+    "recomputed": 13.8,
+    "ok": true,
+    "sentence": "Other changes - **Adjusted pre-tax income:** 2013 adds back items that 2012 did not have: - integration $40.0m - relocation $7.8m - impairment and other $44.0m "
+   }
+  ]
+ },
+ "post_cutoff": []
+}

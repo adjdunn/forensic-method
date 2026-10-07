@@ -1,0 +1,584 @@
+{
+ "summary": {
+  "reply": "/home/user/forensic-method/runs/hertz-fy2013/v2.24/claude-code/003/numbers-2.md",
+  "pack": "hertz-fy2013",
+  "words": 1160,
+  "pages_est": 2.6,
+  "quotes": {
+   "total": 20,
+   "exact_on_page": 12,
+   "exact_page_differs": 0,
+   "exact_no_page": 8,
+   "other_document": 0,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 60,
+   "computed_percent": 0,
+   "computed_table": 1,
+   "not_found": 11
+  },
+  "arithmetic": {
+   "pre_tax_income": 663.1,
+   "checked": 0,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "6.2%",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      9
+     ]
+    ]
+   ],
+   "context": "Q4 2013 release, Table 1"
+  },
+  {
+   "quote": "due to the timing of our payments",
+   "cited_pages": [
+    64
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      64
+     ]
+    ]
+   ],
+   "context": "FY2013 annual report, p. 64"
+  },
+  {
+   "quote": "Accounts payable | (43)",
+   "cited_pages": [
+    98
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      98
+     ]
+    ]
+   ],
+   "context": " on 19 Nov 2012 (FY2013 annual report, p. 98)"
+  },
+  {
+   "quote": "Accrued liabilities",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      77,
+      88,
+      89,
+      124,
+      133,
+      137
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      20,
+      71,
+      75,
+      80,
+      84,
+      98,
+      99,
+      114,
+      117,
+      139,
+      142,
+      151,
+      155
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      15,
+      16
+     ]
+    ]
+   ],
+   "context": "which rose from $739.6m as first reported to $1,104.7m"
+  },
+  {
+   "quote": "implemented Oracle general ledger, accounts payable",
+   "cited_pages": [
+    159
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      159
+     ]
+    ]
+   ],
+   "context": " in Q3 2013 (FY2013 annual report, p. 159) is worth checking against the timing"
+  },
+  {
+   "quote": "$44.2 million",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": " in 2013, reflecting \"car sales channel diversification\" and \"optimization of fleet holding periods\""
+  },
+  {
+   "quote": "car sales channel diversification",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": " and \"optimization of fleet holding periods\""
+  },
+  {
+   "quote": "optimization of fleet holding periods",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "indicative of the residual values experienced in the U.S",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": "FY2013 annual report, p. 42 and p. 126"
+  },
+  {
+   "quote": "improved residual values in the U.S",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": "FY2012 annual report, p. 42"
+  },
+  {
+   "quote": "net losses of $48.2 million",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": " in 2013, after $100.6m of gains in 2012, \"due to.."
+  },
+  {
+   "quote": "due to... declining residual values",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": "p. 126"
+  },
+  {
+   "quote": "a deterioration in the used vehicle residual values",
+   "cited_pages": [
+    54
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      54
+     ]
+    ]
+   ],
+   "context": "p. 54"
+  },
+  {
+   "quote": "Purchases of revenue earning equipment included in accounts payable",
+   "cited_pages": [
+    81
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      81
+     ]
+    ]
+   ],
+   "context": " of $289.1m (FY2013 annual report, p. 81)"
+  },
+  {
+   "quote": "credit extended to manufacturers and customers",
+   "cited_pages": [
+    90
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      81
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      90
+     ]
+    ]
+   ],
+   "context": "p. 90"
+  },
+  {
+   "quote": "Sales of revenue earning equipment included in receivables | 357.3",
+   "cited_pages": [
+    81
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      81
+     ]
+    ]
+   ],
+   "context": "p. 81"
+  },
+  {
+   "quote": "decrease in fleet receivables... timing of purchases and sales",
+   "cited_pages": [
+    133
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      133
+     ]
+    ]
+   ],
+   "context": "p. 133"
+  },
+  {
+   "quote": "extraordinary, unusual or non-recurring",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      17
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": " in both 2012 and 2013** (Q4 2013 release, Table 7): - Restructuring and related: $66.2m in 2011 too, then $49.1m and $9"
+  },
+  {
+   "quote": "Other",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      4,
+      15,
+      18,
+      19,
+      31,
+      34,
+      39,
+      41,
+      46,
+      48,
+      50,
+      51,
+      52,
+      53,
+      54,
+      56,
+      57,
+      59,
+      62,
+      63,
+      66,
+      67,
+      68,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      80,
+      81,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      91,
+      92,
+      98
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      4,
+      5,
+      13,
+      16,
+      19,
+      39,
+      42,
+      43,
+      46,
+      48,
+      49,
+      50,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      66,
+      68,
+      70,
+      72,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      83,
+      84,
+      85,
+      86,
+      87,
+      89,
+      90
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      2,
+      4,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2,
+      3,
+      5,
+      9
+     ]
+    ]
+   ],
+   "context": ": $26.5m and $45.6m **Changes in estimate that lifted income** - **Vehicle depreciation rate cuts (U.S"
+  },
+  {
+   "quote": "deterioration in the used vehicle residual values",
+   "cited_pages": [
+    54
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      54
+     ]
+    ]
+   ],
+   "context": "p. 54"
+  }
+ ],
+ "figures": {
+  "found": [
+   "13.7%",
+   "5.9%",
+   "6.2%",
+   "$704.4 m",
+   "7.1%",
+   "52.9",
+   "42.7",
+   "52.7",
+   "$232.8 m",
+   "$51.5 m",
+   "$247.0 m",
+   "$289.1 m",
+   "$35.0 m",
+   "$55.6 m",
+   "13.6%",
+   "17.3%",
+   "$23.2 m",
+   "$35.3 m",
+   "$739.6 m",
+   "$1,104.7 m",
+   "16.1%",
+   "15.2%",
+   "14.3%",
+   "16.2%",
+   "15.3%",
+   "$44.2 million",
+   "$139.4 m",
+   "$44.2 m",
+   "$5.0 m",
+   "$0.4 m",
+   "$39.6 m",
+   "1.6%",
+   "$2,407.8 m",
+   "$48.2 million",
+   "$100.6 m",
+   "14.5%",
+   "9.0%",
+   "4.5%",
+   "5.8%",
+   "14.0%",
+   "11.5%",
+   "$16.6 m",
+   "10.6%",
+   "13.9%",
+   "$1,879.7 m",
+   "$1,886.6 m",
+   "$356.2 m",
+   "$450.9 m",
+   "$441.4 m",
+   "$490.1 m",
+   "$66.2 m",
+   "$49.1 m",
+   "$98.8 m",
+   "$163.7 m",
+   "$18.5 m",
+   "$26.5 m",
+   "$45.6 m",
+   "$26.7 m",
+   "$48.2 m",
+   "$4.4 m"
+  ],
+  "computed_percent": [],
+  "computed_table": [
+   "357.3"
+  ],
+  "not_found": [
+   "$836.7 m",
+   "$226.3 m",
+   "$721.2 m",
+   "$623.2 m",
+   "$152.1 m",
+   "$174.5 m",
+   "$344.7 m",
+   "$483.2 m",
+   "$273.8 m",
+   "$261.3 m",
+   "$367.1 m"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 663.1,
+  "source": "workbook",
+  "note": "",
+  "checks": []
+ },
+ "post_cutoff": []
+}

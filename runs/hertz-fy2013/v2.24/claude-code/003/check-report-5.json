@@ -1,0 +1,595 @@
+{
+ "summary": {
+  "reply": "/home/user/forensic-method/runs/hertz-fy2013/v2.24/claude-code/003/report-5.md",
+  "pack": "hertz-fy2013",
+  "words": 1069,
+  "pages_est": 2.4,
+  "quotes": {
+   "total": 16,
+   "exact_on_page": 6,
+   "exact_page_differs": 1,
+   "exact_no_page": 6,
+   "other_document": 3,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 48,
+   "computed_percent": 0,
+   "computed_table": 0,
+   "not_found": 4
+  },
+  "arithmetic": {
+   "pre_tax_income": 663.1,
+   "checked": 0,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "also indicative of the residual values experienced in the U.S",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": " for 2013"
+  },
+  {
+   "quote": "net losses of $48.2 million",
+   "cited_pages": [
+    126
+   ],
+   "status": "found in another document",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": " from \"declining residual values\", against $100.6m of gains in 2012 (FY13 p.126)"
+  },
+  {
+   "quote": "declining residual values",
+   "cited_pages": [
+    126
+   ],
+   "status": "found in another document",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": ", against $100.6m of gains in 2012 (FY13 p.126)"
+  },
+  {
+   "quote": "a deterioration in the used vehicle residual values",
+   "cited_pages": [
+    54
+   ],
+   "status": "found in another document",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      54
+     ]
+    ]
+   ],
+   "context": "p.54"
+  },
+  {
+   "quote": "strong",
+   "cited_pages": [
+    113
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      10,
+      21,
+      42,
+      43,
+      51,
+      54,
+      55,
+      56,
+      59,
+      113
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      10,
+      22,
+      52,
+      54,
+      56,
+      57,
+      58,
+      62,
+      63
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      3,
+      4,
+      5
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": " was dropped from the residual-value sentence (FY12 p.113)"
+  },
+  {
+   "quote": "eighteen months",
+   "cited_pages": [
+    11
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      11
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      11
+     ]
+    ]
+   ],
+   "context": "p.11, both years"
+  },
+  {
+   "quote": "longer holding periods",
+   "cited_pages": [
+    53
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      61
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      53,
+      66
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "certain one-time charges",
+   "cited_pages": [
+    50,
+    131
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      118
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      131
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      19
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": "p.50; Note 11, p.131"
+  },
+  {
+   "quote": "additional... initiatives are being developed",
+   "cited_pages": [
+    140
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      44
+     ]
+    ]
+   ],
+   "context": "p.140"
+  },
+  {
+   "quote": "Other",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      4,
+      15,
+      18,
+      19,
+      31,
+      34,
+      39,
+      41,
+      46,
+      48,
+      50,
+      51,
+      52,
+      53,
+      54,
+      56,
+      57,
+      59,
+      62,
+      63,
+      66,
+      67,
+      68,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      80,
+      81,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      91,
+      92,
+      98
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      4,
+      5,
+      13,
+      16,
+      19,
+      39,
+      42,
+      43,
+      46,
+      48,
+      49,
+      50,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      66,
+      68,
+      70,
+      72,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      83,
+      84,
+      85,
+      86,
+      87,
+      89,
+      90
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      2,
+      4,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2,
+      3,
+      5,
+      9
+     ]
+    ]
+   ],
+   "context": " as \"non-recurring\" in both years"
+  },
+  {
+   "quote": "non-recurring",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      30,
+      89,
+      90
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      31,
+      99,
+      100
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      15,
+      16,
+      17
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2,
+      3,
+      9
+     ]
+    ]
+   ],
+   "context": " in both years"
+  },
+  {
+   "quote": "non-recurring",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      31,
+      99,
+      100
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2,
+      3,
+      9
+     ]
+    ]
+   ],
+   "context": " items in Corporate EBITDA"
+  },
+  {
+   "quote": "could potentially exceed $40.0 million",
+   "cited_pages": [
+    137
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      137
+     ]
+    ]
+   ],
+   "context": " yet \"will not be material\" (p.137)"
+  },
+  {
+   "quote": "will not be material",
+   "cited_pages": [
+    137
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      19
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      20,
+      137
+     ]
+    ]
+   ],
+   "context": "p.137"
+  },
+  {
+   "quote": "Non-cash debt charges",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      120
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      2,
+      4,
+      13,
+      14
+     ]
+    ]
+   ],
+   "context": " was renamed \"debt-related\""
+  },
+  {
+   "quote": "debt-related",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      56,
+      57,
+      62,
+      63,
+      131,
+      134
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3,
+      9
+     ]
+    ]
+   ],
+   "context": ""
+  }
+ ],
+ "figures": {
+  "found": [
+   "$663.1 m",
+   "$48.2 million",
+   "$100.6 m",
+   "16.1%",
+   "15.2%",
+   "14.3%",
+   "14.5%",
+   "$44.2 m",
+   "6.7%",
+   "$48.2 m",
+   "7.3%",
+   "26.7%",
+   "$645.4 m",
+   "$49.1 m",
+   "$98.8 m",
+   "$91.8 m",
+   "13.8%",
+   "$490.1 m",
+   "73.9%",
+   "14.9%",
+   "$46.3 m",
+   "$34.7 m",
+   "5.2%",
+   "$11.6 m",
+   "1.7%",
+   "$47.9 m",
+   "$45.9 m",
+   "$41.9 m",
+   "$4.0 m",
+   "0.6%",
+   "$25.1 m",
+   "$29.3 m",
+   "0.76",
+   "52.9",
+   "42.7",
+   "13.6%",
+   "17.3%",
+   "$23.2 m",
+   "$35.3 m",
+   "$232.8 m",
+   "$289.1 m",
+   "$40.0 million",
+   "6.0%",
+   "$40.0 m",
+   "$44.0 m",
+   "$0.1 m",
+   "7.1%",
+   "5.9%"
+  ],
+  "computed_percent": [],
+  "computed_table": [],
+  "not_found": [
+   "$152.1 m",
+   "$174.5 m",
+   "$226.3 m",
+   "$4,677.5 m"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 663.1,
+  "source": "reply",
+  "note": "",
+  "checks": []
+ },
+ "post_cutoff": []
+}
