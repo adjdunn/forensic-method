@@ -1,0 +1,258 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.25\\claude-code\\001\\numbers-2.md",
+  "pack": "hertz-fy2013",
+  "words": 978,
+  "pages_est": 2.2,
+  "quotes": {
+   "total": 8,
+   "exact_on_page": 6,
+   "exact_page_differs": 1,
+   "exact_no_page": 1,
+   "other_document": 0,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 52,
+   "computed_percent": 0,
+   "computed_table": 0,
+   "not_found": 5
+  },
+  "arithmetic": {
+   "pre_tax_income": 663.1,
+   "checked": 0,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "due to the timing of our payments",
+   "cited_pages": [
+    64
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      64
+     ]
+    ]
+   ],
+   "context": "FY2013 annual report, p.64"
+  },
+  {
+   "quote": "U.S. monthly per vehicle depreciation costs decreased ... due to mix optimization, improved procurement and remarketing efforts",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": "FY2013 annual report, p.42"
+  },
+  {
+   "quote": "improved residual values in the U.S",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": "FY2012 annual report, p.42"
+  },
+  {
+   "quote": "a deterioration in the used vehicle residual values",
+   "cited_pages": [
+    54
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      54
+     ]
+    ]
+   ],
+   "context": "p.54"
+  },
+  {
+   "quote": "lower than expected pricing and higher expenses related to carrying extra fleet",
+   "cited_pages": [
+    2
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2
+     ]
+    ]
+   ],
+   "context": "Q4 FY2013 release, p.2"
+  },
+  {
+   "quote": "decrease in fleet receivables ... timing of purchases and sales",
+   "cited_pages": [
+    133
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      133
+     ]
+    ]
+   ],
+   "context": "FY2013 annual report, p.133"
+  },
+  {
+   "quote": "non-recurring",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      30,
+      89,
+      90
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      31,
+      99,
+      100
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      15,
+      16,
+      17
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2,
+      3,
+      9
+     ]
+    ]
+   ],
+   "context": " appear in every year: - restructuring plus related charges: $66.2m in 2011, $49.1m in 2012, $98.8m in 2013"
+  },
+  {
+   "quote": "Other unusual/non-recurring",
+   "cited_pages": [
+    17
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      9
+     ]
+    ]
+   ],
+   "context": ": $62.4m in 2011, $44.0m in 2012, $50.7m in 2013 (FY2012 release p.17"
+  }
+ ],
+ "figures": {
+  "found": [
+   "52.9",
+   "42.7",
+   "52.7",
+   "$232.8 m",
+   "35.1%",
+   "4.3%",
+   "$289.1 m",
+   "$55.6 m",
+   "5.8%",
+   "8.0%",
+   "4.5%",
+   "$35.3 m",
+   "$23.2 m",
+   "$58.5 m",
+   "$1,180.5 m",
+   "$1,104.7 m",
+   "$44.2 m",
+   "15.2%",
+   "14.3%",
+   "22.9%",
+   "$5.0 m",
+   "$0.4 m",
+   "$39.6 m",
+   "2.9%",
+   "$100.6 m",
+   "$48.2 m",
+   "14.5%",
+   "22.1%",
+   "18.5%",
+   "$0.12",
+   "1.4%",
+   "$20.7 m",
+   "$90.2 m",
+   "$19.4 m",
+   "22.4%",
+   "16.1%",
+   "5.1%",
+   "10.7%",
+   "11.5%",
+   "$356.2 m",
+   "$450.9 m",
+   "$490.1 m",
+   "$403.4 m",
+   "$350.3 m",
+   "$66.2 m",
+   "$49.1 m",
+   "$98.8 m",
+   "$62.4 m",
+   "$44.0 m",
+   "$50.7 m",
+   "6.0%",
+   "$130.1 m"
+  ],
+  "computed_percent": [],
+  "computed_table": [],
+  "not_found": [
+   "$226.3 m",
+   "$152.1 m",
+   "$174.5 m",
+   "$261.3 m",
+   "$367.1 m"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 663.1,
+  "source": "reply",
+  "note": "reply's first stated pre-tax income 356.2 is not the latest year's (663.1); the workbook figure is used",
+  "checks": []
+ },
+ "post_cutoff": []
+}

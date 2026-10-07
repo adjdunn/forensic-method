@@ -1,0 +1,416 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.25\\claude-code\\001\\report-5.md",
+  "pack": "hertz-fy2013",
+  "words": 1063,
+  "pages_est": 2.4,
+  "quotes": {
+   "total": 13,
+   "exact_on_page": 7,
+   "exact_page_differs": 2,
+   "exact_no_page": 3,
+   "other_document": 1,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 54,
+   "computed_percent": 1,
+   "computed_table": 0,
+   "not_found": 4
+  },
+  "arithmetic": {
+   "pre_tax_income": 663.1,
+   "checked": 0,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "indicative of the residual values experienced in the U.S",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": " The same note reports a $48.2m loss on U.S"
+  },
+  {
+   "quote": "due to ... declining residual values",
+   "cited_pages": [
+    126
+   ],
+   "status": "found in another document",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": ", against a $100.6m gain in 2012 (FY13 p.126)"
+  },
+  {
+   "quote": "strong",
+   "cited_pages": [
+    113
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      10,
+      21,
+      42,
+      43,
+      51,
+      54,
+      55,
+      56,
+      59,
+      113
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      3,
+      4,
+      5
+     ]
+    ]
+   ],
+   "context": "FY12 p.113"
+  },
+  {
+   "quote": "one-time",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      118
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      131
+     ]
+    ]
+   ],
+   "context": "** - **Shown:** - The measure adds back \"certain one-time charges\" (MD&A p.50), yet restructuring is added back every ye"
+  },
+  {
+   "quote": "certain one-time charges",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      118
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      131
+     ]
+    ]
+   ],
+   "context": "MD&A p.50"
+  },
+  {
+   "quote": "Other",
+   "cited_pages": [
+    140
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      4,
+      5,
+      13,
+      16,
+      19,
+      39,
+      42,
+      43,
+      46,
+      48,
+      49,
+      50,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      66,
+      68,
+      70,
+      72,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      83,
+      84,
+      85,
+      86,
+      87,
+      89,
+      90
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2,
+      3,
+      5,
+      9
+     ]
+    ]
+   ],
+   "context": " line was relabelled \"Other unusual/non-recurring\", and it carries $50.7m again in 2013"
+  },
+  {
+   "quote": "Other unusual/non-recurring",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      9
+     ]
+    ]
+   ],
+   "context": ", and it carries $50.7m again in 2013"
+  },
+  {
+   "quote": "range from two to fifteen years",
+   "cited_pages": [
+    93
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      83
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      93
+     ]
+    ]
+   ],
+   "context": "p.93"
+  },
+  {
+   "quote": "3 to 20",
+   "cited_pages": [
+    91
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      36,
+      81,
+      116
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      34,
+      129
+     ]
+    ]
+   ],
+   "context": " to \"3 to 10\" years (p.91) while those lives stayed the same"
+  },
+  {
+   "quote": "3 to 10",
+   "cited_pages": [
+    91
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      91
+     ]
+    ]
+   ],
+   "context": " years (p.91) while those lives stayed the same"
+  },
+  {
+   "quote": "could potentially exceed $40.0 million",
+   "cited_pages": [
+    137
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      137
+     ]
+    ]
+   ],
+   "context": "exposure, 6.0%; p.137"
+  },
+  {
+   "quote": "relatively minor adjustments",
+   "cited_pages": [
+    45
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      45
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      45
+     ]
+    ]
+   ],
+   "context": " can't be tested (p.45)"
+  },
+  {
+   "quote": "slight strengthening",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      43,
+      54
+     ]
+    ]
+   ],
+   "context": " of residual values:** fits once both years are compared"
+  }
+ ],
+ "figures": {
+  "found": [
+   "$663.1 m",
+   "$48.2 m",
+   "$100.6 m",
+   "15.3%",
+   "14.3%",
+   "$44.2 m",
+   "6.7%",
+   "$39.6 m",
+   "6.0%",
+   "22.9%",
+   "2.9%",
+   "14.5%",
+   "$66.2 m",
+   "$49.1 m",
+   "$98.8 m",
+   "$645.4 m",
+   "$50.7 m",
+   "25.8%",
+   "14.9%",
+   "73.9%",
+   "0.1%",
+   "$46.3 m",
+   "$450.6 m",
+   "$441.4 m",
+   "$25.1 m",
+   "$29.3 m",
+   "$45.9 m",
+   "$41.9 m",
+   "0.6%",
+   "1.31%",
+   "2.00%",
+   "$11.6 m",
+   "1.7%",
+   "9.0%",
+   "4.5%",
+   "72.9%",
+   "52.9",
+   "42.7",
+   "$232.8 m",
+   "35.1%",
+   "$35.3 m",
+   "$23.2 m",
+   "$58.5 m",
+   "22.1%",
+   "18.5%",
+   "13.6%",
+   "$40.0 million",
+   "$44.0 m",
+   "9,000",
+   "10.7%",
+   "11.5%",
+   "$17.3 m",
+   "$15.2 m",
+   "$2,727.7 m"
+  ],
+  "computed_percent": [
+   "0.06%"
+  ],
+  "computed_table": [],
+  "not_found": [
+   "$152.1 m",
+   "$174.5 m",
+   "$171.2 m",
+   "$483.2 m"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 663.1,
+  "source": "reply",
+  "note": "",
+  "checks": []
+ },
+ "post_cutoff": []
+}

@@ -1,0 +1,565 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.25\\claude-code\\001\\text-3.md",
+  "pack": "hertz-fy2013",
+  "words": 1240,
+  "pages_est": 2.8,
+  "quotes": {
+   "total": 21,
+   "exact_on_page": 15,
+   "exact_page_differs": 5,
+   "exact_no_page": 0,
+   "other_document": 0,
+   "not_found": 1
+  },
+  "figures": {
+   "found": 37,
+   "computed_percent": 1,
+   "computed_table": 2,
+   "not_found": 0
+  },
+  "arithmetic": {
+   "pre_tax_income": 663.1,
+   "checked": 2,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "4 to 36 months",
+   "cited_pages": [
+    91
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      91
+     ]
+    ]
+   ],
+   "context": "p.91"
+  },
+  {
+   "quote": "net decreases of $44.2 million",
+   "cited_pages": [
+    91
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": " in depreciation, while U.S"
+  },
+  {
+   "quote": "net losses of $48.2 million",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": "Note 8, p.126"
+  },
+  {
+   "quote": "no impairment existed",
+   "cited_pages": [
+    94
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      85,
+      87
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      94,
+      96
+     ]
+    ]
+   ],
+   "context": "Note 3, p.94"
+  },
+  {
+   "quote": "could potentially exceed $40.0 million",
+   "cited_pages": [
+    137
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      137
+     ]
+    ]
+   ],
+   "context": "p.137"
+  },
+  {
+   "quote": "will not be material",
+   "cited_pages": [
+    137
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      19
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      20,
+      137
+     ]
+    ]
+   ],
+   "context": " Securities class action has no amount"
+  },
+  {
+   "quote": "none of those reserves are material",
+   "cited_pages": [
+    138
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      34,
+      123
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      138
+     ]
+    ]
+   ],
+   "context": "p.138"
+  },
+  {
+   "quote": "certain one-time charges",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      118
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      131
+     ]
+    ]
+   ],
+   "context": "MD&A p.50"
+  },
+  {
+   "quote": "The cumulative effect of the reduction in rates was also indicative of the residual values experienced in the U.S. for the years ended December 31, 2013",
+   "cited_pages": [
+    42,
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": "Note 8, p.126; also MD&A p.42"
+  },
+  {
+   "quote": "net losses of $48.2 million",
+   "cited_pages": [
+    54
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": " which the note attributes \"primarily\" to \"declining residual values from falling demand for used vehicles.\" The MD&A al"
+  },
+  {
+   "quote": "primarily",
+   "cited_pages": [
+    54
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      4,
+      5,
+      6,
+      11,
+      13,
+      14,
+      15,
+      16,
+      26,
+      40,
+      41,
+      42,
+      44,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      65,
+      68,
+      69,
+      80,
+      81,
+      86,
+      96,
+      97,
+      98,
+      99,
+      101,
+      102,
+      115,
+      117,
+      121
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      4,
+      5,
+      6,
+      7,
+      12,
+      14,
+      15,
+      16,
+      17,
+      18,
+      27,
+      40,
+      41,
+      42,
+      45,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      69,
+      72,
+      90,
+      91,
+      96,
+      98,
+      104,
+      107,
+      108,
+      109
+     ]
+    ]
+   ],
+   "context": " to \"declining residual values from falling demand for used vehicles.\" The MD&A also cites \"a deterioration in the used "
+  },
+  {
+   "quote": "declining residual values from falling demand for used vehicles",
+   "cited_pages": [
+    54
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": " The MD&A also cites \"a deterioration in the used vehicle residual values\" (p.54)"
+  },
+  {
+   "quote": "a deterioration in the used vehicle residual values",
+   "cited_pages": [
+    54
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      54
+     ]
+    ]
+   ],
+   "context": "p.54"
+  },
+  {
+   "quote": "which range from two to fifteen years",
+   "cited_pages": [
+    93
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      83
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      93
+     ]
+    ]
+   ],
+   "context": "Note 2, p.93"
+  },
+  {
+   "quote": "Other intangible assets | 3 to 10 years",
+   "cited_pages": [
+    91
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      91
+     ]
+    ]
+   ],
+   "context": "p.91"
+  },
+  {
+   "quote": "certain one-time charges and nonoperational items",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50
+     ]
+    ]
+   ],
+   "context": "MD&A p.50"
+  },
+  {
+   "quote": "Additional efficiency and cost saving initiatives are being developed",
+   "cited_pages": [
+    140
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      44,
+      140
+     ]
+    ]
+   ],
+   "context": "p.140"
+  },
+  {
+   "quote": "Other unusual/non-recurring",
+   "cited_pages": [
+    140
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      9
+     ]
+    ]
+   ],
+   "context": " line is also excluded in both years shown ($44.0m in 2012, $50.7m in 2013"
+  },
+  {
+   "quote": "other unusual",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": " charges recur"
+  },
+  {
+   "quote": "charged to expense",
+   "cited_pages": [
+    158
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      18
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      19
+     ]
+    ]
+   ],
+   "context": " in Schedule II (p.158)"
+  },
+  {
+   "quote": "slight strengthening of used vehicle residual values",
+   "cited_pages": [
+    43
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      43,
+      54
+     ]
+    ]
+   ],
+   "context": "p.43"
+  }
+ ],
+ "figures": {
+  "found": [
+   "$663.1 m",
+   "$30.8 m",
+   "$347.7 m",
+   "2.0%",
+   "$44.2 million",
+   "$48.2 million",
+   "$44.2 m",
+   "6.7%",
+   "$1,347.5 m",
+   "$3,330.0 m",
+   "$2,727.7 m",
+   "$4,757.6 m",
+   "$3.1 m",
+   "$40.0 million",
+   "$40.0 m",
+   "6.0%",
+   "$98.8 m",
+   "14.9%",
+   "$490.1 m",
+   "73.9%",
+   "$48.2 m",
+   "7.3%",
+   "$0.4 m",
+   "$56.4 m",
+   "$38.0 m",
+   "$77.0 m",
+   "$645.4 m",
+   "$92.2 m",
+   "$44.0 m",
+   "$50.7 m",
+   "$46.3 m",
+   "$11.6 m",
+   "1.7%",
+   "$45.9 m",
+   "$41.9 m",
+   "$5.0 m",
+   "$15.2 m"
+  ],
+  "computed_percent": [
+   "0.06%"
+  ],
+  "computed_table": [
+   "0.76",
+   "1.04"
+  ],
+  "not_found": []
+ },
+ "arithmetic": {
+  "pre_tax_income": 663.1,
+  "source": "workbook",
+  "note": "",
+  "checks": [
+   {
+    "amount": 44.2,
+    "stated": 6.7,
+    "recomputed": 6.7,
+    "ok": true,
+    "sentence": "U.S. rate changes gave \"net decreases of $44.2 million\" in depreciation, while U.S. disposals booked \"net losses of $48.2 million\" (Note 8, p.126) | Leans aggre"
+   },
+   {
+    "amount": 11.6,
+    "stated": 1.7,
+    "recomputed": 1.7,
+    "ok": true,
+    "sentence": "Of this, $11.6m (1.7% of pre-tax) fell in 2013, including vendor incentives booked against marketing expense instead of fleet cost."
+   }
+  ]
+ },
+ "post_cutoff": []
+}
