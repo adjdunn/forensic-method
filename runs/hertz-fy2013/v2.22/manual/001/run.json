@@ -206,6 +206,9 @@
  ],
  "finished": "2026-10-06T12:24:19",
  "cost_usd": 0,
- "models": [],
- "note": "Replies are Aaron's Claude chat runs of 6 October 2026 (prompts 1-2 at v2.21/v2.14-v2.17 wording, 3 at v2.18, 4 at v2.19, 5 at v2.20; prompt 5's v2.21/v2.22 ranking clauses came after). Full reports and both releases were attached in chat."
+ "models": [
+  "claude-fable-5-1"
+ ],
+ "note": "Replies are Aaron's Claude chat runs of 6 October 2026 (prompts 1-2 at v2.21/v2.14-v2.17 wording, 3 at v2.18, 4 at v2.19, 5 at v2.20; prompt 5's v2.21/v2.22 ranking clauses came after). Full reports and both releases were attached in chat.",
+ "model_note": "Claude chat app with Fable 5.1 selected (Aaron, 7 October 2026)"
 }

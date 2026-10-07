@@ -206,5 +206,8 @@
  ],
  "finished": "2026-10-06T12:21:44",
  "cost_usd": 0,
- "models": []
+ "models": [
+  "claude-fable-5-1"
+ ],
+ "model_note": "Claude chat app with Fable 5.1 selected (Aaron, 7 October 2026)"
 }
