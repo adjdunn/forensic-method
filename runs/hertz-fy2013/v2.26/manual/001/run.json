@@ -1,0 +1,65 @@
+{
+ "company": "hertz-fy2013",
+ "prompts_version": "v2.26",
+ "prompt_hashes": {
+  "1-scan-the-numbers.md": "6a628f4f4114",
+  "2-follow-the-flags.md": "877506f3f837",
+  "3-read-the-footnotes.md": "ef726cc82e6e",
+  "4-compare-the-footnotes.md": "6b471bd86117",
+  "5-report.md": "35fa010ef18f"
+ },
+ "repo_commit": "ae803ad",
+ "adapter": "manual",
+ "model_requested": "claude-opus-5-5",
+ "file_set": "full",
+ "files": [
+  "statements.xlsx",
+  "annual-report-FY2012-12-31.txt",
+  "annual-report-FY2013-12-31.txt",
+  "earnings-release-Q4-FY2012-12-31.txt",
+  "earnings-release-Q4-FY2013-12-31.txt"
+ ],
+ "cutoff": "2014-03-31",
+ "started": "2026-10-06T22:57:11",
+ "dry_run": false,
+ "steps": [
+  {
+   "prompt": 1,
+   "file": "1-scan-the-numbers.md",
+   "track": "numbers",
+   "reply_file": "numbers-1.md",
+   "status": "not run"
+  },
+  {
+   "prompt": 2,
+   "file": "2-follow-the-flags.md",
+   "track": "numbers",
+   "reply_file": "numbers-2.md",
+   "status": "not run"
+  },
+  {
+   "prompt": 3,
+   "file": "3-read-the-footnotes.md",
+   "track": "text",
+   "reply_file": "text-3.md",
+   "status": "not run"
+  },
+  {
+   "prompt": 4,
+   "file": "4-compare-the-footnotes.md",
+   "track": "text",
+   "reply_file": "text-4.md",
+   "status": "not run"
+  },
+  {
+   "prompt": 5,
+   "file": "5-report.md",
+   "track": "text",
+   "reply_file": "report-5.md",
+   "status": "not run"
+  }
+ ],
+ "finished": "2026-10-06T22:57:11",
+ "cost_usd": 0,
+ "models": []
+}
