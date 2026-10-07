@@ -1,0 +1,165 @@
+Hertz Global Holdings: movements worth a closer look
+FY2009 to FY2013 and Q4 FY2013. USD millions, as first reported; Q4 columns from the FY2013 results release. These are things to check, not
+findings.
+Measure
+FY09
+FY10
+FY11
+FY12
+FY13
+Q4 FY12
+Q4 FY13
+Industry
+Working capital
+Days sales outstanding
+65.5
+71.1
+76.5
+51.3
+74.8
+54.4
+Days inventory
+5.2
+4.7
+5.6
+4.1
+5.4
+4.1
+Days payable
+56.6
+50.6
+52.7
+42.7
+50.8
+42.8
+Receivables growth − revenue growth (pts)
++9.4
++8.0
+−39.2
++1.6
+−30.0
+Inventory growth − cost growth (pts)
+−9.1
++18.5
+−31.9
++12.0
+−27.9
+Payables growth − cost growth (pts)
+−11.2
++4.0
+−22.3
+−2.6
+−18.3
+Allowance, % of gross receivables
+1.4
+1.2
+1.3
+2.0
+1.3
+2.0
+Earnings and cash
+Gross margin, %
+15.2
+18.7
+22.0
+23.0
+23.2
+22.1
+18.5
+Operating margin, %
+6.2
+9.9
+13.0
+12.5
+13.7
+7.8
+9.9
+5.9
+Accruals, % of average assets
+−11.6
+−12.1
+−13.5
+−3.0
+−3.0
+Free cash flow
+172
+1,107
+348
+−83
+242
+918
+1,313
+Net income
+−115
+−31
+196
+243
+346
+−37
+−1
+Depreciation rate, rental equipment, %
+16.2
+15.3
+14.2
+Depreciation rate, property, %
+7.6
+7.3
+7.9
+M-score
+−2.93
+−2.72
+−3.24
+Levels against the industry
+Receivables, % of sales
+17.9
+19.5
+20.9
+14.0
+11.5
+Inventory, % of sales
+1.2
+1.0
+1.2
+0.9
+0.5
+Payables, % of sales
+12.6
+10.8
+11.1
+9.0
+4.5
+Capital spending ÷ depreciation
+0.58
+0.91
+1.20
+1.28
+1.4
+Cost line: Direct operating plus Depreciation of revenue earning equipment and lease charges. Substitutes: capital spending is fleet
+purchases net of disposal proceeds plus property expenditures (the Q4 columns use the release's property spending net of disposals);
+property depreciation comes from the segment note over total property at cost, land included; the M-score uses cash, receivables,
+inventories and prepaid assets as current assets, and debt, payables, accrued liabilities and accrued taxes for leverage. The industry
+column is Transportation, the nearest bucket, not rental.
+Flags, largest first (size against FY13 pre-tax income of $663.1m)
+1.  Receivables fell 19.8% while revenue rose 19.4%, taking days sales outstanding from 76.5 to 51.3 (FY12 to FY13); the cash flow
+ supplement shows fleet-sale receivables down from $617m to $357m.
+Size 113%: $746m, receivables at FY12 days less the balance. One year, after two years of rising days; they are still 14.0% of
+sales against the industry's 11.5%.
+2.  Payables fell 3.1% while costs rose 19.2%, taking days payable from 52.7 to 42.7 (FY12 to FY13); the Dollar Thrifty acquisition
+ (November 2012, part of $1,905m of acquisition spending) put a full balance against six weeks of costs in the FY12 base.
+Size 34%: $226m, payables at FY12 days less the balance. One year, two same-quarter comparisons; they are still 9.0% of sales
+against the industry's 4.5%.
+3.  The rental equipment depreciation rate fell from 16.2% to 15.3% to 14.2% (FY11 to FY13); Note 8 reports depreciation rate
+ reductions on U.S. rental cars in each year.
+Size 26%: $175m, the charge not taken at the FY12 rate on average gross rental equipment of $16,900m. Two consecutive years.
+4.  Net income exceeded free cash flow in FY13 ($346m against $242m) and FY12 ($243m against −$83m); net fleet spending rose
+ from $2,488m to $3,034m after the Dollar Thrifty acquisition.
+Size 16%: $105m, net income less free cash flow. Two consecutive years, with the gap narrowing from $326m.
+5.  Q4 gross margin fell from 22.1% to 18.5% (Q4 FY12 to Q4 FY13) while the full-year margin was flat; Note 8 shows the full-year
+ adjustment on fleet disposals swinging from a $97m gain to a $37m loss.
+Size 14%: $90m, the 3.5-point fall times Q4 revenue of $2,556m. One same-quarter comparison; the margin rose the year before.
+Revised figures: The FY2013 annual report, describing them as corrections of errors, cut pre-tax income by $18.7m for FY11 (324.3
+to 305.6) and $9.1m for FY12 (450.5 to 441.4), net income by $11.9m and $4.5m, and equity at 31 December 2012 by $21.1m
+(2,507.3 to 2,486.2).
+Not calculated: FY09 balance-sheet measures and the FY10 growth gaps, accruals, depreciation rates and M-score (the balance
+sheets start at FY10); quarterly depreciation rates and M-score (Note 8 is annual); a property rate excluding land and construction in
+progress (not disclosed separately); the industry sheet has no gross margin or range.

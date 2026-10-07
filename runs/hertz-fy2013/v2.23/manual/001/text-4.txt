@@ -1,0 +1,204 @@
+Hertz Global Holdings: disclosure changes, FY2012 to FY2013
+Page 1
+Hertz Global Holdings, Inc.: disclosure changes, FY2012 to
+FY2013
+Comparison of the Form 10-Ks and fourth-quarter results releases for 2012 and 2013. All amounts are in $ millions. Shares are of
+2013 pre-tax income of 663.1 unless stated. "2012" and "2013" mean the FY2012 and FY2013 10-Ks.
+1. Write-ups
+Depreciation (Notes 2 and 8): car range lengthened, and the reason for the rate cuts changed
+
+Before: "Useful lives are as follows: Cars | 4 to 28 months"; the rate reduction "was indicative of the strong residual
+values" (2012 pp. 81, 113).
+
+After: "Holding periods are as follows: Cars | 4 to 36 months"; the cuts "reflect ... the optimization of fleet holding
+periods related to the integration of Dollar Thrifty" and were "also indicative of the residual values" (2013 pp. 91, 126).
+
+Why it matters: The top of the range rose by 8 months (29%) and "strong" was dropped in the year U.S. disposals
+swung from a 100.6 gain to a 48.2 loss. Neither report states the effect of the longer range separately. Size: the
+company's stated effect of the 2013 U.S. rate changes is 44.2 = 6.7%.
+
+Reading: Most likely the reporting stretched, because the justification moved from resale values to holding periods just
+as resale results turned negative. It would be ordinary if the longer range only reflects Dollar Thrifty's fleet practice,
+though that fleet was already owned when the 2012 range was set.
+Business description: average holding period unchanged while its range moved
+
+Before: "approximate average holding period for a rental car was eighteen months in the United States" (2012 p. 11).
+
+After: the same words (2013 p. 11), while 2013 cites "longer holding periods" as a cause of higher maintenance cost
+(p. 53).
+
+Why it matters: The average reads the same while the top of its range went from 28 to 36 months, and neither report
+says how the average is computed, so it does not fit as stated. Size: not quantified; any income effect sits inside the
+44.2 above.
+
+Reading: Can't tell; possibly the average is rounded or computed on cars sold rather than cars held. A stated method,
+or an average by fleet (Hertz and Dollar Thrifty), would settle it.
+Controls (Item 9A): acquisition exclusion dropped, new ledger added, errors not mentioned
+
+Before: "We have excluded from our evaluation the internal controls ... of Dollar Thrifty", at "21% and 2%" of assets
+and revenues (2012 p. 141; auditor's report p. 71).
+
+After: exclusion dropped; new: "implemented Oracle general ledger, accounts payable and a portion of fixed assets" in
+the third quarter (2013 p. 159).
+
+Why it matters: 2013 is the first year Dollar Thrifty is in scope and the year of a ledger change, and the fourth quarter
+found 46.3 of errors (2013 p. 83) that Item 9A does not mention. Size: no 2013 income effect after revision; 46.3 = 7.0%
+as scale.
+
+Reading: Possibly the reporting stretched, as in the earlier single-year write-up. The comparison adds that the control
+environment changed in two ways during the year, which makes the unchanged "effective" conclusion harder to read; a
+disclosed deficiency assessment would point the other way.
+
+Hertz Global Holdings: disclosure changes, FY2012 to FY2013
+Page 2
+2. Other changes
+
+Legal: the Nevada concession-fee case went from "parties will again be engaging in mediation" (2012 p. 122) to a
+judgment that "could potentially exceed $40.0 million" (2013 p. 137; exposure, 6.0%). "none of those reserves are
+material" is unchanged (2012 p. 123; 2013 p. 138). A securities class action is new (2013 p. 138).
+
+Fleet wording: dropped "We believe the residual values have remained fairly stronger" (2012 p. 42) and "Non-program
+cars typically have ... lower depreciation rates" (2012 p. 41). "we expect this percentage to continue to decrease"
+became "this strategy remains flexible" (2013 p. 42).
+
+Adjusted pre-tax income: "non-cash debt charges" became "debt-related charges" (2012 p. 50; 2013 p. 50). New
+2013 exclusions are integration 40.0, relocation 7.8, impairment 44.0 and a 39.4 loss on note conversion, together
+131.2 = 19.8%. The releases move the assumed tax rate from 34% to 35% (2012 release p. 20; 2013 release,
+unnumbered page).
+
+Prior-year figures shown differently: the 2012 allowance for doubtful accounts is 25.1 in 2012 (p. 72) and 29.3 in
+2013 (p. 75); 2012 pre-tax income is 450.6 and then 441.4 (2013 p. 84); 2012 adjusted pre-tax income is 901.5 (2012
+release p. 14) and then 892.3.
+
+Property lives table: buildings "3 to 50" became "5 to 50" years, software "1 to 15" became "1 to 10", other intangibles
+"3 to 20" became "3 to 10" (2012 p. 81; 2013 p. 91). No reason or effect is given.
+3. Statements of lives, holding periods, residual values and reserve methods
+Word search, hits and pages (2012; 2013):
+
+"holding period": 10 hits on pp. 11, 42, 44, 61, 81; 15 hits on pp. 11, 42, 45, 53, 66, 91, 126.
+
+"useful life/lives": 16 hits on pp. 46, 80, 81, 83, 85, 86, 88, 89; 16 hits on pp. 46, 83, 90, 93, 94, 96, 98, 99, 146.
+
+"residual": 43 hits on pp. 1, 11, 22-24, 40-42, 44, 53-55, 58-60, 63, 81, 113; 46 hits on pp. 1, 11, 23-25, 40-43, 45, 54,
+61-64, 68, 91, 126.
+
+"salvage": none in either year.
+
+"average": 61 and 68 hits. Those about fleet are on pp. 7, 9-11, 15, 42, 49, 53 (2012) and pp. 5, 8, 10, 11, 15, 16, 42,
+43, 49, 54, 61 (2013). The rest concern interest rates, pensions, share counts and stock awards.
+More than twelve statements were found; the table keeps those on the largest assets.
+Statement
+Pages (2012;
+2013)
+The number (2012; 2013)
+Still fits?
+"eighteen months in the United States"
+p. 11; p. 11
+Top of car range 28; 36 months
+No, as stated
+"indicative of the strong residual values"; "also
+indicative of the residual values"
+p. 113; p. 126
+U.S. disposals: gain 100.6; loss 48.2
+No, for 2013
+Intangible lives "range from two to fifteen years"
+p. 83; p. 93
+Donlen lives of 16 and 20 years in both (p. 89;
+p. 99)
+No, in both years
+"longer holding periods"
+not there; p. 53
+U.S. depreciation and lease charges per
+company-operated car, about $219; $226 a
+month
+Rough; can't tell
+"average age of HERC's worldwide rental fleet was
+43 months"
+p. 15; p. 15
+Average equipment cost 3,069.0; 3,401.2
+Can't tell
+Cars "4 to 28 months"; "4 to 36 months"
+p. 81; p. 91
+Top of range up 8 months
+Changed; see
+write-up
+International "fourteen months"; "thirteen months"
+p. 11; p. 11
+International cars sold 54,500; 64,500
+Rough; direction fits
+"Other equipment: 24 to 108 months"
+p. 81; p. 91
+Depreciation before disposal gains over
+average cost, 9.3%; 9.6%
+Rough; yes
+
+Hertz Global Holdings: disclosure changes, FY2012 to FY2013
+Page 3
+Statement
+Pages (2012;
+2013)
+The number (2012; 2013)
+Still fits?
+"average holding period for non-program vehicles
+is longer"
+p. 42; p. 42
+U.S. non-program share 95%; 91%
+Yes
+Self-insured liability "recorded on a non-discounted
+basis"
+p. 82; pp. 91-92
+Reserve 332.2; 347.7, or 3.3% of 2012 pro
+forma revenue; 3.2% of 2013 revenue
+Rough; yes
+Allowance "based on our historical experience and
+our judgment"
+p. 80; p. 90
+1.5%; 2.0% of gross receivables (2012 as
+revised)
+Yes
+Concessions "useful lives of nine years"
+p. 88; p. 98
+405 over nine years is 45.0 a year; 44.5 booked
+in 2013
+Yes
+4. Disclosed changes in estimates or policies
+Change
+Year
+Stated effect on income
+Page
+U.S. car depreciation rates
+2012
+Expense lower by 139.4 (31.6% of 2012 pre-tax income of
+441.4)
+2013 p. 126
+U.S. car depreciation rates
+2013
+Expense lower by 44.2 (6.7%)
+2013 p. 126
+Correction of errors (vendor incentives,
+Brazil, other)
+2011-2013
+Pre-tax lower by 18.7 in 2011, 9.2 in 2012, 11.6 in the first
+nine months of 2013
+2013 pp. 83-87
+International car and equipment rental
+depreciation rates
+2012, 2013
+International expense higher by 8.8, then 5.0 (0.8%);
+equipment higher by 0.5, then lower by 0.4
+2013 p. 126
+Policy for settling convertible notes
+2013
+7.7 added back to net income for earnings per share; no
+pre-tax effect
+2013 p. 149
+Four reportable segments; revolver cash
+flows shown gross
+2013
+None stated
+2013 p. 83
+The 2012 report gave the 2012 car figure as one worldwide number, 130.6 (p. 113); the 2013 split of 139.4 and 8.8 ties to
+it.
+5. Not in the documents
+Both reports are complete, but neither gives residual values or the method behind the average holding period, and the Item
+13 related-party detail is in proxy statements that are not attached.

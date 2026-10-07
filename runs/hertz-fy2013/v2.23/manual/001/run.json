@@ -27,36 +27,186 @@
    "prompt": 1,
    "file": "1-scan-the-numbers.md",
    "track": "numbers",
-   "reply_file": "numbers-1.md",
-   "status": "not run"
+   "reply_file": "numbers-1.txt",
+   "status": "checked",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.23\\manual\\001\\numbers-1.txt",
+    "pack": "hertz-fy2013",
+    "words": 700,
+    "pages_est": 1.6,
+    "quotes": {
+     "total": 0,
+     "exact_on_page": 0,
+     "exact_page_differs": 0,
+     "exact_no_page": 0,
+     "other_document": 0,
+     "not_found": 0
+    },
+    "figures": {
+     "found": 102,
+     "computed_percent": 0,
+     "computed_table": 0,
+     "not_found": 10
+    },
+    "arithmetic": {
+     "pre_tax_income": 663.1,
+     "checked": 0,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
   },
   {
    "prompt": 2,
    "file": "2-follow-the-flags.md",
    "track": "numbers",
-   "reply_file": "numbers-2.md",
-   "status": "not run"
+   "reply_file": "numbers-2.txt",
+   "status": "checked",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.23\\manual\\001\\numbers-2.txt",
+    "pack": "hertz-fy2013",
+    "words": 1118,
+    "pages_est": 2.5,
+    "quotes": {
+     "total": 16,
+     "exact_on_page": 12,
+     "exact_page_differs": 1,
+     "exact_no_page": 1,
+     "other_document": 1,
+     "not_found": 1
+    },
+    "figures": {
+     "found": 79,
+     "computed_percent": 0,
+     "computed_table": 0,
+     "not_found": 4
+    },
+    "arithmetic": {
+     "pre_tax_income": 1153.2,
+     "checked": 2,
+     "mismatches": 2
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
   },
   {
    "prompt": 3,
    "file": "3-read-the-footnotes.md",
    "track": "text",
-   "reply_file": "text-3.md",
-   "status": "not run"
+   "reply_file": "text-3.txt",
+   "status": "checked",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.23\\manual\\001\\text-3.txt",
+    "pack": "hertz-fy2013",
+    "words": 1331,
+    "pages_est": 3.0,
+    "quotes": {
+     "total": 25,
+     "exact_on_page": 21,
+     "exact_page_differs": 2,
+     "exact_no_page": 2,
+     "other_document": 0,
+     "not_found": 0
+    },
+    "figures": {
+     "found": 52,
+     "computed_percent": 0,
+     "computed_table": 0,
+     "not_found": 2
+    },
+    "arithmetic": {
+     "pre_tax_income": 663.1,
+     "checked": 0,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
   },
   {
    "prompt": 4,
    "file": "4-compare-the-footnotes.md",
    "track": "text",
-   "reply_file": "text-4.md",
-   "status": "not run"
+   "reply_file": "text-4.txt",
+   "status": "checked",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.23\\manual\\001\\text-4.txt",
+    "pack": "hertz-fy2013",
+    "words": 1461,
+    "pages_est": 3.2,
+    "quotes": {
+     "total": 48,
+     "exact_on_page": 27,
+     "exact_page_differs": 5,
+     "exact_no_page": 9,
+     "other_document": 4,
+     "not_found": 3
+    },
+    "figures": {
+     "found": 18,
+     "computed_percent": 0,
+     "computed_table": 29,
+     "not_found": 0
+    },
+    "arithmetic": {
+     "pre_tax_income": 663.1,
+     "checked": 0,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
   },
   {
    "prompt": 5,
    "file": "5-report.md",
    "track": "text",
-   "reply_file": "report-5.md",
-   "status": "not run"
+   "reply_file": "report-5.txt",
+   "status": "checked",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.23\\manual\\001\\report-5.txt",
+    "pack": "hertz-fy2013",
+    "words": 862,
+    "pages_est": 1.9,
+    "quotes": {
+     "total": 12,
+     "exact_on_page": 8,
+     "exact_page_differs": 0,
+     "exact_no_page": 3,
+     "other_document": 1,
+     "not_found": 0
+    },
+    "figures": {
+     "found": 25,
+     "computed_percent": 0,
+     "computed_table": 0,
+     "not_found": 1
+    },
+    "arithmetic": {
+     "pre_tax_income": 663.1,
+     "checked": 0,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
   }
  ],
  "finished": "2026-10-06T18:24:52",

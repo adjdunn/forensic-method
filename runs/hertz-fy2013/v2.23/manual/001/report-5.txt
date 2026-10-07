@@ -1,0 +1,75 @@
+Hertz Global Holdings, Inc.: review for reading time
+Company and periods: FY2013 against FY2012, with Q4 FY2013. USD millions; sizes are shares of FY2013 pre-tax income of 663.1.
+Documents: the FY2012 and FY2013 10-Ks, both Q4 results releases, the two earlier text-track replies, and the two uploaded PDFs (statement
+scan and flag explanations), taken as the numbers-track replies because nothing was pasted.
+Items to investigate
+1. U.S. rental car depreciation: rates cut and lives lengthened in a year of disposal losses
+
+Shown: Note 8 says the rate cuts were "indicative of the residual values experienced" in 2013, while the same note reports a 48.2
+U.S. disposal loss from "declining residual values" (FY2013 pp. 54, 126). The car range went from "4 to 28" to "4 to 36 months" and
+"strong" was dropped (FY2012 pp. 81, 113; FY2013 p. 91). The stated average of "eighteen months" did not move (p. 11 both years),
+and the depreciation rate fell from 15.2% to 14.3%. Size: the company's stated income effect is 44.2 (6.7%); the numbers track's
+calculated charge not taken at the FY12 rate is 152 (23%; 26% as first reported). Evidence level 1.
+
+Reading: Both tracks read it the same way: most likely (text) or possibly (numbers) the reporting stretched, on top of a weakening
+used-car market. Losses traced to the acquired Dollar Thrifty fleet or to "timing of sales" would point to ordinary.
+
+Next: Quarterly disposal results and rate changes by segment in the 2013 10-Qs; ask how the average holding period is computed
+and what residual values are assumed.
+2. Adjusted pre-tax income: recurring costs described as one-time
+
+Shown: The measure adds back "certain one-time charges" (FY2013 p. 50), yet restructuring was excluded in every year shown and
+has run since 2007 (p. 140). Four excluded items recur in FY11-FY13 and make up 65% of the 490.1 gap between adjusted and
+reported. 2013 added new exclusions of 131.2, and "non-cash" was dropped from the debt-charge wording. Size: 98.8 (14.9%) for
+restructuring; all adjustments 490.1 (74%). Evidence level 1.
+
+Reading: Most likely ordinary practice that flatters the measure (text track; the numbers track gave no reading). A year with no
+restructuring charge would change it.
+
+Next: 2014 restructuring guidance and cash paid against the 48.4 accrual (p. 141); the release's 35% assumed tax rate against the
+47.8% effective rate.
+3. Intangible asset lives: stated range contradicted in the same note set
+
+Shown: Lives are said to "range from two to fifteen years" (FY2013 p. 93), but Donlen intangibles carry 16 and 20 years (p. 99), in
+both years. Size: not quantified. Evidence level 1; it ranks here on evidence alone and is much smaller than items 4 and 5.
+
+Reading: No reading was given earlier; can't tell from these documents.
+
+Next: The amortization schedule by asset class.
+4. Receivables: large fall only partly explained
+
+Shown: Receivables fell 19.5% while whole-company revenue rose 19.4%. Fleet-sale receivables explain 71% of the fall; about 110
+is unreconciled to the cash flow statement. The text track adds a 4.0 gap between the provision in the cash flow statement and
+Schedule II (pp. 80, 158) and a restated 2012 allowance (25.1 to 29.3). Size: balance shortfall 737 (111%; 113% as first reported);
+unreconciled part 110 (16.6%), also a balance. Evidence level 2.
+
+Reading: Numbers track: most likely ordinary for the fleet part, can't tell for the rest. The text track gave no reading. Disclosure of a
+sale, netting or reclassification would change it.
+
+Next: Ask for receivables by type; Schedule II and the cash flow supplement (p. 81).
+5. Controls judged effective in a year of error corrections
+
+Shown: Errors of 46.3 found in Q4 "would have been material to the fourth quarter" (p. 83), a debt requirement was "unknowingly not
+being met" (p. 150), and a new ledger went live. Item 9A mentions none of these (p. 159), and the release totals the errors at 47.9.
+Size: no FY2013 income effect; 46.3 is 7.0% as scale. Evidence level 2.
+
+Reading: Possibly the reporting stretched; a disclosed deficiency assessment would point to ordinary.
+
+Next: Ask how the errors were found and why the two totals differ.
+Also noted
+
+Q4 gross margin fell 3.5 points (90, 14%, an income effect larger than item 2 but at level 3); 53 of direct operating cost is unexplained,
+and the reading is most likely the business weakening.
+
+Payables show a 121 gap (18.2%, balance) that can't be explained. The Nevada concession-fee case has an exposure above 40.0
+(6.0%) with no material reserve. Goodwill headroom is not disclosed.
+Checked and explained
+
+Net income above free cash flow: the company's explanation held; most likely ordinary fleet growth.
+
+The FY12 rate cut was supported by 100.6 of disposal gains; about 61% of the payables shortfall is the acquisition base; concession
+amortization and the allowance method fit.
+Not examined
+Residual values, disposal results by quarter, receivables by type, liability reserve movements and the proxy statements are not in the
+documents; the industry comparison is Transportation, not rental.
+Items to investigate, not conclusions. The verdicts are the analyst's.

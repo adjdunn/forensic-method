@@ -1,0 +1,627 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.23\\manual\\001\\text-3.txt",
+  "pack": "hertz-fy2013",
+  "words": 1331,
+  "pages_est": 3.0,
+  "quotes": {
+   "total": 25,
+   "exact_on_page": 21,
+   "exact_page_differs": 2,
+   "exact_no_page": 2,
+   "other_document": 0,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 52,
+   "computed_percent": 0,
+   "computed_table": 0,
+   "not_found": 2
+  },
+  "arithmetic": {
+   "pre_tax_income": 663.1,
+   "checked": 0,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "have historically resulted in relatively minor adjustments",
+   "cited_pages": [
+    45
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      45
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      45
+     ]
+    ]
+   ],
+   "context": "p. 45"
+  },
+  {
+   "quote": "4 to 36 months",
+   "cited_pages": [
+    91
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      91
+     ]
+    ]
+   ],
+   "context": "p. 91"
+  },
+  {
+   "quote": "net decreases of $44.2 million",
+   "cited_pages": [
+    91
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": " in depreciation beside \"net losses of $48.2 million\" on U.S"
+  },
+  {
+   "quote": "net losses of $48.2 million",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": " on U.S"
+  },
+  {
+   "quote": "no impairment existed",
+   "cited_pages": [
+    94
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      85,
+      87
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      94,
+      96
+     ]
+    ]
+   ],
+   "context": "p. 94"
+  },
+  {
+   "quote": "could potentially exceed $40.0 million",
+   "cited_pages": [
+    137
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      137
+     ]
+    ]
+   ],
+   "context": "p. 137"
+  },
+  {
+   "quote": "none of those reserves are material",
+   "cited_pages": [
+    138
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      34,
+      123
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      138
+     ]
+    ]
+   ],
+   "context": "p. 138"
+  },
+  {
+   "quote": "effective",
+   "cited_pages": [
+    74,
+    159
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      9,
+      12,
+      17,
+      23,
+      24,
+      26,
+      28,
+      30,
+      43,
+      46,
+      55,
+      59,
+      63,
+      66,
+      68,
+      71,
+      77,
+      82,
+      84,
+      88,
+      90,
+      96,
+      100,
+      102,
+      108,
+      109,
+      115,
+      116,
+      138,
+      141,
+      146,
+      154
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      5,
+      13,
+      24,
+      25,
+      27,
+      28,
+      29,
+      30,
+      47,
+      57,
+      63,
+      70,
+      72,
+      74,
+      92,
+      93,
+      94,
+      98,
+      100,
+      107,
+      115,
+      122,
+      128,
+      129,
+      156,
+      159,
+      163,
+      172,
+      173
+     ]
+    ]
+   ],
+   "context": "pp. 74, 159"
+  },
+  {
+   "quote": "would have been material to the fourth quarter",
+   "cited_pages": [
+    83
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      83
+     ]
+    ]
+   ],
+   "context": "p. 83"
+  },
+  {
+   "quote": "certain one-time charges",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      118
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      131
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      19
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": "p. 50"
+  },
+  {
+   "quote": "was also indicative of the residual values experienced in the U.S. for the years ended December 31, 2013, 2012 and 2011",
+   "cited_pages": [
+    42,
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": "Note 8, p. 126; repeated in the management discussion, p. 42"
+  },
+  {
+   "quote": "declining residual values",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "a deterioration in the used vehicle residual values",
+   "cited_pages": [
+    54
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      54
+     ]
+    ]
+   ],
+   "context": "p. 54"
+  },
+  {
+   "quote": "U.S. monthly per vehicle depreciation costs decreased",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": "p. 42"
+  },
+  {
+   "quote": "certain one-time charges and nonoperational items",
+   "cited_pages": [
+    50,
+    131
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50
+     ]
+    ]
+   ],
+   "context": "management discussion, p. 50; Note 11, p. 131"
+  },
+  {
+   "quote": "During 2007 through 2013",
+   "cited_pages": [
+    140
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      44,
+      140
+     ]
+    ]
+   ],
+   "context": " at a cumulative 645.4 (p. 140)"
+  },
+  {
+   "quote": "Additional efficiency and cost saving initiatives are being developed",
+   "cited_pages": [
+    44
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      44,
+      124
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      44,
+      140
+     ]
+    ]
+   ],
+   "context": "p. 44"
+  },
+  {
+   "quote": "was effective as of December 31, 2013",
+   "cited_pages": [
+    159
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      159
+     ]
+    ]
+   ],
+   "context": "Item 9A, p. 159"
+  },
+  {
+   "quote": "out of period errors totaling $46.3 million",
+   "cited_pages": [
+    83
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      83
+     ]
+    ]
+   ],
+   "context": " found in the fourth quarter (Note 2, p. 83): 34.7 from 2012 and earlier plus 11.6 from the first nine months of 2013, w"
+  },
+  {
+   "quote": "unknowingly not being met",
+   "cited_pages": [
+    150
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      150
+     ]
+    ]
+   ],
+   "context": "Note 19, p. 150"
+  },
+  {
+   "quote": "impairment charges and other",
+   "cited_pages": [
+    50,
+    56
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      56
+     ]
+    ]
+   ],
+   "context": "pp. 50, 56"
+  },
+  {
+   "quote": "normalized income tax rate",
+   "cited_pages": [
+    57
+   ],
+   "status": "exact, page differs",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3,
+      9
+     ]
+    ]
+   ],
+   "context": " of 35% (Q4 2013 earnings release, non-GAAP definitions, unnumbered page) against an effective rate of 47.8% (p. 57)"
+  },
+  {
+   "quote": "range from two to fifteen years",
+   "cited_pages": [
+    93
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      83
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      93
+     ]
+    ]
+   ],
+   "context": "p. 93"
+  },
+  {
+   "quote": "3 to 10 years",
+   "cited_pages": [
+    91
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      91
+     ]
+    ]
+   ],
+   "context": "p. 91"
+  },
+  {
+   "quote": "increased $52.6 million",
+   "cited_pages": [
+    55
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      55
+     ]
+    ]
+   ],
+   "context": "p. 55"
+  }
+ ],
+ "figures": {
+  "found": [
+   "$663.1",
+   "30.8",
+   "2.0%",
+   "0.76",
+   "41.9",
+   "6.3%",
+   "347.7",
+   "$44.2 million",
+   "$48.2 million",
+   "44.2",
+   "6.7%",
+   "40.0",
+   "6.0%",
+   "2,727.7",
+   "4,757.6",
+   "644.9",
+   "$40.0 million",
+   "46.3",
+   "7.0%",
+   "490.1",
+   "73.9%",
+   "98.8",
+   "14.9%",
+   "48.2",
+   "100.6",
+   "114.9",
+   "7.3%",
+   "77.0",
+   "38.0",
+   "56.4",
+   "645.4",
+   "21.8",
+   "11.1",
+   "9.8",
+   "1,153.2",
+   "21.9",
+   "48.4",
+   "$46.3 million",
+   "34.7",
+   "11.6",
+   "62.3",
+   "18.7",
+   "5.8%",
+   "45.9",
+   "44.0",
+   "4.0",
+   "47.8%",
+   "22.3%",
+   "$52.6 million",
+   "54.1",
+   "1,123.2",
+   "1,123.3"
+  ],
+  "computed_percent": [],
+  "computed_table": [],
+  "not_found": [
+   "4,697.6",
+   "147.6"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 663.1,
+  "source": "reply",
+  "note": "",
+  "checks": []
+ },
+ "post_cutoff": []
+}

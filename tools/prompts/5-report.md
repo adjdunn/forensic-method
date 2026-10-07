@@ -20,7 +20,7 @@ Merge items about the same account or the same estimate into one, and keep all o
 **Rank the items by strength of evidence first, then by size within each level.**
 
 Strength of evidence, strongest first:
-1. A sentence contradicted by the company's own numbers, or by another sentence in the same report.
+1. A sentence contradicted by the company's own numbers, or by another sentence in the same report. The sentence and the number must share subject, period and measure, and the number must point the opposite way. A sentence the numbers only fail to account for in full, or a sentence about a different measure, is level 2 or 3.
 2. Two or more signals pointing at the same account in the same period, from either track.
 3. A single measure, a single change in wording, or a single policy that leans aggressive, out of line with the company's history or with general practice.
 
@@ -29,7 +29,7 @@ Within a level: first the items whose size is an effect on reported income, larg
 **Structure:**
 - **Header:** two lines: the company and periods, and the documents used.
 - **Items to investigate, up to five.** Fewer is fine; if nothing qualifies, say so in one line. Three lines each:
-  - **Shown:** what the filings show, in one or two sentences, with page references; the size, labelled; and the evidence level.
+  - **Shown:** what the filings show, in one or two sentences, with page references; the size, labelled, and where an item carries more than one size, the one it ranks on ("ranks on 23%"); and the evidence level.
   - **Reading:** the reading from the earlier reply (ordinary, the business weakening, the reporting stretched, or can't tell from these documents) and what would change it.
   - **Next:** what to read or ask to settle it.
 - **Also noted:** one or two lines listing the candidates that did not make the list and were not explained.

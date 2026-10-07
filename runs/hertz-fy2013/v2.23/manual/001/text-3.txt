@@ -1,0 +1,204 @@
+Hertz Global Holdings FY2013: accounting assessment
+Page 1
+Hertz Global Holdings, Inc.: accounting assessment, FY2013
+Single-year read of the Form 10-K for the year ended December 31, 2013. All amounts are in $ millions; shares are of 2013
+pre-tax income of $663.1 (10-K p. 76). Page references are to the FY2013 10-K unless stated.
+1. Policy profile
+Area
+What the report says
+Where it sits
+Why, in a few words
+Size
+1. Revenue
+recognition
+Rental revenue over the rental period;
+reimbursements gross where principal;
+sales tax net (p. 90)
+Typical
+Standard for rental, on
+general practice
+Not quantified
+2. Reserves and
+allowances
+Self-insured liability claims "have
+historically resulted in relatively minor
+adjustments" (p. 45); doubtful-accounts
+allowance 30.8 (p. 158)
+Can't tell: not
+enough
+disclosed
+No movement table for the
+liability reserve; the
+allowance looks typical at
+2.0% of gross receivables
+and 0.76x the year's
+write-offs
+Bad-debt charge 41.9 =
+6.3%; liability reserve
+347.7 (balance)
+3. Capitalized costs
+and useful lives
+Cars held "4 to 36 months" (p. 91); U.S.
+rate changes gave "net decreases of $44.2
+million" in depreciation beside "net losses of
+$48.2 million" on U.S. disposals (p. 126)
+Leans
+aggressive
+Rates cut while cars sold
+below book; residual values
+not disclosed
+44.2 = 6.7%
+4. Impairment and
+goodwill
+"no impairment existed" (p. 94); five
+reporting units, no headroom given (p. 46)
+Can't tell: not
+enough
+disclosed
+No cushion, discount rate or
+growth rate shown
+Not quantified; goodwill
+plus indefinite-lived
+intangibles 4,697.6
+(balance); 40.0 vehicle
+impairment taken = 6.0%
+5. Off the balance
+sheet
+Operating leases and concessions,
+purchase obligations, letters of credit;
+financing entities consolidated (pp. 69-70,
+104, 130)
+Typical
+Disclosed with amounts
+Exposures: leases and
+concessions 2,727.7;
+purchase obligations
+4,757.6; letters of credit
+644.9
+6. Related parties
+Director-linked dealings, executive
+relocation, former sponsor debt (pp.
+147-148)
+Typical
+Small and described
+Not quantified
+7. Contingencies
+Nevada concession-fee judgment "could
+potentially exceed $40.0 million" (p. 137),
+yet "none of those reserves are material"
+(p. 138)
+Leans
+aggressive
+Court granted partial
+summary judgment on
+restitution; no material
+accrual; rests on general
+practice
+Exposure above 40.0 =
+6.0%, not an income effect
+8. Auditor's report
+and controls
+Unqualified; controls "effective" (pp. 74,
+159), while errors "would have been
+material to the fourth quarter" (p. 83)
+Leans
+aggressive
+Errors spanning 2010-2013
+with no control deficiency
+reported
+No 2013 income effect
+after revision; errors
+corrected 46.3 = 7.0%
+(scale only)
+9. Adjusted
+measures
+Adds back "certain one-time charges" (p.
+50)
+Leans
+aggressive
+Restructuring excluded
+every year
+All adjustments 490.1 =
+73.9%; restructuring and
+related 98.8 = 14.9%
+
+Hertz Global Holdings FY2013: accounting assessment
+Page 2
+2. Write-ups
+Depreciation of U.S. rental cars: rates cut in a year of disposal losses
+
+The report says: the U.S. rate reduction "was also indicative of the residual values experienced in the U.S. for the
+years ended December 31, 2013, 2012 and 2011" (Note 8, p. 126; repeated in the management discussion, p. 42).
+
+Test: The claim is that, for U.S. car rental in 2013, realized resale values supported lower depreciation rates. The
+matching number is the same note's U.S. disposal result: a net loss of 48.2 in 2013 (gains of 100.6 in 2012 and 114.9 in
+2011), which the note attributes to "declining residual values". The management discussion also cites "a deterioration in
+the used vehicle residual values" (p. 54). The claim holds for 2012 and 2011 but not for 2013. Size: the rate cut of 44.2
+is 6.7% of pre-tax income; the disposal loss beside it is 7.3%.
+
+Reading: Most likely the reporting stretched at the margin on top of a weakening used-car market, because
+depreciation was lowered while cars were being sold below book. The reading would change if the rate cuts applied to
+different cars from those sold at a loss, for example Dollar Thrifty fleet with re-set holding periods.
+
+Read next: the quarterly split of rate changes and disposal results in the 2013 10-Qs, the residual-value assumptions
+by fleet, and the first 2014 disposal results.
+The related claim that "U.S. monthly per vehicle depreciation costs decreased" (p. 42) can't be tested as stated. The report
+gives no per-vehicle figure, and the segment line includes lease charges. That line per company-operated car rises from
+about $219 to $226 a month; including leased cars it falls from about $218 to $216.
+Adjusted pre-tax income: recurring restructuring labelled one-time
+
+The report says: the measure adds back "certain one-time charges and nonoperational items" (management
+discussion, p. 50; Note 11, p. 131).
+
+Test: The claim is that the excluded charges are one-time, at company level, in each year shown. Restructuring
+charges were excluded in all three years (77.0, 38.0 and 56.4), and the report says initiatives ran "During 2007 through
+2013" at a cumulative 645.4 (p. 140). Restructuring-related charges were also excluded each year (21.8, 11.1, 9.8).
+The claim does not hold for these lines. Size: 98.8 = 14.9% of pre-tax income; all adjustments are 490.1 = 73.9%
+(adjusted 1,153.2 against reported 663.1).
+
+Reading: Most likely ordinary practice that flatters the measure, since the report itself says "Additional efficiency and
+cost saving initiatives are being developed" (p. 44). A year with no restructuring charge would point the other way; 21.9
+of 2013 was the headquarters move.
+
+Read next: the 2014 restructuring guidance and the cash paid against the 48.4 accrual (p. 141).
+Controls: judged effective in a year of multi-period error corrections
+
+The report says: internal control "was effective as of December 31, 2013" (Item 9A, p. 159), and the auditor agrees (p.
+74).
+
+Test: Nothing a number can test directly. The same report records "out of period errors totaling $46.3 million" found in
+the fourth quarter (Note 2, p. 83): 34.7 from 2012 and earlier plus 11.6 from the first nine months of 2013, which ties.
+The 34.7 is 56% of fourth-quarter pre-tax income of 62.3, and 2011 pre-tax income as first reported was overstated by
+18.7, or 5.8%. A debt requirement was also "unknowingly not being met" (Note 19, p. 150). Item 9A mentions neither.
+Size: no effect on 2013 pre-tax income after the revision; 46.3 is 7.0% of it as scale.
+
+Reading: Possibly the reporting stretched, on the general-practice view that a material weakness covers interim as well
+as annual statements. If the company's own controls caught the errors and the deficiencies were assessed as less than
+material, the conclusion would be ordinary.
+
+Read next: any later disclosure of how the errors were found, the deficiency evaluation, and whether further revisions
+follow.
+
+Hertz Global Holdings FY2013: accounting assessment
+Page 3
+3. Also noted
+
+Tie-out gaps: the doubtful-accounts provision is 45.9 in the cash flow statement (p. 80) and 41.9 in Schedule II (p.
+158). The Simply Wheelz impairment is 40.0 (pp. 80, 146) and 44.0 "impairment charges and other" (pp. 50, 56). Both
+differ by 4.0.
+
+Adjusted net income tax rate: adjusted net income uses a "normalized income tax rate" of 35% (Q4 2013 earnings
+release, non-GAAP definitions, unnumbered page) against an effective rate of 47.8% (p. 57). That is about 147.6 less
+tax on adjusted pre-tax income, or 22.3% of reported pre-tax income.
+
+Intangible lives: stated to "range from two to fifteen years" (p. 93), but Donlen customer relationships are 16 years and
+its trademark 20 (p. 99), and the property table shows "3 to 10 years" (p. 91).
+
+Small arithmetic differences: the text says selling, general and administrative expenses "increased $52.6 million" (p.
+55), while the table shows 54.1 (p. 52). The 2010 accumulated deficit is 1,123.2 in Note 2 (p. 84) and 1,123.3 in the
+equity statement (p. 78).
+4. Not in the documents
+The report has no critical audit matters or emphasis paragraph, no claims movement table for the self-insured liability
+reserve, no goodwill headroom, no policy for loyalty-programme costs, and no mention of unbilled revenue, factored
+receivables or supplier finance. Item 13 related-party detail is incorporated from the 2014 proxy statement, which is not
+attached.

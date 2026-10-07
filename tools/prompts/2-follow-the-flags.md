@@ -7,7 +7,7 @@
 Take each flag from your last reply and find out what the company says about it. Read the annual reports (the notes, the management discussion, the critical accounting estimates) and the results releases.
 
 **For each flag:**
-1. **Find the company's explanation.** If the company says nothing about a large movement, say so. Silence is worth noting.
+1. **Find the company's explanation.** It must be about the balance or measure that moved. If the company says nothing about that balance, say so: silence is the finding. Don't test the nearest sentence about something else as if it were the explanation.
 2. **Check last year.** Was the same explanation given a year earlier?
 3. **Read the note behind the account:** reserves and allowances with their movements during the year, changes in estimates or policies, acquisitions, anything sold, factored or financed.
 4. **Test the explanation.** Calculate, in code, the number the explanation relies on, and how much of the movement it accounts for (for example, receivables that came with an acquisition against the whole rise). Check it against other sentences in the same report too. Decide whether it holds, partly holds or does not hold.

@@ -1,0 +1,76 @@
+Page 1
+Hertz Global Holdings: what the company says about each flag
+FY2013 and FY2012 annual reports and Q4 results releases. USD millions, revised basis; first-reported figures shown once where they
+differ. Readings are judgments, not findings.
+Full write-ups
+Rental equipment depreciation rate fell (15.2% to 14.3% revised; 15.3% to 14.2% as first reported)
+• The company says: U.S. per-vehicle depreciation "decreased" due to "mix optimization, improved procurement and
+ remarketing efforts", and the rate cuts were "indicative of the residual values experienced in the U.S." (FY2013 annual
+report, p. 42). Last year: different, citing "improved residual values in the U.S." (FY2012 annual report, p. 42).
+• Test: The claim covers U.S. car rental, 2013 against 2012, monthly depreciation per vehicle. The release's U.S. depreciation
+ ($1,269.7m against $939.9m) over average U.S. cars (468,500, up 31.2%) gives $226 against $219 a month, up 3.0%.
+Before disposal results (a $48.2m loss against a $100.6m gain) it is $217 against $243, down 10.5%. The same report
+blames "a deterioration in the used vehicle residual values" (p. 54) and "declining residual values" (p. 126). The stated rate
+changes cut whole-company depreciation by a net $39.6m, 1.6% of the charge and 26% of the $152m shortfall (23% of
+pre-tax income; $175m and 26% as first reported). So the explanation partly holds.
+• Reading: Possibly the reporting stretched, because rates were cut again in a year when U.S. cars sold at a loss. Losses
+ traced to the acquired Dollar Thrifty fleet or to "timing of sales" (p. 126) would point to ordinary.
+• Read next: Note 8 (p. 126) against the disposal results by quarter and segment, which these documents do not give.
+ 
+Payables fell 3.5% while costs rose 19.4% (days payable 52.9 to 42.7; 52.7 as first reported)
+• The company says: Nothing about the balance. Its only reference is that operating cash flow rose partly "due to the timing
+ of our payments" (FY2013 annual report, p. 64). Last year: the same words (FY2012 annual report, p. 60).
+• Test: The claim covers the whole company's operating cash flow, 2013 against 2012. The payables, accrued liabilities and
+ accrued taxes lines supplied $72.9m against $33.2m, which is $39.7m or 4.5% of the $879.9m rise. The balance fell $35.3m
+although the cash flow statement shows payables as a $23.2m source and unpaid fleet and property purchases rose
+$62.7m, leaving $121m (12% of the opening balance) unaccounted for. So the sentence does not hold as an explanation of
+the balance. The acquisition base suggested earlier partly holds: Dollar Thrifty brought only $43m of payables (p. 98), but on
+pro forma 2012 revenue of $10,197.4m (p. 99) the shortfall is $92m (14% of pre-tax income) against $233m at FY12 days
+(35%; $226m and 34% as first reported).
+• Reading: Most likely ordinary, since about 61% of the shortfall is the acquisition base, but the $121m gap can't be
+ explained from these documents. A reclassification or netting against receivables, which show a similar gap, would settle it
+either way.
+• Read next: There is no payables note; the cash flow supplement (p. 81) and the accrued liabilities detail.
+ 
+Receivables fell 19.5% while revenue rose 19.4% (days sales outstanding 76.2 to 51.3; 76.5 as first
+reported)
+• The company says: "a decrease in fleet receivables within our U.S. car rental segment, primarily related to the timing of
+ purchases and sales" (FY2013 annual report, p. 133). There is no receivables note and nothing in the management
+discussion. Last year: nothing.
+• Test: The claim covers U.S. car rental fleet receivables between the two year-ends, with no amount, so it can't be tested as
+ stated. The nearest number is whole-company fleet-sale receivables (p. 81), down $261.3m from $618.6m to $357.3m,
+which is 71% of the $367.1m fall and 13.9% of opening receivables. The other receivables fell $121.5m (9.6%), although
+revenue rose 5.6% even against pro forma 2012 and the cash flow statement shows receivables as a $34.7m use of cash,
+leaving about $110m unreconciled. So the explanation partly holds; the revised shortfall is $737m, 111% of pre-tax income
+($746m and 113% as first reported).
+• Reading: Most likely ordinary for the fleet part and can't tell for the rest; the allowance rose from 1.5% to 2.0% of gross
+ receivables, and nothing sold or factored is disclosed. Disclosure of a sale, netting or reclassification of receivables would
+change the reading of the remaining $110m.
+• Read next: Schedule II (p. 158) and the cash flow supplement (p. 81); a breakdown of receivables by type is not in these
+ documents.
+The other flags
+• Net income above free cash flow (gap $104.7m, 16% of pre-tax income; FY12 gap $313.7m revised, $326m as first
+ reported): "earnings growth and improved working capital" (FY2013 release, p. 2). It held: the working-capital line improved
+$205.8m, 70% of the company's $293.6m free cash flow gain. Most likely ordinary, the gap being fleet growth that the
+company's own measure offsets with $133.9m of fleet financing.
+• Q4 gross margin fell 3.5 points: "lower than expected pricing and higher expenses related to carrying extra fleet"
+ (FY2013 release, p. 2); last year's release cited "strong residual values" (p. 3). "Than expected" can't be tested. Against Q4
+FY12 it partly holds: U.S. fleet rose 22.4% against transaction days up 16.1%, and U.S. depreciation is 94% of the $93.0m
+whole-company rise. But depreciation is only $37m of the $90m fall, and the $53m in direct operating costs is unexplained.
+Most likely the business weakening in U.S. car rental that quarter.
+
+Page 2
+Adjusted earnings
+• Adjusted pre-tax income was $1,153.2m against $663.1m reported in FY13 (gap $490.1m, 74% of reported) and $892.3m
+ against $441.4m in FY12 (gap $450.9m, 102%; $901.5m against $450.6m as first reported). Adjusted net income was
+$749.6m against $346.2m, and $588.9m against $238.6m.
+• Items under "extraordinary, unusual or non-recurring" came to $283.4m in FY13 and $239.3m in FY12. Restructuring
+ ($98.8m, $49.1m), acquisition costs ($18.5m, $163.7m), purchase accounting ($132.2m, $109.6m) and debt charges
+($68.4m, $83.6m) recur in both years and in FY11, making up 65% and 90% of the gaps.
+Changes in estimate that lifted income
+• Depreciation rate changes on U.S. rental cars cut depreciation by $44.2m in FY13, $139.4m in FY12 and $26.7m in FY11
+ (FY2013 annual report, pp. 42 and 126). Net of international and equipment changes that is $39.6m, $130.1m and $18.2m,
+or 6.0%, 29.5% and 6.0% of each year's revised pre-tax income. The FY12 cut is supported by $100.6m of U.S. disposal
+gains; the FY13 cut is not supported by the $48.2m of U.S. disposal losses. No other change is disclosed.
+• One inconsistency on the corrected errors: the annual report totals them at "$46.3 million" (p. 83), the release at "$47.9
+ million" (Table 1 note).
