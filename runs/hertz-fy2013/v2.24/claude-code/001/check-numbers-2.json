@@ -1,0 +1,340 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.24\\claude-code\\001\\numbers-2.md",
+  "pack": "hertz-fy2013",
+  "words": 959,
+  "pages_est": 2.1,
+  "quotes": {
+   "total": 14,
+   "exact_on_page": 12,
+   "exact_page_differs": 0,
+   "exact_no_page": 2,
+   "other_document": 0,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 43,
+   "computed_percent": 0,
+   "computed_table": 0,
+   "not_found": 8
+  },
+  "arithmetic": {
+   "pre_tax_income": 663.1,
+   "checked": 0,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "resulted in net decreases of $44.2 million",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": " in depreciation, and \"the reduction in rates was also indicative of the residual values experienced in the U.S.\" (FY201"
+  },
+  {
+   "quote": "the reduction in rates was also indicative of the residual values experienced in the U.S",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": "FY2013 10-K, p. 42"
+  },
+  {
+   "quote": "strong residual values experienced in the U.S",
+   "cited_pages": [
+    113
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      113
+     ]
+    ]
+   ],
+   "context": ", for a $130.6m cut (FY2012 10-K, p. 113)"
+  },
+  {
+   "quote": "declining residual values from falling demand for used vehicles",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": "p. 126"
+  },
+  {
+   "quote": "a deterioration in the used vehicle residual values",
+   "cited_pages": [
+    54
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      54
+     ]
+    ]
+   ],
+   "context": "p. 54"
+  },
+  {
+   "quote": "optimization of fleet holding periods",
+   "cited_pages": [
+    42,
+    45
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": ", p. 42), or a mix shift toward Donlen leases, whose rates \"are not adjusted\" (p. 45)"
+  },
+  {
+   "quote": "are not adjusted",
+   "cited_pages": [
+    45
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      44,
+      81
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      45,
+      91
+     ]
+    ]
+   ],
+   "context": "p. 45"
+  },
+  {
+   "quote": "due to the timing of our payments",
+   "cited_pages": [
+    64
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      64
+     ]
+    ]
+   ],
+   "context": "FY2013 10-K, p. 64"
+  },
+  {
+   "quote": "timing of our payments",
+   "cited_pages": [
+    60
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      60
+     ]
+    ]
+   ],
+   "context": "FY2012 10-K, p. 60"
+  },
+  {
+   "quote": "accounts payable",
+   "cited_pages": [
+    159
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      81,
+      145,
+      159
+     ]
+    ]
+   ],
+   "context": " system put in place in Q3 2013 (p. 159)"
+  },
+  {
+   "quote": "Purchases of revenue earning equipment included in accounts payable and accrued liabilities | $289.1",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      81
+     ]
+    ]
+   ],
+   "context": "FY2013 10-K, cash flow supplement"
+  },
+  {
+   "quote": "credit extended to manufacturers and customers",
+   "cited_pages": [
+    90
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      81
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      90
+     ]
+    ]
+   ],
+   "context": "p. 90"
+  },
+  {
+   "quote": "lower than expected pricing and higher expenses related to carrying extra fleet",
+   "cited_pages": [
+    2
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2
+     ]
+    ]
+   ],
+   "context": "FY2013 release, p. 2"
+  },
+  {
+   "quote": "certain one-time charges",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": "FY2013 release"
+  }
+ ],
+ "figures": {
+  "found": [
+   "15.2%",
+   "14.3%",
+   "16.2%",
+   "$44.2 million",
+   "$130.6 m",
+   "$39.6 m",
+   "1.6%",
+   "$2,407.8 m",
+   "$100.6 m",
+   "$48.2 m",
+   "52.9",
+   "42.7",
+   "52.7",
+   "3.5%",
+   "19.4%",
+   "76.4",
+   "$23.2 m",
+   "$35.3 m",
+   "$58.5 m",
+   "$232.8 m",
+   "$247.0 m",
+   "$289.1 m",
+   "9.0%",
+   "4.5%",
+   "$289.1",
+   "$55.6 m",
+   "5.8%",
+   "$357.3 m",
+   "10.7%",
+   "11.5%",
+   "1.4%",
+   "22.4%",
+   "16.1%",
+   "$90.2 m",
+   "$356.2 m",
+   "$450.9 m",
+   "$490.1 m",
+   "$66.2 m",
+   "$49.1 m",
+   "$98.8 m",
+   "$130.1 m",
+   "$29.3 m",
+   "$30.8 m"
+  ],
+  "computed_percent": [],
+  "computed_table": [],
+  "not_found": [
+   "$152.1 m",
+   "$174.5 m",
+   "$148.8 m",
+   "61.4",
+   "$226.3 m",
+   "$483.2 m",
+   "$261.3 m",
+   "$367.1 m"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 663.1,
+  "source": "workbook",
+  "note": "",
+  "checks": []
+ },
+ "post_cutoff": []
+}

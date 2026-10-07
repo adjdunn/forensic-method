@@ -1,0 +1,653 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\home-depot-fy2025\\v2.24\\claude-code\\001\\text-3.md",
+  "pack": "home-depot-fy2025",
+  "words": 1370,
+  "pages_est": 3.0,
+  "quotes": {
+   "total": 23,
+   "exact_on_page": 15,
+   "exact_page_differs": 0,
+   "exact_no_page": 6,
+   "other_document": 1,
+   "not_found": 1
+  },
+  "figures": {
+   "found": 33,
+   "computed_percent": 3,
+   "computed_table": 4,
+   "not_found": 2
+  },
+  "arithmetic": {
+   "pre_tax_income": 18602.0,
+   "checked": 4,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 1
+  },
+  "post_cutoff": 1
+ },
+ "quotes": [
+  {
+   "quote": "expected ultimate cost for claims incurred (undiscounted)",
+   "cited_pages": [
+    52
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      52
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      52
+     ]
+    ]
+   ],
+   "context": ": $1.6bn (p. 52)"
+  },
+  {
+   "quote": "not material",
+   "cited_pages": [
+    48
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75,
+      76,
+      77
+     ]
+    ]
+   ],
+   "context": "p. 48"
+  },
+  {
+   "quote": "range up to approximately 20 years",
+   "cited_pages": [
+    51
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      51
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      51
+     ]
+    ]
+   ],
+   "context": "p. 51"
+  },
+  {
+   "quote": "substantially exceeded",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      60
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      60
+     ]
+    ]
+   ],
+   "context": " carrying amount"
+  },
+  {
+   "quote": "exceeded",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      60
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      60
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      2
+     ]
+    ]
+   ],
+   "context": " carrying amount"
+  },
+  {
+   "quote": "no events or circumstances",
+   "cited_pages": [
+    60
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      60
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      60
+     ]
+    ]
+   ],
+   "context": " because of how close the acquisition was to the test date (p. 60)"
+  },
+  {
+   "quote": "no material off-balance sheet arrangements",
+   "cited_pages": [
+    37
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      37
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      37
+     ]
+    ]
+   ],
+   "context": "p. 37"
+  },
+  {
+   "quote": "not expected to have a material adverse effect",
+   "cited_pages": [
+    73
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      73
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      73
+     ]
+    ]
+   ],
+   "context": "Note 12, p. 73"
+  },
+  {
+   "quote": "non-recurring legal-related benefit",
+   "cited_pages": [
+    34
+   ],
+   "status": "found in another document",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": " with no amount (p. 34)"
+  },
+  {
+   "quote": "amortization expense from acquired intangible assets",
+   "cited_pages": [
+    8
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      8
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      8
+     ]
+    ]
+   ],
+   "context": "release, p. 8"
+  },
+  {
+   "quote": "$6.3 billion",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      33
+     ]
+    ]
+   ],
+   "context": " of sales: Other net sales rose $6,311m"
+  },
+  {
+   "quote": "primarily",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      6,
+      8,
+      14,
+      23,
+      32,
+      34,
+      35,
+      38,
+      39,
+      42,
+      48,
+      49,
+      53,
+      54,
+      66,
+      69,
+      73,
+      75
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      6,
+      8,
+      14,
+      32,
+      33,
+      34,
+      37,
+      38,
+      39,
+      41,
+      42,
+      49,
+      53,
+      54,
+      66,
+      69,
+      73,
+      75
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      8
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      8
+     ]
+    ]
+   ],
+   "context": " intangible amortization: $182m of the $239m increase (76%)"
+  },
+  {
+   "quote": "$3.5bn",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": ": the drop was $3,485m"
+  },
+  {
+   "quote": "approximately 1%",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      77,
+      78
+     ]
+    ]
+   ],
+   "context": " of net sales: $2.0bn is 1.2%"
+  },
+  {
+   "quote": "amortization expense from acquired intangible assets",
+   "cited_pages": [
+    8
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      8
+     ]
+    ]
+   ],
+   "context": ", and fiscal 2026 guidance \"excludes an expected after-tax impact of approximately $0.50\" (release, p. 8)"
+  },
+  {
+   "quote": "excludes an expected after-tax impact of approximately $0.50",
+   "cited_pages": [
+    8
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      8
+     ]
+    ]
+   ],
+   "context": "release, p. 8"
+  },
+  {
+   "quote": "Customer relationships | 20",
+   "cited_pages": [
+    74,
+    75
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      74
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      76
+     ]
+    ]
+   ],
+   "context": " for SRS (Note 13, p. 75) and \"| 19\" for GMS (p. 74)"
+  },
+  {
+   "quote": "| 19",
+   "cited_pages": [
+    74
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      23,
+      33,
+      43,
+      44,
+      47,
+      66,
+      72
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      23,
+      28,
+      33,
+      43,
+      44,
+      47,
+      60,
+      65,
+      74
+     ]
+    ]
+   ],
+   "context": " for GMS (p. 74)"
+  },
+  {
+   "quote": "approximates the pattern of expected economic benefit",
+   "cited_pages": [
+    51
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      51
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      51
+     ]
+    ]
+   ],
+   "context": "p. 51"
+  },
+  {
+   "quote": "customer attrition rates",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      38,
+      42,
+      74
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      38,
+      74,
+      76
+     ]
+    ]
+   ],
+   "context": " as a key assumption but does not disclose them"
+  },
+  {
+   "quote": "long-term debt (including current installments) and equity",
+   "cited_pages": [
+    35
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      35
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      35
+     ]
+    ]
+   ],
+   "context": "p. 35"
+  },
+  {
+   "quote": "approximately 3%",
+   "cited_pages": [
+    77
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      77,
+      78
+     ]
+    ]
+   ],
+   "context": " of assets excluding goodwill and intangibles (p. 77)"
+  },
+  {
+   "quote": "aggregate cash consideration totaling approximately $5.5 billion",
+   "cited_pages": [
+    32
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      32
+     ]
+    ]
+   ],
+   "context": "p. 32"
+  }
+ ],
+ "figures": {
+  "found": [
+   "$18,602 m",
+   "3.4%",
+   "$1.6 bn",
+   "8.6%",
+   "0.4%",
+   "0.5%",
+   "2.5%",
+   "5.6%",
+   "$22.3 bn",
+   "$13.8 bn",
+   "$3.3 bn",
+   "3.2%",
+   "$1.7 m",
+   "3.3%",
+   "$6.3 billion",
+   "20.6%",
+   "$3.5 bn",
+   "$3,485 m",
+   "$2.0 bn",
+   "1.2%",
+   "$0.50",
+   "$14.69",
+   "$14.23",
+   "$0.61",
+   "$0.15",
+   "23.9%",
+   "$9,680 m",
+   "$3,514 m",
+   "$3,452 m",
+   "$4.5 bn",
+   "25.7%",
+   "3.8%",
+   "$5.5 billion"
+  ],
+  "computed_percent": [
+   "33.9%",
+   "34.4%",
+   "24.7%"
+  ],
+  "computed_table": [
+   "4.4",
+   "4.7",
+   "4.36",
+   "4.67"
+  ],
+  "not_found": [
+   "$6,311 m",
+   "$2,776 m"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 18602.0,
+  "source": "workbook",
+  "note": "",
+  "checks": [
+   {
+    "amount": 79.0,
+    "stated": 0.4,
+    "recomputed": 0.4,
+    "ok": true,
+    "sentence": "Shrink sensitivity $79m = 0.4% of pre-tax | | 3."
+   },
+   {
+    "amount": 99.0,
+    "stated": 0.5,
+    "recomputed": 0.5,
+    "ok": true,
+    "sentence": "Customer-relationship lives sit at the top of common practice. | About $99m = 0.5% of pre-tax if the lives were 15 years (hypothetical, based on general practic"
+   },
+   {
+    "amount": 13800.0,
+    "stated": 74.0,
+    "recomputed": 74.2,
+    "ok": true,
+    "sentence": "The Other segment's operating margin is 2.5% (5.6% before amortization). | Goodwill **balance** $22.3bn, of which Other is $13.8bn (74% of pre-tax) | | 5."
+   },
+   {
+    "amount": 607.0,
+    "stated": 3.3,
+    "recomputed": 3.3,
+    "ok": true,
+    "sentence": "On recurrence: $209m of the $607m (34%) is amortization charged in the Primary segment from acquisitions other than SRS (Note 2, p. 56), and the charge is exclu"
+   }
+  ]
+ },
+ "post_cutoff": [
+  {
+   "year": 2030,
+   "context": " 2026 charge of $683m \u2248 14 years, with 67% of it falling after fiscal 2030 (p. 61). **Size:** if the lives were 15 years, th"
+  }
+ ]
+}

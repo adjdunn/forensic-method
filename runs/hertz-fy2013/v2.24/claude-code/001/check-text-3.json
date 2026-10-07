@@ -1,0 +1,488 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.24\\claude-code\\001\\text-3.md",
+  "pack": "hertz-fy2013",
+  "words": 1356,
+  "pages_est": 3.0,
+  "quotes": {
+   "total": 21,
+   "exact_on_page": 16,
+   "exact_page_differs": 0,
+   "exact_no_page": 5,
+   "other_document": 0,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 52,
+   "computed_percent": 0,
+   "computed_table": 2,
+   "not_found": 1
+  },
+  "arithmetic": {
+   "pre_tax_income": 663.1,
+   "checked": 2,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "relatively minor",
+   "cited_pages": [
+    45
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      45
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      45
+     ]
+    ]
+   ],
+   "context": "p. 45"
+  },
+  {
+   "quote": "relatively minor",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      45
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      45
+     ]
+    ]
+   ],
+   "context": " can't be tested"
+  },
+  {
+   "quote": "net decreases of $44.2 million",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "net losses of $48.2 million",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": "Note 8, p. 126"
+  },
+  {
+   "quote": "concluded that there was no impairment",
+   "cited_pages": [
+    46
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      45
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      46
+     ]
+    ]
+   ],
+   "context": "p. 46"
+  },
+  {
+   "quote": "could potentially exceed $40.0 million",
+   "cited_pages": [
+    137
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      137
+     ]
+    ]
+   ],
+   "context": ", but the company believes it \"will not be material\" (p. 137)"
+  },
+  {
+   "quote": "will not be material",
+   "cited_pages": [
+    137
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      19
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      20,
+      137
+     ]
+    ]
+   ],
+   "context": "p. 137"
+  },
+  {
+   "quote": "would have been material to the fourth quarter",
+   "cited_pages": [
+    83
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      83
+     ]
+    ]
+   ],
+   "context": "Note 2, p. 83"
+  },
+  {
+   "quote": "certain one-time charges and nonoperational items",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50
+     ]
+    ]
+   ],
+   "context": "p. 50"
+  },
+  {
+   "quote": "net decreases of $44.2 million... in depreciation expense",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": " and were \"indicative of the residual values experienced in the U.S.\" for 2013 (Note 8, p. 126)"
+  },
+  {
+   "quote": "indicative of the residual values experienced in the U.S",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": " for 2013 (Note 8, p. 126)"
+  },
+  {
+   "quote": "net losses of $48.2 million",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": ", put down to \"declining residual values from falling demand for used vehicles\""
+  },
+  {
+   "quote": "declining residual values from falling demand for used vehicles",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "a deterioration in the used vehicle residual values",
+   "cited_pages": [
+    54
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      54
+     ]
+    ]
+   ],
+   "context": "p. 54"
+  },
+  {
+   "quote": "certain one-time charges and nonoperational items",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50
+     ]
+    ]
+   ],
+   "context": "MD&A, p. 50"
+  },
+  {
+   "quote": "extraordinary, unusual or non-recurring",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      17
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": "release, Table 7"
+  },
+  {
+   "quote": "Additional efficiency and cost saving initiatives are being developed",
+   "cited_pages": [
+    140
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      44,
+      124
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      44,
+      140
+     ]
+    ]
+   ],
+   "context": " The claim does not hold"
+  },
+  {
+   "quote": "did not, individually or in the aggregate, result in a material misstatement",
+   "cited_pages": [
+    83
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      83
+     ]
+    ]
+   ],
+   "context": ", although correcting them in Q4 \"would have been material to the fourth quarter\" (Note 2, p. 83)"
+  },
+  {
+   "quote": "would have been material to the fourth quarter",
+   "cited_pages": [
+    83
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      83
+     ]
+    ]
+   ],
+   "context": "Note 2, p. 83"
+  },
+  {
+   "quote": "No changes in our internal control... during the fiscal quarter ended December 31, 2013",
+   "cited_pages": [
+    159
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      159
+     ]
+    ]
+   ],
+   "context": " had a material effect (Item 9A, p. 159)"
+  },
+  {
+   "quote": "unknowingly not being met",
+   "cited_pages": [
+    150
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      150
+     ]
+    ]
+   ],
+   "context": " at year-end and needed waivers (p. 150)"
+  }
+ ],
+ "figures": {
+  "found": [
+   "$663.1 m",
+   "$347.7 m",
+   "$30.8 m",
+   "2.0%",
+   "$44.2 million",
+   "$48.2 million",
+   "$44.2 m",
+   "6.7%",
+   "$1,347.5 m",
+   "$3,330 m",
+   "$40.0 m",
+   "$2,727.7 m",
+   "$4,757.6 m",
+   "$4,457.5 m",
+   "$3.1 m",
+   "$40.0 million",
+   "6.0%",
+   "$46.3 m",
+   "$11.6 m",
+   "1.7%",
+   "$34.7 m",
+   "$98.8 m",
+   "14.9%",
+   "$490.1 m",
+   "73.9%",
+   "$100.6 m",
+   "$114.9 m",
+   "7.3%",
+   "$645.4 m",
+   "$92.2 m",
+   "$56.4 m",
+   "$38.0 m",
+   "$77.0 m",
+   "$132.2 m",
+   "$68.4 m",
+   "45.2%",
+   "29.2%",
+   "$18.7 m",
+   "5.8%",
+   "$324.3 m",
+   "6.1%",
+   "$62.3 m",
+   "$41.9 m",
+   "$45.9 m",
+   "$4.0 m",
+   "$21.9 m",
+   "$19.0 m",
+   "$7.8 m",
+   "$749.6 m",
+   "47.8%",
+   "$65.0 m",
+   "$44.0 m"
+  ],
+  "computed_percent": [],
+  "computed_table": [
+   "0.76",
+   "1.69"
+  ],
+  "not_found": [
+   "$4,677.5 m"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 663.1,
+  "source": "workbook",
+  "note": "",
+  "checks": [
+   {
+    "amount": 44.2,
+    "stated": 6.7,
+    "recomputed": 6.7,
+    "ok": true,
+    "sentence": "Size: $44.2m = 6.7% of pre-tax income (charge not taken); the disposal loss is another 7.3%."
+   },
+   {
+    "amount": 98.8,
+    "stated": 14.9,
+    "recomputed": 14.9,
+    "ok": true,
+    "sentence": "Size: restructuring plus related costs of $98.8m = 14.9% of pre-tax income."
+   }
+  ]
+ },
+ "post_cutoff": []
+}

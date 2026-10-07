@@ -1,0 +1,460 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\v2.24\\claude-code\\001\\report-5.md",
+  "pack": "hertz-fy2013",
+  "words": 1286,
+  "pages_est": 2.9,
+  "quotes": {
+   "total": 15,
+   "exact_on_page": 11,
+   "exact_page_differs": 0,
+   "exact_no_page": 3,
+   "other_document": 1,
+   "not_found": 0
+  },
+  "figures": {
+   "found": 59,
+   "computed_percent": 1,
+   "computed_table": 0,
+   "not_found": 3
+  },
+  "arithmetic": {
+   "pre_tax_income": 450.6,
+   "checked": 2,
+   "mismatches": 2
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "one-time",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      118
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      131
+     ]
+    ]
+   ],
+   "context": " but charged every year, plus new add-backs this year** - **Shown:** The measure adds back \"certain one-time charges\" (M"
+  },
+  {
+   "quote": "certain one-time charges",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      118
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      131
+     ]
+    ]
+   ],
+   "context": "MD&A p. 50"
+  },
+  {
+   "quote": "Additional efficiency and cost saving initiatives are being developed",
+   "cited_pages": [
+    140
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      44,
+      140
+     ]
+    ]
+   ],
+   "context": "p. 140"
+  },
+  {
+   "quote": "non-cash debt charges",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      54,
+      55,
+      59,
+      118,
+      120
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      10,
+      14,
+      19,
+      20
+     ]
+    ]
+   ],
+   "context": " now reads \"debt-related charges\" (p. 50 in both years)"
+  },
+  {
+   "quote": "debt-related charges",
+   "cited_pages": [
+    50
+   ],
+   "status": "found in another document",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      56,
+      57,
+      62,
+      63,
+      131,
+      134
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3,
+      9
+     ]
+    ]
+   ],
+   "context": "p. 50 in both years"
+  },
+  {
+   "quote": "one-time",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      50,
+      118
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      50,
+      131
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      19,
+      20
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      3
+     ]
+    ]
+   ],
+   "context": " sentence is contradicted by Note 14"
+  },
+  {
+   "quote": "indicative of the residual values experienced in the U.S",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42,
+      126
+     ]
+    ]
+   ],
+   "context": " The same note shows U.S"
+  },
+  {
+   "quote": "declining residual values",
+   "cited_pages": [
+    126
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      126
+     ]
+    ]
+   ],
+   "context": "p. 126"
+  },
+  {
+   "quote": "a deterioration in the used vehicle residual values",
+   "cited_pages": [
+    54
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      54
+     ]
+    ]
+   ],
+   "context": "p. 54"
+  },
+  {
+   "quote": "strong",
+   "cited_pages": [
+    113
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      10,
+      21,
+      42,
+      43,
+      51,
+      54,
+      55,
+      56,
+      59,
+      113
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2012-12-31.txt",
+     [
+      3,
+      4,
+      5
+     ]
+    ]
+   ],
+   "context": " was dropped from it (2012 p. 113)"
+  },
+  {
+   "quote": "longer holding periods",
+   "cited_pages": [
+    53
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      61
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      53,
+      66
+     ]
+    ]
+   ],
+   "context": "p. 53"
+  },
+  {
+   "quote": "decreased the percentage of program cars",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2012-12-31.txt",
+     [
+      41
+     ]
+    ],
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": "p. 42"
+  },
+  {
+   "quote": "carrying extra fleet",
+   "cited_pages": [
+    2
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "earnings-release-Q4-FY2013-12-31.txt",
+     [
+      2,
+      6
+     ]
+    ]
+   ],
+   "context": "release p. 2"
+  },
+  {
+   "quote": "unknowingly not being met",
+   "cited_pages": [
+    150
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      150
+     ]
+    ]
+   ],
+   "context": " at year-end (p. 150)"
+  },
+  {
+   "quote": "slight strengthening",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2013-12-31.txt",
+     [
+      43,
+      54
+     ]
+    ]
+   ],
+   "context": " of residual values matches smaller sale losses"
+  }
+ ],
+ "figures": {
+  "found": [
+   "$645.4 m",
+   "$98.8 m",
+   "14.9%",
+   "24.1%",
+   "73.9%",
+   "29.2%",
+   "$100.6 m",
+   "$48.2 m",
+   "16.2%",
+   "15.3%",
+   "14.3%",
+   "$44.2 m",
+   "6.7%",
+   "$39.6 m",
+   "22.9%",
+   "7.3%",
+   "22.1%",
+   "18.5%",
+   "$90.2 m",
+   "1.4%",
+   "22.4%",
+   "16.1%",
+   "$46.3 m",
+   "$450.6 m",
+   "$441.4 m",
+   "$901.5 m",
+   "$892.3 m",
+   "27.9%",
+   "$25.1 m",
+   "$29.3 m",
+   "$11.6 m",
+   "1.7%",
+   "$34.7 m",
+   "52.9",
+   "42.7",
+   "3.5%",
+   "19.4%",
+   "$23.2 m",
+   "$35.3 m",
+   "$58.5 m",
+   "$232.8 m",
+   "$65.0 m",
+   "$44.0 m",
+   "6.6%",
+   "9,000",
+   "$40.0 m",
+   "6.0%",
+   "47.8%",
+   "$41.9 m",
+   "$45.9 m",
+   "$21.9 m",
+   "$19.0 m",
+   "10.7%",
+   "11.5%",
+   "3.26%",
+   "9.2",
+   "$139.4 m",
+   "$8.8 m",
+   "$130.6 m"
+  ],
+  "computed_percent": [
+   "3.23%"
+  ],
+  "computed_table": [],
+  "not_found": [
+   "$159.9 m",
+   "$152.1 m",
+   "$4,677.5 m"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 450.6,
+  "source": "reply",
+  "note": "reply states pre-tax income 450.6; workbook latest year 663.1 (a revised figure, or a different year)",
+  "checks": [
+   {
+    "amount": 98.8,
+    "stated": 14.9,
+    "recomputed": 21.9,
+    "ok": false,
+    "sentence": "- Sizes: restructuring plus related costs $98.8m = 14.9% of pre-tax income; new add-backs 24.1%; all add-backs together 73.9%."
+   },
+   {
+    "amount": 11.6,
+    "stated": 1.7,
+    "recomputed": 2.6,
+    "ok": false,
+    "sentence": "- Sizes: 2013 errors $11.6m = 1.7% of pre-tax income."
+   }
+  ]
+ },
+ "post_cutoff": []
+}

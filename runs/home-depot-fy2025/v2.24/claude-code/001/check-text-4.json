@@ -1,0 +1,1152 @@
+{
+ "summary": {
+  "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\home-depot-fy2025\\v2.24\\claude-code\\001\\text-4.md",
+  "pack": "home-depot-fy2025",
+  "words": 1399,
+  "pages_est": 3.1,
+  "quotes": {
+   "total": 48,
+   "exact_on_page": 21,
+   "exact_page_differs": 0,
+   "exact_no_page": 21,
+   "other_document": 0,
+   "not_found": 6
+  },
+  "figures": {
+   "found": 19,
+   "computed_percent": 3,
+   "computed_table": 10,
+   "not_found": 2
+  },
+  "arithmetic": {
+   "pre_tax_income": 18602.0,
+   "checked": 0,
+   "mismatches": 0
+  },
+  "banned": {
+   "words": {},
+   "em_dashes": 0
+  },
+  "post_cutoff": 0
+ },
+ "quotes": [
+  {
+   "quote": "If our Pros are unable to make their payments, we may experience an increase in our losses",
+   "cited_pages": [
+    21
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      21
+     ]
+    ]
+   ],
+   "context": "FY2025 10-K, p. 21"
+  },
+  {
+   "quote": "primarily use trade credit",
+   "cited_pages": [
+    23
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      23
+     ]
+    ]
+   ],
+   "context": "p. 23"
+  },
+  {
+   "quote": "we may experience losses",
+   "cited_pages": [
+    21
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      21
+     ]
+    ]
+   ],
+   "context": "FY2026 10-K, p. 21"
+  },
+  {
+   "quote": "increasingly use trade credit",
+   "cited_pages": [
+    24
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      24
+     ]
+    ]
+   ],
+   "context": "p. 24"
+  },
+  {
+   "quote": "not material",
+   "cited_pages": [
+    48
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      39,
+      48,
+      49,
+      52,
+      64,
+      66,
+      74,
+      75,
+      76,
+      77
+     ]
+    ]
+   ],
+   "context": " in both years (p. 48)"
+  },
+  {
+   "quote": "increasingly",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      8,
+      14,
+      15,
+      19,
+      20,
+      21,
+      23,
+      24
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      9,
+      14,
+      15,
+      19,
+      20,
+      21,
+      24
+     ]
+    ]
+   ],
+   "context": " itself signals more credit use"
+  },
+  {
+   "quote": "non-recurring",
+   "cited_pages": [
+    34
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": "** - **Before:** fiscal 2024 SG&A rose partly because of \"**lower legal-related benefits**\" (FY2025 10-K, p. 34)"
+  },
+  {
+   "quote": "lower legal-related benefits",
+   "cited_pages": [
+    34
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": "FY2025 10-K, p. 34"
+  },
+  {
+   "quote": "the impact of a non-recurring legal-related benefit recognized during fiscal 2024",
+   "cited_pages": [
+    34
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": "FY2026 10-K, p. 34"
+  },
+  {
+   "quote": "Estimation of store shrink",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": ", which included \"Performing a sensitivity analysis over the shrink reserve estimate\" (FY2025 10-K, p. 42)"
+  },
+  {
+   "quote": "Performing a sensitivity analysis over the shrink reserve estimate",
+   "cited_pages": [
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": "FY2025 10-K, p. 42"
+  },
+  {
+   "quote": "Sufficiency of audit evidence over certain merchandise inventories",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      41
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "the highly automated nature of the process",
+   "cited_pages": [
+    41,
+    42
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      42
+     ]
+    ]
+   ],
+   "context": ", not the shrink estimate (FY2026 10-K, pp. 41-42)"
+  },
+  {
+   "quote": "primarily based on recent shrink results",
+   "cited_pages": [
+    39
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      39,
+      42,
+      49
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      39,
+      49
+     ]
+    ]
+   ],
+   "context": ", p. 39 in both years)"
+  },
+  {
+   "quote": "lower shrink",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      34
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      34
+     ]
+    ]
+   ],
+   "context": ", and the auditor no longer singles it out"
+  },
+  {
+   "quote": "business transformation initiative... migrating certain accounting and finance systems",
+   "cited_pages": [
+    77
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      76
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      77
+     ]
+    ]
+   ],
+   "context": " in the controls section (p. 77)"
+  },
+  {
+   "quote": "should not be considered in isolation",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      35
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      35
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      3
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      3,
+      8
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "substantially all of the $5.1 billion of non-cash unremitted earnings",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      67
+     ]
+    ]
+   ],
+   "context": " became \"substantially all non-cash unremitted earnings\""
+  },
+  {
+   "quote": "substantially all non-cash unremitted earnings",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      67
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "impracticable",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      67
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      67
+     ]
+    ]
+   ],
+   "context": ")"
+  },
+  {
+   "quote": "primarily the first-in, first-out method",
+   "cited_pages": [
+    49
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      39,
+      49
+     ]
+    ]
+   ],
+   "context": " became \"primarily the **moving average cost and** first-in, first-out methods\" (Note 1 p. 49 in both years"
+  },
+  {
+   "quote": "primarily the moving average cost and first-in, first-out methods",
+   "cited_pages": [
+    38,
+    39,
+    49
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      38,
+      41,
+      49
+     ]
+    ]
+   ],
+   "context": "Note 1 p. 49 in both years; critical estimates p. 39 \u2192 p. 38"
+  },
+  {
+   "quote": "no impact on consolidated net sales",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      56
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      56
+     ]
+    ]
+   ],
+   "context": ""
+  },
+  {
+   "quote": "involved in litigation or governmental enforcement actions related to... PFAS",
+   "cited_pages": [
+    22
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      22
+     ]
+    ]
+   ],
+   "context": "FY2025 p. 22"
+  },
+  {
+   "quote": "Sustained periods without such events can lead, and in the past have led, to lower sales",
+   "cited_pages": [
+    22
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      22
+     ]
+    ]
+   ],
+   "context": "FY2026 p. 22"
+  },
+  {
+   "quote": "reasonably possible",
+   "cited_pages": [
+    67
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      67
+     ]
+    ]
+   ],
+   "context": " unrecognized tax benefits fall (FY2025 p. 67), even though they then fell 10.8%"
+  },
+  {
+   "quote": "holding period",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": ", \"useful life\", \"average\", \"residual\" and \"salvage\" returned no hits for \"holding period\" or \"salvage\""
+  },
+  {
+   "quote": "useful life",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      49,
+      74
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      49,
+      74,
+      76
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      8
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      8
+     ]
+    ]
+   ],
+   "context": ", \"average\", \"residual\" and \"salvage\" returned no hits for \"holding period\" or \"salvage\""
+  },
+  {
+   "quote": "average",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      5,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      44,
+      52,
+      54,
+      59,
+      61,
+      69,
+      70,
+      71,
+      72,
+      73,
+      75
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      5,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      38,
+      41,
+      44,
+      49,
+      52,
+      54,
+      59,
+      61,
+      69,
+      70,
+      71,
+      72,
+      73
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      2,
+      5
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      2,
+      5
+     ]
+    ]
+   ],
+   "context": ", \"residual\" and \"salvage\" returned no hits for \"holding period\" or \"salvage\""
+  },
+  {
+   "quote": "residual",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      50,
+      75
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      50,
+      75
+     ]
+    ]
+   ],
+   "context": " and \"salvage\" returned no hits for \"holding period\" or \"salvage\""
+  },
+  {
+   "quote": "salvage",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": " returned no hits for \"holding period\" or \"salvage\""
+  },
+  {
+   "quote": "holding period",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": " or \"salvage\""
+  },
+  {
+   "quote": "salvage",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": ""
+  },
+  {
+   "quote": "Residual",
+   "cited_pages": [
+    50,
+    75
+   ],
+   "status": "not found",
+   "found": [],
+   "context": " appears only in \"residual value guarantees\" (p. 50 in both years) and \"residual goodwill\" (p. 75 in both years)"
+  },
+  {
+   "quote": "residual value guarantees",
+   "cited_pages": [
+    50
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      50
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      50
+     ]
+    ]
+   ],
+   "context": "p. 50 in both years"
+  },
+  {
+   "quote": "residual goodwill",
+   "cited_pages": [
+    75
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      75
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      75
+     ]
+    ]
+   ],
+   "context": "p. 75 in both years"
+  },
+  {
+   "quote": "average",
+   "cited_pages": [
+    75
+   ],
+   "status": "exact, on cited page",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      5,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      44,
+      52,
+      54,
+      59,
+      61,
+      69,
+      70,
+      71,
+      72,
+      73,
+      75
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      5,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      38,
+      41,
+      44,
+      49,
+      52,
+      54,
+      59,
+      61,
+      69,
+      70,
+      71,
+      72,
+      73
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      2,
+      5
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      2,
+      5
+     ]
+    ]
+   ],
+   "context": " hits are mostly share counts, ticket size and interest rates"
+  },
+  {
+   "quote": "three to seven years",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      49
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      49
+     ]
+    ]
+   ],
+   "context": " | 49 \u2192 49 | No software balance or amortization disclosed | Can't tell | | Gift cards redeemed \"within six months\" | 52"
+  },
+  {
+   "quote": "within six months",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      52
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      52
+     ]
+    ]
+   ],
+   "context": " | 52 \u2192 52 | Liability $1.1bn both years"
+  },
+  {
+   "quote": "based on historical return levels",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      52
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      52
+     ]
+    ]
+   ],
+   "context": " | 52 \u2192 52 | No amounts in either year | Can't tell | | Self-insurance \"(undiscounted)\" | 52 \u2192 52 | $1.5bn \u2192 $1.6bn"
+  },
+  {
+   "quote": "(undiscounted)",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      52
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      52
+     ]
+    ]
+   ],
+   "context": " | 52 \u2192 52 | $1.5bn \u2192 $1.6bn"
+  },
+  {
+   "quote": "longer-term relationships",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      23
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      24
+     ]
+    ]
+   ],
+   "context": " | 23 \u2192 24 | Customer receivables $1,896m \u2192 $2,588m | Can't test as stated | | Unrecognized share-based pay over \"(appro"
+  },
+  {
+   "quote": "(approximately) three years",
+   "cited_pages": [],
+   "status": "not found",
+   "found": [],
+   "context": " | 69 \u2192 69 | Unrecognized \u00f7 annual expense: 1.5 \u2192 1.4 years, not the same measure | Can't test as stated | | Weighted-av"
+  },
+  {
+   "quote": "12",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      1,
+      2,
+      9,
+      11,
+      16,
+      30,
+      33,
+      35,
+      37,
+      39,
+      40,
+      43,
+      44,
+      46,
+      57,
+      59,
+      60,
+      62,
+      63,
+      64,
+      65,
+      66,
+      71,
+      72,
+      73,
+      79,
+      80,
+      81
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      1,
+      2,
+      9,
+      11,
+      16,
+      30,
+      33,
+      35,
+      36,
+      37,
+      38,
+      40,
+      43,
+      44,
+      46,
+      47,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      62,
+      63,
+      64,
+      65,
+      66,
+      71,
+      72,
+      73,
+      80,
+      81,
+      82
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2025-02-02.txt",
+     [
+      5,
+      8
+     ]
+    ],
+    [
+     "earnings-release-Q4-FY2026-02-01.txt",
+     [
+      2,
+      5,
+      6,
+      8
+     ]
+    ]
+   ],
+   "context": " holds only within rounding | | PP&E lives: buildings 5-45, equipment 2-20 years | 49 \u2192 49 | Implied average life 13.8 \u2192"
+  },
+  {
+   "quote": "up to approximately 20 years",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      51
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      51
+     ]
+    ]
+   ],
+   "context": " | 51 \u2192 51 | Gross \u00f7 next year's amortization 17.1 \u2192 16.7 years | Yes | | SRS customer relationships 20 years, trade nam"
+  },
+  {
+   "quote": "primarily based on recent shrink results",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      39,
+      42,
+      49
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      39,
+      49
+     ]
+    ]
+   ],
+   "context": " | 39 \u2192 39 | Sensitivity $95m \u2192 $79m (-17%), in line with the stated lower shrink | Yes | | Next year's intangible amort"
+  },
+  {
+   "quote": "no impact on consolidated net sales",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      56
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      56
+     ]
+    ]
+   ],
+   "context": ") | 56 (FY2026) | | Intangible assets and their amortization shown on separate lines | FY2024 | None (reclassification o"
+  },
+  {
+   "quote": "no impact",
+   "cited_pages": [],
+   "status": "exact, no page cited",
+   "found": [
+    [
+     "annual-report-FY2025-02-02.txt",
+     [
+      54,
+      56
+     ]
+    ],
+    [
+     "annual-report-FY2026-02-01.txt",
+     [
+      54,
+      56
+     ]
+    ]
+   ],
+   "context": ") | 54 (FY2026) | | ASU 2023-07 (segments) and ASU 2022-04 (supplier finance) adopted | FY2024 | None | 54 (FY2025) | ##"
+  }
+ ],
+ "figures": {
+  "found": [
+   "$1,896 m",
+   "$2,588 m",
+   "3.2%",
+   "3.8%",
+   "$25.8 bn",
+   "$0.40",
+   "$0.50",
+   "3.3%",
+   "$5.1 billion",
+   "$4,898 m",
+   "$5,636 m",
+   "$7,889 m",
+   "$7,238 m",
+   "$47,721 m",
+   "$48,562 m",
+   "10.8%",
+   "$1.1 bn",
+   "$1.5 bn",
+   "$1.6 bn"
+  ],
+  "computed_percent": [
+   "36.5%",
+   "7.44%",
+   "7.38%"
+  ],
+  "computed_table": [
+   "1.5",
+   "1.4",
+   "4.0",
+   "3.8",
+   "5.7",
+   "5.4",
+   "13.8",
+   "14.0",
+   "17.1",
+   "16.7"
+  ],
+  "not_found": [
+   "$1,063 m",
+   "$0.46"
+  ]
+ },
+ "arithmetic": {
+  "pre_tax_income": 18602.0,
+  "source": "workbook",
+  "note": "",
+  "checks": []
+ },
+ "post_cutoff": []
+}
