@@ -176,7 +176,7 @@ def do_run(a) -> Path:
     replies: dict[str, str] = {}
     for n, track, out_name in STEPS:
         pname, body = load_prompt(n)
-        if n == 5:
+        if n == 5 and a.adapter != "manual":  # a person pastes the chat replies in themselves
             pasted = "\n\n".join(f"### Numbers track, reply {k}\n\n{replies.get(k, '[reply missing]')}" for k in (1, 2))
             body = body.replace("[paste them here]", pasted)
         (run_dir / f"prompt-{n}.md").write_text(body, encoding="utf-8")
