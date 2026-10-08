@@ -1,0 +1,695 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Home Depot, fiscal 2025: Forensic Method sample output</title><style>
+:root{--ink:#1d1d1b;--muted:#5c5c58;--navy:#223a55;--rule:#d9d9d4;--band:#f5f5f2;--bg:#ffffff;--accent:#2b5c8a}
+@media (prefers-color-scheme: dark){:root:not([data-theme=light]){--ink:#e8e8e4;--muted:#a6a6a0;--navy:#9db8d6;--rule:#3a3a38;--band:#1c1c1b;--bg:#121211;--accent:#8ab4e0}}
+:root[data-theme=dark]{--ink:#e8e8e4;--muted:#a6a6a0;--navy:#9db8d6;--rule:#3a3a38;--band:#1c1c1b;--bg:#121211;--accent:#8ab4e0}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.55 Georgia,"Times New Roman",serif}
+main{max-width:760px;margin:0 auto;padding:40px 16px 80px}
+h1{font:600 34px/1.15 "Segoe UI",system-ui,sans-serif;color:var(--navy);margin:0 0 6px}
+h2{font:600 22px/1.25 "Segoe UI",system-ui,sans-serif;color:var(--navy);margin:48px 0 12px;padding-top:18px;border-top:1px solid var(--rule)}
+h3{font:600 17px/1.3 "Segoe UI",system-ui,sans-serif;margin:22px 0 6px}
+p{margin:0 0 14px}
+.lede{font-size:19px;color:var(--ink)}
+.meta{font:14px/1.5 "Segoe UI",system-ui,sans-serif;color:var(--muted);margin-bottom:28px}
+.status{display:inline-block;font:13px/1 "Segoe UI",system-ui,sans-serif;background:var(--band);border:1px solid var(--rule);border-radius:4px;padding:6px 10px;margin:0 0 20px}
+a{color:var(--accent)}
+ul,ol{padding-left:22px;margin:0 0 14px} li{margin:4px 0}
+table{border-collapse:collapse;width:100%;font:15px/1.4 "Segoe UI",system-ui,sans-serif;margin:8px 0 18px}
+th{text-align:left;background:var(--navy);color:#fff;padding:7px 9px;font-weight:600}
+td{padding:7px 9px;border-bottom:1px solid var(--rule);vertical-align:top}
+tr:nth-child(even) td{background:var(--band)}
+details{border:1px solid var(--rule);border-radius:6px;margin:10px 0;background:var(--band)}
+summary{cursor:pointer;padding:12px 14px;font:600 16px/1.3 "Segoe UI",system-ui,sans-serif;list-style:none}
+summary::-webkit-details-marker{display:none}
+summary::before{content:"+ ";color:var(--accent)} details[open] summary::before{content:"\2013 "}
+summary small{display:block;font-weight:400;color:var(--muted);margin-top:3px}
+.prompt{padding:0 14px 14px}
+.prompt pre{white-space:pre-wrap;font:14px/1.5 "Segoe UI",system-ui,sans-serif;background:var(--bg);border:1px solid var(--rule);border-radius:4px;padding:14px;max-height:420px;overflow:auto;margin:8px 0}
+button.copy{font:600 14px/1 "Segoe UI",system-ui,sans-serif;background:var(--navy);color:#fff;border:0;border-radius:4px;padding:9px 14px;cursor:pointer}
+button.copy:hover{opacity:.9}
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:14px 0 18px}
+.step{background:var(--band);border:1px solid var(--rule);border-radius:6px;padding:14px}
+.step b{display:block;font:600 15px/1.3 "Segoe UI",system-ui,sans-serif;color:var(--navy);margin-bottom:6px}
+.step p{font-size:15px;margin:0}
+@media (max-width:640px){.steps{grid-template-columns:1fr}}
+.cards{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media (max-width:640px){.cards{grid-template-columns:1fr}}
+.card{border:1px solid var(--rule);border-radius:6px;padding:16px;background:var(--band)}
+.card h3{margin-top:0}
+.card p{font-size:15px}
+footer{margin-top:60px;padding-top:18px;border-top:1px solid var(--rule);font:14px/1.6 "Segoe UI",system-ui,sans-serif;color:var(--muted)}
+.reply{margin:28px 0}
+.reply h2{margin-top:36px}
+.reply table{font-size:14px}
+.reply pre{white-space:pre-wrap;font-size:14px}
+nav.top{font:14px/1.5 "Segoe UI",system-ui,sans-serif;color:var(--muted);margin-bottom:24px}
+nav.top a{margin-right:14px}
+</style></head>
+<body><main><nav class="top"><a href="../index.html">Forensic Method</a> &rsaquo; What it produces</nav><h1>The Home Depot, fiscal 2025</h1>
+<p class="meta">Prompts v2.26, run through the harness on claude-opus-5-5 on 2026-10-06, with these files: statements.xlsx, annual-report-FY2025-02-02-key-sections.txt, annual-report-FY2026-02-01-key-sections.txt, earnings-release-Q4-FY2025-02-02.txt, earnings-release-Q4-FY2026-02-01.txt. Every quotation and figure below was checked against the filings afterwards; the checker's reports are in the repository beside the replies. Nothing here is edited, except that a dash the model drew as an em-dash is shown as a hyphen.</p>
+<p>A large retailer with two recent acquisitions and no known accounting problem. Notice that nothing is called a contradiction, every reading is ordinary or can&#x27;t tell, and the report still gives an analyst five places to look.</p>
+<p>Contents: <a href="#report-5">The report</a> &middot; <a href="#numbers-1">Prompt 1, scan the numbers</a> &middot; <a href="#numbers-2">Prompt 2, follow the flags</a> &middot; <a href="#text-3">Prompt 3, read the footnotes</a> &middot; <a href="#text-4">Prompt 4, compare the footnotes</a></p><section class="reply" id="report-5"><h2>The report</h2><p><strong>The Home Depot: fiscal 2025 (52 weeks to 1 February 2026), compared with fiscal 2024 (53 weeks to 2 February 2025)</strong>
+Sources: the key sections of both 10-Ks, both Q4 results releases and statements.xlsx. Below, "text-1" and "text-2" are my two earlier replies; "numbers-1" and "numbers-2" are the pasted replies. Sizes are shares of fiscal 2025 pre-tax income of $18,602m.</p>
+<p>No company sentence was contradicted by its own numbers or by another sentence, so nothing reaches level 1. Items 1–4 are level 2; item 5 is level 3.</p>
+<h2>Items to investigate</h2>
+<p><strong>1. Operating margin and SG&amp;A: Primary SG&amp;A is outgrowing sales, partly explained by an unquantified "non-recurring" legal benefit</strong>
+- <strong>Shown:</strong> Operating margin fell from 13.50% to 12.69%. About 48% of the fall is mix shift toward SRS. Another 43% comes from Primary SG&amp;A, which went from 18.2% to 19.0% of segment sales while segment gross margin rose (p.33–34, 55). Last year the higher fiscal 2024 SG&amp;A was blamed partly on "lower legal-related benefits". This year the fiscal 2024 benefit is "non-recurring", with no amount in either year (p.34 both years). Size: $1,334m, 7.2% of pre-tax income, an income effect; ranks on 7.2%. From numbers-1 flag 2, numbers-2 write-up 2 and text-2 write-up 2.
+- <strong>Reading:</strong> The tracks differ. Numbers-2: possibly the business weakening, with Primary SG&amp;A outgrowing sales for a second year. Text-2: can't tell from these documents; calling the benefit "non-recurring" could make the cost rise look temporary. If the benefit turned out to be most of the 0.84-point rise, both readings would move to ordinary.
+- <strong>Next:</strong> Ask for the amount of the fiscal 2024 legal benefit, any similar benefits in fiscal 2023 and 2025, and Primary payroll costs.</p>
+<p><strong>2. Acquired intangibles: long lives, and amortization excluded from adjusted results</strong>
+- <strong>Shown:</strong> SRS customer relationships have a 20-year life and GMS's 19, at the top of the "up to approximately 20 years" policy range. Amortization is straight-line even though the valuations assume customer attrition (p.51, 74, 76). The charge does match the stated lives. Adjusted operating income and EPS exclude the $607m of amortization while keeping the related revenue (release p.8). The schedule shows $683m in fiscal 2026 and $6,476m thereafter (p.61). The adjusted EPS gap widened from $0.33 to $0.46.
+- <strong>Sizes:</strong> income effect, illustrative, of 0.5–1.6% if lives were 15 or 10 years; ranks on 1.6%. Excluded from adjusted income: $607m, 3.3%.
+- <strong>Sources:</strong> text-1 write-ups 1–2 and profile rows, text-2 statements row and note on adjusted measures, numbers-2 "Adjusted earnings".
+- <strong>Reading:</strong> For the adjusted measure, most likely an ordinary, fully reconciled choice, slightly stretched because the revenue stays in. For the lives, possibly mildly stretched. Low customer attrition would make 19–20 years ordinary.
+- <strong>Next:</strong> The attrition and discount rates used for SRS and GMS; the final GMS lives; whether pay targets use adjusted figures.</p>
+<p><strong>3. Merchandise inventory: a build the company does not explain, while shrink review moved out of the critical audit matters</strong>
+- <strong>Shown:</strong>
+  - Days inventory rose from 81.9 to 85.6, and Q4 from 86.2 to 91.3. Excluding GMS it is still 83.7 against 81.9. The company only restates the movement ("higher average inventory levels", p.32, 37).
+  - The store-shrink critical audit matter was dropped (last year p.42); the new matter covers IT evidence for retail-method inventory (p.41–42).
+  - The shrink sensitivity fell from $95m to $79m, an implied estimate down about 17%, with the method wording unchanged (p.39 both years).
+  - The cost method now reads "moving average cost and first-in, first-out", with no change disclosed (p.38, 49).
+- <strong>Sizes:</strong> balance of $1,102m in excess inventory (numbers-1 expressed it as 5.9% of pre-tax income); shrink exposure $79m, 0.4%. No income effect. The balance is far larger than item 2's income effect but cannot outrank it.
+- <strong>Sources:</strong> numbers-1 flag 3, numbers-2 write-up 1, text-2 write-up 1, its shrink table row and its "Other changes" line 1.
+- <strong>Reading:</strong> The tracks differ. Numbers-2: possibly the business weakening, with stock built ahead of flat demand (comparable transactions −1.0%). Text-2: the change of audit matter is most likely ordinary, and the shrink estimate can't be judged. A deliberate build ahead of tariffs would point to ordinary.
+- <strong>Next:</strong> Inventory by segment; markdown and shrink reserve movements; how estimated shrink compared with actual counts.</p>
+<p><strong>4. Receivables: days sales outstanding rising, an allowance with no figure, and a risk factor now saying Pros "increasingly" use trade credit</strong>
+- <strong>Shown:</strong> Days sales outstanding rose from 7.9 to 11.4 to 12.4; Q4 went from 12.1 to 13.3. Receivables are 3.4% of sales against an industry 2.8%. GMS brought $899m of receivables, which covers the rise. The company explains nothing for fiscal 2025 and calls the allowance only "not material" (p.48). The risk factor changed from "primarily use" to "increasingly use trade credit" (last year p.23, this year p.24).
+- <strong>Sizes:</strong> balance of $438m above prior-year days (numbers-1 gave 2.4%); customer receivables $2.6bn, also a balance.
+- <strong>Sources:</strong> numbers-1 flag 5, numbers-2 write-up 3, text-1 profile row 2, text-2 "Other changes" line 3.
+- <strong>Reading:</strong> Numbers-2: most likely ordinary, a mix shift toward distribution businesses that extend credit. Text-1: can't tell, not enough disclosed. Rising days in the Primary business would change the reading.
+- <strong>Next:</strong> Receivables by segment and an allowance roll-forward with write-offs.</p>
+<p><strong>5. SRS goodwill: test passed with no stated headroom against thin segment earnings</strong>
+- <strong>Shown:</strong> The SRS reporting units' fair value only "exceeded" carrying amount, where Primary's "substantially exceeded". GMS goodwill was not tested, on the ground that the deal was too recent (p.60). Other earned $316m of operating income (2.5% margin) after $398m of amortization (p.55). Size: balance, $13.8bn of goodwill in Other. Level 3. From text-1 profile row and "Also noted" line 3.
+- <strong>Reading:</strong> Can't tell from these documents. Fair value close to carrying amount is normal for recent purchases.
+- <strong>Next:</strong> Headroom, discount rate and growth assumptions for each SRS reporting unit, and SRS/GMS profit before amortization.</p>
+<h2>Also noted</h2>
+<ul>
+<li>Return on invested capital leaves out $4.5bn of commercial paper: 25.7% against 24.7% if included (p.35).</li>
+<li>The "reasonably possible" sentence on unrecognized tax benefits was dropped (last year p.67).</li>
+<li>The finance-lease remaining term stayed at 12 years while the final maturity moved from 2055 to 2075; can't tell if that fits (p.59, 62).</li>
+<li>No accrual or possible-loss amounts for litigation (p.73).</li>
+<li>The returns, self-insurance, software and gift-card estimates can't be tested (p.49, 52).</li>
+<li>GMS's "approximately 3%" of assets in the controls exclusion can't be tested as stated (p.77).</li>
+<li>Wording changes: the PFAS sentence was dropped, a sentence on storms was added (p.22), and the indefinite-lived intangibles test wording changed (p.61).</li>
+<li>Tie-out gaps: depreciation ($62m), stock compensation ($2m), swap liability ($1m). The product-line reclassification is disclosed.</li>
+</ul>
+<h2>Checked and explained</h2>
+<ul>
+<li>Free cash flow ran $1,510m (8.1%) below net income. Vendor timing, the deferred tax payment and inventory explain 102% of the working-capital swing, and two-year free cash flow equals two-year net income.</li>
+<li>The fall in payables fits vendor timing plus $184m less under the supplier finance program.</li>
+<li>These claims held when tested:</li>
+<li>GMS was about 1% of sales.</li>
+<li>Acquisitions added "$6.3 billion" of sales.</li>
+<li>The rise in depreciation and amortization came "primarily" from intangibles.</li>
+<li>Return on invested capital and the lease and deferred-revenue tie-outs reconcile.</li>
+<li>Property lives fit the depreciation rate (7.44% to 7.38%).</li>
+<li>The amortization charge matches the stated intangible lives.</li>
+</ul>
+<h2>Not examined</h2>
+<p>These documents don't include related parties (Item 13), Schedule II, or balances for the allowance, returns or shrink reserves. Receivables and inventory are not split by segment, and the legal benefit has no amount.</p>
+<p>Items to investigate, not conclusions. The verdicts are the analyst's.</p></section><section class="reply" id="numbers-1"><h2>Prompt 1, scan the numbers</h2><table>
+<thead>
+<tr>
+<th>Measure</th>
+<th>FY Jan-22</th>
+<th>FY Jan-23</th>
+<th>FY Jan-24</th>
+<th>FY Feb-25 (53 wk)</th>
+<th>FY Feb-26</th>
+<th>Q4 Feb-25 (14 wk)</th>
+<th>Q4 Feb-26 (13 wk)</th>
+<th>Industry</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Days sales outstanding</td>
+<td></td>
+<td>7.7</td>
+<td>7.9</td>
+<td>11.4</td>
+<td>12.4</td>
+<td>12.1</td>
+<td>13.3</td>
+<td></td>
+</tr>
+<tr>
+<td>Days inventory</td>
+<td></td>
+<td>86.6</td>
+<td>75.1</td>
+<td>81.9</td>
+<td>85.6</td>
+<td>86.2</td>
+<td>91.3</td>
+<td></td>
+</tr>
+<tr>
+<td>Days payable</td>
+<td></td>
+<td>39.8</td>
+<td>35.9</td>
+<td>41.7</td>
+<td>38.1</td>
+<td>43.9</td>
+<td>40.6</td>
+<td></td>
+</tr>
+<tr>
+<td>Receivables minus revenue growth (pp)</td>
+<td></td>
+<td></td>
+<td>+3.3</td>
+<td>+42.8</td>
+<td>+10.9</td>
+<td>+33.2</td>
+<td>+17.9</td>
+<td></td>
+</tr>
+<tr>
+<td>Inventory minus cost-of-sales growth (pp)</td>
+<td></td>
+<td></td>
+<td>−12.9</td>
+<td>+7.4</td>
+<td>+6.7</td>
+<td>−2.8</td>
+<td>+13.6</td>
+<td></td>
+</tr>
+<tr>
+<td>Payables minus cost-of-sales growth (pp)</td>
+<td></td>
+<td></td>
+<td>−9.5</td>
+<td>+14.5</td>
+<td>−7.1</td>
+<td>+4.4</td>
+<td>−0.2</td>
+<td></td>
+</tr>
+<tr>
+<td>Receivables, % of sales</td>
+<td></td>
+<td>2.1</td>
+<td>2.2</td>
+<td>3.1</td>
+<td>3.4</td>
+<td></td>
+<td></td>
+<td>2.8</td>
+</tr>
+<tr>
+<td>Inventory, % of sales</td>
+<td></td>
+<td>15.8</td>
+<td>13.7</td>
+<td>14.7</td>
+<td>15.7</td>
+<td></td>
+<td></td>
+<td>16.8</td>
+</tr>
+<tr>
+<td>Payables, % of sales</td>
+<td></td>
+<td>7.3</td>
+<td>6.6</td>
+<td>7.5</td>
+<td>7.0</td>
+<td></td>
+<td></td>
+<td>9.4</td>
+</tr>
+<tr>
+<td>Gross margin %</td>
+<td>33.6</td>
+<td>33.5</td>
+<td>33.4</td>
+<td>33.4</td>
+<td>33.3</td>
+<td>32.8</td>
+<td>32.6</td>
+<td>34.2</td>
+</tr>
+<tr>
+<td>Operating margin %</td>
+<td>15.2</td>
+<td>15.3</td>
+<td>14.2</td>
+<td>13.5</td>
+<td>12.7</td>
+<td>11.3</td>
+<td>10.1</td>
+<td>11.9</td>
+</tr>
+<tr>
+<td>Accruals, % of avg. total assets (quarter not annualised)</td>
+<td></td>
+<td></td>
+<td>−7.9</td>
+<td>−5.8</td>
+<td>−2.2</td>
+<td>−1.7</td>
+<td>−0.7</td>
+<td></td>
+</tr>
+<tr>
+<td>Free cash flow ($m)</td>
+<td>14,005</td>
+<td>11,496</td>
+<td>17,946</td>
+<td>16,325</td>
+<td>12,646</td>
+<td>3,570</td>
+<td>2,289</td>
+<td></td>
+</tr>
+<tr>
+<td>Free cash flow ÷ net income</td>
+<td>0.85</td>
+<td>0.67</td>
+<td>1.19</td>
+<td>1.10</td>
+<td>0.89</td>
+<td>1.19</td>
+<td>0.89</td>
+<td></td>
+</tr>
+<tr>
+<td>Depreciation rate % (quarter annualised, different basis)</td>
+<td></td>
+<td></td>
+<td></td>
+<td>7.44</td>
+<td>7.38</td>
+<td>5.51</td>
+<td>5.60</td>
+<td></td>
+</tr>
+<tr>
+<td>Capex ÷ depreciation</td>
+<td></td>
+<td>1.13</td>
+<td>1.07</td>
+<td>1.06</td>
+<td>1.07</td>
+<td></td>
+<td></td>
+<td>1.2</td>
+</tr>
+<tr>
+<td>Beneish M-score</td>
+<td></td>
+<td></td>
+<td>−2.81</td>
+<td>−2.12</td>
+<td>−2.42</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Acquisition payments ($m)</td>
+<td>421</td>
+<td>0</td>
+<td>1,514</td>
+<td>17,644</td>
+<td>5,410</td>
+<td>31</td>
+<td>162</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>The cost line is the reported "Cost of sales." Annual depreciation is "Depreciation and finance lease amortization expense" from the property note. For the quarters, depreciation is the release's income-statement "Depreciation and amortization" line less "Acquired intangible asset amortization." That basis leaves out depreciation in cost of sales, so compare the two quarters only with each other. Both Q4 columns come from the spreadsheet with its one mixed-basis line left out.</p>
+<p><strong>Flags</strong></p>
+<ol>
+<li><strong>Free cash flow fell behind net income.</strong> Free cash flow ÷ net income went from 1.19 (FY Jan-24) to 1.10 and then 0.89 (FY Feb-26). Q4 fell from 1.19 to 0.89, and accruals rose from −7.9% to −2.2%. The release notes lower cash taxes from the new tax law (OBBBA), though that would raise cash flow, not lower it.
+   Size: $1,510m, 8.1% of pre-tax income (net income $14,156m less free cash flow $12,646m). It has run for 2 years and 2 same-quarter comparisons.</li>
+<li><strong>Operating margin fell.</strong> It dropped from 13.50% to 12.69% in FY Feb-26, and Q4 dropped from 11.3% to 10.1%. The SRS (FY Feb-25) and GMS (Sep 2025, $5.0bn) acquisitions raised intangible amortization.
+   Size: $1,334m, 7.2% of pre-tax income (0.81 pp × FY revenue of $164,683m). It has run for 3 years and 2 same-quarter comparisons.</li>
+<li><strong>Inventory outgrew cost of sales.</strong> Days inventory rose from 81.9 to 85.6. Inventory grew 6.7 pp faster than cost of sales, and Q4 days rose from 86.2 to 91.3. The GMS acquisition in Q3 FY Feb-26 could explain it.
+   Size: $1,102m, 5.9% of pre-tax income (inventory less inventory at prior-year days; the Q4 figure is $1,450m). It has run for 2 years and 2 same-quarter comparisons.</li>
+<li><strong>Payables fell while cost of sales rose.</strong> Days payable dropped from 41.7 to 38.1, as payables fell 3.7% against cost of sales up 3.4%. At 7.0% of sales, payables also sit 2.4 pp below the industry's 9.4%.
+   Size: $1,090m, 5.9% of pre-tax income (payables at prior-year days less the actual balance). It has run for 1 year and 1 same-quarter comparison.</li>
+<li><strong>Receivables outgrew sales.</strong> Days sales outstanding rose from 7.9 to 11.4 and then 12.4. Receivables are 3.4% of sales against the industry's 2.8%. The annual report links the rise in customer receivables to SRS, and GMS followed in FY Feb-26.
+   Size: $438m, 2.4% of pre-tax income (receivables less receivables at prior-year days; the Q4 figure is $517m). It has run for 3 years and 2 same-quarter comparisons.</li>
+</ol>
+<p><strong>Revised figures:</strong> No revision moved income or equity. The cash-flow depreciation figure was cut by $179m (FY Jan-23), $186m (FY Jan-24) and $52m (Q1 FY Jan-25), with the same amounts moved to a new intangible amortization line. In the Jan-24 balance sheet, $3,606m moved from "Other assets" to "Intangible assets, net."</p>
+<p><strong>Not calculated:</strong>
+- <strong>Allowance for doubtful accounts:</strong> both annual reports call it "not material" and give no figure.
+- <strong>Earlier years:</strong> the spreadsheet's balance sheets start at Jan-23, so there are no FY Jan-22 balance measures, FY Jan-23 growth gaps or accruals, or M-score before FY Jan-24.
+- <strong>Depreciation rate before FY Feb-25:</strong> the property note gives gross assets only from Jan-24.
+- <strong>Quarterly gross assets:</strong> the documents don't give them, so each quarter's annualised rate uses the year-end gross assets from the property note.</p></section><section class="reply" id="numbers-2"><h2>Prompt 2, follow the flags</h2><p><strong>Inventory: days inventory up from 81.9 to 85.6, with inventory rising 6.7 pp faster than cost of sales (FY Feb-26)</strong>
+- <strong>The company says:</strong> "inventory turnover ratio was 4.4 times… compared to 4.7… primarily driven by higher average inventory levels" (Annual report FY Feb-26, p. 32). That restates the movement; it gives no cause. The cash-flow discussion also only names "increased inventories" (p. 37). Last year the explanation went the other way: turnover rose on "lower average inventory levels within our Primary segment" (Annual report FY Feb-25, p. 32).
+- <strong>Test:</strong> The note on the GMS acquisition gives $568m of inventory acquired. That is 24% of the $2,366m rise and 2.2% of the $25,817m year-end balance. The cash-flow line, which leaves acquisitions out, shows $1,498m of increase from existing businesses: 63% of the rise, or 6.4% growth on the opening balance. The Primary segment's cost of sales per week rose only 0.4% (52 against 53 weeks). Excluding the GMS inventory, days inventory is still 83.7 against 81.9. The company names no cause, so there is no explanation to test (does not hold). Q4 shows the same pattern: inventory rose 10.1% while cost of sales per day rose 3.9%.
+- <strong>Reading:</strong> Possibly the business weakening. Inventory built ahead of flat demand, with comparable customer transactions down 1.0% (p. 33). The report also mentions tariff costs and "some price increases" (p. 32). A deliberate pre-tariff build would point to the ordinary reading, but the documents don't say whether there was one.
+- <strong>Read next:</strong> Inventory by segment and the markdown and shrink reserve movements. Neither is in these documents: the notes only say cost-method adjustments were "not material" (p. 48).</p>
+<p><strong>Operating margin: down from 13.50% to 12.69% (FY Feb-26); Q4 down from 11.3% to 10.1%</strong>
+- <strong>The company says:</strong> Gross margin fell on "the inclusion of SRS and GMS" (p. 34). SG&amp;A rose on "higher payroll and related costs… along with the impact of a non-recurring legal-related benefit recognized during fiscal 2024" (p. 34). Depreciation and amortization rose on "intangible asset amortization… from our acquisitions" (p. 34). Last year's report gave the same reasons: "higher payroll costs… and lower legal-related benefits" (Annual report FY Feb-25, p. 34). The Q4 release adds only the 13- against 14-week comparison.
+- <strong>Test:</strong> The shift in sales mix toward the lower-margin SRS business accounts for 0.39 pp of the 0.81 pp fall (48%). The Primary segment's own margin fell from 13.92% to 13.54%, taking 0.35 pp (43%). The rest of the business took 0.06 pp. Within the Primary segment, gross margin rose from 33.9% to 34.4%, so the segment's fall comes from SG&amp;A. Primary SG&amp;A went from 18.2% to 19.0% of segment sales, growing 3.8% while segment sales fell 0.7%. The company does not quantify payroll or the legal benefit, so that half cannot be tested. The explanation partly holds.
+- <strong>Reading:</strong> Possibly the business weakening in the Primary segment, with SG&amp;A outgrowing sales for a second year. If the undisclosed legal benefit turned out to be most of the 0.84 pp rise in Primary SG&amp;A, the reading would be ordinary.
+- <strong>Read next:</strong> The size of the fiscal 2024 legal-related benefit, and Primary payroll costs. Neither is disclosed in these documents.</p>
+<p><strong>Receivables: days sales outstanding up from 11.4 to 12.4 (FY Feb-26), after 7.9 to 11.4 the year before</strong>
+- <strong>The company says:</strong> Nothing about the fiscal 2025 increase. The note only defines customer receivables as "credit extended directly to certain customers" (p. 48). Last year's report did explain the rise: "increased… primarily as a result of the SRS acquisition" (Annual report FY Feb-25, p. 48).
+- <strong>Test:</strong> The company gives no explanation, so I tested the acquisition instead. GMS brought $899m of receivables at 4 September 2025, which is 130% of the $694m rise and 16% of the $5,597m year-end balance. Customer receivables alone rose $692m. Excluding GMS receivables and GMS's $2.0bn of sales, days sales outstanding is 10.5. This mixes an acquisition-date balance with a year-end one, so it is indicative only. Last year's SRS claim also checks out: $1,831m of receivables acquired covers 116% of the $1,575m rise. The acquisition could account for the rise, but the company does not say so.
+- <strong>Reading:</strong> Most likely ordinary: the mix has shifted toward distribution businesses that extend credit. Rising days in the Primary business would point elsewhere, but receivables are not split by segment.
+- <strong>Read next:</strong> Receivables by segment, and the allowance roll-forward. The allowance is "not material" (p. 48), and no movements are given.</p>
+<p><strong>Other flags</strong>
+- <strong>Free cash flow below net income (net income less free cash flow: $1,510m):</strong>
+  - The company says: "timing of vendor payments and increased inventories… along with the deferral of our fourth quarter fiscal 2024 estimated federal tax payment" (p. 37).
+  - Test: These three items explain 102% of the $3,763m swing in working capital (payables and accrued expenses −$1,576m, income taxes payable −$1,507m, inventories −$755m) and 110% of the $3,485m fall in operating cash flow. Over the last two years together, free cash flow of $28,971m matches net income of $28,962m. The explanation holds, except for the inventory part.
+  - Reading: most likely ordinary timing.
+- <strong>Payables fell while cost of sales rose:</strong>
+  - The company says: "timing of vendor payments" (p. 37). Last year it gave the same reason, working the other way (Annual report FY Feb-25, p. 38).
+  - Test: Excluding the $380m of payables GMS brought, payables fell $827m. Of that, $184m (22%) is the drop in obligations under the supplier finance program, from $598m to $414m (p. 51). Excluding GMS, days payable is 36.8, against 35.9 two years earlier, which fits a reversal of last year's timing gain. The explanation holds.
+  - Reading: most likely ordinary.</p>
+<p><strong>Revised basis:</strong> none of last reply's measures change. The only revisions moved amounts between lines (cash-flow depreciation into intangible amortization, and "Other assets" into intangible assets), so the M-score inputs and accruals are the same on the revised basis.</p>
+<p><strong>Adjusted earnings</strong>
+- Adjusted diluted EPS was $14.69 against $14.23 reported in FY Feb-26: a gap of $0.46, or 3.2%. In FY Feb-25 it was $15.24 against $14.91: $0.33, or 2.2%. In Q4 the gaps were $0.14 (5.4%) and $0.11 (3.6%).
+- The only adjustment in both years is "acquired intangible asset amortization": $607m and $425m (Results release FY Feb-26, p. 8). The releases do not call it non-recurring. The only item called "non-recurring" is the fiscal 2024 legal-related benefit (p. 34). It was not adjusted out of the FY Feb-25 figures and its amount isn't disclosed.</p>
+<p><strong>Changes in estimate that lifted income:</strong> None disclosed. Useful lives for property and equipment are unchanged in both reports. The depreciation rate barely moved, from 7.44% to 7.38%.</p></section><section class="reply" id="text-3"><h2>Prompt 3, read the footnotes</h2><p>Page numbers are the documents' own <code>[p. N]</code> markers.</p>
+<h2>1. Policy profile</h2>
+<table>
+<thead>
+<tr>
+<th>Area</th>
+<th>What the report says</th>
+<th>Where it sits</th>
+<th>Why, in a few words</th>
+<th>Size</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Revenue recognition</td>
+<td>Revenue is booked when the customer takes possession, net of expected returns. Services are booked on completion. Services where a subcontractor supplies material are reported gross. Gift-card breakage is immaterial (10-K p.52)</td>
+<td>Typical</td>
+<td>Point of sale, plain retail. Deferred revenue ties: $1.5bn + $1.1bn against $2,575m on the balance sheet</td>
+<td>Not quantified. The returns liability has no amount</td>
+</tr>
+<tr>
+<td>Reserves: receivables and returns</td>
+<td>The allowance on receivables "was not material" (p.48). Customer receivables rose 36% to $2,588m, mostly through GMS ($899m acquired)</td>
+<td>Can't tell: not enough disclosed</td>
+<td>No allowance amount, no returns-liability amount, no Schedule II</td>
+<td>Balance: $2.6bn of customer receivables</td>
+</tr>
+<tr>
+<td>Reserves: self-insurance and shrink</td>
+<td>Self-insurance claims are recorded at expected ultimate cost "(undiscounted)", $1.6bn (p.52). A 10% rise in the shrink rate would add "$79 million" to cost of sales (p.39)</td>
+<td>Leans conservative</td>
+<td>Not discounting gives a larger liability</td>
+<td>Balance: $1.6bn. Exposure: $79m (0.4% of pre-tax income)</td>
+</tr>
+<tr>
+<td>Useful lives: property and software</td>
+<td>Lives are 5–45 and 2–20 years. Software is capitalized over 3–7 years. Interest is capitalized but no amount is given (p.49)</td>
+<td>Typical</td>
+<td>Implied average life is 14.0 years and average age 9.1 years. That fits the stated ranges</td>
+<td>Not quantified</td>
+</tr>
+<tr>
+<td>Useful lives: acquired intangibles</td>
+<td>Customer relationships have weighted lives of "20" years for SRS (p.76) and "19" for GMS (p.74). The policy range is "up to approximately 20 years", straight-line (p.51)</td>
+<td>Leans aggressive</td>
+<td>The lives sit at the top of the range, while the valuation assumes customer attrition</td>
+<td>About 0.5–1.6% of pre-tax income (illustrative, see below)</td>
+</tr>
+<tr>
+<td>Impairment and goodwill</td>
+<td>Primary: a qualitative test, relying on a 2023 test that showed fair value "substantially exceeded" carrying value. SRS: fair value only "exceeded its respective carrying amount". GMS: "no events or circumstances" (p.60)</td>
+<td>Can't tell: not enough disclosed</td>
+<td>No headroom is given for $13.8bn of goodwill in Other</td>
+<td>Balance: goodwill $22.3bn</td>
+</tr>
+<tr>
+<td>Off the balance sheet</td>
+<td>"no material off-balance sheet arrangements" (p.37). Supplier finance is shown (p.51). Third parties own the private-label credit card receivables and are not consolidated (p.52). Letters of credit (p.73)</td>
+<td>Typical</td>
+<td>All items are disclosed with amounts</td>
+<td>Exposures: $675m of leases not yet started, $1.9bn purchase obligations, $738m letters of credit, $414m supplier finance (already within payables)</td>
+</tr>
+<tr>
+<td>Related parties</td>
+<td>Item 13 is not included. The only item found: SRS managers reinvested sale proceeds in company shares, "not material" (p.76)</td>
+<td>Can't tell: not enough disclosed</td>
+<td>Section not supplied</td>
+<td>Not quantified</td>
+</tr>
+<tr>
+<td>Contingencies and legal</td>
+<td>Litigation is "not expected to have a material adverse effect" (p.73). No accrual or possible-loss amounts. The management discussion cites a "non-recurring legal-related benefit" from fiscal 2024 with no amount (p.33)</td>
+<td>Can't tell: not enough disclosed</td>
+<td>No accrued or possible-loss figures</td>
+<td>Not quantified</td>
+</tr>
+<tr>
+<td>Auditor and controls</td>
+<td>KPMG, unqualified opinions on the accounts and on controls. One critical audit matter (retail-method inventory IT evidence). No material weakness. GMS excluded from the controls assessment (p.41–42, 77–78)</td>
+<td>Typical</td>
+<td>Standard first-year exclusion of an acquisition</td>
+<td>Not quantified</td>
+</tr>
+<tr>
+<td>Adjusted measures</td>
+<td>Adjusted figures exclude "amortization expense from acquired intangible assets". The company does "not adjust for the revenue" those assets generate (release p.8). Return on invested capital uses long-term debt only (p.35)</td>
+<td>Leans aggressive</td>
+<td>A recurring cost is left out</td>
+<td>$607m, 3.3% of pre-tax income</td>
+</tr>
+</tbody>
+</table>
+<h2>2. Write-ups</h2>
+<p>No claim was contradicted, either in the audited statements and notes or in the management discussion. Two areas lean aggressive.</p>
+<p><strong>Adjusted measures: a recurring amortization charge is excluded</strong>
+- <strong>The report says:</strong> "excludes the impact of amortization expense from acquired intangible assets … We do not adjust for the revenue" (earnings release, p.8).
+- <strong>Test:</strong> The reconciliation itself holds. $607m ÷ 995m diluted shares = $0.61, and $0.61 × the 23.9% effective tax rate = $0.15, giving adjusted EPS of $14.69. The charge clearly recurs: the schedule shows $683m for fiscal 2026 and "$6,476" million thereafter (10-K p.61). Size: $607m, 3.3% of pre-tax income ($18,602m).
+- <strong>Reading:</strong> Most likely an ordinary presentation choice, common among acquirers and fully reconciled. It is slightly stretched, though, because revenue from the acquired customers stays in while their cost comes out. A different reading would follow if the adjusted figure were used to judge whether SRS/GMS earn back what was paid for them. On a GAAP basis, Other earned only $316m on $12.7bn of sales (p.55).
+- <strong>Read next:</strong> Pay targets tied to adjusted metrics, and SRS/GMS profit before amortization against the $23.1bn paid.</p>
+<p><strong>Acquired intangibles: lives at the top of the stated range</strong>
+- <strong>The report says:</strong> straight-line amortization is used "as this approximates the pattern of expected economic benefit" (Note 1, p.51). Yet the customer-relationship valuations rest on "expected customer attrition rates" (p.74, 76).
+- <strong>Test:</strong> The claim about the benefit pattern can't be tested, because the attrition rates are not disclosed. The charge does match the stated lives. SRS at $346m a year plus about five months of GMS gives roughly $395m, against $398m reported (release p.8). Size, illustrative and not a finding: lives of 15 years would have added about $99m (0.5% of pre-tax income), and 10 years about $300m (1.6%).
+- <strong>Reading:</strong> Possibly mildly stretched. Under attrition, benefits usually fall over time, so a 20-year straight line most likely pushes expense later. The table labels this choice "leans aggressive", but the effect may be small. If the undisclosed attrition rates are low (sticky trade customers), 19–20 years would be ordinary.
+- <strong>Read next:</strong> The attrition and discount rates used for SRS and GMS, and how the GMS lives finish once the measurement period closes.</p>
+<h2>3. Also noted</h2>
+<ul>
+<li><strong>Tie-out gaps:</strong> depreciation is $3,514m in the cash flow statement (p.47) but $3,452m in Note 3 (p.58), a $62m gap. Stock compensation is $522m (p.47) against $524m in Note 9 (p.69). The swap liability is $558m in Note 5 (p.64) against $559m in Note 8 (p.69).</li>
+<li><strong>GMS controls exclusion:</strong> the "approximately 1%" of net sales holds ($2.0bn ÷ $164.7bn = 1.2%). The "approximately 3%" of assets can't be tested as stated: the only GMS asset figures are at the acquisition date, and those give 3.8% of year-end assets excluding goodwill and intangibles (p.74, 77).</li>
+<li><strong>SRS goodwill headroom:</strong> Other earns a 2.5% operating margin, and 1.4% pre-tax on the $23.1bn paid for SRS and GMS. It carries $13.8bn of goodwill, tested with the word "exceeded" rather than the "substantially exceeded" used for Primary (p.55, 60).</li>
+<li><strong>Return on invested capital:</strong> invested capital leaves out the $4.5bn of commercial paper outstanding at year-end. Including it gives 24.7% instead of the 25.7% reported (p.35, 61).</li>
+</ul>
+<h2>4. Not in the documents</h2>
+<p>These are not in the documents: related-party transactions (Item 13), Schedule II valuation accounts, and the amounts of the returns reserve and the doubtful-accounts allowance.</p></section><section class="reply" id="text-4"><h2>Prompt 4, compare the footnotes</h2><p>No disclosed change in an estimate or policy lifted income. The two write-ups below are a change in the auditor's report and a reworded explanation in the management discussion. "Last year" is the 10-K for fiscal 2024 (year ended 2 February 2025); "this year" is the 10-K for fiscal 2025. Pages are the documents' <code>[p. N]</code> markers. All six required sections are in both files, so every comparison below could be made.</p>
+<h2>1. Write-ups</h2>
+<p><strong>Auditor's report: the store-shrink critical audit matter was dropped and replaced with one on IT evidence</strong>
+- <strong>Before:</strong> two critical audit matters. One was the SRS customer-relationship valuation. The other was "Estimation of store shrink", covering shrink "occurring in the period between physical inventory counts and fiscal year-end" and including "a sensitivity analysis over the shrink reserve estimate" (last year's report, p.41–42).
+- <strong>After:</strong> dropped. The only matter now is "Sufficiency of audit evidence over certain merchandise inventories". It concerns the "highly automated nature of the process" for retail-method inventory, which runs across multiple IT systems (this year's report, p.41–42).
+- <strong>Why it matters:</strong> the shrink estimate method reads word for word the same in both years: "store-specific basis and is primarily based on recent shrink results" (p.39 both years). The disclosed sensitivity to a 10% rise in the shrink rate fell from "$95 million" (last year, p.39) to "$79 million" (this year, p.39). That implies the estimated shrink between counts fell about 17%, from roughly $950m to $790m (rough). The management discussion credits "lower shrink" for gross margin (p.34). Size: exposure of $79m, 0.4% of pre-tax income ($18,602m); last year $95m, 0.5% of $19,406m. Not an income effect.
+- <strong>Reading:</strong> Most likely ordinary. Critical audit matters change, and retail-method inventory is still covered under a new angle. The SRS matter fell away because that valuation is finished. A different reading would be possible if the lower shrink estimate came from changing what counts as "recent shrink results" rather than from fewer actual losses. Neither report gives the shrink reserve balance or how far estimates differed from actual counts.</p>
+<p><strong>Management discussion, SG&amp;A: the fiscal 2024 legal benefit is now called "non-recurring"</strong>
+- <strong>Before:</strong> fiscal 2024 SG&amp;A rose as a share of sales because of "higher payroll costs, deleverage from a negative comparable sales environment and lower legal-related benefits" (last year's report, p.34).
+- <strong>After:</strong> fiscal 2025 SG&amp;A rose because of "higher payroll and related costs in fiscal 2025 along with the impact of a non-recurring legal-related benefit recognized during fiscal 2024 within our Primary segment" (this year's report, p.34).
+- <strong>Why it matters:</strong> Last year's wording implies legal-related benefits in both fiscal 2023 and fiscal 2024. This year the fiscal 2024 benefit is called non-recurring, but neither report gives an amount. It is used to explain an SG&amp;A ratio that rose 0.62 points company-wide (about $1.0bn at fiscal 2025 sales). In the Primary segment the ratio rose 0.84 points, from 18.2% to 19.0% (about $1.3bn). Size: not quantified.
+- <strong>Reading:</strong> Can't tell. The fiscal 2024 benefit may well have been one-off, and the two sentences don't strictly conflict, since a smaller benefit can still be non-recurring. If legal benefits turn out to arrive most years, calling this one "non-recurring" makes the fiscal 2025 cost increase look more temporary than it is. Pointing the other way would be an amount for the benefit, or a statement that no similar benefits came in fiscal 2023 or fiscal 2025.</p>
+<p><strong>Building on the last reply:</strong>
+- <strong>Adjusted measures:</strong> the definition is word for word the same in both releases (p.8 each). The only wording change in that section adds "considered in isolation or as" to the standard caution. The measures leave out nothing new this year. The excluded amortization grew from $425m (2.2% of fiscal 2024 pre-tax income) to $607m (3.3% of fiscal 2025). After tax it came to $0.46 a share, against the $0.40 guided last year (last year's release, p.8), most likely because GMS was added.
+- <strong>Intangible lives:</strong> the SRS lives are unchanged at 20 and 5 years. GMS adds 19 and 7.</p>
+<h2>2. Other changes</h2>
+<ul>
+<li><strong>Inventory cost method:</strong> "primarily the first-in, first-out method" (last year p.39, p.49) became "primarily the moving average cost and first-in, first-out methods" (this year p.38, p.49). No change is disclosed and no effect is stated; possibly it now describes the SRS and GMS stock. Not quantified.</li>
+<li><strong>Uncertain tax positions:</strong></li>
+<li>The sentence that it is "reasonably possible" exam settlements and expiring time limits "could reduce our unrecognized tax benefits by an immaterial amount" was dropped (last year p.67). In fiscal 2025, settlements and expiries actually cut them by $75m: 12% of the opening $627m, and 0.4% of pre-tax income.</li>
+<li>In the management discussion, "none of which are expected to be paid in the next 12 months" (last year p.37) became "nearly all of which are recorded as non-current liabilities" (this year p.37).</li>
+<li><strong>Trade-credit risk factor:</strong> Pros "primarily use trade credit" (last year p.23) became "increasingly use trade credit" (this year p.24). Customer receivables rose 36% to $2,588m (balance), with $899m acquired with GMS. The allowance is still described only as "not material" (p.48 both years).</li>
+<li><strong>Legal proceedings and risk factors:</strong></li>
+<li>The EPA matter went from "cannot predict the amount" (last year p.29) to a final payment of about $1.7m, recovered from installers, with the decree terminated (this year p.29).</li>
+<li>The Washington Department of Ecology penalty of about $1.6m was dropped.</li>
+<li>The PFAS supplier-litigation sentence was dropped (last year p.22) and appears nowhere in this year's report.</li>
+<li>A new sentence on storms was added: "Sustained periods without such events can lead, and in the past have led, to lower sales" (this year p.22).</li>
+<li><strong>Indefinite-lived intangibles:</strong> the annual test was described as "using a quantitative analysis" (last year p.61) and is now "based on quantitative factors" (this year p.61). Not quantified.</li>
+</ul>
+<h2>3. Words searched</h2>
+<table>
+<thead>
+<tr>
+<th>Word</th>
+<th>Last year's report (pages)</th>
+<th>This year's report (pages)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>holding period</td>
+<td>none</td>
+<td>none</td>
+</tr>
+<tr>
+<td>useful life / lives</td>
+<td>49, 51, 74</td>
+<td>49, 51, 74, 75, 76</td>
+</tr>
+<tr>
+<td>average</td>
+<td>5, 32, 33, 34, 35, 36, 40, 44, 52, 54, 59, 61, 69, 70, 71, 72, 73, 74, 75</td>
+<td>5, 32, 33, 34, 35, 36, 38, 40, 41, 44, 49, 52, 54, 59, 61, 69, 70, 71, 72, 73, 74, 76</td>
+</tr>
+<tr>
+<td>residual</td>
+<td>50, 75</td>
+<td>50, 75</td>
+</tr>
+<tr>
+<td>salvage</td>
+<td>none</td>
+<td>none</td>
+</tr>
+</tbody>
+</table>
+<p>Most "average" hits are ticket size, share counts, interest rates, stock awards and store size. The ones that bear on lives or reserves are lease terms (p.59), intangible lives (p.74/76), the 17-year amortization period for fiscal 2023 acquisitions (last year p.75) and "moving average cost" (this year p.38, 41, 49). "Residual" hits are the lease residual-value guarantees and residual goodwill. No sentence gives a life a direction: the only hits for "longer", "shorter" or "extended" are the leasehold rule "whichever is shorter" and non-accounting uses.</p>
+<h2>4. Statements of lives, holding periods, residual values and reserve methods</h2>
+<p>The lease rows use rough proxies, not the company's calculation.</p>
+<table>
+<thead>
+<tr>
+<th>Statement</th>
+<th>Pages (last year / this year)</th>
+<th>The number (last year → this year)</th>
+<th>Still fits?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Finance leases: weighted average remaining term "12" years; the final maturity moved from "January 31, 2055" to "July 31, 2075"</td>
+<td>p.59, 62 / p.59, 62</td>
+<td>Term 12 → 12. Payment-weighted timing 5.7 → 5.3 years; liability ÷ next-year payment 8.0 → 7.6; share of payments after year 5 54% → 52%</td>
+<td>Rough: can't tell. The tail shrank while the final date moved out 20 years</td>
+</tr>
+<tr>
+<td>Operating leases: weighted average remaining term</td>
+<td>p.59 / p.59</td>
+<td>9 → 8 years. Proxies fell 3–4%</td>
+<td>Rough: the direction fits</td>
+</tr>
+<tr>
+<td>Shrink "primarily based on recent shrink results"</td>
+<td>p.39 / p.39</td>
+<td>Sensitivity $95m → $79m; implied estimate about $950m → $790m</td>
+<td>Can't tell: no reserve balance</td>
+</tr>
+<tr>
+<td>Returns liability "based on historical return levels"</td>
+<td>p.52 / p.52</td>
+<td>No amount in either year</td>
+<td>Can't tell</td>
+</tr>
+<tr>
+<td>Self-insurance "(undiscounted)", actuarial</td>
+<td>p.52 / p.52</td>
+<td>Liability $1.5bn → $1.6bn (+6.7%). Related deferred tax asset $271m → $262m</td>
+<td>Can't tell: no claims or movements disclosed</td>
+</tr>
+<tr>
+<td>Software "three to seven years"</td>
+<td>p.49 / p.49</td>
+<td>No software balance disclosed</td>
+<td>Can't tell</td>
+</tr>
+<tr>
+<td>Gift cards redeemed "within six months"</td>
+<td>p.52 / p.52</td>
+<td>Liability $1.1bn both years; no issuance figure</td>
+<td>Can't tell</td>
+</tr>
+<tr>
+<td>Fiscal 2023 acquisitions: "weighted average amortization period of 17 years"</td>
+<td>p.75 / dropped</td>
+<td>Not given</td>
+<td>Can't tell: dropped along with the old acquisition note</td>
+</tr>
+<tr>
+<td>Property lives 5–45, 2–20 and 5–45 years</td>
+<td>p.49 / p.49</td>
+<td>Implied average life 13.8 → 14.0 years; depreciation rate 7.4% → 7.4%; average age 8.9 → 9.1 years</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Definite-lived intangibles "up to approximately 20 years"</td>
+<td>p.51 / p.51</td>
+<td>Gross ÷ next-year amortization 17.1 → 16.7 years</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>SRS customer relationships "20", trade names "5"; GMS "19" and "7"</td>
+<td>p.74 / p.74, 76</td>
+<td>Implied SRS charge for fiscal 2024 (229 days) $217m vs $218m reported. Fiscal 2025 implied $395m vs $398m in Other</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Leases: "remaining lease terms of one to 20 years"</td>
+<td>p.50 / p.50</td>
+<td>Weighted averages of 8–12 years</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<h2>5. Disclosed changes in estimates or policies</h2>
+<p>Neither report discloses a change in a useful life, a reserve method or revenue policy. All the disclosed changes are presentation or measurement-period items with nil or immaterial stated effects, so they are listed in date order.</p>
+<table>
+<thead>
+<tr>
+<th>Change</th>
+<th>Year</th>
+<th>Stated effect on income</th>
+<th>Page</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SRS purchase price allocation finalized; measurement-period adjustments</td>
+<td>FY2025</td>
+<td>"immaterial"</td>
+<td>This year, p.75</td>
+</tr>
+<tr>
+<td>ASU 2023-09 (tax disclosures), adopted retrospectively</td>
+<td>FY2025</td>
+<td>"no impact"</td>
+<td>This year, p.54</td>
+</tr>
+<tr>
+<td>Merchandising realignment; fiscal 2024 product-line sales reclassified (e.g. Hardlines $48,562m → $47,721m)</td>
+<td>FY2025</td>
+<td>"no impact on consolidated net sales"</td>
+<td>This year, p.56</td>
+</tr>
+<tr>
+<td>Intangible assets and their amortization shown on separate lines</td>
+<td>FY2024</td>
+<td>None stated (presentation only)</td>
+<td>Last year, p.48</td>
+</tr>
+<tr>
+<td>ASU 2023-07 (segment disclosures)</td>
+<td>FY2024</td>
+<td>Disclosure only</td>
+<td>Last year, p.54</td>
+</tr>
+<tr>
+<td>ASU 2022-04 (supplier finance rollforward)</td>
+<td>FY2024</td>
+<td>"did not have an impact"</td>
+<td>Last year, p.54</td>
+</tr>
+</tbody>
+</table>
+<h2>6. Sections not in the documents</h2>
+<p>Neither file includes related parties (Item 13) or Schedule II, so those can't be compared.</p></section><footer><p><a href="../index.html">Back to Forensic Method</a>. Run folder in the repository: <code>runs/home-depot-fy2025/v2.26/claude-code/001</code>.</p></footer></main><script>
+document.querySelectorAll('button.copy').forEach(function(b){b.addEventListener('click',function(){
+  var t=document.getElementById(b.dataset.target).textContent;
+  navigator.clipboard.writeText(t).then(function(){var o=b.textContent;b.textContent='Copied';setTimeout(function(){b.textContent=o},1500)});
+})});
+</script></body></html>

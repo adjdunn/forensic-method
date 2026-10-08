@@ -1,0 +1,382 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Forensic Method</title><style>
+:root{--ink:#1d1d1b;--muted:#5c5c58;--navy:#223a55;--rule:#d9d9d4;--band:#f5f5f2;--bg:#ffffff;--accent:#2b5c8a}
+@media (prefers-color-scheme: dark){:root:not([data-theme=light]){--ink:#e8e8e4;--muted:#a6a6a0;--navy:#9db8d6;--rule:#3a3a38;--band:#1c1c1b;--bg:#121211;--accent:#8ab4e0}}
+:root[data-theme=dark]{--ink:#e8e8e4;--muted:#a6a6a0;--navy:#9db8d6;--rule:#3a3a38;--band:#1c1c1b;--bg:#121211;--accent:#8ab4e0}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.55 Georgia,"Times New Roman",serif}
+main{max-width:760px;margin:0 auto;padding:40px 16px 80px}
+h1{font:600 34px/1.15 "Segoe UI",system-ui,sans-serif;color:var(--navy);margin:0 0 6px}
+h2{font:600 22px/1.25 "Segoe UI",system-ui,sans-serif;color:var(--navy);margin:48px 0 12px;padding-top:18px;border-top:1px solid var(--rule)}
+h3{font:600 17px/1.3 "Segoe UI",system-ui,sans-serif;margin:22px 0 6px}
+p{margin:0 0 14px}
+.lede{font-size:19px;color:var(--ink)}
+.meta{font:14px/1.5 "Segoe UI",system-ui,sans-serif;color:var(--muted);margin-bottom:28px}
+.status{display:inline-block;font:13px/1 "Segoe UI",system-ui,sans-serif;background:var(--band);border:1px solid var(--rule);border-radius:4px;padding:6px 10px;margin:0 0 20px}
+a{color:var(--accent)}
+ul,ol{padding-left:22px;margin:0 0 14px} li{margin:4px 0}
+table{border-collapse:collapse;width:100%;font:15px/1.4 "Segoe UI",system-ui,sans-serif;margin:8px 0 18px}
+th{text-align:left;background:var(--navy);color:#fff;padding:7px 9px;font-weight:600}
+td{padding:7px 9px;border-bottom:1px solid var(--rule);vertical-align:top}
+tr:nth-child(even) td{background:var(--band)}
+details{border:1px solid var(--rule);border-radius:6px;margin:10px 0;background:var(--band)}
+summary{cursor:pointer;padding:12px 14px;font:600 16px/1.3 "Segoe UI",system-ui,sans-serif;list-style:none}
+summary::-webkit-details-marker{display:none}
+summary::before{content:"+ ";color:var(--accent)} details[open] summary::before{content:"\2013 "}
+summary small{display:block;font-weight:400;color:var(--muted);margin-top:3px}
+.prompt{padding:0 14px 14px}
+.prompt pre{white-space:pre-wrap;font:14px/1.5 "Segoe UI",system-ui,sans-serif;background:var(--bg);border:1px solid var(--rule);border-radius:4px;padding:14px;max-height:420px;overflow:auto;margin:8px 0}
+button.copy{font:600 14px/1 "Segoe UI",system-ui,sans-serif;background:var(--navy);color:#fff;border:0;border-radius:4px;padding:9px 14px;cursor:pointer}
+button.copy:hover{opacity:.9}
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:14px 0 18px}
+.step{background:var(--band);border:1px solid var(--rule);border-radius:6px;padding:14px}
+.step b{display:block;font:600 15px/1.3 "Segoe UI",system-ui,sans-serif;color:var(--navy);margin-bottom:6px}
+.step p{font-size:15px;margin:0}
+@media (max-width:640px){.steps{grid-template-columns:1fr}}
+.cards{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media (max-width:640px){.cards{grid-template-columns:1fr}}
+.card{border:1px solid var(--rule);border-radius:6px;padding:16px;background:var(--band)}
+.card h3{margin-top:0}
+.card p{font-size:15px}
+footer{margin-top:60px;padding-top:18px;border-top:1px solid var(--rule);font:14px/1.6 "Segoe UI",system-ui,sans-serif;color:var(--muted)}
+.reply{margin:28px 0}
+.reply h2{margin-top:36px}
+.reply table{font-size:14px}
+.reply pre{white-space:pre-wrap;font-size:14px}
+nav.top{font:14px/1.5 "Segoe UI",system-ui,sans-serif;color:var(--muted);margin-bottom:24px}
+nav.top a{margin-right:14px}
+</style></head>
+<body><main>
+<h1>Forensic Method</h1>
+<p class="meta">Five prompts that run a forensic accounting review of a public company in a chat assistant, and the test harness that checks what they find. Open source, in testing. Prompts v2.26, page built 8 October 2026.</p>
+<span class="status">In testing: two companies so far, every output checked against the filings. No pass rate is claimed yet.</span>
+<p class="lede">You attach a company's filings to Claude or ChatGPT, paste five short prompts in order, and finish with a one-page list of items worth an analyst's time, each with a page reference, a size, and a reading of what is most likely going on. The method is public: the prompts are below, the test results are below them, and the code that checks them is in <a href="https://github.com/adjdunn/forensic-method">the repository</a>.</p>
+<p><a href="#run">How to run it</a> &middot; <a href="#prompts">The prompts</a> &middot; <a href="#outputs">What it produces</a> &middot; <a href="#results">Test results</a> &middot; <a href="#wrong">What it gets wrong</a></p>
+
+<h2 id="idea">The idea</h2>
+<ul>
+<li>AI can do the whole job: extract the numbers, calculate the ratios, spot the trends and flags, read the footnotes, and compare them from one year to the next.</li>
+<li>Extraction and ratios are the easy part. A data terminal, a spreadsheet or a script does them too. The prompts calculate in code so a result can be re-run and checked.</li>
+<li>The value is in what comes after: picking the movements that matter, following each one into the footnotes and press releases for the company's explanation, and testing that explanation against the company's own numbers.</li>
+<li>Separately, the footnotes are read for what no ratio shows: where each accounting policy sits, what changed between two years, and what stayed the same while the numbers around it moved.</li>
+<li>This is not only about fraud. Most of what it finds is a business weakening or earnings of poor quality, which is far more common and matters just as much.</li>
+</ul>
+
+<h2 id="run">How to run it</h2>
+<div class="steps">
+<div class="step"><b>1. Attach five files</b><p>The statements as a spreadsheet, the last two annual reports, and the last two fourth-quarter results releases. Public documents only.</p></div>
+<div class="step"><b>2. Two conversations</b><p>Numbers track: prompts 1 and 2 in one chat. Text track: prompts 3 and 4 in a second chat with the same files. They run blind to each other on purpose.</p></div>
+<div class="step"><b>3. The report</b><p>Prompt 5 in the text chat, with the two numbers-track replies attached. One page: up to five items ranked by strength of evidence.</p></div>
+</div>
+<p>Works in Claude or ChatGPT on a plan that accepts file uploads and runs code. One prompt per message; read each reply before sending the next. About 45 minutes end to end. The full user guide, with what each file must contain and how to read the results, is <a href="https://claude.ai/code/artifact/22260383-1e93-444d-8f9d-6acacf4f4886">here</a>.</p>
+<h2 id="prompts">The prompts</h2><p>Each prompt is a page or less. Expand one to read it; Copy takes the whole thing. The headers tell you which conversation and which files.</p>
+<details><summary>1. Scan the numbers<small>Numbers track, step 1. Calculates the standard measures from the spreadsheet and picks up to five movements worth a closer look, each with a size and how long it has run. It does not explain them.</small></summary>
+<div class="prompt"><button class="copy" data-target="p1">Copy prompt 1</button><pre id="p1">Scan the attached company&#x27;s financial statements for movements worth a closer look. Use the spreadsheet for the figures. Don&#x27;t explain the movements yet; that comes in the next step.
+
+**Calculate, in code, for each fiscal year, and for the latest quarter that the attached reports or releases cover, beside the same quarter a year earlier:** (the spreadsheet may run further; stop at the last quarter a document explains)
+
+*Working capital*
+- Days sales outstanding, days inventory and days payable: the period-end balance ÷ the period&#x27;s revenue (or cost of sales) × days in the period.
+- Growth gaps, year over year: receivables growth minus revenue growth; inventory growth minus cost-of-sales growth; payables growth minus cost-of-sales growth.
+- The allowance for doubtful accounts as a percentage of gross receivables. If the spreadsheet doesn&#x27;t show it, take it from the balance sheet in the annual reports.
+
+*Earnings and cash*
+- Gross margin and operating margin.
+- Accruals: (net income − operating cash flow) ÷ average total assets.
+- Free cash flow (operating cash flow − capital expenditures) against net income.
+- The depreciation rate: depreciation ÷ average gross depreciable assets. Take depreciation and gross assets (at cost, less land and construction in progress) from the property note in the annual reports, not from the spreadsheet&#x27;s cash flow line, which can change basis between years. Use that one depreciation figure for every measure that needs one. For a rental or leasing company, do this separately for the rental equipment, and count purchases net of disposal proceeds as capital spending. For the latest quarter, where the note gives no quarterly figure, take the quarter&#x27;s depreciation from the results release&#x27;s cash flow or supplementary table, name the line and its basis, annualise by days, and compare it only with the same quarter a year earlier on the same basis.
+- The Beneish M-score for each pair of years:
+  M = −4.84 + 0.920·DSRI + 0.528·GMI + 0.404·AQI + 0.892·SGI + 0.115·DEPI − 0.172·SGAI + 4.679·TATA − 0.327·LVGI.
+  If an input can&#x27;t be computed, use the closest measure available or set it to 1. A score above −1.78 is a reason to look, not evidence: the model raises more than 100 false alarms for every real case.
+
+*Revised figures*
+- From the spreadsheet&#x27;s Revisions sheet: the later changes to figures the company had already reported that moved income or equity.
+
+*Levels against the industry*
+- If the spreadsheet has an Industry sheet, set the company&#x27;s latest-year receivables, inventory and payables as shares of sales, its margins and its capital spending against depreciation beside the industry averages there. A level well away from the industry figure is a candidate flag even if it has not moved. The averages carry no range, so say how far away the company sits and leave the judgment to the reader.
+
+**Watch for:**
+- No cost-of-sales line: use the sum of the direct cost lines that sit above selling and administrative expenses (for a rental company, direct operating costs plus depreciation of rental equipment), and name them. Use that same sum for margins, days inventory, days payable and the M-score.
+- No inventory: skip the inventory measures.
+- Acquisitions: a large cash outflow for acquisitions means balances can jump before a full period of revenue arrives. Note it beside any flag it could explain.
+- Quarterly figures are seasonal. Compare a quarter only with the same quarter a year earlier.
+- A fourth quarter worked out by subtraction can mix original and revised figures. If its column heading is marked &quot;mixed basis&quot;, take that quarter (and the same quarter a year earlier) from the results release instead, and say you did. If the heading says only some lines are mixed basis, use the spreadsheet for the quarter and leave the shaded lines out of any measure. The spreadsheet has quarterly cash flow; the releases usually do not.
+
+**Then pick up to five flags:** the movements most out of line with the company&#x27;s own history, and the levels most out of line with the industry. For each flag, calculate two more things, then list the flags largest size first:
+- **Size:** what the movement is worth in money, as a share of the latest year&#x27;s pre-tax income. Use these methods every time, so the figure is the same from one run to the next:
+  - a balance that outgrew its driver: the balance less what it would be at the prior year&#x27;s days (days sales outstanding, days inventory or days payable). Days allow for a 52- or 53-week year; a plain ratio does not;
+  - a balance that fell behind its driver (payables falling while costs rise): what it would be at the prior year&#x27;s days, less the balance;
+  - a margin that fell: the fall in the margin times the revenue of the period the fall was measured over (the year for a yearly fall, the quarter for a same-quarter fall);
+  - a depreciation rate that fell: the charge not taken at the prior rate;
+  - cash flow against earnings: net income less free cash flow;
+  - a level away from the industry figure, with no movement behind it: the balance less what it would be at the industry&#x27;s share of sales.
+  Say which amount you used.
+- **Persistence:** how many consecutive years, or same-quarter comparisons, the measure has moved the same way.
+
+**Rules:**
+- Use only the attached documents. No outside knowledge of this company or of anything that happened later.
+- Do every calculation in code. Don&#x27;t show the code unless asked.
+- These are things to check, not findings. Don&#x27;t use words like fraud, manipulation or red flag.
+- If something you need is not in the documents, say so. Don&#x27;t estimate.
+
+**Reply with no introduction. Aim for one page.**
+1. **A table of the measures**, with periods across the top: the fiscal years, then the latest quarter beside the same quarter a year earlier, then, if there is an Industry sheet, one column for the industry average where there is one. Leave out any row or column that would be empty. The M-score takes one row.
+2. **One line** under the table: the cost line used, and any measure built on a substitute. Name the substitute, not its derivation.
+3. **Flags**, numbered, two short lines each. First line: what moved, by how much, over which periods, and the one thing that might explain it (an acquisition, a new standard) if the statements show one. Second line: size as a share of pre-tax income, with the amount used, and how many consecutive periods it has run. Keep the sheet and line names in the code, available on request. No thresholds: the reader judges.
+4. **Revised figures:** one line.
+5. **Not calculated:** one line.</pre></div></details>
+<details><summary>2. Follow the flags<small>Numbers track, step 2. Finds the company&#x27;s explanation for each flag in the reports and releases, tests it against the numbers it relies on, and chooses a reading.</small></summary>
+<div class="prompt"><button class="copy" data-target="p2">Copy prompt 2</button><pre id="p2">Take each flag from your last reply and find out what the company says about it. Read the annual reports (the notes, the management discussion, the critical accounting estimates) and the results releases.
+
+**For each flag:**
+1. **Find the company&#x27;s explanation.** It must be about the balance or measure that moved. If the company says nothing about that balance, say so: silence is the finding. Don&#x27;t test the nearest sentence about something else as if it were the explanation.
+2. **Check last year.** Was the same explanation given a year earlier?
+3. **Read the note behind the account:** reserves and allowances with their movements during the year, changes in estimates or policies, acquisitions, anything sold, factored or financed.
+4. **Test the explanation.** Calculate, in code, the number the explanation relies on, and how much of the movement it accounts for (for example, receivables that came with an acquisition against the whole rise). Check it against other sentences in the same report too. Decide whether it holds, partly holds or does not hold.
+5. **Choose the most likely reading:** ordinary (nothing unusual), the business weakening, the reporting stretched, or can&#x27;t tell from these documents.
+
+**Also check, whether or not they were flagged:**
+- **Adjusted earnings.** From the results releases: the gap between reported and adjusted earnings in each year, and any item called &quot;non-recurring&quot;, &quot;one-time&quot; or &quot;unusual&quot; that appears in both years.
+- **Changes in estimate that lifted income.** Any change the reports disclose in a depreciation rate, a useful life, a reserve, an allowance or another estimate that raised income, with the effect the company states. Say whether the numbers around it support the change.
+
+**Rules:**
+- Use only the attached documents. No outside knowledge of this company or of anything that happened later.
+- Do every calculation in code. Don&#x27;t show the code unless asked.
+- Quote exactly, with the document and page. Quote the few words that carry the point, not the whole sentence.
+- Work on the revised basis in this step. Where a figure in your last reply was as first reported and the revised figure differs, give both once.
+- Before testing a sentence, say exactly what it claims: about what, over what period, by what measure. Test it only with a number that matches all three. If the nearest number covers something wider (a whole segment for one acquisition, a full year for a part year), say the claim can&#x27;t be tested as stated.
+- Never give an amount only as a share of a small net change. Give it as a share of the total as well.
+- A reading is a judgment, not a finding. Word it as &quot;most likely&quot; or &quot;possibly&quot;, never as a fact.
+- Say what each growth figure covers (the whole company, a segment or a region), and keep to one basis.
+- These are things to check, not findings. Don&#x27;t use words like fraud, manipulation or red flag.
+- If something you need is not in the documents, say so. Don&#x27;t estimate.
+
+**Reply with no introduction. Aim for one page; go longer only when leaving something out would hide a movement that matters.**
+
+1. **Full write-ups for at most three flags:** the ones whose explanation holds least well, or that the company does not explain. Where two are equally weak, take the larger by size. Four lines each, in this layout:
+
+   **[Flag: what moved]**
+   - **The company says:** &quot;[quote]&quot; (document, page). Last year: the same, different, or nothing.
+   - **Test:** [the number, and the share of the movement the explanation covers], so the explanation holds / partly holds / does not hold.
+   - **Reading:** [the most likely reading, and why, in one sentence]. [What would point to a different reading, in one sentence.]
+   - **Read next:** the note or section that would settle it.
+
+2. **The other flags, one line each:** the company&#x27;s explanation in a few quoted words with the page, whether it held, and the most likely reading.
+3. **Adjusted earnings:** two lines.
+4. **Changes in estimate that lifted income:** one or two lines, or &quot;none disclosed&quot;.</pre></div></details>
+<details><summary>3. Read the footnotes<small>Text track, step 1. Judges where each accounting policy sits in the latest report as it stands: leans conservative, typical, leans aggressive, or can&#x27;t tell. Tests every claim a number can test.</small></summary>
+<div class="prompt"><button class="copy" data-target="p3">Copy prompt 3</button><pre id="p3">Assess the accounting in the latest annual report as it stands. Read its notes, management discussion, critical accounting estimates and auditor&#x27;s report. Don&#x27;t compare it with last year; that is the next step.
+
+**For each area, find what the report says, then judge where the policy or estimate sits: leans conservative, typical, leans aggressive, or can&#x27;t tell.**
+
+1. **Revenue recognition:** when revenue is booked (on shipment, on delivery, over time); how much rests on estimates (returns, rebates, discounts, completion); whether sales are reported gross or net; bill-and-hold or consignment terms, rights of return, buy-backs; amounts earned but not yet billed.
+2. **Reserves and allowances:** doubtful accounts, returns, warranties, self-insurance, restructuring, litigation. How large each is against the balance or the activity it covers, and its movements during the year (Schedule II, if there is one).
+3. **Capitalized costs and useful lives:** what is capitalized that could be expensed (software, interest, commissions, development); useful lives, holding periods and residual values, against the depreciation actually charged.
+4. **Impairment and goodwill:** how the tests are done, how much room they show, and any statement that there were &quot;no indicators&quot;.
+5. **Off the balance sheet:** leases, purchase commitments, guarantees, receivables sold or factored, supplier finance, entities that are not consolidated.
+6. **Related parties.**
+7. **Contingencies and legal proceedings:** what is accrued, and what is disclosed as possible with or without an amount.
+8. **The auditor&#x27;s report and controls:** the opinion, critical or key audit matters, emphasis paragraphs, material weaknesses.
+9. **Adjusted (non-GAAP) measures:** what each leaves out, and whether costs that recur are treated as one-time.
+
+**How to judge.** The yardstick is what the accounting standards require and what the report itself discloses, not the company&#x27;s own past. Signs that a policy leans aggressive: revenue booked before the customer has the goods or on estimates the report does not support; large estimates with little disclosure; reserves small against the write-offs or claims they cover; long lives or high residual values against the depreciation charged; costs capitalized that most companies expense; material items described without amounts; recurring costs left out of adjusted measures. A policy that is normal for the industry is typical, even if it looks unusual in the abstract. Say what each judgment rests on, and say so when it rests on general practice.
+
+&quot;Leans aggressive&quot; is a judgment about the direction of the choice, and it needs a sign you can quote from the report. Missing or thin disclosure alone is &quot;can&#x27;t tell: not enough disclosed&quot;; say so, but it is not a direction. Don&#x27;t let size decide the label: a small item can lean aggressive and a large one can be typical. Size goes in its own column.
+
+**Size** means the effect on the latest year&#x27;s reported pre-tax income, as a share of that income: the charge not taken, the cost left out, the amount released. A balance (goodwill, inventory, a reserve), a commitment or a possible future loss is not an income effect: give it only if it helps, and label it as a balance or an exposure. Where no income effect can be put on an area, write &quot;not quantified&quot;.
+
+**Test what can be tested.** Where a sentence makes a claim a number can test, calculate the number in code and say whether the claim holds. Check each claim against other sentences in the same report too: a report that contradicts itself is the strongest thing you can find. Two figures for the same item that differ slightly (a provision shown as one amount in the cash flow statement and another in a schedule) are a tie-out gap, not a contradicted claim: list them under &quot;Also noted&quot;.
+
+**Rules:**
+- Use only the attached documents. No outside knowledge of this company or of anything that happened later.
+- This step reads one year. Use last year&#x27;s report only for a figure a calculation needs.
+- Do every calculation in code. Don&#x27;t show the code unless asked.
+- Quote exactly, with the document and page. Quote the few words that carry the point, not the whole sentence.
+- Before testing a sentence, say exactly what it claims: about what, over what period, by what measure. Test it only with a number that matches all three. If the nearest number covers something wider (a whole segment for one acquisition, a full year for a part year), say the claim can&#x27;t be tested as stated.
+- Never give an amount only as a share of a small net change. Give it as a share of the total as well.
+- A reading is a judgment, not a finding. Word it as &quot;most likely&quot; or &quot;possibly&quot;, never as a fact.
+- Say what each growth figure covers (the whole company, a segment or a region), and keep to one basis.
+- These are things to check, not findings. Don&#x27;t use words like fraud, manipulation or red flag.
+- If a section is not in the documents, say so.
+
+**Reply with no introduction. Aim for a page and a half; go longer only when leaving something out would hide something that matters.**
+
+1. **Policy profile:** a table with one row per area: Area | What the report says | Where it sits | Why, in a few words | Size. One line a row. For a row judged typical, give the page only, with no quotation, and keep the reason to a few words. For every other row, quote the few words that carry the point, with the page.
+
+2. **Full write-ups for at most three areas,** in this order: a claim contradicted within the audited statements and notes; then a claim contradicted in the management discussion or an adjusted measure; then areas that lean aggressive. Within each group, largest size first. A write-up is only for a claim that did not hold or an area that leans aggressive, one write-up an area. Fewer than three is fine; if nothing qualifies, say so in one line. The profile judges the policy and its disclosure; the reading below judges what is most likely going on. The two can differ, and when they do, say why. Four lines each, in this layout:
+
+   **[The area: the point, in a few words]**
+   - **The report says:** &quot;[quote]&quot; (section or note, page).
+   - **Test:** [what the sentence claims, the number that matches it, and whether the claim holds], or &quot;nothing to test&quot;. Size: the effect on pre-tax income as a share of it, or the balance or exposure, labelled as such.
+   - **Reading:** [the most likely reading: ordinary, the business weakening, the reporting stretched, or can&#x27;t tell; and why, in one sentence]. [What would point to a different reading, in one sentence.]
+   - **Read next:** what would settle it.
+
+3. **Also noted:** at most four more items, one line each, with the page.
+4. **Not in the documents:** one line naming any area the documents do not cover.</pre></div></details>
+<details><summary>4. Compare the footnotes<small>Text track, step 2. Puts the two reports side by side: what changed, what stayed the same while the numbers moved, and what the company discloses as a change in estimate.</small></summary>
+<div class="prompt"><button class="copy" data-target="p4">Copy prompt 4</button><pre id="p4">Compare the two attached annual reports and find what the company changed in its disclosures, and what it left the same when the numbers moved.
+
+**Read these sections in both years, in this order:**
+1. Risk factors
+2. Legal proceedings and contingencies
+3. The auditor&#x27;s report and the controls section
+4. Critical accounting estimates
+5. Revenue recognition
+6. The receivables, inventory and reserve notes
+7. Depreciation, useful lives and capitalized costs
+8. Related parties
+9. Definitions of adjusted (non-GAAP) measures, in the annual reports and in the two results releases: what each measure leaves out this year that it did not last year
+
+**Part 1: what changed.** Find sentences that were added, reworded or dropped. A dropped word or sentence can matter as much as a new one.
+- Ignore changes that only bring dates, numbering or the current year&#x27;s amounts up to date, or that simply describe a newly acquired business or a new accounting standard.
+- Don&#x27;t ignore a change because the company attributes it to an acquisition. If the wording or the reason given for an estimate changed, it counts.
+- A prior-year figure shown differently this year counts as a change.
+- Before calling a sentence added or dropped, confirm that both documents contain the section it sits in. One file may be a full report and the other only its key sections. If the section is missing from one of them, say the comparison can&#x27;t be made; it is not a change.
+
+**Part 2: what stayed the same.** First find every sentence in either report that states a useful life, a holding period or average holding period, a residual or salvage value or a reserve method, and every sentence that gives one of these a direction (&quot;longer&quot;, &quot;shorter&quot;, &quot;extended&quot;, &quot;higher&quot;), wherever it appears: the business description, the risk factors, the management discussion including its expense explanations, the critical estimates and the notes. Search for the words &quot;holding period&quot;, &quot;useful life&quot;, &quot;average&quot;, &quot;residual&quot; and &quot;salvage&quot; and list every hit with its page in each year, so a sentence that was matched but not read is visible. Then, for each statement, calculate in code the number it describes in both years and decide whether it still fits. A stated average that sits inside a disclosed range is tested against the range: an average that reads the same in both years while the top or bottom of its range moved does not fit as stated, unless the report says how the average is computed. A sentence that gives a direction is set beside the depreciation charge and rate for the same years. A statement that stays the same while the numbers around it move is worth seeing. Say so when a test is only rough.
+
+**Part 3: changes the company discloses.** List every change in an accounting estimate or policy that either report discloses, with the effect on income the company states.
+
+**Size** means the effect on the latest year&#x27;s reported pre-tax income, as a share of that income: the company&#x27;s stated effect for a change in estimate or policy, or the amount you calculate for a statement that no longer fits. A balance, a commitment or a possible future loss is not an income effect: give it only if it helps, and label it as a balance or an exposure. Where no income effect can be put on a change, write &quot;not quantified&quot;.
+
+**Rules:**
+- Use only the attached documents. No outside knowledge of this company or of anything that happened later.
+- Do every calculation in code. Don&#x27;t show the code unless asked.
+- Quote exactly, with the document and page, for both years. Quote the few words that changed or that carry the point, not the whole sentence.
+- Build on your last reply. If a change concerns an item you already wrote up, write up the change in full and add what the comparison shows; don&#x27;t restate the earlier test.
+- Before testing a sentence, say exactly what it claims: about what, over what period, by what measure. Test it only with a number that matches all three. If the nearest number covers something wider (a whole segment for one acquisition, a full year for a part year), say the claim can&#x27;t be tested as stated.
+- Never give an amount only as a share of a small net change. Give it as a share of the total as well.
+- A reading is a judgment, not a finding. Word it as &quot;most likely&quot; or &quot;possibly&quot;, never as a fact.
+- Say what each growth figure covers (the whole company, a segment or a region), and keep to one basis.
+- These are things to check, not findings. Don&#x27;t use words like fraud, manipulation or red flag.
+
+**Reply with no introduction. Aim for a page and a half; go longer only when leaving something out would hide something that matters.**
+
+1. **Full write-ups for at most three changes,** in this order: a change in an estimate or policy that lifted income; then wording dropped or softened where the numbers moved the other way, or a statement left the same that no longer fits; then new language in the legal, auditor or controls sections; then anything else that matters. Within each group, largest size first. A write-up is only for a change that could affect how the numbers are read. Fewer than three is fine; if nothing qualifies, say so in one line. Four lines each, in this layout:
+
+   **[Section]: [the change, in a few words]**
+   - **Before:** &quot;[quote]&quot; (last year&#x27;s report, page), or &quot;not there&quot;.
+   - **After:** &quot;[quote]&quot; (this year&#x27;s report, page), or &quot;dropped&quot;.
+   - **Why it matters:** [one sentence, with the number that makes it matter]. Size: the effect on pre-tax income as a share of it, or the balance or exposure, labelled as such, or &quot;not quantified&quot;.
+   - **Reading:** [the most likely reading: ordinary, the business weakening, the reporting stretched, or can&#x27;t tell; and why, in one sentence]. [What would point to a different reading, in one sentence.]
+
+2. **Other changes:** at most five, one line each, with both pages.
+3. **Words searched:** a short table, one row per search word (holding period, useful life, average, residual, salvage): the pages it appears on in last year&#x27;s report and in this year&#x27;s. A reply without this table is incomplete.
+4. **Statements of lives, holding periods, residual values and reserve methods:** one table with every sentence found in Part 2, one line a row, at most twelve rows (if there are more, keep the ones about the largest assets): Statement (a few quoted words) | Pages, last year and this year | The number, last year and this year | Still fits? (yes, no, can&#x27;t tell, or rough). Rows that do not fit, or can&#x27;t be tested, go first.
+5. **Disclosed changes in estimates or policies:** a table of at most six rows, largest stated effect first: Change | Year | Stated effect on income | Page.
+6. **One line** on any section that was not in the documents.</pre></div></details>
+<details><summary>5. Report<small>Last, in the text conversation. Gathers everything the four replies found, merges it by account, and ranks it by strength of evidence for an analyst deciding where to spend reading time.</small></summary>
+<div class="prompt"><button class="copy" data-target="p5">Copy prompt 5</button><pre id="p5">Using everything found earlier in this conversation and the numbers-track replies pasted at the end, write a one-page review of the company for an analyst deciding where to spend reading time. This step adds no new analysis: it gathers, merges and ranks what the four replies found.
+
+**First gather the candidates.** Go through all four replies, including rows in tables and one-line items, and collect:
+- every claim whose test did not hold, only partly held or could not be tested as stated;
+- every area judged to lean aggressive;
+- every flag the company did not explain;
+- every row of the statements table whose &quot;still fits&quot; answer is anything other than yes (no, can&#x27;t tell, rough), and every change in wording or estimate written up;
+- every item with a reading other than ordinary, including &quot;can&#x27;t tell&quot;.
+
+A tie-out gap between two figures for the same item, and a prior-year figure that the report itself explains as a revision or reclassification, are not signals: they stay under &quot;Also noted&quot;.
+
+Merge items about the same account or the same estimate into one, and keep all of its evidence: a statement that stayed the same while its number moved belongs with the estimate it describes, and a flag from the numbers track belongs with the note that explains it in the text track. Each merged item names, in its Shown line, the replies and lines it absorbed (for example &quot;from text-4 write-up 1 and table rows 1 and 4&quot;), so nothing is dropped silently, and it carries the company&#x27;s own stated reason for an estimate change whenever an earlier reply quoted one.
+
+**Carry over the size and the reading.** Each earlier reply gives a size on the same base: the effect on the latest year&#x27;s reported pre-tax income, as a share of that income, with balances and exposures labelled as such. Take each item&#x27;s size from the reply that gave it; calculate the share in code only where a reply gives the amount without the share. Where two replies size the same account differently, give both and say which is the income effect. Rank on the larger income effect; a balance or exposure never ranks the item. A gap between a reported figure and an adjusted one is not an income effect: label it &quot;excluded from adjusted income&quot;, rank it after income effects at its level as a balance is, and size the item on the amount the contradicted sentence covers. Where no amount was put on an item, write &quot;not quantified&quot;. Each earlier reply also chose a reading. Use it; don&#x27;t choose again. Where the two tracks read the same account differently, give both readings and say so: that disagreement is itself worth the analyst&#x27;s time.
+
+**Rank the items by strength of evidence first, then by size within each level.**
+
+Strength of evidence, strongest first:
+1. A sentence contradicted by the company&#x27;s own numbers, or by another sentence in the same report. The sentence and the number must share subject, period and measure, and the number must point the opposite way. A sentence the numbers only fail to account for in full, or a sentence about a different measure, is level 2 or 3. Within level 1, list every item contradicted within the audited statements and notes first, in size order, then every item contradicted in the management discussion or an adjusted measure, in size order. A notes item is never placed below a management-discussion or adjusted-measure item, however small.
+2. Two or more signals pointing at the same account in the same period, from either track.
+3. A single measure, a single change in wording, or a single policy that leans aggressive, out of line with the company&#x27;s history or with general practice.
+
+Within a level: first the items whose size is an effect on reported income, largest first; then the items whose size is a balance or an exposure, largest first; then the unquantified items. A balance never outranks an income effect at the same level, however large. Never move an item across levels on size alone. Where an item at a lower level is much larger than one above it, say so in its Shown line; the reader does the trading off.
+
+**Structure:**
+- **Header:** two lines: the company and periods, and the documents used.
+- **Items to investigate, up to five.** Fewer is fine; if nothing qualifies, say so in one line. Three lines each:
+  - **Shown:** what the filings show, in one or two sentences, with page references; the size, labelled, and where an item carries more than one size, the one it ranks on (&quot;ranks on 23%&quot;); and the evidence level.
+  - **Reading:** the reading from the earlier reply (ordinary, the business weakening, the reporting stretched, or can&#x27;t tell from these documents) and what would change it.
+  - **Next:** what to read or ask to settle it.
+- **Also noted:** one or two lines listing the candidates that did not make the list and were not explained.
+- **Checked and explained:** one or two lines listing items that looked unusual but have an ordinary explanation that held when tested.
+- **Not examined:** one line on what the documents did not allow.
+- **Closing line:** &quot;Items to investigate, not conclusions. The verdicts are the analyst&#x27;s.&quot;
+
+**Rules:**
+- Use only what is in the attached documents, the earlier answers in this conversation and the pasted replies. Add no new numbers, except a share of pre-tax income where a reply gave only the amount.
+- A reading is a judgment, not a finding. Word it as &quot;most likely&quot; or &quot;possibly&quot;, never as a fact.
+- State nothing more strongly than the evidence behind it.
+- An item can matter without any misreporting: a weakening business is a finding too.
+- Don&#x27;t use words like fraud, manipulation or red flag in your own sentences.
+- Keep it to about one page. Merge items only when they concern the same account or the same estimate; anything else that misses the list goes under &quot;Also noted&quot;.
+
+**Numbers-track replies:**
+
+[paste them here]</pre></div></details>
+<h3>The single-prompt experiment</h3>
+<p>The same rules in one message, for one conversation. Tested once so far: it found the central contradiction at Hertz and passed the answer key, in less than half the words, but it dropped the company's own sentence linking lower depreciation to longer holding periods and buried the unchanged 18-month average in a table. Use it for a first pass; use the five prompts when the finding has to stand up to another reader.</p>
+<details><summary>Single prompt<small>One conversation, same five files, one reply.</small></summary>
+<div class="prompt"><button class="copy" data-target="ps">Copy the single prompt</button><pre id="ps">Review the attached company&#x27;s financial statements and annual reports for an analyst deciding where to spend reading time. Use the spreadsheet for the figures and the reports and releases for what the company says. Do the whole review in this one reply.
+
+**Part A, the numbers.** Calculate, in code, for each fiscal year and for the latest quarter against the same quarter a year earlier: days sales outstanding, days inventory and days payable; growth gaps (receivables against revenue, inventory and payables against cost of sales); the allowance for doubtful accounts as a share of gross receivables; gross and operating margin; accruals (net income less operating cash flow, over average assets); free cash flow against net income; the depreciation rate (depreciation over average gross depreciable assets, from the property note; for a rental or leasing company, the rental equipment separately, with purchases net of disposal proceeds as capital spending; for the latest quarter, the quarter&#x27;s depreciation from the release&#x27;s cash flow or supplementary table, annualised by days); the Beneish M-score for each pair of years; and, if the spreadsheet has an Industry sheet, the latest year&#x27;s levels beside the industry averages. If there is no cost-of-sales line, sum the direct cost lines above selling and administrative expenses and name them. If a fourth-quarter column is marked &quot;mixed basis&quot;, take that quarter from the release and say so. Then pick up to five flags: the movements most out of line with the company&#x27;s own history and the levels most out of line with the industry. Size each as a share of the latest year&#x27;s pre-tax income using these methods: a balance that outgrew its driver, the balance less what it would be at the prior year&#x27;s days; a balance that fell behind, the reverse; a margin fall, the fall times the revenue of the period it was measured over; a depreciation rate fall, the charge not taken at the prior rate; cash against earnings, net income less free cash flow; a level away from the industry, the balance less what it would be at the industry share. Give persistence: how many consecutive periods.
+
+**Part B, follow each flag.** Find the company&#x27;s explanation for it in the reports and releases, about that balance or measure; if the company says nothing, say so, and test no other sentence in its place. Check whether last year&#x27;s explanation was the same. Read the note behind the account. Test the explanation in code: the number it relies on and how much of the movement it accounts for, so it holds, partly holds or does not hold. Also, whether flagged or not: the gap between reported and adjusted earnings in each year and any item called non-recurring, one-time or unusual that appears in both years; and any change in a depreciation rate, useful life, reserve, allowance or other estimate that lifted income, with the effect the company states.
+
+**Part C, the latest report as it stands.** For each of these nine areas, judge where the policy sits (leans conservative, typical, leans aggressive, or can&#x27;t tell) and say what it rests on: revenue recognition; reserves and allowances against the write-offs or claims they cover; capitalized costs, useful lives, holding periods and residual values against the depreciation charged; impairment and goodwill and the room the tests show; off-balance-sheet items; related parties; contingencies, accrued and possible; the auditor&#x27;s report and controls; adjusted measures and whether recurring costs are treated as one-time. &quot;Leans aggressive&quot; needs a sign you can quote; thin disclosure alone is &quot;can&#x27;t tell: not enough disclosed&quot;. Where a sentence makes a claim a number can test, test it, and check it against other sentences in the same report; a report that contradicts itself is the strongest thing you can find. Two slightly different figures for the same item are a tie-out gap, not a contradiction.
+
+**Part D, the two reports compared.** Read, in both years: risk factors; legal proceedings; the auditor&#x27;s report and controls; critical estimates; revenue recognition; the receivables, inventory and reserve notes; depreciation, lives and capitalized costs; related parties; the definitions of adjusted measures in the reports and releases. Find sentences added, reworded or dropped (ignore date and number updates and plain descriptions of an acquisition; a dropped word can matter as much as a new one). Then search both reports for &quot;holding period&quot;, &quot;useful life&quot;, &quot;average&quot;, &quot;residual&quot; and &quot;salvage&quot;, list every hit with its page in each year, and for each statement of a life, holding period, average, residual value or reserve method, and each sentence giving one of those a direction, calculate in code the number it describes in both years and decide whether it still fits. A stated average inside a disclosed range is tested against the range: unchanged while the range moved does not fit as stated, unless the report says how the average is computed. List every change in estimate or policy the company discloses with its stated effect on income.
+
+**Part E, the review.** Gather every candidate from A to D: a claim whose test did not hold, partly held or could not be tested as stated; an area that leans aggressive; a flag the company did not explain; a statement that no longer fits; any reading other than ordinary. A tie-out gap or a prior-year figure the report explains as a revision is not a signal. Merge candidates about the same account or estimate, naming the parts each item absorbed and carrying the company&#x27;s own stated reason for an estimate change. Rank by strength of evidence: level 1, a sentence contradicted by the company&#x27;s own numbers or by another sentence in the same report, where sentence and number share subject, period and measure and point opposite ways, with claims contradicted within the audited statements and notes before those in the management discussion or an adjusted measure (an item about an adjusted measure is in the second group wherever its definition is printed); level 2, two or more signals on the same account in the same period; level 3, a single measure, wording change or policy that leans aggressive. Within a group, income effects by size, then balances and exposures by size, then unquantified; a gap between reported and adjusted figures is not an income effect, and an item carrying several sizes ranks on the amount its evidence concerns and says which. A level-1 item is never dropped for a lower one.
+
+**Rules.** Use only the attached documents; nothing you know about the company or anything that happened later. Every calculation in code; don&#x27;t show the code unless asked. Quote exactly, with document and page; quote the few words that carry the point, and keep the filing&#x27;s operative word when you paraphrase. Before testing a sentence, say what it claims (about what, over what period, by what measure) and test it only with a number that matches all three; if the nearest number is wider, say the claim can&#x27;t be tested as stated. Never give an amount only as a share of a small net change. A reading is a judgment, worded as &quot;most likely&quot; or &quot;possibly&quot;: ordinary, the business weakening, the reporting stretched, or can&#x27;t tell from these documents, and say what would point elsewhere. Say what each growth figure covers. Don&#x27;t use the words fraud, manipulation or red flag. Don&#x27;t estimate what the documents don&#x27;t give. No em-dashes.
+
+**Reply with no introduction, in this order:**
+
+1. **Measures:** one table, periods across the top (fiscal years, the latest quarter beside the same quarter a year earlier, the industry column where there is one); one line under it naming the cost line and any substitute.
+2. **Words searched:** a short table, one row per search word, the pages it appears on in each year&#x27;s report.
+3. **Statements of lives, holding periods, residual values and reserve methods:** one table, at most twelve rows, misfits first: Statement (a few quoted words) | Pages, last year and this year | The number, last year and this year | Still fits? (yes, no, can&#x27;t tell, rough).
+4. **Items to investigate, up to five** (fewer is fine; if nothing qualifies, say so in one line), three lines each: **Shown**, what the filings show in one or two sentences with pages, the size labelled and the one it ranks on, the evidence level and group, and the parts absorbed; **Reading**, the most likely reading and what would change it; **Next**, what to read or ask.
+5. **Also noted:** one or two lines on candidates that did not make the list and were not explained, including tie-out gaps.
+6. **Checked and explained:** one or two lines on items that looked unusual but have an ordinary explanation that held.
+7. **Not examined:** one line on what the documents did not allow.
+8. The closing line: &quot;Items to investigate, not conclusions. The verdicts are the analyst&#x27;s.&quot;
+
+Aim for two to three pages. Go longer only where leaving something out would hide something that matters.</pre></div></details>
+<h2 id="outputs">What it produces</h2><p>Two companies, the same five prompts, run the same way. Each page holds the report and the four replies behind it, exactly as the model wrote them, with nothing edited.</p><div class="cards"><div class="card"><h3><a href="outputs/home-depot.html">The Home Depot, fiscal 2025</a></h3><p>A large retailer with two recent acquisitions and no known accounting problem. Notice that nothing is called a contradiction, every reading is ordinary or can&#x27;t tell, and the report still gives an analyst five places to look.</p></div><div class="card"><h3><a href="outputs/hertz.html">Hertz Global Holdings, fiscal 2013</a></h3><p>A company that was later the subject of an SEC enforcement order over its depreciation accounting, run on the filings as they stood in March 2014 and nothing later. Notice the first item: a sentence in the audited notes set against the numbers in the same note, with the company&#x27;s own stated reason beside it.</p></div></div>
+<h2 id="results">Test results</h2>
+<p>Every run is checked the same way: each quotation is looked up in the filing and must be exact and on the cited page; each figure is checked against the filing or recomputed; shares of pre-tax income are recomputed; banned words and anything from after the filing date are flagged. Hertz has an answer key written from the SEC's order before any run, so each Hertz run is also scored by an independent agent on what the order says was visible at the time.</p>
+<table>
+<tr><th>Company</th><th>Runs</th><th>Result</th></tr>
+<tr><td>The Home Depot, fiscal 2025 (no known problem)</td><td>Chat, then four harness runs, prompts v2.22 to v2.26</td><td>Clean every time. No sentence called a contradiction; every reading ordinary or can't tell. The five flag sizes from prompt 1 were identical in all four harness runs.</td></tr>
+<tr><td>Hertz Global Holdings, fiscal 2013 (SEC order, 2018)</td><td>Two chat runs and five harness runs, v2.22 to v2.26, plus the single prompt</td><td>Fail, narrowly, at v2.22 (the unchanged 18-month holding-period average was found but not carried into the report). Pass at v2.23 and every version since, on every run, including the chat app. The central item, a note that calls rate cuts "indicative of the residual values" in a year of a $48 million loss on car sales, was found from the filings alone in every run.</td></tr>
+</table>
+<p>Across the eleven runs, roughly 500 quotations and 900 recomputed figures: no fabricated number, no misquoted sentence, no quotation off its cited page, zero uses of banned words, nothing from after the cutoff. What changed between versions was judgment, not facts: which sentence reached the report, how items were ranked, which number a claim was tested against. The full record, every run and every change, is in <a href="https://github.com/adjdunn/forensic-method/blob/main/tools/TESTS.md">TESTS.md</a>; the scorecards sit beside each run.</p>
+<p>What it has not done yet: it has run on two companies, one of them with an answer key. Three more are built and waiting for keys. No pass rate is claimed until that is done.</p>
+
+<h2 id="wrong">What it gets wrong</h2>
+<p>Everything below happened in our runs. The fixes are in the prompts now; the pattern is worth knowing anyway.</p>
+<ol>
+<li><b>It uses the wrong number to check a claim.</b> A company said a deal was "not material". The model measured it against a bigger, unrelated figure and concluded the company was wrong. Every number was real; the comparison was not, and the output looked perfect. The prompts now make it say what a sentence claims before testing it, and test only with a number that matches.</li>
+<li><b>It finds the right sentence and then doesn't use it.</b> The key sentence was on page 11 of both reports. The model's own search found it, then left it out of the answer. The prompts now make it list every match with its page before it tests anything, so a sentence found and not read is visible.</li>
+<li><b>It rewrites the company's words.</b> The filing said "optimization of fleet holding periods". The model wrote "extended holding periods". Same direction, stronger claim. Always read the quotation against the document.</li>
+<li><b>It ranks by whatever number is biggest.</b> Given three sizes for one finding it picked the largest, and put a weaker finding on top. The prompts now define what counts as the strongest evidence and make the report say which size an item ranks on.</li>
+</ol>
+<p>What did not go wrong, across hundreds of checked quotations and figures: it never invented a number and never misquoted a document. The failures were in judgment, not facts. Check the judgments.</p>
+
+<h2 id="next">What's next</h2>
+<ul>
+<li>Answer keys for Under Armour and Kraft Heinz, written from their SEC orders, so the scorecard covers four companies; then a Canadian IFRS filer, and a held-back company the method is never tuned on.</li>
+<li>Two fictional companies with planted flags and an answer key, for teaching: one resolves benign in the notes, one does not.</li>
+<li>Short videos of the prompts running. None yet.</li>
+<li>The manual: a sourced reference for AI-assisted forensic accounting, public when its last chapter is rewritten for this prompt set.</li>
+</ul>
+
+<footer>
+<p>Built by Aaron Dunn, CFA, <a href="https://wiresift.com">WireSift Research</a>. First presented to CFA Society Vancouver, December 2026. The prompts and the harness are open source under the repository's licence; the companies named are test subjects, chosen because their filings and, for one, the SEC's findings are public. Items the method raises are things to investigate, not conclusions.</p>
+<p>Prompts v2.26. Page built 8 October 2026 from the repository by <code>docs/build.py</code>.</p>
+</footer></main><script>
+document.querySelectorAll('button.copy').forEach(function(b){b.addEventListener('click',function(){
+  var t=document.getElementById(b.dataset.target).textContent;
+  navigator.clipboard.writeText(t).then(function(){var o=b.textContent;b.textContent='Copied';setTimeout(function(){b.textContent=o},1500)});
+})});
+</script></body></html>
