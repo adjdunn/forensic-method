@@ -41,4 +41,8 @@ Where it stands is in [`tools/TESTS.md`](tools/TESTS.md), under "Harness scoreca
 - Nothing the method raises is a conclusion. Items to investigate; the verdicts are the analyst's.
 - No em-dashes anywhere in the package.
 
+## Licence
+
+MIT, for everything in this repository: the prompts, the harness, the test packs and the written material. Use it, adapt it, build on it; keep the copyright notice. See [LICENSE](LICENSE).
+
 Built by Aaron Dunn, CFA, [WireSift Research](https://wiresift.com). First presented to CFA Society Vancouver, December 2026.

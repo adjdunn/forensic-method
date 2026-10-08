@@ -277,7 +277,7 @@ def build_index() -> str:
 """)
     parts.append(f"""
 <footer>
-<p>Built by Aaron Dunn, CFA, <a href="https://wiresift.com">WireSift Research</a>. First presented to CFA Society Vancouver, December 2026. The prompts and the harness are open source under the repository's licence; the companies named are test subjects, chosen because their filings and, for one, the SEC's findings are public. Items the method raises are things to investigate, not conclusions.</p>
+<p>Built by Aaron Dunn, CFA, <a href="https://wiresift.com">WireSift Research</a>. First presented to CFA Society Vancouver, December 2026. Everything here is open source under the <a href="https://github.com/adjdunn/forensic-method/blob/main/LICENSE">MIT licence</a>: use it, adapt it, keep the notice; the companies named are test subjects, chosen because their filings and, for one, the SEC's findings are public. Items the method raises are things to investigate, not conclusions.</p>
 <p>Prompts {VERSION}. Page built {today} from the repository by <code>docs/build.py</code>.</p>
 </footer>""")
     return page("Forensic Method", "".join(parts))
