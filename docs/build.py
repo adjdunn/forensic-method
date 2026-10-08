@@ -196,6 +196,25 @@ def build_index() -> str:
     return page("Forensic Method", "".join(parts))
 
 
+def tidy_lists(text: str) -> str:
+    """The model's markdown: nested bullets indented two spaces, and lists starting right under a bold title line.
+    Python-Markdown wants four-space nesting and a blank line before a list."""
+    out, prev = [], ""
+    for line in text.split("\n"):
+        stripped = line.lstrip(" ")
+        indent = len(line) - len(stripped)
+        is_item = stripped.startswith(("- ", "* ")) or re.match(r"\d+\. ", stripped) is not None
+        prev_stripped = prev.lstrip(" ")
+        prev_item = prev_stripped.startswith(("- ", "* ")) or re.match(r"\d+\. ", prev_stripped) is not None
+        if indent and (is_item or prev_item or prev.startswith(" ")):
+            line = "    " * ((indent + 1) // 2) + stripped  # two spaces become four, four become eight
+        if is_item and not indent and prev.strip() and not prev_item and not prev.startswith(" "):
+            out.append("")  # a blank line before a list that starts under a title
+        out.append(line)
+        prev = line
+    return "\n".join(out)
+
+
 def build_output(slug: str, title: str, run: str, notice: str) -> str:
     run_dir = ROOT / run
     record = json.loads((run_dir / "run.json").read_text(encoding="utf-8"))
@@ -207,7 +226,7 @@ def build_output(slug: str, title: str, run: str, notice: str) -> str:
     body = [head]
     for f, label in REPLY_FILES:
         text = (run_dir / f).read_text(encoding="utf-8").replace("—", "-")  # the package carries no em-dashes; a blank cell the model drew as one becomes a hyphen
-        text = re.sub(r"(?m)^  (?=[-*] |\S)", "    ", text)  # the model indents nested bullets by two spaces; Markdown wants four
+        text = tidy_lists(text)
         body.append(f'<section class="reply" id="{f[:-3]}"><h2>{html.escape(label)}</h2>{md(text)}</section>')
     body.append(f'<footer><p><a href="../index.html">Back to Forensic Method</a>. Run folder in the repository: <code>{run}</code>.</p></footer>')
     return page(f"{title}: Forensic Method sample output", "".join(body), nav)
