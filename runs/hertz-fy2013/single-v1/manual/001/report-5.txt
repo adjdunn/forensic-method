@@ -1,0 +1,307 @@
+Hertz Global Holdings, Inc.: review of the FY2012 and
+FY2013 reports and statements
+Prepared for an analyst deciding where to spend reading time. Sources: Form 10-K for FY2012
+(ﬁled 2013-03-04), Form 10-K for FY2013 (ﬁled 2014-03-19), the Q4 2012 and Q4 2013 results
+releases, and the statements spreadsheet (as originally reported). All amounts USD millions unless
+stated.
+1. Measures
+Q4 2013 and Q4 2012 are taken from the 2013 results release because the spreadsheet marks Q4
+2013 “mixed basis”; Q4 2012 is on the release’s revised basis.
+Measure FY2011 FY2012 FY2013 Q4
+2012
+Q4 2013 Industry
+(Transportation)
+Days sales outstanding 71.1 76.3 51.3 74.5 54.4 42 (11.5% of sales)
+Days inventory (on substitute cost
+line)
+4.7 5.6 4.1 5.4 4.1 inventory/sales 0.5%
+vs company 0.9%
+Days payable (on substitute cost
+line)
+50.6 52.5 42.7 51.1 42.8 payables/sales 4.5% vs
+company 9.0%
+Receivables growth less revenue
+growth
++9.4
+pts
++8.0 −39.2 n/a −29.5 (Q4
+on Q4)
+Inventory growth less cost growth −9.1 +18.5 −31.9 n/a −27.9
+Payables growth less cost growth −11.2 +4.0 −22.3 n/a −18.7
+Allowance / gross receivables 1.24% 1.31%
+(1.53% as
+revised)
+2.00% 1.53% 2.00%
+Gross margin 22.0% 23.0% 23.2% 22.1% 18.5%
+Operating margin (before
+interest, other)
+13.0% 12.5% 13.7% 7.8% 9.9% 5.9% (pre-tax
+operating)
+Pre-tax margin 3.9% 5.0% 6.2% −1.9% 2.4%
+Accruals (NI less CFO) / avg
+assets
+−11.6% −12.1% −13.6% −11.8%
+ann.
+−11.9%
+ann.
+Free cash ﬂow (CFO less ﬂeet and
+P&E spending net of disposal
+proceeds)
+401.5 54.8 314.5 918.0 1,313.2
+Net income less free cash ﬂow −205.8 +188.3 +31.7 −954.8 −1,313.8
+Depreciation rate, revenue
+earning equipment (charge
+before disposal adjustment / avg
+gross)
+16.2% 15.3% 14.3% 13.7%* 13.4%*
+Depreciation rate, cars only,
+before disposal adjustment
+n/a 16.7% 15.4%
+Depreciation rate, other (rental)
+equipment, before disposal
+adjustment
+n/a 9.4% 9.6%
+Depreciation rate, property and
+equipment
+7.6% 7.3% 7.9%
+Measure FY2011 FY2012 FY2013 Q4
+2012
+Q4 2013 Industry
+(Transportation)
+Capital spending (net of disposal
+proceeds) / depreciation
+0.93 1.19 1.24 1.4
+Beneish M-score (pair of years) −2.73 −3.25
+*Quarter rate uses the release’s Table 7 depreciation (after disposal adjustment) annualised by days
+(92).
+Cost line: the statements have no cost-of-sales line; the substitute is “Direct operating” plus
+“Depreciation of revenue earning equipment and lease charges” (FY2013: 5,752.0 + 2,525.5).
+Growth ﬁgures cover the full year on year (FY2011 uses FY2010 balances); the Q4 column
+compares the 31 December 2013 balance with 31 December 2012 and Q4 revenue with Q4
+revenue. Accruals and the M-score are dominated by ﬂeet depreciation sitting in operating cash
+ﬂow, so they carry little signal here. Beneish 2013 components: DSRI 0.67, GMI 0.99, AQI 0.93, SGI
+1.19, DEPI 0.94, SGAI 0.91, LVGI 0.99, TATA −0.13.
+2. Words searched
+Word 2012 10-K pages 2013 10-K pages
+holding period 11, 42, 44, 61, 81 11, 42, 45, 53, 66, 91, 126
+useful life / useful lives 89 / 46, 80, 81, 83, 85, 86, 88 99, 146 / 46, 83, 90, 93, 94, 96, 98
+average 30 pages, incl. 11, 42, 45, 46, 81, 104 to
+112
+38 pages, incl. 11, 42, 43, 46, 92, 117
+to 124
+residual 1, 11, 22 to 24, 40 to 42, 44, 53 to 55, 58
+to 60, 63, 81, 113
+1, 11, 23 to 25, 40 to 43, 45, 54, 61 to
+64, 68, 91, 126
+salvage none none
+3. Statements of lives, holding periods, residual values and reserve
+methods
+Misﬁts ﬁrst.
+Statement Pages
+2012 /
+2013
+Number 2012 / 2013 Still ﬁts?
+“cumulative eﬀect of the
+reduction in rates was [also]
+indicative of the [strong] residual
+values experienced in the U.S.”
+113 / 126
+(also 42)
+U.S. disposal result: gain $100.6M / loss
+$48.2M; rate cuts $139.4M / $44.2M
+no
+“approximate average holding
+period for a rental car was
+eighteen months in the United
+States”
+11 / 11 18 / 18 months, while the range moved from
+“4 to 28 months” to “4 to 36 months” and no
+method for the average is given
+no
+“Cars 4 to 28 months” (2012,
+“Useful lives”) vs “Cars 4 to 36
+months” (2013, “Holding
+periods”)
+81 / 91 top of range +8 months; eﬀect on income
+not stated
+no (changed,
+unquantiﬁed)
+“longer holding periods and the
+impact of recalls” (reason U.S.
+ﬂeet costs rose)
+n/a / 53 average holding period 18 / 18 months
+(p.11)
+rough
+Statement Pages
+2012 /
+2013
+Number 2012 / 2013 Still ﬁts?
+“monthly per vehicle depreciation
+costs decreased” (U.S.)
+42 / 42 per U.S. car per month, before disposal
+result $242 to $217 (−10%); after disposal
+result $219 to $226 (+3%)
+partly (holds before
+disposals, not after)
+“Other intangible assets 3 to 20
+years” became “3 to 10 years”;
+the same report says ﬁnite lives
+“range from two to ﬁfteen years”
+and Donlen lives of 16 and 20
+years
+81, 83, 89 /
+91, 93, 99
+three diﬀerent ranges in the 2013 report no (tie-out gap)
+“We expect this percentage
+[program cars] to continue to
+decrease”
+22, 41 /
+dropped
+program cars 30% of purchases in 2012 and
+30% in 2013 (2013 p.23)
+no; sentence
+dropped
+“fourteen/thirteen months in our
+international operations”
+11 / 11 14 to 13; “accelerated rotation strategy”
+(p.43)
+yes
+“the average holding period for
+non-program vehicles is longer
+than program vehicles”
+42 / 42 non-program share U.S. 95% to 91%,
+average unchanged
+yes
+“Other equipment 24 to 108
+months”
+81 / 91 equipment rate before disposal result 9.4%
+to 9.6%
+can’t tell (residuals
+not given)
+Buildings “3 to 50” became “5 to
+50”; software “1 to 15” became
+“1 to 10” years
+81 / 91 P&E depreciation rate 7.3% to 7.9% yes (shorter lives,
+higher rate)
+Allowance “based on our
+historical experience and our
+judgment”
+81 / 90 allowance / write-oﬀs 1.00x to 0.76x;
+allowance / gross receivables 1.3% to 2.0%
+yes
+4. Items to investigate
+(1) Depreciation rates and residual values of the car ﬂeet
+Shown. In 2013 depreciation rates were cut again (“net decreases of $44.2 million, $139.4 million
+and $26.7 million” in 2013, 2012, 2011; 2013 10-K p.126 and p.42) while disposals of U.S. cars
+swung from a $100.6M net gain to “net losses of $48.2 million”, and MD&A attributes higher U.S.
+depreciation to “a deterioration in the used vehicle residual values” (p.54). The same note
+nonetheless keeps the sentence that the rate reductions were “also indicative of the residual values
+experienced in the U.S. for the years ended December 31, 2013” (p.126); in 2012 it read “indicative
+of the strong residual values” (2012 p.113). The car holding-period range was lengthened from “4
+to 28 months” (2012 p.81) to “4 to 36 months” (2013 p.91) with no eﬀect stated, and a further
+$40.0M impairment was taken on about 20,000 cars subleased to Advantage (p.146). Size: the
+income eﬀect ranks on the company’s stated 2013 rate reduction, $44.2M net of the $5.0M
+international increase = $39.6M, 6.0% of 2013 pre-tax income; the computed per-car charge not
+taken at the 2012 gross rate is about $139M (U.S.), 21% of pre-tax income; exposure: $48.2M loss
+plus $40.0M impairment, 13.3%; cumulative U.S. rate reductions 2011 to 2013 $210.3M.
+Persistence: the rate fell three consecutive years (16.2%, 15.3%, 14.3%). Level 1, audited notes
+(sentence and numbers in the same Note 8). Absorbed: the Part A rate ﬂag; the explanation test
+(the stated reasons “car sales channel diversiﬁcation, acceleration of our retail sales expansion”
+should raise residuals, yet the realised result was a loss, so the explanation does not hold); Part C
+capitalized costs (leans aggressive); Part D rows 1 to 5 above and the dropped 2012 sentence “With
+fewer program cars in our ﬂeet, we have an increased risk that the market value of a car at the
+time of its disposition will be less than its estimated residual value” (2012 p.41, absent in 2013).
+Reading. Most likely the reporting is stretched on this estimate; possibly the business weakening
+(used-car prices fell in late 2013 and the company says it carried “extra ﬂeet”, release p.2). A 2014
+disposal result near break-even and a stated eﬀect for the holding-period change would point back
+to ordinary.
+Next. Ask for depreciation rate changes by quarter in 2013, the gain or loss per car by quarter, the
+average age and holding period of Dollar Thrifty versus Hertz cars, and why the 36-month range
+was adopted.
+(2) Adjusted measures treat recurring and ﬂeet-related charges as one-time
+Shown. Adjusted pre-tax income is “income before income taxes plus certain non-cash purchase
+accounting charges, debt-related charges … and certain one-time charges and nonoperational
+items” (p.50), yet restructuring charges have been recorded every year from 2007 ($568.4M
+through 2012, 2012 p.124, plus $77.0M in 2013, p.44); “litigation accrual” is excluded in both years
+($14.0M in 2012, $5.7M in 2013, release p.5 note g); the $44.0M “Impairment charges and other”
+on rental cars is excluded (p.50); the assumed tax rate is 35% against an actual 47.8% (p.57); and
+“free cash ﬂow” adds “net worldwide car rental ﬂeet ﬁnancing” of $133.9M (release Table 7), so
+without ﬂeet borrowing it is $314.8M not $448.7M. The 2012 deﬁnition said “non-cash debt
+charges”; 2013 drops “non-cash” (2012 p.50 / 2013 p.50). Size: the gap from reported to adjusted
+pre-tax income is $490.1M in 2013 (74% of pre-tax income) and $450.9M in 2012 (102%), not an
+income eﬀect; the item ranks on restructuring and related charges excluded, $98.8M, 14.9% of pre-
+tax income. Level 1, second group (an adjusted measure: “one-time” contradicted by seven
+consecutive years of the charge). Absorbed: the Part B reported-versus-adjusted test; Part C
+adjusted measures (leans aggressive).
+Reading. Most likely ordinary presentation for the sector, but the measures overstate recurring
+earnings; this would change if restructuring ceased in 2014.
+Next. Rebuild adjusted pre-tax income adding back only purchase accounting and debt-cost
+amortisation.
+(3) Out-of-period errors of $46.3M found in Q4 2013, with controls declared eﬀective
+Shown. “we identiﬁed certain out of period errors totaling $46.3 million, of which $34.7 million
+($21.0 million, net of tax) related to” 2012, 2011 and prior (p.83): vendor incentives booked against
+marketing instead of car cost, “charges related to certain assets and allowances for doubtful
+accounts in Brazil”, “under accruals”, and “certain reclassiﬁcations of $23.1 million” (p.87). The
+remaining $11.6M was moved between 2013 quarters (Q3 2013 pre-tax cut $7.0M, p.87).
+Management and PwC conclude internal control was “eﬀective as of December 31, 2013” (p.159,
+p.74); an Oracle general ledger was implemented in Q3 2013 (p.159); a securities class action
+covers disclosures from “February 25, 2013 through November 4, 2013” (p.138). Size: 2013 full-
+year pre-tax income is $34.7M (5.2%) higher than if the prior-period errors had been booked in
+2013; the vendor-incentive correction lowered the 2013 nine-month depreciation line by $22.1M
+and raised SG&A by $21.2M. Level 2 (errors in the allowance and ﬂeet-cost accounts, the same
+accounts as items 1 and 4, in the same period). Absorbed: Part C auditor and controls (can’t tell);
+the Brazil allowance understatement ($3.6M 2012, $6.2M 2011).
+Reading. Can’t tell from these documents; possibly reporting stretched if further errors surface in
+2014; ordinary if none do.
+Next. Read the 2014 10-Qs for further revisions and any change in the Item 9A conclusion.
+(4) Concession-fee litigation (Sobel) and legal reserves
+Shown. The court “granted, in part, the plaintiﬀs’ motion for partial summary judgment with
+respect to restitution and granted the plaintiﬀs’ motion for class certiﬁcation” and “A judgment -
+which could potentially exceed $40.0 million - has still not been issued”, while “We continue to
+believe the outcome of this case will not be material” (p.137); whether a reserve exists for this case
+is not stated, and the only litigation accrual quantiﬁed is the $5.7M excluded from adjusted results.
+In 2012 the case was described as stayed for mediation with no amount (2012 p.122). Size:
+exposure $40M plus, 6.0% of pre-tax income; unquantiﬁed accrual. Level 3. Absorbed: Part C
+contingencies (leans aggressive on this case).
+Reading. Possibly ordinary (mediation in March 2014); would change if a judgment is entered
+above the accrual.
+Next. Ask what is accrued for Sobel and read the Q1 2014 10-Q.
+(5) Accrued liabilities fell while revenue grew 19%, unexplained
+Shown. Accrued liabilities 1,163.1 (revised) to 1,104.7 (p.75), 12.9% to 10.3% of revenue, yet the
+cash ﬂow statement shows accrued liabilities as a $25.2M source (p.80), a gap of $83.6M between
+the two statements that the report does not explain; the company says nothing about the balance
+beyond “timing of our payments” (p.64). Size: the balance less what it would be at the prior year’s
+share of revenue is $284M, 43% of pre-tax income (a balance exposure, not an income eﬀect).
+Persistence: the share fell two consecutive years. Level 3, unexplained.
+Reading. Can’t tell; possibly ordinary (ﬂeet-purchase accruals move through investing), possibly
+under-accrual given the “under accruals” cited in the error correction (p.87).
+Next. Ask for the components of accrued liabilities at both dates.
+5. Also noted
+DSO fell from 76 to 51 days: $260M of the $367M fall is manufacturer receivables for car sales
+(“Sales of revenue earning equipment included in receivables” 617.3 to 357.3, p.81), operating
+receivables actually rose $34.7M, and $72M is unexplained; no income eﬀect. Payables at 9.0% of
+sales sit at twice the industry 4.5% ($483M above, 73% of pre-tax income) but include $289.1M of
+ﬂeet purchases and fell 10 days in 2013. Q4 2013 gross margin fell 3.5 points ($90M, 13.6% of pre-
+tax income); the release’s “$0.12” per-share impact of pricing and “extra ﬂeet” (p.2) is about $86M
+pre-tax, so it largely holds. Tie-out gaps: provision for doubtful accounts 45.9 (cash ﬂow, p.80) vs
+41.9 charged to expense (Schedule II, p.158); 2012 gains on P&E disposals $6.3M (2012 p.81) vs
+$8.3M (cash ﬂow and 2013 p.91); three ranges for intangible lives; Q4 2012 operating cash ﬂow
+600.5 (release) vs 578.5 implied by the revised annual and nine-month ﬁgures. Reworded:
+multiemployer plans “have underfunded liabilities” (2012 p.25) became “could have signiﬁcant
+underfunded liabilities” (2013 p.26); dropped: “We are not a party to any long-term car supply
+arrangements with manufacturers” (2012 p.22).
+6. Checked and explained
+The public liability reserve grew 4.7% against car-rental revenue up 21.6%, but its share of car-
+rental revenue (3.99%) is back at the 2011 level (4.06%) after Dollar Thrifty’s reserve arrived with
+43 days of revenue in 2012; at the 2011 share the shortfall is $5M. Prepaid and other assets
++$228M is mostly the China Auto Rental notes and shares ($151M Level 3, p.146). Q4 2012 SG&A
+of $331.1M carried $126.4M of acquisition costs, so the Q4 operating-margin rise is not operating.
+The allowance for doubtful accounts rose to 2.0% of gross receivables with the provision roughly
+equal to write-oﬀs (41.9 vs 40.3). The spreadsheet’s mixed-basis Q4 2013 pre-tax of 50.7 diﬀers
+from the release’s 62.3 by exactly the $11.6M moved into earlier 2013 quarters.
+7. Not examined
+No receivables ageing, no claims development table for the $347.7M public liability reserve, no
+gross ﬂeet by segment, no goodwill or trade-name headroom (ﬁve reporting units, $3,330M trade
+name, “did not exceed their estimated fair values”, p.94 and p.96), no quarterly balance sheet in
+the release, and the proxy statement with related-party detail is not attached.
+Items to investigate, not conclusions. The verdicts are the analyst’s.

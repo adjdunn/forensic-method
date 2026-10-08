@@ -23,8 +23,38 @@
    "prompt": 1,
    "file": "single/review.md",
    "track": "single",
-   "reply_file": "report-5.md",
-   "status": "not run"
+   "reply_file": "report-5.txt",
+   "status": "checked",
+   "check": {
+    "reply": "C:\\Users\\aaron\\Dev\\forensic-method\\runs\\hertz-fy2013\\single-v1\\manual\\001\\report-5.txt",
+    "pack": "hertz-fy2013",
+    "words": 2527,
+    "pages_est": 5.6,
+    "quotes": {
+     "total": 60,
+     "exact_on_page": 23,
+     "exact_page_differs": 7,
+     "exact_no_page": 20,
+     "other_document": 2,
+     "not_found": 8
+    },
+    "figures": {
+     "found": 144,
+     "computed_percent": 4,
+     "computed_table": 0,
+     "not_found": 16
+    },
+    "arithmetic": {
+     "pre_tax_income": 663.1,
+     "checked": 0,
+     "mismatches": 0
+    },
+    "banned": {
+     "words": {},
+     "em_dashes": 0
+    },
+    "post_cutoff": 0
+   }
   }
  ],
  "finished": "2026-10-08T09:53:51",
