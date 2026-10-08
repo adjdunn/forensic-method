@@ -46,13 +46,67 @@ footer{margin-top:60px;padding-top:18px;border-top:1px solid var(--rule);font:14
 .reply pre{white-space:pre-wrap;font-size:14px}
 nav.top{font:14px/1.5 "Segoe UI",system-ui,sans-serif;color:var(--muted);margin-bottom:24px}
 nav.top a{margin-right:14px}
+
+.hero{background:#0f1b2d;color:#e9eef5;margin:0 -16px;padding:48px 16px 40px}
+.hero .in{max-width:760px;margin:0 auto}
+.hero .kicker{font:600 12px/1 "Segoe UI",system-ui,sans-serif;letter-spacing:.12em;text-transform:uppercase;color:#7fb3e6;margin-bottom:14px}
+.hero h1{color:#fff;font-size:40px;margin-bottom:12px}
+.hero p{color:#c9d4e2;font-size:18px;max-width:640px}
+.hero .pill{display:inline-block;font:13px/1 "Segoe UI",system-ui,sans-serif;color:#e9eef5;border:1px solid #37527a;border-radius:999px;padding:7px 12px;margin:6px 0 22px}
+.hero .btns a{display:inline-block;font:600 15px/1 "Segoe UI",system-ui,sans-serif;text-decoration:none;border-radius:6px;padding:12px 16px;margin:0 10px 10px 0}
+.hero .btns a.primary{background:#4f8fd6;color:#fff}
+.hero .btns a.ghost{color:#e9eef5;border:1px solid #37527a}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:28px 0 8px}
+@media (max-width:640px){.stats{grid-template-columns:1fr 1fr}}
+.stat{border:1px solid var(--rule);border-radius:6px;padding:14px 14px 12px;background:var(--band)}
+.stat b{display:block;font:700 30px/1 "Segoe UI",system-ui,sans-serif;color:var(--navy);margin-bottom:6px}
+.stat span{font:14px/1.35 "Segoe UI",system-ui,sans-serif;color:var(--muted)}
+.flow{background:#0f1b2d;color:#e9eef5;border-radius:10px;padding:26px 22px 18px;margin:18px 0 8px;font-family:"Segoe UI",system-ui,sans-serif}
+.flow .kicker{font:600 12px/1 "Segoe UI",system-ui,sans-serif;letter-spacing:.12em;text-transform:uppercase;color:#7fb3e6;margin-bottom:10px}
+.flow h3{color:#fff;margin:0 0 20px;font-size:21px;line-height:1.25}
+.flow .grid{display:grid;grid-template-columns:150px 28px 1fr 28px 170px;gap:10px;align-items:stretch}
+.flow .col{display:flex;flex-direction:column;gap:10px}
+.flow .lab{font:600 11px/1 "Segoe UI",system-ui,sans-serif;letter-spacing:.1em;text-transform:uppercase;color:#7fb3e6;margin-bottom:2px}
+.flow .in{background:#162741;border:1px solid #2b456b;border-radius:6px;padding:9px 10px;font-size:13px;line-height:1.3}
+.flow .in b{display:block;color:#fff;font-size:13px}
+.flow .in span{color:#9fb0c6}
+.flow .note{font-size:12px;color:#9fb0c6;line-height:1.3;margin-top:4px}
+.flow .arrow{display:flex;flex-direction:column;align-items:center;justify-content:center;color:#7fb3e6;font-size:12px;text-align:center;line-height:1.2}
+.flow .arrow i{font-style:normal;font-size:22px;line-height:1;display:block}
+.flow .track{border:1px solid #2b456b;border-radius:8px;padding:12px;background:#132238}
+.flow .track .lab{margin-bottom:8px}
+.flow .cards{display:grid;grid-template-columns:1fr 24px 1fr;gap:8px;align-items:stretch}
+.flow .card{background:#1b2f4d;border:1px solid #35527c;border-radius:6px;padding:10px 11px;font-size:13px;line-height:1.3}
+.flow .card b{display:block;color:#fff;margin-bottom:3px}
+.flow .card b em{font-style:normal;color:#7fb3e6;margin-right:6px}
+.flow .card span{color:#c9d4e2}
+.flow .card .arrow{height:100%}
+.flow .final{background:#4f8fd6;color:#fff;border-radius:8px;padding:16px 14px;display:flex;flex-direction:column;justify-content:center;font-size:13px;line-height:1.35}
+.flow .final b{display:block;font-size:15px;margin-bottom:6px}
+.flow .final b em{font-style:normal;color:#dbe9f8;margin-right:6px}
+.flow .cap{text-align:center;color:#c9d4e2;font-size:14px;margin:18px 0 0}
+@media (max-width:700px){.flow .grid{grid-template-columns:1fr}.flow .arrow{flex-direction:row;gap:8px;padding:4px 0}.flow .arrow i{transform:rotate(90deg)}.flow .cards{grid-template-columns:1fr}.flow .card .arrow i{transform:rotate(90deg)}}
+.finding{border-left:4px solid var(--accent);background:var(--band);padding:14px 18px;margin:16px 0 8px;font-size:16px}
+.finding .who{font:600 13px/1 "Segoe UI",system-ui,sans-serif;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;margin-bottom:8px}
+.finding ul{margin:6px 0 8px}
+.finding li{margin:3px 0}
+.finding .more{font:14px "Segoe UI",system-ui,sans-serif}
 </style></head>
 <body><main>
+<div class="hero"><div class="in">
+<div class="kicker">Open source, in testing</div>
 <h1>Forensic Method</h1>
-<p class="meta">Five prompts that run a forensic accounting review of a public company in a chat assistant, and the test harness that checks what they find. Open source, in testing. Prompts v2.26, page built 8 October 2026.</p>
-<span class="status">In testing: two companies so far, every output checked against the filings. No pass rate is claimed yet.</span>
-<p class="lede">You attach a company's filings to Claude or ChatGPT, paste five short prompts in order, and finish with a one-page list of items worth an analyst's time, each with a page reference, a size, and a reading of what is most likely going on. The method is public: the prompts are below, the test results are below them, and the code that checks them is in <a href="https://github.com/adjdunn/forensic-method">the repository</a>.</p>
-<p><a href="#run">How to run it</a> &middot; <a href="#prompts">The prompts</a> &middot; <a href="#outputs">What it produces</a> &middot; <a href="#results">Test results</a> &middot; <a href="#wrong">What it gets wrong</a></p>
+<p>Five prompts that run a forensic accounting review of a public company's filings in Claude or ChatGPT, and the test harness that checks every quotation, figure and claim they produce.</p>
+<span class="pill">Prompts v2.26 &middot; two companies tested &middot; page built 8 October 2026</span>
+<div class="btns"><a class="primary" href="#prompts">Get the prompts</a><a class="ghost" href="#outputs">See a sample output</a><a class="ghost" href="https://github.com/adjdunn/forensic-method">Repository</a></div>
+</div></div>
+<div class="stats">
+<div class="stat"><b>13</b><span>runs, every one checked against the filings</span></div>
+<div class="stat"><b>0</b><span>fabricated numbers or misquoted sentences found</span></div>
+<div class="stat"><b>0</b><span>claims taken from outside the attached documents</span></div>
+<div class="stat"><b>7 of 7</b><span>runs since v2.23 passed the answer key on the enforcement case</span></div>
+</div>
+<p class="lede">You attach a company's filings, paste five short prompts in order across two conversations, and finish with a one-page list of items worth an analyst's time, each with a page reference, a size, and a reading of what is most likely going on. The prompts are below with copy buttons; the outputs and the test results are below them; the code that checks them is in the repository.</p>
 
 <h2 id="idea">The idea</h2>
 <ul>
@@ -64,10 +118,30 @@ nav.top a{margin-right:14px}
 </ul>
 
 <h2 id="run">How to run it</h2>
-<div class="steps">
-<div class="step"><b>1. Attach five files</b><p>The statements as a spreadsheet, the last two annual reports, and the last two fourth-quarter results releases. Public documents only.</p></div>
-<div class="step"><b>2. Two conversations</b><p>Numbers track: prompts 1 and 2 in one chat. Text track: prompts 3 and 4 in a second chat with the same files. They run blind to each other on purpose.</p></div>
-<div class="step"><b>3. The report</b><p>Prompt 5 in the text chat, with the two numbers-track replies attached. One page: up to five items ranked by strength of evidence.</p></div>
+<div class="flow">
+<div class="kicker">The workflow</div>
+<h3>A multi-step workflow: five prompts, two separate AI conversations, one final report.</h3>
+<div class="grid">
+<div class="col"><div class="lab">Inputs</div>
+<div class="in"><b>Annual report</b><span>this year and last</span></div>
+<div class="in"><b>Quarterly release</b><span>this year and last</span></div>
+<div class="in"><b>Financial statements</b><span>as a spreadsheet</span></div>
+<div class="note">Attached once to each conversation</div></div>
+<div class="arrow"><i>&rarr;</i>attach</div>
+<div class="col">
+<div class="track"><div class="lab">Numbers &middot; conversation 1</div><div class="cards">
+<div class="card"><b><em>1</em>Scan the numbers</b><span>Flags up to five movements, each with a size</span></div>
+<div class="arrow"><i>&rarr;</i></div>
+<div class="card"><b><em>2</em>Follow the flags</b><span>Tests the company's explanation for each flag</span></div></div></div>
+<div class="track"><div class="lab">Text &middot; conversation 2</div><div class="cards">
+<div class="card"><b><em>3</em>Read the footnotes</b><span>Reads nine areas of this year's notes and tests every claim</span></div>
+<div class="arrow"><i>&rarr;</i></div>
+<div class="card"><b><em>4</em>Compare the footnotes</b><span>Compares with last year's notes: what changed, what stayed the same</span></div></div></div>
+</div>
+<div class="arrow"><i>&rarr;</i>attach the replies</div>
+<div class="final"><b><em>5</em>Final report</b>Merges both tracks. Ranks on strength of evidence, then size. Adds nothing new.</div>
+</div>
+<p class="cap">A single-prompt version is available and simpler to run, but less thorough.</p>
 </div>
 <p>Works in Claude or ChatGPT on a plan that accepts file uploads and runs code. One prompt per message; read each reply before sending the next. About 45 minutes end to end. The full user guide, with what each file must contain and how to read the results, is <a href="https://claude.ai/code/artifact/22260383-1e93-444d-8f9d-6acacf4f4886">here</a>.</p>
 <h2 id="prompts">The prompts</h2><p>Each prompt is a page or less. Expand one to read it; Copy takes the whole thing. The headers tell you which conversation and which files.</p>
@@ -342,7 +416,20 @@ Within a level: first the items whose size is an effect on reported income, larg
 8. The closing line: &quot;Items to investigate, not conclusions. The verdicts are the analyst&#x27;s.&quot;
 
 Aim for two to three pages. Go longer only where leaving something out would hide something that matters.</pre></div></details>
-<h2 id="outputs">What it produces</h2><p>Two companies, the same five prompts, run the same way. Each page holds the report and the four replies behind it, exactly as the model wrote them, with nothing edited.</p><div class="cards"><div class="card"><h3><a href="outputs/home-depot.html">The Home Depot, fiscal 2025</a></h3><p>A large retailer with two recent acquisitions and no known accounting problem. Notice that nothing is called a contradiction, every reading is ordinary or can&#x27;t tell, and the report still gives an analyst five places to look.</p></div><div class="card"><h3><a href="outputs/hertz.html">Hertz Global Holdings, fiscal 2013</a></h3><p>A company that was later the subject of an SEC enforcement order over its depreciation accounting, run on the filings as they stood in March 2014 and nothing later. Notice the first item: a sentence in the audited notes set against the numbers in the same note, with the company&#x27;s own stated reason beside it.</p></div></div>
+<h2 id="outputs">What it produces</h2>
+<p>Here is the first item from the Hertz report, as the model wrote it. This is what a finding looks like: the company's own sentence, the number in the same note that contradicts it, the pages, the size, and a reading that is a judgment, not a verdict.</p>
+<div class="finding"><div class="who">Hertz Global Holdings, fiscal 2013 &middot; item 1 of 5 &middot; level 1, audited notes</div>
+<b>Car depreciation: rates cut while the same note shows losses on car sales</b>
+<ul>
+<li>Note 8 says the U.S. rate cuts ($44.2m) were "indicative of the residual values experienced". The same note shows a $48.2m U.S. loss on sales "due to declining residual values" (p.126).</li>
+<li>The word "strong" was dropped from that sentence this year (FY2012 p.113).</li>
+<li>The car holding-period range was extended from 4 to 28 months to 4 to 36 months and relabelled from "useful lives" to "holding periods" (p.81 to p.91). It is not presented as a change in estimate.</li>
+<li>The U.S. average holding period stays at "eighteen months" (p.11, both years). Yet the MD&amp;A newly cites "longer holding periods" (p.53).</li>
+<li>Size: $152.1m of depreciation not charged at the 2012 rate, 22.9% of pre-tax income. Ranks on 22.9%.</li>
+</ul>
+<p class="more">Reading: most likely the reporting is stretched (one track), possibly (the other). The SEC's 2018 order against the company turned on the same depreciation estimates. The prompts never saw the order; the run used nothing filed after March 2014. <a href="outputs/hertz.html">Read the whole report and the four replies behind it.</a></p>
+</div>
+<p>Two companies, the same five prompts, run the same way. Each page holds the report and the four replies behind it, exactly as the model wrote them, with nothing edited.</p><div class="cards"><div class="card"><h3><a href="outputs/home-depot.html">The Home Depot, fiscal 2025</a></h3><p>A large retailer with two recent acquisitions and no known accounting problem. Notice that nothing is called a contradiction, every reading is ordinary or can&#x27;t tell, and the report still gives an analyst five places to look.</p></div><div class="card"><h3><a href="outputs/hertz.html">Hertz Global Holdings, fiscal 2013</a></h3><p>A company that was later the subject of an SEC enforcement order over its depreciation accounting, run on the filings as they stood in March 2014 and nothing later. Notice the first item: a sentence in the audited notes set against the numbers in the same note, with the company&#x27;s own stated reason beside it.</p></div></div>
 <h2 id="results">Test results</h2>
 <p>Every run is checked the same way: each quotation is looked up in the filing and must be exact and on the cited page; each figure is checked against the filing or recomputed; shares of pre-tax income are recomputed; banned words and anything from after the filing date are flagged. Hertz has an answer key written from the SEC's order before any run, so each Hertz run is also scored by an independent agent on what the order says was visible at the time.</p>
 <table>
