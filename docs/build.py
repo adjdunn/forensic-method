@@ -207,6 +207,7 @@ def build_output(slug: str, title: str, run: str, notice: str) -> str:
     body = [head]
     for f, label in REPLY_FILES:
         text = (run_dir / f).read_text(encoding="utf-8").replace("—", "-")  # the package carries no em-dashes; a blank cell the model drew as one becomes a hyphen
+        text = re.sub(r"(?m)^  (?=[-*] |\S)", "    ", text)  # the model indents nested bullets by two spaces; Markdown wants four
         body.append(f'<section class="reply" id="{f[:-3]}"><h2>{html.escape(label)}</h2>{md(text)}</section>')
     body.append(f'<footer><p><a href="../index.html">Back to Forensic Method</a>. Run folder in the repository: <code>{run}</code>.</p></footer>')
     return page(f"{title}: Forensic Method sample output", "".join(body), nav)
